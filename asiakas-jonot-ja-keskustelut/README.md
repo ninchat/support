@@ -6,7 +6,7 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 
 {% page-ref page="../organisaatio/" %}
 
-## Jonosta poimiminen
+## Asiakkaan nappaaminen jonosta
 
 ![](../.gitbook/assets/queue%20%281%29.png)
 
@@ -85,7 +85,7 @@ Overall stuff from starting, chatting and ending audiences.
 
 ### Valmisviestin luominen
 
-{% page-ref page="../kayttajatilin-luominen/" %}
+{% page-ref page="../kayttajatilin-luominen/kayttajaasetukset.md" %}
 
 ### Valmisviestin käyttäminen
 

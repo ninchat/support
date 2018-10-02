@@ -28,7 +28,7 @@ Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  
     <tr>
       <td style="text-align:left">
         <img src=".gitbook/assets/mod1.png" alt/>Piilota viesti</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">Piilota kyseinen viesti muilta vierailta</td>
     </tr>
     <tr>
@@ -39,8 +39,8 @@ Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/mod3.png" alt/>Vaienna käyttäjä joksikin aikaa</td>
-      <td style="text-align:left"></td>
+        <img src=".gitbook/assets/mod3.png" alt/>Vaienna käyttäjä x ajaksi</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">Käyttäjä hiljennetään valituksi ajaksi
         <br />(tämän jälkeen hän saa taas kirjoittaa)</td>
     </tr>
@@ -77,6 +77,8 @@ Klikkaa kanavan nimeä yläpalkissa nähdäksesi kanavavalikko.
 | Poista automaattinen viestien piilotus | Uusien käyttäjien viestit näytetään automaattisesti.  |
 | Sulje kanava | Kanava ja keskustelu suljetaan |
 
+
+
 ## Kanavan asetukset
 
 Klikkaa kanavan nimeä ja valitse listalta Kanavan asetukset.
@@ -92,4 +94,8 @@ Klikkaa kanavan nimeä ja valitse listalta Kanavan asetukset.
 Julkinen upotettava ryhmäkeskustelukanava voidaan ajastaa asiakasjonon tavoin.
 
 ![](.gitbook/assets/channel-settings-3.png)
+
+### OHJE JA ESIMERKKI RYHMÄKESKUSTELUN SULKEMISESTA
+
+
 

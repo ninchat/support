@@ -49,7 +49,7 @@ Kanavakutsulinkit ovat voimassa 14 vuorokautta niiden luomishetkestä. Tämän j
 
 ### Käyttäjien hallinta organisaatiossa
 
-![](../.gitbook/assets/organization-members%20%281%29.png)
+![](../.gitbook/assets/organization-members%20%282%29.png)
 
 ![](../.gitbook/assets/organization-member.png)
 
