@@ -1,3 +1,7 @@
+---
+description: Jonot ja asiakaskeskustelun työkalut
+---
+
 # Asiakasjonot ja -keskustelut
 
 ## Jonon käsittelijät
@@ -33,7 +37,7 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet tämän palkin sinisenä, vaikka olisit esim. toisessa organisaatiossa kuin kyseinen jono.
 {% endhint %}
 
-{% page-ref page="../agentin-nakymat.md" %}
+{% page-ref page="../kayttoliittyman-esittely.md" %}
 
 ## Asiakaskeskustelunäkymä
 

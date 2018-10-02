@@ -1,3 +1,7 @@
+---
+description: Salasanan palauttamisohjeet
+---
+
 # Unohtunut salasana
 
 1. Mene osoitteeseen [https://ninchat.com/app](https://ninchat.com/app)

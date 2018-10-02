@@ -1,3 +1,7 @@
+---
+description: Kirjanmerkit ja pikakuvakkeet
+---
+
 # Pikakuvakkeet Ninchatiin
 
 ## Google Chrome -selain {#google-chrome-selain}

@@ -2,7 +2,7 @@
 description: Ninchat.com-näkymän esittely
 ---
 
-# Agentin näkymät
+# Käyttöliittymän esittely
 
 ## Yleisnäkymä
 
@@ -84,7 +84,7 @@ Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoit
 
 ## Organisaation asetukset
 
-{% page-ref page="agentin-nakymat.md" %}
+{% page-ref page="kayttoliittyman-esittely.md" %}
 
 
 

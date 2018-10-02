@@ -1,3 +1,7 @@
+---
+description: Ryhmäkeskustelut ja moderointi
+---
+
 # Julkiset ryhmäkeskustelut
 
 ## Keskustelun moderointi

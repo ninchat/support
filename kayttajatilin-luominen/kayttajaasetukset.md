@@ -104,7 +104,7 @@ Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai 
 
 ### Valmisviestin käyttäminen
 
-{% page-ref page="../asiakas-jonot-ja-keskustelut/" %}
+{% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
 
 
