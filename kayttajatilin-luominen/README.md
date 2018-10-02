@@ -52,14 +52,14 @@ Kirjaudu sisään sähköpostiosoitteellasi osoitteessa [https://ninchat.com/app
 
 ## Sisäänkirjautuminen
 
-Kirjaudu sisään sähköpostiosoitteellasi osoitteessa [https://ninchat.com/app](https://ninchat.com/app)​
+#### Kirjaudu sisään sähköpostiosoitteellasi ja salasanalla osoitteessa:
+
+#### [https://ninchat.com/app](https://ninchat.com/app)​
 
 {% hint style="info" %}
 Mikäli haluat käyttää Ninchatia suomeksi, mene osoitteeseen [https://ninchat.com/app​?lang=fi](https://ninchat.com/app​?lang=fi)   
-Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Pikakuvakkeet Ninchatiin"
+Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Yleisiä vinkkejä: Pikakuvakkeet Ninchatiin"
 {% endhint %}
-
-{% page-ref page="../yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md" %}
 
 
 
@@ -72,4 +72,37 @@ Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien
 ## Unohtunut salasana
 
 {% page-ref page="../yleisia-vinkkeja/unohtunut-salasana.md" %}
+
+
+
+## Ongelmatilanteet sisäänkirjautumisessa
+
+### Käyttöliittymä rikki?
+
+Näetkö sisään kirjauduttuasi seuraavanlaisen näkymän - sivupalkkioikealla?
+
+![](../.gitbook/assets/old-ui.png)
+
+Sinulle on kytketty vahingossa vanhentunut käyttöliittymä, joka ei enää toimi kunnolla ja poistuu käytöstä. Siirry seuraavalla linkillä käyttäjäasetuksiisi: [https://ninchat.com/app/?lang=fi\#/x/settings/view](https://ninchat.com/app/?lang=fi#/x/settings/view)
+
+Ruksaa Näkymä-asetussivulla kohta "Käytä uutta käyttöliittymää / Use new UI" ja Tallenna.  
+Näkymä pitäisi nyt korjaantua.
+
+![](../.gitbook/assets/user-settings-view-old-ui.png)
+
+### Outo näkymä?
+
+Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
+
+![](../.gitbook/assets/welcome-screen%20%283%29.png)
+
+Olet todennäköisesti tullut Ninchatiin ilman kutsulinkkiä ja olet tilanteessa, jossa et kuulu mihinkään organisaatioon tai tiimikanavalle.
+
+Etsi sähköpostistasi Ninchat Invite -viesti ja klikkaa sieltä kutsulinkkiä \(ks. ohje ylempänä\), tai pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
+
+### Kutsulinkki ei toimi?
+
+Kutsulinkki ei toimi ja saat virheilmoituksen yrittäessäsi hyväksyä kutsun?
+
+Kutsu on todennäköisesti vanhentunut. Kutsulinkit ovat voimassa 14 vuorokautta. Pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
 

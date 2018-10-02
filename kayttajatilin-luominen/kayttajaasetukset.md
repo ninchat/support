@@ -83,7 +83,7 @@ Voit muuttaa Ninchatin näkymää tietyiltä osin.
 
 Huom. Älä vaihda "uuden käyttöliittymän" tilaa, jotta näkymä toimisi.
 
-![](../.gitbook/assets/user-settings-view.png)
+![](../.gitbook/assets/user-settings-view%20%281%29.png)
 
 
 

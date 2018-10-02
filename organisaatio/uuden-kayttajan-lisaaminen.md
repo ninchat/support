@@ -43,9 +43,15 @@ Kanavakutsulinkit ovat voimassa 14 vuorokautta niiden luomishetkestä. Tämän j
 
 
 
-![](https://lh3.googleusercontent.com/NlKKH8Ya4C9cQojX9xxu-wf9yBnKfPCSfUSLieYZcaRzy2BJR1VYkWFbSnl7IIXskUS6CUjrQ5a0tTACQ5-_pSKOQ1MPLCSdQes97DnwD1m8Y5Jwoo4SEMwyMKdLCkDXeVgYmA76gPs)
+![Lis&#xE4;&#xE4; agentti organisaatioon](../.gitbook/assets/add-to-organization.png)
+
+
 
 ### Käyttäjien hallinta organisaatiossa
 
+![](../.gitbook/assets/organization-members%20%281%29.png)
 
+![](../.gitbook/assets/organization-member.png)
+
+![Jonot n&#xE4;kyviss&#xE4; sivupalkissa](../.gitbook/assets/organization-queues-sidebar.png)
 

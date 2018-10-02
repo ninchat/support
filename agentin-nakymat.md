@@ -74,7 +74,7 @@ Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoit
 | 6\) Asiakas-keskutelut | Avoimet asiakaskeskustelut, jotka on poimittu jonoista |
 | 7\) Yksityis-keskustelut | Sisäiset kahdenväliset yksityiskeskustelut tiimiläisten kanssa |
 
-## Keskustelutoiminnot
+## Yksityiskeskustelut
 
 ![Yksityiskeskustelun aloittaminen](.gitbook/assets/team-start-private%20%281%29.png)
 

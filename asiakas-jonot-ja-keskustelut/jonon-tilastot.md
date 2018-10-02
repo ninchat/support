@@ -72,7 +72,7 @@ Keskimääräinen arvosana liikkuu välillä 0,0 - 1,0.
 
 ## Päiväkohtaiset tilastot
 
-![](../.gitbook/assets/stats5.png)
+![P&#xE4;ivitt&#xE4;iset tilastot ja keskusteluhistoriat](../.gitbook/assets/queue-stats-daily.png)
 
 Päiväkohtaisista tilastoista näet käydyt keskustelut ja voit katsoa keskustelulogeja.
 
