@@ -2,7 +2,9 @@
 
 ## Google Chrome -selain {#google-chrome-selain}
 
-Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläriville kirjanmerkin, tai tekemällä Ninchatille oman käynnistyspikakuvakkeen Windowsin työpöydälle.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNV26ZBWc4tpGlvMlCe%2F-LNnhgBvz6Dxy2fsuoId%2F-LNnWx60GNL4nb177S3e%2FChrome-app.png?alt=media&token=5f9760ea-ff9c-4fa2-81f8-223747366f64)Kirjanmerkin ja sovelluspikakuvakkeen lisääminen Chromessa
+Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläriville kirjanmerkin, tai tekemällä Ninchatille oman käynnistyspikakuvakkeen Windowsin työpöydälle.
+
+![Kirjanmerkin ja sovelluspikakuvakkeen lis&#xE4;&#xE4;minen Chromessa](../.gitbook/assets/chrome-app.png)
 
 #### Kirjanmerkki {#kirjanmerkki}
 
@@ -35,7 +37,7 @@ Voit kiinnittää Ninchat-välilehden \(tabin\) yläriville, jolloin se pysyy ai
 2. Valitse Kiinnitä välilehti / Pin tab.
 3. Välilehti näkyy nyt pienempänä mutta pysyy aina auki valmiina.
 
-![Ninchat-v&#xE4;lilehden kiinnitt&#xE4;minen Firefoxissa](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNV26ZBWc4tpGlvMlCe%2F-LNnhgBvz6Dxy2fsuoId%2F-LNncFBSX8zEvRldt9fr%2FFirefox.png?alt=media&token=71252609-022f-4149-9a91-cbafcd68720b)
+![](../.gitbook/assets/firefox.png)
 
 ## Microsoft Edge -selain {#microsoft-edge-selain}
 

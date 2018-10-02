@@ -2,7 +2,6 @@
 
 * [Aloitus](README.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
-  * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Pikakuvakkeet Ninchatiin](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
   * [Unohtunut salasana](yleisia-vinkkeja/unohtunut-salasana.md)
 * [Käyttäjätilin luominen](kayttajatilin-luominen/README.md)
