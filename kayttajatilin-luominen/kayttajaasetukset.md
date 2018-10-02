@@ -5,7 +5,7 @@
 Kun olet kirjautunut Ninchatiin, klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.  
 Klikkaa valikosta "Asetukset ja profiili"
 
-![](.gitbook/assets/user-menu%20%281%29.png)
+![](../.gitbook/assets/user-menu%20%281%29.png)
 
 
 
@@ -18,7 +18,7 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 3. Lisää itsellesi käyttäjäkuva \(jpg- tai png-kuvatiedosto\)
 4. Tallenna
 
-![](.gitbook/assets/user-settings-profile%20%281%29.png)
+![](../.gitbook/assets/user-settings-profile%20%281%29.png)
 
 
 
@@ -28,7 +28,7 @@ Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan, tarvittaessa lisät�
 
 Tallenna lopuksi muutokset.
 
-![](.gitbook/assets/user-settings-authentication.png)
+![](../.gitbook/assets/user-settings-authentication.png)
 
 
 
@@ -47,9 +47,9 @@ Salli **Ääni- ja työpöytäilmoitukset** ainakin seuraavista ilmoitustyypeist
 
 Tallenna muutokset.
 
-![](.gitbook/assets/user-settings-notifications.png)
+![](../.gitbook/assets/user-settings-notifications.png)
 
-![Esimerkki ty&#xF6;p&#xF6;yt&#xE4;ilmoituksesta; asiakas jonossa](.gitbook/assets/desktop-notification.png)
+![Esimerkki ty&#xF6;p&#xF6;yt&#xE4;ilmoituksesta; asiakas jonossa](../.gitbook/assets/desktop-notification.png)
 
 {% hint style="info" %}
 Työpöytäilmoitukset toimivat Chrome, Firefox, Safari- ja Edge-selaimilla.   
@@ -69,13 +69,13 @@ Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut k
 3. Ilmoitukset-välilehdellä korostussana-ilmoituksista voi asettaa hälytyksen myös sähköpostiin.
 4. Tallenna muutokset.
 
-![Korostussanojen asettaminen](.gitbook/assets/user-settings-highlights%20%281%29.png)
+![Korostussanojen asettaminen](../.gitbook/assets/user-settings-highlights%20%281%29.png)
 
 #### **Korostussanojen näkyminen keskustelussa**
 
 Korostetut sanat näkyvät sinisellä taustavärillä ja saat ilmoituksen aina tällaisen tullessa.
 
-![](.gitbook/assets/highlights%20%281%29.png)
+![](../.gitbook/assets/highlights%20%281%29.png)
 
 ## Näkymävalinnat
 
@@ -83,7 +83,7 @@ Voit muuttaa Ninchatin näkymää tietyiltä osin.
 
 Huom. Älä vaihda "uuden käyttöliittymän" tilaa, jotta näkymä toimisi.
 
-![](.gitbook/assets/user-settings-view.png)
+![](../.gitbook/assets/user-settings-view.png)
 
 
 
@@ -91,7 +91,7 @@ Huom. Älä vaihda "uuden käyttöliittymän" tilaa, jotta näkymä toimisi.
 
 Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai tarkkojen asioiden kanssa. Voit asiakas-chatissa valita valmiiksi asetettuja viestejä yhdellä klikkauksella keskustelun sivupalkista.
 
-![](.gitbook/assets/user-settings-canned-msgs.png)
+![](../.gitbook/assets/user-settings-canned-msgs.png)
 
 ### Uuden valmisviestin luominen
 
@@ -104,7 +104,7 @@ Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai 
 
 ### Valmisviestin käyttäminen
 
-{% page-ref page="asiakas-jonot-ja-keskustelut.md" %}
+{% page-ref page="../asiakas-jonot-ja-keskustelut/" %}
 
 
 
