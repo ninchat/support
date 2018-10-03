@@ -99,8 +99,8 @@ Valmisviestit näkyvät asiakaskeskustelun sivupalkissa. Voit valita viestin kli
 
 #### **Näppäimistö**
 
-Valmisviestejä voi käyttää myös näppäimistöltä hyväksikäyttäen niiden avainsanoja. Esimerkki: Olet asettanut valmisviestin: Terve \(avain\): Tervetuloa keskusteluun! Miten voin auttaa? \(viesti\)  
-Voit kirjoittaa kirjoituskenttään: **/Terve ja klikkaa välilyöntinäppäintä**, jolloin valmisviesti ilmestyy kenttään.  
+Valmisviestejä voi käyttää myös näppäimistöltä hyväksikäyttäen niiden avainsanoja. Esimerkki: Olet asettanut valmisviestin: _Terve_ \(avain\): _Tervetuloa keskusteluun!_ Miten voin auttaa? \(viesti\)  
+Voit kirjoittaa kirjoituskenttään: _/Terve_ ja klikkaa _välilyöntinäppäintä_, jolloin valmisviesti ilmestyy kenttään.  
 Valmisviestit toimivat näppäimistöltä myös muissa kuin asiakaskeskusteluissa.
 
 ## Videopuhelu
