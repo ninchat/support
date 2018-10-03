@@ -21,3 +21,8 @@
 
 * [Testi](organisaation-operaattorit/testi.md)
 
+## Asiakasneuvojat
+
+* [Untitled](asiakasneuvojat/untitled.md)
+* [AspaTestiSivu](asiakasneuvojat/aspatestisivu.md)
+
