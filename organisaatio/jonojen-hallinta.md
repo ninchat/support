@@ -14,6 +14,10 @@ Jonot-välilehdellä voit asettaa ja poistaa agenteilla jononkäsittelyoikeuksia
 
 ![](../.gitbook/assets/organization-queues.png)
 
+Klikkaamalla jonon nimeä pääset muokkaaman kyseisen jonon asetuksia ja aikatauluja.
+
+{% page-ref page="../asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
+
 ## Merkintöjen \(tagit\) hallinta
 
 Tagit ovat helppo ja nopea tapa agenteille luokitella asiakaskeskusteluja.
@@ -27,7 +31,7 @@ Organisaation operaattorit voivat lisätä, muokata ja poistaa tageja.
 3. Lisää kategoriaan alimerkintä.
 4. Lisää ylimmän luokan merkintä \(kategoria\).
 
-## Sites
+## Sites-konfiguraatiot
 
 Sites-välilehdellä voidaan muokata asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen tekstejä, tyylejä ja asetuksia.
 

@@ -7,6 +7,7 @@
   * [Pikakuvakkeet Ninchatiin](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
 * [Käyttäjätilin luominen](kayttajatilin-luominen/README.md)
   * [Käyttäjäasetukset](kayttajatilin-luominen/kayttajaasetukset.md)
+  * [Tunnuksen poistaminen](kayttajatilin-luominen/tunnuksen-poistaminen.md)
 * [Käyttöliittymän esittely](kayttoliittyman-esittely.md)
 * [Asiakasjonot ja -keskustelut](asiakasjonot-ja-keskustelut/README.md)
   * [Jonon asetukset](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
@@ -23,6 +24,5 @@
 
 ## Asiakasneuvojat
 
-* [Untitled](asiakasneuvojat/untitled.md)
 * [AspaTestiSivu](asiakasneuvojat/aspatestisivu.md)
 

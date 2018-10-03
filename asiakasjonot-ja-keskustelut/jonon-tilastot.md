@@ -5,12 +5,18 @@ description: Asiakasjonon statistiikat (Organisaation operaattori)
 # Jonon tilastot
 
 Siirry asiakasjonon tilastoihin klikkaamalla jonon nimeä ja valitse Jonon tilastot / Queue statistics.   
-\(Vaatii organisaation operaattori -oikeudet\)
+\(Vaatii organisaation operaattori -oikeudet.\)
+
+Tilastot toimivat miltei reaaliajassa, ne päivittyvät viimeistään tunnin sisällä. Voit tarkistella keskusteluhistoriaa, tageja, käyttäjätyytyväisyyttä, kyselyvastauksia ja metatietoja.
+
+Tiedot ja keskusteluhistoriat voidaan ladata ja tallentaa CSV-tiedostona, tai ne voidaan automaattisesti viedä asiakkaan CRM-järjestelmään \(kysy meiltä lisätietoa\).
+
+Poistuaksesi tilastoista, klikkaa Jonon tilastot -otsikkoa ja valitse Sulje.
 
 Tilastosivu koostuu osioista:
 
 * Valinnat
-* Kuvaajat
+* Graafiset kuvaajat
 * Asiakaspalvelijakohtaiset tilastot
 * Päiväkohtaiset tilastot ja keskustelujen tarkastelu
 
@@ -45,9 +51,7 @@ Tilastosivu koostuu osioista:
       </td>
     </tr>
   </tbody>
-</table>Poistuaksesi tilastoista, klikkaa Jonon tilastot -otsikkoa ja valitse Sulje.
-
-## Kuvaajat
+</table>## Graafiset kuvaajat
 
 ![Tilastokuvaajat](../.gitbook/assets/stats3%20%283%29.png)
 
@@ -72,11 +76,15 @@ Keskimääräinen arvosana liikkuu välillä 0,0 - 1,0.
 
 ## Päiväkohtaiset tilastot
 
-![P&#xE4;ivitt&#xE4;iset tilastot ja keskusteluhistoriat](../.gitbook/assets/queue-stats-daily.png)
+![P&#xE4;iv&#xE4;kohtaiset tilastot](../.gitbook/assets/stats-daily.png)
 
 Päiväkohtaisista tilastoista näet käydyt keskustelut ja voit katsoa keskustelulogeja.
 
 Klikkaa päiväriviä avataksesi näkymään kyseisen päivän keskustelut. Keskusteluhistoria-linkkiä klikkaamalla pääset lukemaan kyseisen keskustelun.
+
+{% hint style="info" %}
+![](../.gitbook/assets/rating-1.png) Negatiivinen palaute ei tunnu mukavalta mutta on monesti kaikkein arvokkain. Lukemalla negatiivisen palautteen aiheuttaneen keskustelun pääset helposti ongelman jäljille.
+{% endhint %}
 
 ##  Keskusteluhistoria
 

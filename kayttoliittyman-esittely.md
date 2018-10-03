@@ -4,6 +4,11 @@ description: Ninchat.com-näkymän esittely
 
 # Käyttöliittymän esittely
 
+{% hint style="info" %}
+Jos haluat käyttää agentin näkymää suomen kielellä, käytä osoittena   
+[https://ninchat.com/app?lang=fi](https://ninchat.com/app?lang=fi)
+{% endhint %}
+
 ## Yleisnäkymä
 
 Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskustelun toiminnot
