@@ -16,9 +16,9 @@ Käytä mieluiten Google Chrome- tai Mozilla Firefox -web-selainohjelmia.
 
 Kutsulinkit vanhenevat 14 vuorokauden jälkeen. Mikäli kutsulinkki ei toimi, tai et saanut kutsua, pyydä uusi linkki Ninchatin henkilöstöltä tai Ninchat-kanavasi operaattorikäyttäjältä.
 
-![Kutsu-s&#xE4;hk&#xF6;posti](../.gitbook/assets/11.png)
+![](../.gitbook/assets/invite-gmail.png)
 
-![Kutsun hyv&#xE4;ksyminen](../.gitbook/assets/12.png)
+![](../.gitbook/assets/invite-accept.png)
 
 ### \*\*\*\* {#create-your-account}
 
@@ -36,7 +36,7 @@ Jatka klikkaamalla **"Sign up"** -nappia.
 Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan löydy sanakirjasta. Käytä aina eri salanaa jokaisessa palvelussa.
 {% endhint %}
 
-![Uudella tunnuksella kirjautuminen](../.gitbook/assets/13.png)
+![](../.gitbook/assets/invite-accept-signup.png)
 
 ###  {#verifying-account}
 
@@ -45,10 +45,10 @@ Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan l
 1. **Saat sähköpostiisi vahvistusviestin Ninchat-tunnuksen luomisesta.**
 2. **Vahvista tunnuksesi klikkaamalla viestissä "Click to verify" -nappia.**
 
-Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi!  
+![](../.gitbook/assets/verify.png)
+
+Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi!   
 Kirjaudu sisään sähköpostiosoitteellasi osoitteessa [https://ninchat.com/app](https://ninchat.com/app)​
-
-
 
 ## Sisäänkirjautuminen
 
