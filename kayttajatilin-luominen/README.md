@@ -61,19 +61,13 @@ Mikäli haluat käyttää Ninchatia suomeksi, mene osoitteeseen [https://ninchat
 Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Yleisiä vinkkejä: Pikakuvakkeet Ninchatiin"
 {% endhint %}
 
-
-
 ## Käyttäjätilin asetukset
 
 {% page-ref page="kayttajaasetukset.md" %}
 
-
-
 ## Unohtunut salasana
 
 {% page-ref page="../yleisia-vinkkeja/unohtunut-salasana.md" %}
-
-
 
 ## Ongelmatilanteet sisäänkirjautumisessa
 
@@ -90,7 +84,7 @@ Näkymä pitäisi nyt korjaantua.
 
 ![](../.gitbook/assets/user-settings-view-old-ui.png)
 
-### Outo näkymä?
+### Tiimikanavia ei näy?
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 
