@@ -58,7 +58,7 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
       <td style="text-align:left">Käyttäjä ei ole paikalla; näkee hänelle tulleet viestit myöhemmin</td>
     </tr>
   </tbody>
-</table>## Sidebar \(sivupalkki\)
+</table>## Sidebar \(keskustelulista\)
 
 Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoitukset uusista tapahtumissa eri keskusteluissa.
 
