@@ -15,7 +15,7 @@ Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
 
 {% page-ref page="asiakasjonot-ja-keskustelut/" %}
 
-{% page-ref page="organisaatio/uuden-kayttajan-lisaaminen.md" %}
+{% page-ref page="organisaatio/uuden-agentin-lisaaminen.md" %}
 
-{% page-ref page="julkiset-ryhmaekeskustelut.md" %}
+{% page-ref page="julkiset-ryhmakeskustelukanavat.md" %}
 

@@ -11,7 +11,7 @@ Siirry asiakasjonon asetuksiin klikkaamalla jonon nimeä ja valitse Jonon asetuk
 
 ![Asiakasjonon asetukset - Yleiset](../.gitbook/assets/queue-settings.png)
 
-Jonon yleisissä asetuksissa voit:
+Jonon yleisissä asetuksissa voit muokata seuraavia asioita:
 
 * Voit muuttaa jonon nimen
 * Määrittää kuka voi lisätä tiedostoja
@@ -57,6 +57,10 @@ Merkinnät on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoj
 ## Jonon tilastot
 
 {% page-ref page="jonon-tilastot.md" %}
+
+## Jonojen ja jononkäsittelijöiden hallinta
+
+{% page-ref page="../organisaatio/jonojen-hallinta.md" %}
 
 
 

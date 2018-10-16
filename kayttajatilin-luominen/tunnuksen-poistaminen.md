@@ -10,8 +10,13 @@ Organisaation operaattori voi poistaa käyttäjän organisaatiosta ja asiakasjon
 
 ## Tilin poistaminen käyttäjäasetuksista
 
-Voit tarvittaessa poistaa käyttäjätilisi Ninchatista. **Huomioi, että tällöin kaikki tietosi poistetaan, eikä niitä voida enää palauttaa!**
+Voit halutessasi poistaa käyttäjätilisi Ninchatista poistamalla kaikki kirjautumis-identiteetit.
 
 1. Klikkaa nuolta käyttäjänimesi vieressä, sivupalkin alaosassa.
-2. Valitse 
+2. Valitse Asetukset ja profiili / Settings and profile
+3. Siirry Kirjautuminen / Authentication -välilehdelle
+4. Klikkaa Poista-kuvaketta \(roskakori\) jokaisen identiteetin kohdalla ja poista identiteetit
+5. Kirjaudu ulos palvelusta
+
+
 

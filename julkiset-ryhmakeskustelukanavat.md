@@ -2,7 +2,7 @@
 description: Ryhmäkeskustelut ja moderointi
 ---
 
-# Julkiset ryhmäkeskustelut
+# Julkiset ryhmäkeskustelukanavat
 
 ## Keskustelun moderointi
 
@@ -81,23 +81,9 @@ Klikkaa kanavan nimeä yläpalkissa nähdäksesi kanavavalikko.
 | Poista automaattinen viestien piilotus | Uusien käyttäjien viestit näytetään automaattisesti.  |
 | Sulje kanava | Kanava ja keskustelu suljetaan |
 
-
-
 ## Kanavan asetukset
 
-Klikkaa kanavan nimeä ja valitse listalta Kanavan asetukset.
-
-### Kanavan yleiset asetukset
-
-![](.gitbook/assets/channel-settings-1.png)
-
-![](.gitbook/assets/channel-settings-2.png)
-
-### Kanavan aikataulu
-
-Julkinen upotettava ryhmäkeskustelukanava voidaan ajastaa asiakasjonon tavoin.
-
-![](.gitbook/assets/channel-settings-3.png)
+{% page-ref page="tiimikanavat/kanavan-asetukset-1.md" %}
 
 ### OHJE JA ESIMERKKI RYHMÄKESKUSTELUN SULKEMISESTA
 

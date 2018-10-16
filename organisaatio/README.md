@@ -14,7 +14,7 @@ description: Organisaation hallinta
 | **Kanavan operaattori** | Hallitsee yksittäistä tiimikanavaa tai julkista keskustelukanavaa. Pääsee muuttamaan kanavan asetuksia. Voi kutsua kanavalle uusia agentteja. |
 | **Kanavan moderaattori** | Voi moderoida yksittäisen kanavan keskustelua ja viestejä sekä poistaa käyttäjiä ko. kanavalta. Ei näe kanavan asetuksia. |
 
-{% page-ref page="uuden-kayttajan-lisaaminen.md" %}
+{% page-ref page="uuden-agentin-lisaaminen.md" %}
 
 {% page-ref page="jonojen-hallinta.md" %}
 

@@ -4,6 +4,8 @@ description: 'Organisaatioasetukset: jonojen hallinta'
 
 # Jonojen hallinta
 
+Jonojen hallinta tapahtuu organisaatioasetusten kautta. Klikkaa organisaation tai kanavan nimeä yläpalkissa ja valitse listalta "Organisaatioasetukset / Organization settings".
+
 ## Jono-agenttien hallinta
 
 ![](../.gitbook/assets/organization-members.png)
@@ -16,9 +18,11 @@ Jonot-välilehdellä voit asettaa ja poistaa agenteilla jononkäsittelyoikeuksia
 
 Klikkaamalla jonon nimeä pääset muokkaaman kyseisen jonon asetuksia ja aikatauluja.
 
+### Jonon asetukset
+
 {% page-ref page="../asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
 
-## Merkintöjen \(tagit\) hallinta
+## Keskustelumerkintöjen hallinta \(Tägit\) 
 
 Tagit ovat helppo ja nopea tapa agenteille luokitella asiakaskeskusteluja.
 
