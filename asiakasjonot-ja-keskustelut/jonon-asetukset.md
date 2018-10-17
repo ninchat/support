@@ -50,9 +50,9 @@ Muista tallentaa muutokset.
 
 ![Asiakasjonon asetukset - P&#xE4;ivitt&#xE4;inen aikataulu](../.gitbook/assets/queue-settings-schdule.png)
 
-## Merkinnät
+## Merkinnät \(Muistiinpanot\)
 
-Merkinnät \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
+Muistiinpanot \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
 Pyydä lisätietoa Ninchatin henkilöstöltä.
 
 ## Jonon tilastot
@@ -61,7 +61,7 @@ Pyydä lisätietoa Ninchatin henkilöstöltä.
 
 ## Jonojen ja jononkäsittelijöiden hallinta
 
-{% page-ref page="../organisaatio/jonojen-hallinta.md" %}
+{% page-ref page="../organisaatio/asiakasjonojen-hallinta.md" %}
 
 
 

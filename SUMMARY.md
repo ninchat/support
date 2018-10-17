@@ -9,7 +9,6 @@
 * [Käyttäjätili](kayttajatili/README.md)
   * [Käyttäjätilin luominen](kayttajatili/kayttajatilin-luominen.md)
   * [Käyttäjäasetukset](kayttajatili/kayttajaasetukset.md)
-  * [Agentin työkalut](kayttajatili/agentin-tyokalut.md)
   * [Unohtunut salasana](kayttajatili/unohtunut-salasana.md)
   * [Tunnuksen poistaminen](kayttajatili/tunnuksen-poistaminen.md)
 * [Tiimikanavat](tiimikanavat/README.md)
@@ -18,18 +17,21 @@
   * [Yksityiskeskustelut](tiimikanavat/yksityiskeskustelut.md)
 * [Organisaatio](organisaatio/README.md)
   * [Uuden agentin lisääminen](organisaatio/uuden-agentin-lisaaminen.md)
-  * [Jonojen hallinta](organisaatio/jonojen-hallinta.md)
+  * [Asiakasjonojen hallinta](organisaatio/asiakasjonojen-hallinta.md)
 * [Asiakasjonot ja -keskustelut](asiakasjonot-ja-keskustelut/README.md)
   * [Jonon asetukset](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
-* [Julkiset ryhmäkeskustelukanavat](julkiset-ryhmakeskustelukanavat.md)
-* [Asiakkaan näkymä](asiakkaan-naekymae.md)
+  * [Asiakkaan näkymä](asiakasjonot-ja-keskustelut/asiakkaan-naekymae.md)
+  * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
+* [Julkiset ryhmäkeskustelukanavat](julkiset-ryhmakeskustelukanavat/README.md)
+  * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelukanavat/ryhmaekeskustelun-upottaminen-web-sivustolle.md)
+  * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelukanavat/ryhmaekeskustelun-asiakasnaekymae.md)
 
-## Organisaation operaattorit
+## Operaattorit
 
-* [Testi](organisaation-operaattorit/testi.md)
+* [Näin pääset alkuun](operaattorit/testi.md)
 
 ## Asiakasneuvojat
 
-* [AspaTestiSivu](asiakasneuvojat/aspatestisivu.md)
+* [Näin pääset alkuun](asiakasneuvojat/aspatestisivu.md)
 

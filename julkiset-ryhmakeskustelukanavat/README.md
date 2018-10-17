@@ -4,17 +4,19 @@ description: Ryhmäkeskustelut ja moderointi
 
 # Julkiset ryhmäkeskustelukanavat
 
+Julkiset ryhmäkeskustelut ovat tiimikanavan tapaisia, yleensä asiakkaan web-sivustolle upotettavia kanavia. Upotetuissa ryhmäkeskusteluissa ei ole yksityiskeskusteluja, mutta ne voivat toimia yhtä aikaa samalla sivulla yksityisen asiakaspalvelu-chatin \(asiakaspalvelujono\) rinnalla.
+
 ## Keskustelun moderointi
 
 Julkista keskustelua voidaan ohjata ja moderoida seuraavista paikoista: Keskustelutyökalut, Kanavavalikko, Jäsenlistan käyttäjävalikko, Kanavan asetukset.
 
-Moderointitykalut näkyvät kun agentille on kyseisellä kanavalla annettu moderointioikeudet ![](.gitbook/assets/moderator.png). Kanavan operaattoriagentti voi jakaa muille agenteille moderointioikeuksia.
+Moderointitykalut näkyvät kun agentille on kyseisellä kanavalla annettu moderointioikeudet ![](../.gitbook/assets/moderator.png). Kanavan operaattoriagentti voi jakaa muille agenteille moderointioikeuksia.
 
 {% hint style="info" %}
-Kun sinulle on annettu moderointioikudet, päivitä sivu, jotta muutos astuu voimaan.
+Kun sinulle on annettu moderointioikeudet, päivitä sivu, jotta muutos astuu voimaan.
 {% endhint %}
 
-![](.gitbook/assets/channel-embed-moderation.png)
+![](../.gitbook/assets/channel-embed-moderation.png)
 
 ### Keskustelutyökalut ja käyttäjävalikko
 
@@ -23,7 +25,7 @@ Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Kuvake</th>
+      <th style="text-align:left">Kommenttityökalut</th>
       <th style="text-align:left">Käyttäjävalikko</th>
       <th style="text-align:left">Toiminta</th>
     </tr>
@@ -31,32 +33,32 @@ Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/mod1.png" alt/>Piilota viesti</td>
+        <img src="../.gitbook/assets/mod1.png" alt/>Piilota viesti</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">Piilota kyseinen viesti muilta vierailta</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/mod2.png" alt/>Vaienna käyttäjä</td>
+        <img src="../.gitbook/assets/mod2.png" alt/>Vaienna käyttäjä</td>
       <td style="text-align:left">Vaienna</td>
       <td style="text-align:left">Käyttäjä hiljennetään toistaiseksi</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/mod3.png" alt/>Vaienna käyttäjä x ajaksi</td>
+        <img src="../.gitbook/assets/mod3.png" alt/>Vaienna käyttäjä x ajaksi</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">Käyttäjä hiljennetään valituksi ajaksi
         <br />(tämän jälkeen hän saa taas kirjoittaa)</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/mod4.png" alt/>Piilota kaikki käyttäjän viestit</td>
+        <img src="../.gitbook/assets/mod4.png" alt/>Piilota kaikki käyttäjän viestit</td>
       <td style="text-align:left">Piilota kaikki viestit</td>
       <td style="text-align:left">Kaikki käyttäjän viestit piilotetaan muilta vierailta</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/mod5.png" alt/>Näytä/piilota käyttäjän uudet viestit</td>
+        <img src="../.gitbook/assets/mod5.png" alt/>Näytä/piilota käyttäjän uudet viestit</td>
       <td style="text-align:left">Piilota uudet viestit</td>
       <td style="text-align:left">
         <p>Käyttäjän uudet viestit piilotetaan/näytetään vakiona</p>
@@ -90,7 +92,7 @@ Katso lisää kohdassa [Tiimikanavat &gt; Kanava asetukset &gt; Kanavan aikataul
 
 Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel". Tämän jälkeen uusien viestien kirjoittaminen on estetty ja kirjoituskentässä näkyy asetettu Kanava suljettu -viesti. Muuta viestiä halutessasi kanavan asetuksissa.
 
-{% page-ref page="tiimikanavat/kanavan-asetukset.md" %}
+{% page-ref page="../tiimikanavat/kanavan-asetukset.md" %}
 
 ### Viestihistorian piilottaminen
 
@@ -108,4 +110,10 @@ Kanavan keskusteluhistoriaa ei näytetä vieraille, jotka tulevat sivulle tämä
 
 On mahdollista piilottaa upotettu kanava web-sivulta kanavan ollessa suljettu.   
 Kysy lisää Ninchatin henkilöstöltä.
+
+## Asiakasnäkymä
+
+{% page-ref page="ryhmaekeskustelun-asiakasnaekymae.md" %}
+
+
 

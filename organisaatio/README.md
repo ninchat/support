@@ -4,6 +4,8 @@ description: Organisaation hallinta
 
 # Organisaatio
 
+_\[ Osittain kesken koska organisaatioasetukset tulevat muuttumaan \]_
+
 ## Käyttäjäoikeustasot
 
 | Taso | Oikeudet |
@@ -14,9 +16,36 @@ description: Organisaation hallinta
 | **Kanavan operaattori** | Hallitsee yksittäistä tiimikanavaa tai julkista keskustelukanavaa. Pääsee muuttamaan kanavan asetuksia. Voi kutsua kanavalle uusia agentteja. |
 | **Kanavan moderaattori** | Voi moderoida yksittäisen kanavan keskustelua ja viestejä sekä poistaa käyttäjiä ko. kanavalta. Ei näe kanavan asetuksia. |
 
+## Käyttäjien hallinta organisaatiossa
+
+Organisaatioasetuksiin pääset klikkaamalla ylärivillä organisaation tai kanavan nimeä ja valitsemalla "Orgnisaatioasetukset". \(Vaatii orgnisaation operaatorin oikeudet.\)
+
+Ensimmäisellä välilehdellä näet organisaatioon lisätyt agentit. Operaattoriagentit on merkattu tähdellä. \(Huom. organisaation operaattori on eri asia kuin yksittäisen tiimikanavan operaattori.\)  
+Organisaation omistaja on merkitty avain-kuvakkeella.
+
+### Organisaation jäsenten haku {#organisaation-jasenten-haku}
+
+Mikäli organisaatiossa on paljon jäseniä, heidät jaotellaan usealle sivulle, joita voit selata.
+
+Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan nimestä hakukenttään listan yläpuolella.
+
+### Käyttäjän oikeuksien muokkaus {#kayttajan-oikeuksien-muokkaus}
+
+Klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
+
+* Lisää/poista hänet käsittelijäksi asiakaspalvelujonoihin.
+* Lisää/poista agentilta organisaation operaattorioikeudet
+* Poistaa hänet orgnisaatiosta - toiminta poistaa käyttäjän jonoista ja organisaatiosta. Agentti tulee erikseen poistaa tiimikanavilta kanavien jäsenlistan kautta.
+
+![Organisaation j&#xE4;senten haku/suodatus ja j&#xE4;senlista](../.gitbook/assets/organization-members%20%282%29.png)
+
+## Uuden agentin lisääminen
+
 {% page-ref page="uuden-agentin-lisaaminen.md" %}
 
-{% page-ref page="jonojen-hallinta.md" %}
+## Asiakasjonojen hallinta
+
+{% page-ref page="asiakasjonojen-hallinta.md" %}
 
 
 

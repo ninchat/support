@@ -28,8 +28,6 @@ Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
 Kanavakutsulinkit ovat voimassa 14 vuorokautta niiden luomishetkestä. Tämän jälkeen ne vanhenevat ja sinun tulee tarvittaessa luoda uusi linkki.
 {% endhint %}
 
-
-
 ## Agentin lisääminen organisaatioon
 
 1. Uusi jäsen seuraa Käyttäjätilin luominen -ohjeen vaiheet ja liittyy tiimikanavalle.
@@ -38,31 +36,6 @@ Kanavakutsulinkit ovat voimassa 14 vuorokautta niiden luomishetkestä. Tämän j
 4. Klikkaa OK ponnahdusikkuna-ilmoituksessa.
 
 ![Lis&#xE4;&#xE4; agentti organisaatioon](../.gitbook/assets/add-to-organization.png)
-
-
-
-### Käyttäjien hallinta organisaatiossa
-
-Organisaatioasetuksiin pääset klikkaamalla ylärivillä organisaation tai kanavan nimeä ja valitsemalla "Orgnisaatioasetukset". \(Vaatii orgnisaation operaatorin oikeudet.\)
-
-Ensimmäisellä välilehdellä näet organisaatioon lisätyt agentit. Operaattoriagentit on merkattu tähdellä. \(Huom. organisaation operaattori on eri asia kuin yksittäisen tiimikanavan operaattori.\)  
-Organisaation omistaja on merkitty avain-kuvakkeella.
-
-#### Käyttäjien haku
-
-Mikäli organisaatiossa on paljon jäseniä, heidät jaotellaan usealle sivulle, joita voit selata.
-
-Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan nimestä hakukenttään listan yläpuolella.
-
-#### Muokkaa käyttäjän oikeuksia
-
-Klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
-
-* Lisää/poista hänet käsittelijäksi asiakaspalvelujonoihin.
-* Lisää/poista agentilta organisaation operaattorioikeudet
-* Poistaa hänet orgnisaatiosta - toiminta poistaa käyttäjän jonoista ja organisaatiosta. Agentti tulee erikseen poistaa tiimikanavilta kanavien jäsenlistan kautta.
-
-![Organisaation j&#xE4;senten haku/suodatus ja j&#xE4;senlista](../.gitbook/assets/organization-members%20%282%29.png)
 
 ## Agentin lisäminen jonoon
 

@@ -2,7 +2,7 @@
 description: 'Organisaatioasetukset: jonojen hallinta'
 ---
 
-# Jonojen hallinta
+# Asiakasjonojen hallinta
 
 Jonojen hallinta tapahtuu organisaatioasetusten kautta. Klikkaa organisaation tai kanavan nimeä yläpalkissa ja valitse listalta "Organisaatioasetukset / Organization settings".
 
@@ -22,11 +22,11 @@ Klikkaamalla jonon nimeä pääset muokkaaman kyseisen jonon asetuksia ja aikata
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
 
-## Keskustelumerkintöjen hallinta \(Tägit\) 
+## Tunnisteet \(Tägit\)  {#keskustelumerkintojen-hallinta-tagit}
 
-Tagit ovat helppo ja nopea tapa agenteille luokitella asiakaskeskusteluja.
+Tunnisteet eli tägit ovat helppo ja nopea tapa agenteille luokitella asiakaskeskusteluja.
 
-Organisaation operaattorit voivat lisätä, muokata ja poistaa tageja.
+Organisaation operaattorit voivat lisätä, muokata ja poistaa tägejä.
 
 ![](../.gitbook/assets/organization-tags.png)
 
