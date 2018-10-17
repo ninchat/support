@@ -23,9 +23,9 @@
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
   * [Asiakkaan näkymä](asiakasjonot-ja-keskustelut/asiakkaan-naekymae.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
-* [Julkiset ryhmäkeskustelukanavat](julkiset-ryhmakeskustelukanavat/README.md)
-  * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelukanavat/ryhmaekeskustelun-upottaminen-web-sivustolle.md)
-  * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelukanavat/ryhmaekeskustelun-asiakasnaekymae.md)
+* [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
+  * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
+  * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelut/ryhmaekeskustelun-asiakasnaekymae.md)
 
 ## Operaattorit
 

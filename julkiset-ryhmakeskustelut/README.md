@@ -2,7 +2,7 @@
 description: Ryhmäkeskustelut ja moderointi
 ---
 
-# Julkiset ryhmäkeskustelukanavat
+# Julkiset ryhmäkeskustelut
 
 Julkiset ryhmäkeskustelut ovat tiimikanavan tapaisia, yleensä asiakkaan web-sivustolle upotettavia kanavia. Upotetuissa ryhmäkeskusteluissa ei ole yksityiskeskusteluja, mutta ne voivat toimia yhtä aikaa samalla sivulla yksityisen asiakaspalvelu-chatin \(asiakaspalvelujono\) rinnalla.
 
@@ -96,7 +96,7 @@ Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel
 
 ### Viestihistorian piilottaminen
 
-Jos haluat piilottaa käydyn keskustelun ryhmäkeskustelutuokion jälkeen uusilta vierailijoilta, toimi seuraavasti:
+Jos haluat piilottaa käydyn keskustelun ryhmäkeskustelutuokion jälkeen uusilta vierailijoilta, toimi seuraavasti: \(Noudata ohjeita tarkasti 😉\)
 
 1. Mene kanavan asetuksiin \(klikkaa kanavan nimeä ja valitse "Kanavan asetukset / Channel settings".
 2. Kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kanavan jäsenille, historia näytetään kanavalle liittymisestä alkaen \(Channel members, history available since join only\)".

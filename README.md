@@ -15,7 +15,7 @@ Avaa aihealueet vasemmalta valikosta.
 
 {% page-ref page="tiimikanavat/" %}
 
-{% page-ref page="julkiset-ryhmakeskustelukanavat/" %}
+{% page-ref page="julkiset-ryhmakeskustelut/" %}
 
 {% hint style="info" %}
 Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
