@@ -6,5 +6,5 @@
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
-{% page-ref page="../asiakasjonot-ja-keskustelut/asiakkaan-naekymae.md" %}
+{% page-ref page="../asiakasjonot-ja-keskustelut/asiakkaan-nakyma.md" %}
 

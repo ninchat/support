@@ -21,7 +21,7 @@
 * [Asiakasjonot ja -keskustelut](asiakasjonot-ja-keskustelut/README.md)
   * [Jonon asetukset](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
-  * [Asiakkaan näkymä](asiakasjonot-ja-keskustelut/asiakkaan-naekymae.md)
+  * [Asiakkaan näkymä](asiakasjonot-ja-keskustelut/asiakkaan-nakyma.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
