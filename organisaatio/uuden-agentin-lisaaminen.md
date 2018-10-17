@@ -9,8 +9,8 @@ description: Uuden agentin ja jononkäsittelijän lisääminen
 Henkilön lisääminen organisaatioon ja asiakasjonoihin tapahtuu seuraavasti:
 
 1. Henkilö kutsutaan tiimikanavalle.
-2. Liittymisen jälkeen agentti lisätään organisaation jäseneksi
-3. Agentille annetaan oikeudet vastata jonoon 
+2. Liittymisen jälkeen agentti lisätään organisaation jäseneksi.
+3. Agentille annetaan oikeudet vastata jonoon.
 
 ## Henkilön kutsuminen tiimikanavalle {#henkilon-kutsuminen-tiimikanavalle}
 

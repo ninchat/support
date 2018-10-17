@@ -5,7 +5,9 @@ description: Käyttäjätilin poistaminen Ninchatista
 # Tunnuksen poistaminen
 
 {% hint style="info" %}
-Organisaation operaattori voi poistaa käyttäjän organisaatiosta ja asiakasjonoista. Kanavan moderaattorit voivat poistaa hänet tiimikanavilta. Käyttäjä itse voi poistaa koko tilinsä Ninchatista.
+Organisaation operaattori voi poistaa käyttäjän organisaatiosta ja asiakasjonoista.   
+Kanavan moderaattorit voivat poistaa hänet tiimikanavilta.   
+Käyttäjä itse voi poistaa koko tilinsä Ninchatista.
 {% endhint %}
 
 ## Tilin poistaminen käyttäjäasetuksista

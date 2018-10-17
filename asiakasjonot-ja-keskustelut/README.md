@@ -37,7 +37,7 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet tämän palkin sinisenä, vaikka olisit esim. toisessa organisaatiossa kuin kyseinen jono.
 {% endhint %}
 
-{% page-ref page="../kayttoliittyman-esittely.md" %}
+{% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 
 ## Asiakaskeskustelunäkymä
 
@@ -89,7 +89,7 @@ Overall stuff from starting, chatting and ending audiences.
 
 ### Valmisviestin luominen
 
-{% page-ref page="../kayttajatilin-luominen/kayttajaasetukset.md" %}
+{% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
 ### Valmisviestin käyttäminen
 

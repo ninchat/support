@@ -52,7 +52,8 @@ Muista tallentaa muutokset.
 
 ## Merkinnät
 
-Merkinnät on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Pyydä neuvoja Ninchatin henkilöstöltä.
+Merkinnät \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
+Pyydä lisätietoa Ninchatin henkilöstöltä.
 
 ## Jonon tilastot
 

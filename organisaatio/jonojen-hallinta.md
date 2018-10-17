@@ -45,5 +45,8 @@ Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuuksia. Pyydä Ninchati
 
 ![](../.gitbook/assets/organization-sites.png)
 
+Asiakaspalvelu-chatin voi nopeasti poistaa käytöstä disabloimalla site-konfiguraation. Klikkaa editorinäkymässä "Disable-nappia. Konfiguraatio näkyy disabloituna listassa tämän jälkeen.  
+Voit palauttaa chatin taas käyttöön klikkaamalla editorissa "Enable"-nappia.
+
 ![](../.gitbook/assets/organization-sites-1.png)
 

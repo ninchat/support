@@ -1,21 +1,27 @@
 # Ninchat-tuki: aloitus
 
-#### HUOM: INTERNATIONALIZATION JA MONIKIELISYYS ON TULOSSA, TBA.
-
-Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta.  
-Mikäli et täältä löydä apua, voit kysyä meiltä chatissa. Aloita chat ylävalikosta.
-
-{% hint style="info" %}
-Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
-{% endhint %}
+Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta. Mikäli et täältä löydä apua, voit kysyä meiltä chatissa. Aloita chat ylävalikosta.  
+Avaa aihealueet vasemmalta valikosta.
 
 ## Usein kysyttyä
 
-{% page-ref page="kayttajatilin-luominen/" %}
+{% page-ref page="kayttajatili/kayttajatilin-luominen.md" %}
+
+{% page-ref page="yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 
 {% page-ref page="asiakasjonot-ja-keskustelut/" %}
 
 {% page-ref page="organisaatio/uuden-agentin-lisaaminen.md" %}
 
+{% page-ref page="tiimikanavat/" %}
+
 {% page-ref page="julkiset-ryhmakeskustelukanavat.md" %}
+
+{% hint style="info" %}
+Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
+{% endhint %}
+
+#### HUOM: INTERNATIONALIZATION JA MONIKIELISYYS ON TULOSSA, TBA.
+
+
 

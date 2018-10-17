@@ -33,7 +33,7 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/operator.png" alt/>Tähti, umpinainen</td>
+        <img src="../.gitbook/assets/operator.png" alt/>Tähti, umpinainen</td>
       <td style="text-align:left">
         <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p>
         <p>voi hallita kanavan asetuksia ja kutsua jäseniä</p>
@@ -41,7 +41,7 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/moderator.png" alt/>Tähti, reunustettu</td>
+        <img src="../.gitbook/assets/moderator.png" alt/>Tähti, reunustettu</td>
       <td style="text-align:left">
         <p>Kanavan moderaattorikäyttäjä:</p>
         <p>voi moderoida viestejä ja poistaa jäseniä</p>
@@ -49,17 +49,17 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/online-ball.png" alt/>Vihreä pallo</td>
+        <img src="../.gitbook/assets/online-ball.png" alt/>Vihreä pallo</td>
       <td style="text-align:left">Käyttäjä on kirjautunut ja aktiivinen</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/idle.png" alt/>Oranssi pallo</td>
+        <img src="../.gitbook/assets/idle.png" alt/>Oranssi pallo</td>
       <td style="text-align:left">Käyttäjä on kirjautunut mutta ei aktiivinen</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/offline-ball.png" alt/>Ei palloa</td>
+        <img src="../.gitbook/assets/offline-ball.png" alt/>Ei palloa</td>
       <td style="text-align:left">Käyttäjä ei ole paikalla; näkee hänelle tulleet viestit myöhemmin</td>
     </tr>
   </tbody>
@@ -67,7 +67,7 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
 
 Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoitukset uusista tapahtumissa eri keskusteluissa.
 
-![](.gitbook/assets/sidebar.png)
+![](../.gitbook/assets/sidebar.png)
 
 | Osio | Toiminta |
 | :--- | :--- |
@@ -81,11 +81,11 @@ Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoit
 
 ## Yksityiskeskustelut
 
-![Yksityiskeskustelun aloittaminen](.gitbook/assets/team-start-private%20%281%29.png)
+![Yksityiskeskustelun aloittaminen](../.gitbook/assets/team-start-private%20%281%29.png)
 
 ## Käyttäjäasetukset
 
-{% page-ref page="kayttajatilin-luominen/kayttajaasetukset.md" %}
+{% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
 ## Organisaation asetukset
 

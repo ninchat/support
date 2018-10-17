@@ -4,6 +4,8 @@ description: Kirjanmerkit ja pikakuvakkeet
 
 # Pikakuvakkeet Ninchatiin
 
+Voit helpottaa Nincatin käynnistämistä ja käyttöä pikakuvakkeilla ja kirjanmerkeillä. Alla opastus eri selainten sallimiin toimintoihin.
+
 ## Google Chrome -selain {#google-chrome-selain}
 
 Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläriville kirjanmerkin, tai tekemällä Ninchatille oman käynnistyspikakuvakkeen Windowsin työpöydälle.

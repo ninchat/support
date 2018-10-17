@@ -81,11 +81,31 @@ Klikkaa kanavan nimeä yläpalkissa nähdäksesi kanavavalikko.
 | Poista automaattinen viestien piilotus | Uusien käyttäjien viestit näytetään automaattisesti.  |
 | Sulje kanava | Kanava ja keskustelu suljetaan |
 
-## Kanavan asetukset
+## Kanavan ajastaminen
 
-{% page-ref page="tiimikanavat/kanavan-asetukset-1.md" %}
+Julkisen ryhmäkeskusteluanavan voi asettaa avautumaan ja sulkeutumaan automaattisesti.  
+Katso lisää kohdassa [Tiimikanavat &gt; Kanava asetukset &gt; Kanavan aikataulu](https://ninchat.gitbook.io/ninchat-support/tiimikanavat/kanavan-asetukset#kanavan-aikataulu).
 
-### OHJE JA ESIMERKKI RYHMÄKESKUSTELUN SULKEMISESTA
+## Kanavan sulkeminen
 
+Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel". Tämän jälkeen uusien viestien kirjoittaminen on estetty ja kirjoituskentässä näkyy asetettu Kanava suljettu -viesti. Muuta viestiä halutessasi kanavan asetuksissa.
 
+{% page-ref page="tiimikanavat/kanavan-asetukset.md" %}
+
+### Viestihistorian piilottaminen
+
+Jos haluat piilottaa käydyn keskustelun ryhmäkeskustelutuokion jälkeen uusilta vierailijoilta, toimi seuraavasti:
+
+1. Mene kanavan asetuksiin \(klikkaa kanavan nimeä ja valitse "Kanavan asetukset / Channel settings".
+2. Kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kanavan jäsenille, historia näytetään kanavalle liittymisestä alkaen \(Channel members, history available since join only\)".
+3. Tallenna
+4. Uudelleen kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kaikki voivat seurata keskustelua anonyymisti \(Everybody may follow anonymously\)".
+5. Tallenna
+
+Kanavan keskusteluhistoriaa ei näytetä vieraille, jotka tulevat sivulle tämän jälkeen.
+
+### Kanavaikkunan piilottaminen web-sivulta
+
+On mahdollista piilottaa upotettu kanava web-sivulta kanavan ollessa suljettu.   
+Kysy lisää Ninchatin henkilöstöltä.
 

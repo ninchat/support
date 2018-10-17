@@ -13,5 +13,7 @@ description: Salasanan palauttamisohjeet
 7. Kirjoita web-sivulla uusi salasana ja paina "Change password".
 8. Voit nyt kirjautua sisään sähköpostiosoiteellasi ja uudella salasanalla.
 
+{% page-ref page="../yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md" %}
+
 
 

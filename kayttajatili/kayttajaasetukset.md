@@ -3,11 +3,11 @@
 ## Käyttäjäasetuksiin siirtyminen
 
 Kun olet kirjautunut Ninchatiin, klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.  
-Klikkaa valikosta "Asetukset ja profiili"
+Klikkaa valikosta "Asetukset ja profiili / Settings and profile" päästäksesi omiin asetuksiin.
 
 ![](../.gitbook/assets/user-menu%20%281%29.png)
 
-
+Omat asetukset on jaettu eri välilehdille. Muokattuasi asetuksia, muista painaa "Tallenna" -nappia, jos haluat säilyttää muutokset.
 
 ## Profiili
 
