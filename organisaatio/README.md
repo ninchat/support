@@ -39,9 +39,13 @@ Klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet u
 
 ![Organisaation j&#xE4;senten haku/suodatus ja j&#xE4;senlista](../.gitbook/assets/organization-members%20%282%29.png)
 
-## Uuden agentin lisääminen
+## Uuden agentin lisääminen organisaatioon
 
 {% page-ref page="uuden-agentin-lisaaminen-organisaatioon.md" %}
+
+## Agentin lisääminen jonon käsittelijäksi
+
+{% page-ref page="agentin-lisaaminen-jonon-kasittelijaksi.md" %}
 
 ## Asiakasjonojen hallinta
 
