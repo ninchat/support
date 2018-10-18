@@ -2,7 +2,7 @@
 description: Asiakkaan näkymän esittely ja toiminta
 ---
 
-# Asiakkaan näkymä
+# Asiakkaan chat-näkymä
 
 yleistä embed chateista 
 

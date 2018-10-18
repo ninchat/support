@@ -10,5 +10,5 @@ description: Asiakasneuvojille ohjeet kootusti
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
-{% page-ref page="../asiakasjonot-ja-keskustelut/asiakkaan-nakyma.md" %}
+{% page-ref page="../asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md" %}
 

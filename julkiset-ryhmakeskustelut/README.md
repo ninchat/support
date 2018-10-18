@@ -4,6 +4,8 @@ description: Ryhmäkeskustelut ja moderointi
 
 # Julkiset ryhmäkeskustelut
 
+## Yleistä
+
 Julkiset ryhmäkeskustelut ovat tiimikanavan tapaisia, yleensä asiakkaan web-sivustolle upotettavia kanavia. Upotetuissa ryhmäkeskusteluissa ei ole yksityiskeskusteluja, mutta ne voivat toimia yhtä aikaa samalla sivulla yksityisen asiakaspalvelu-chatin \(asiakaspalvelujono\) rinnalla.
 
 ## Keskustelun moderointi
@@ -35,7 +37,7 @@ Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  
       <td style="text-align:left">
         <img src="../.gitbook/assets/mod1.png" alt/>Piilota viesti</td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">Piilota kyseinen viesti muilta vierailta</td>
+      <td style="text-align:left">Piilota kyseinen viesti muilta asiakkailta</td>
     </tr>
     <tr>
       <td style="text-align:left">
