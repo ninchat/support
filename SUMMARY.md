@@ -9,6 +9,7 @@
   * [Pikakuvakkeet Ninchatiin](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
   * [Ninchatin käyttäminen suomen kielellä](yleisia-vinkkeja/ninchatin-kaeyttaminen-suomen-kielella.md)
 * [Käyttäjätili](kayttajatili/README.md)
+  * [Ninchat-kutsun hyväksyminen](kayttajatili/ninchat-kutsun-hyvaksyminen.md)
   * [Käyttäjätilin luonti](kayttajatili/kayttajatilin-luonti.md)
   * [Käyttäjäasetukset](kayttajatili/kayttajaasetukset.md)
   * [Tunnuksen poistaminen](kayttajatili/tunnuksen-poistaminen.md)
@@ -32,9 +33,9 @@
 
 ## Operaattorit
 
-* [Ohjeita operaattoreille](operaattorit/ohjeita-operaattoreille.md)
+* [Ohjeet operaattoreille](operaattorit/ohjeita-operaattoreille.md)
 
 ## Asiakasneuvojat
 
-* [Ohjeita asiakasneuvojille](asiakasneuvojat/ohjeita-asiakasneuvojille.md)
+* [Ohjeet asiakasneuvojille](asiakasneuvojat/ohjeita-asiakasneuvojille.md)
 
