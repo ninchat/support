@@ -1,8 +1,12 @@
+---
+description: Eikö sisäänkirjautuminen onnistu?
+---
+
 # Ongelmatilanteet sisäänkirjautumisessa
 
 ## Unohtunut salasana
 
-{% page-ref page="../kayttajatili/unohtunut-salasana.md" %}
+{% page-ref page="unohtunut-salasana.md" %}
 
 ## Käyttöliittymä rikki?
 
@@ -32,4 +36,10 @@ Etsi sähköpostistasi Ninchat Invite -viesti ja klikkaa sieltä kutsulinkkiä \
 Kutsulinkki ei toimi ja saat virheilmoituksen yrittäessäsi hyväksyä kutsun?
 
 Kutsu on todennäköisesti vanhentunut. Kutsulinkit ovat voimassa 14 vuorokautta. Pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
+
+## Pyydä apua chatissa
+
+Mikäli mikään näistä neuvoista ei auttanut, voit kysyä meiltä apua asiakaspalveluchatissa.
+
+[Avaa chat](https://ninchat.com/contact?help)
 

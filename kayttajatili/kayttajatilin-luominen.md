@@ -5,13 +5,15 @@ description: Näin luot Ninchat-käyttäjätunnuksen
 # Käyttäjätilin luominen
 
 {% hint style="info" %}
-Käytä mieluiten Google Chrome- tai Mozilla Firefox -web-selainohjelmia.
+Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.
 {% endhint %}
 
 ## Kutsun hyväksyminen
 
+Saat alkuun Ninchatin henkilöstöltä kutsun teille tehtyyn organisaatioon. 
+
 1. **Saat sähköpostiisi kutsulinkin.** 
-2. **Avaa linkki klikkaamalla "Accept invitation" \(Hyväksy kutsu\) -nappia.**
+2. **Avaa linkki klikkaamalla "Accept invitation" -nappia \(Hyväksy kutsu\)**
 3. **Web-sivulla avautuvassa ponnahdusikkunassa valitse "Accept invite".**
 
 Kutsulinkit vanhenevat 14 vuorokauden jälkeen. Mikäli kutsulinkki ei toimi, tai et saanut kutsua, pyydä uusi linkki Ninchatin henkilöstöltä tai Ninchat-kanavasi operaattorikäyttäjältä.
@@ -20,15 +22,13 @@ Kutsulinkit vanhenevat 14 vuorokauden jälkeen. Mikäli kutsulinkki ei toimi, ta
 
 ![](../.gitbook/assets/invite-accept.png)
 
-### \*\*\*\* {#create-your-account}
-
 ## **Tunnuksen luominen**
 
 Tunnistautumisnäkymässä osoitteessa [https://ninchat.com/app/](https://ninchat.com//app/), anna tiedot tunnustasi varten:
 
-* **Name: Nimesi tai niminerkkisi**
-* **Email: Käyttämäsi työpaikan/organisaation sähköpostiosoite**
-* **Password: Keksi vahva salasana**
+* **Name: Oma nimi tai niminerkki**
+* **Email: Käyttämäsi työpaikan/organisaation sähköpostiosoite, esim. matti.mainio@yritys.com**
+* **Password: Keksi tunnukselle vahva salasana**
 
 Jatka klikkaamalla **"Sign up"** -nappia.
 
@@ -47,8 +47,7 @@ Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan l
 
 ![](../.gitbook/assets/verify.png)
 
-Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi!   
-Kirjaudu sisään sähköpostiosoitteellasi osoitteessa [https://ninchat.com/app](https://ninchat.com/app)​
+Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi! 
 
 ## Sisäänkirjautuminen
 
@@ -56,7 +55,11 @@ Kirjaudu sisään sähköpostiosoitteellasi osoitteessa [https://ninchat.com/app
 
 #### [https://ninchat.com/app](https://ninchat.com/app)​
 
+Kirjautuessasi sinun tulisi päätyä organisaatiosi tiimikanavalle tai viimeksi avoinna olleeseen keskusteluun.
+
 {% hint style="info" %}
+#### Ninchatin käyttäminen suomen kielellä
+
 Mikäli haluat käyttää Ninchatia suomeksi, mene osoitteeseen [https://ninchat.com/app​?lang=fi](https://ninchat.com/app​?lang=fi)   
 Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Yleisiä vinkkejä: Pikakuvakkeet Ninchatiin"
 {% endhint %}
@@ -69,7 +72,7 @@ Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien
 
 ## Unohtunut salasana
 
-{% page-ref page="unohtunut-salasana.md" %}
+{% page-ref page="../yleisia-vinkkeja/unohtunut-salasana.md" %}
 
 
 

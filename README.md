@@ -1,7 +1,8 @@
 # Ninchat-tuki: aloitus
 
-Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta. Mikäli et täältä löydä apua, voit kysyä meiltä chatissa. Aloita chat ylävalikosta.  
-Avaa aihealueet vasemmalta valikosta.
+Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta. Mikäli et täältä löydä apua, voit kysyä meiltä [chatissa](https://ninchat.com/contact). 
+
+Huom! Monikielisyyden tuki ja UI-elementtien kielen vaihto tulossa myöhemmin.
 
 ## Usein kysyttyä
 
@@ -18,10 +19,9 @@ Avaa aihealueet vasemmalta valikosta.
 {% page-ref page="julkiset-ryhmakeskustelut/" %}
 
 {% hint style="info" %}
-Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
+Vinkkejä:  
+Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
 {% endhint %}
-
-#### HUOM: INTERNATIONALIZATION JA MONIKIELISYYS ON TULOSSA, TBA.
 
 
 
