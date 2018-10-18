@@ -4,6 +4,8 @@ description: Tiimikanavan esittely ja hallinta
 
 # Tiimikanavat
 
+## Yleistä
+
 Tiimikanava on organisaatioon kuuluva, yleensä yksityinen, usean henkilön keskusteluhuone. Kanavalla voit jutella ja lähettää tiedostoja reaaliaikaisesti kollegojesi kanssa. Kanavat voivat olla myös julkisia, esim. upotettavat ryhmäkeskustelut, tai niille voi kutsua ulkopuolisia yhteistyökumppaneita.
 
 Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
@@ -16,7 +18,49 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
 
 ![Tiimikanavan&#xE4;kym&#xE4;: Keskustelu ja j&#xE4;senlista](https://lh4.googleusercontent.com/vF6Ck5-WasKyMg03jHp1T9-QcfBnb9b4BqueuGcYwzpVG2N5pRN2akPJDBwHDN8QRVAnidbXVJtmtSbTANMrUyEm8d2FL12C8Fwx0x65bQ3NbBAGm8JVprJtYlgrGYxFbrnUz85RhU8)
 
-## Käyttäjän lisääminen kanavalle
+## Tiimikanavan oikeudet
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Jäsenlistan merkintä</th>
+      <th style="text-align:left">Merkitys</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/operator.png" alt/>Tähti, umpinainen</td>
+      <td style="text-align:left">
+        <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p>
+        <p>voi hallita kanavan asetuksia ja kutsua jäseniä</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/moderator.png" alt/>Tähti, reunustettu</td>
+      <td style="text-align:left">
+        <p>Kanavan moderaattorikäyttäjä:</p>
+        <p>voi moderoida viestejä ja poistaa jäseniä</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/online-ball.png" alt/>Vihreä pallo</td>
+      <td style="text-align:left">Käyttäjä on kirjautunut ja aktiivinen</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/idle.png" alt/>Oranssi pallo</td>
+      <td style="text-align:left">Käyttäjä on kirjautunut mutta ei aktiivinen</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/offline-ball.png" alt/>Ei palloa</td>
+      <td style="text-align:left">Käyttäjä ei ole paikalla; näkee hänelle tulleet viestit myöhemmin</td>
+    </tr>
+  </tbody>
+</table>## Käyttäjän lisääminen kanavalle
 
 Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Kats tarkemmat ohjeet kohdassa [Organisaatio &gt; Uuden agentin lisääminen &gt; henkilon kutsuminen kanavalle](https://ninchat.gitbook.io/ninchat-support/organisaatio/uuden-agentin-lisaaminen#henkilon-kutsuminen-tiimikanavalle).
 

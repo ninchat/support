@@ -1,4 +1,8 @@
-# Näin pääset alkuun
+---
+description: Organisaation operaattoreille ohjeet kootusti
+---
+
+# Ohjeita operaattoreille
 
 {% page-ref page="../kayttajatili/kayttajatilin-luominen.md" %}
 

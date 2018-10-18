@@ -10,17 +10,35 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 
 {% page-ref page="../organisaatio/" %}
 
+## Asiakasjonon avaaminen ja sulkeminen
+
+Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti. Avattu jono on merkattu vihreällä pallolla, suljettu jono punaisella.
+
+#### Jonon avaaminen
+
+Klikkaa jonon nimeä ja valitse valikosta "Avaa jono / Open queue".  
+Asiakkaat voivat liittyä nyt jonoon.
+
+#### Jonon sulkeminen
+
+Klikkaa jonon nimeä ja valitse valikosta "Sulje jono / Close queue".  
+Asiakkaat eivät tämän jälkeen voi aloittaa chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai ha päättävät sulkea chatin/ikkunan.
+
+#### Asiakasjonon ajastaminen
+
+Lue automaattisesta ajastamisesta [Jonon asetukset &gt; Jonon ajastaminen](https://ninchat.gitbook.io/ninchat-support/asiakasjonot-ja-keskustelut/jonon-asetukset#jonon-ajastaminen).
+
 ## Asiakkaan nappaaminen jonosta
 
-![](../.gitbook/assets/queue%20%281%29.png)
-
 ### Asiakas jonossa
+
+![Asiakas jonossa -ilmoitukset ja asiakkaan poimiminen](../.gitbook/assets/queue%20%281%29.png)
 
 1. Tapahtumat-palkissa tieto aktiviteetista: asiakas on liittynyt jonoon.
 2. Jono on suljettu, jonottamassa ei ole ketään.
 3. Jono on auki ja jonossa on yksi henkilö
 
-### **Jono-valikko**
+### **Jono-valikon toiminnot**
 
 * Poimi jonottava asiakas
 * Avaa ja sulje jono
@@ -34,7 +52,7 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 3. Keskustelu alkaa ja avautuu näkymään
 
 {% hint style="info" %}
-Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet tämän palkin sinisenä, vaikka olisit esim. toisessa organisaatiossa kuin kyseinen jono.
+Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet tämän palkin sinisenä, vaikka olisit esim. toisessa organisaatiossa kuin missä kyseinen jono sijaitsee.
 {% endhint %}
 
 {% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
@@ -83,13 +101,37 @@ Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet t
   </tbody>
 </table>## Asiakaskeskustelu
 
-Overall stuff from starting, chatting and ending audiences.
+Poimittuasi asiakkaan jonosta keskustelu alkaa. 
+
+1. Asiakkaalle näytetään "Keskustelu aloitettu" -viesti, mutta on hyvä lähettää asiakkaalle heti tervehdys-, tms. kommentti.
+2. Näet keskustelun yläpuolella teknisiä tietoja asiakkaasta, kuten käytetyn selaimen, sivun jolla chat on aloitettu, sekä muita tietoja, mikäli ne on päätetty ottaa käyttöön.
+3. Mikäli chatissa on alkukysely, näet asiakkaan tekemät kyselyvalinnat ja -vastaukset oikealla palstalla, ja voit niiden perusteella paremmin neuvoa asiakasta.
+
+### Kuvat ja tiedostot
+
+Asiakasneuvoja voi lähettää asiakkaalle kuia ja tiedostoja, ja hän neuvojalle, mikäli tämä on sallittu chatin asetuksissa.
+
+## Asiakas-metatiedot
+
+Yleistä
+
+### Vahvasti salattu metatieto \(Secure metadata\)
+
+Secure metadata
+
+### Kyselytiedot
+
+Alku- ja loppukyselyt
+
+### Live-metatiedot
+
+Muu live metadata, folded, yms.
 
 ## Valmisviestit 
 
-### Valmisviestin luominen
+Valmisviestit nopeuttavat ja helpottavat asiakaspalvelijan työtä. Voit hoitaa usein kysytyt kysymykset valitsemalla vastauksen suoraan listalta.
 
-{% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
+Lisäksi asioissa, jotka vaativat tarkasti oikein annettua vastausta, kuten juridiset tai hoitotoimenpiteisiin liittyvät asiat, voi olla hyvä käyttää valmisvastauksia.
 
 ### Valmisviestin käyttäminen
 
@@ -99,9 +141,23 @@ Valmisviestit näkyvät asiakaskeskustelun sivupalkissa. Voit valita viestin kli
 
 #### **Näppäimistö**
 
-Valmisviestejä voi käyttää myös näppäimistöltä hyväksikäyttäen niiden avainsanoja. Esimerkki: Olet asettanut valmisviestin: _Terve_ \(avain\): _Tervetuloa keskusteluun!_ Miten voin auttaa? \(viesti\)  
-Voit kirjoittaa kirjoituskenttään: _/Terve_ ja klikkaa _välilyöntinäppäintä_, jolloin valmisviesti ilmestyy kenttään.  
-Valmisviestit toimivat näppäimistöltä myös muissa kuin asiakaskeskusteluissa.
+Valmisviestejä voi käyttää myös näppäimistöltä hyväksikäyttäen niiden avainsanoja. Valmisviestit toimivat näppäimistöltä myös tiimikanavilla ja yksityiskeskusteluissa.
+
+Kirjoittamalla tekstikenttään vinoviivan \[ / \] ja valmisviestin avainsanan ja klikkaamalla \[Välilyönti\]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. 
+
+Esimerkki: Olet asettanut valmisviestin: _avoinna_ \(avain\): _Palvelemme arkipäivisin klo 9 - 17._ \(viesti\). 
+
+| Avainsana | Valmisviesti |
+| :--- | :--- |
+| avoinna | Palvelemme arkipäivisin klo 9 - 17. |
+
+```text
+/avoinna[välilyönti]  --> Palvelemme arkipäivisin klo 9 - 17.
+```
+
+### Valmisviestin luominen ja muokkaus
+
+{% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
 ## Videopuhelut
 
@@ -144,11 +200,11 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
         <p></p>
       </td>
       <td style="text-align:left">Google Chrome, Mozilla Firefox
-        <br />(Edge - toimintaa ei taata)</td>
+        <br />(Microsoft Edgellä toimintaa ei taata)</td>
     </tr>
     <tr>
       <td style="text-align:left">Mac OS</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Safari</td>
+      <td style="text-align:left">Google Chrome, Mozilla Firefox, Apple Safari</td>
     </tr>
     <tr>
       <td style="text-align:left">Android</td>
@@ -156,26 +212,10 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
     </tr>
     <tr>
       <td style="text-align:left">iOS</td>
-      <td style="text-align:left">Safari, Mozilla Firefox</td>
+      <td style="text-align:left">Mozilla Firefox, Apple Safari</td>
     </tr>
   </tbody>
-</table>## Asiakas-metatiedot
-
-Yleistä
-
-### Vahvasti salattu metatieto \(Secure metadata\)
-
-Secure metadata
-
-### Kyselytiedot
-
-Alku- ja loppukyselyt
-
-### Live-metatiedot
-
-Muu live metadata, folded, yms.
-
-## Tunnisteet \(tägit\)
+</table>## Tunnisteet \(tägit\)
 
 Asiakaspalvelija voi merkata asiakaskeskusteluita tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esin. "myynti", "uusi asiakas", "ongelma", "bugi", ... Tägäys helpottaa myöhemmin keskutelujen tilastointia sekä tarkastelua.
 

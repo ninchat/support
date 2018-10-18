@@ -30,9 +30,9 @@
 
 ## Operaattorit
 
-* [Näin pääset alkuun](operaattorit/testi.md)
+* [Ohjeita operaattoreille](operaattorit/ohjeita-operaattoreille.md)
 
 ## Asiakasneuvojat
 
-* [Näin pääset alkuun](asiakasneuvojat/aspatestisivu.md)
+* [Ohjeita asiakasneuvojille](asiakasneuvojat/ohjeita-asiakasneuvojille.md)
 

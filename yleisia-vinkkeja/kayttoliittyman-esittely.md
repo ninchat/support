@@ -71,7 +71,7 @@ Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoit
 
 | Osio | Toiminta |
 | :--- | :--- |
-| 1\) Organisaatio-valinta | Täältä pääset organisaatiosetuksiin, sekä vaihtamaan oragnisaatiota \(jos kuulut useampaan\). |
+| 1\) Organisaatio-valinta | Täältä pääset organisaatiosetuksiin, sekä vaihtamaan organisaatiota \(jos kuulut useampaan\). |
 | 2\) Tapahtumat | Tapahtumat-palkissa näet kootusti kaikki uudet sinua koskevat tapahtumat Ninchatissa |
 | 3\) Suodatus | Suodatus/haku-palkissa voi rajata keskusteluja nimen perusteella |
 | 4\) Jonot | Asiakasjonot, joista asiakkaat poimitaan |
@@ -79,9 +79,16 @@ Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoit
 | 6\) Asiakas-keskutelut | Avoimet asiakaskeskustelut, jotka on poimittu jonoista |
 | 7\) Yksityis-keskustelut | Sisäiset kahdenväliset yksityiskeskustelut tiimiläisten kanssa |
 
+{% hint style="info" %}
+Organisaatiovalikosta löytyy omien organisaatioittesi lisäksi ns. vapaa alue \(Public\). Tänne voivat kaikki Ninchatin käyttäjät luoda kanavia.   
+Älä luo organisaatiosi kanavia tälle alueelle!
+{% endhint %}
+
 ## Yksityiskeskustelut
 
 ![Yksityiskeskustelun aloittaminen](../.gitbook/assets/team-start-private%20%281%29.png)
+
+{% page-ref page="../tiimikanavat/yksityiskeskustelut.md" %}
 
 ## Käyttäjäasetukset
 
