@@ -115,5 +115,5 @@ Kanava on olemassa niin kauan kuin sillä on jäseniä. Mikäli viimeinen / aino
 
 {% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 
-{% page-ref page="../organisaatio/uuden-agentin-lisaaminen.md" %}
+{% page-ref page="../organisaatio/uuden-agentin-lisaaminen-organisaatioon.md" %}
 

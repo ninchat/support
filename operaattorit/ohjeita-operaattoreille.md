@@ -10,7 +10,7 @@ description: Organisaation operaattoreille ohjeet kootusti
 
 {% page-ref page="../organisaatio/" %}
 
-{% page-ref page="../organisaatio/uuden-agentin-lisaaminen.md" %}
+{% page-ref page="../organisaatio/uuden-agentin-lisaaminen-organisaatioon.md" %}
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 

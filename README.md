@@ -12,7 +12,7 @@ Huom! Monikielisyyden tuki ja UI-elementtien kielen vaihto tulossa myöhemmin.
 
 {% page-ref page="asiakasjonot-ja-keskustelut/" %}
 
-{% page-ref page="organisaatio/uuden-agentin-lisaaminen.md" %}
+{% page-ref page="organisaatio/uuden-agentin-lisaaminen-organisaatioon.md" %}
 
 {% page-ref page="tiimikanavat/" %}
 

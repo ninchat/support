@@ -41,7 +41,7 @@ Klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet u
 
 ## Uuden agentin lisääminen
 
-{% page-ref page="uuden-agentin-lisaaminen.md" %}
+{% page-ref page="uuden-agentin-lisaaminen-organisaatioon.md" %}
 
 ## Asiakasjonojen hallinta
 
