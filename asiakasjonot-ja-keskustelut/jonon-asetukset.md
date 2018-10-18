@@ -14,8 +14,8 @@ Siirry asiakasjonon asetuksiin klikkaamalla jonon nimeä ja valitse Jonon asetuk
 Jonon yleisissä asetuksissa voit muokata seuraavia asioita:
 
 * Voit muuttaa jonon nimen
-* Määrittää kuka voi lisätä tiedostoja
-* Määrittää kuka voi aloittaa videokeskustelun \(jos käytössä\)
+* ~~Määrittää kuka voi lisätä tiedostoja~~
+* ~~Määrittää kuka voi aloittaa videokeskustelun \(jos käytössä\)~~
 * Valita liitetäänkö keskustelun alkuun asiakkaasta metadataa, kuten sijainti ja IP-osoite
 * Määrittää Secure metadatan pakolliseksi
 
