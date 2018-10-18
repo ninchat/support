@@ -4,7 +4,7 @@ description: Asiakasneuvojille ohjeet kootusti
 
 # Ohjeita asiakasneuvojille
 
-{% page-ref page="../kayttajatili/kayttajatilin-luominen.md" %}
+{% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
 
 {% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 

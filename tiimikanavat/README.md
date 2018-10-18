@@ -62,7 +62,9 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
   </tbody>
 </table>## Käyttäjän lisääminen kanavalle
 
-Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Kats tarkemmat ohjeet kohdassa [Organisaatio &gt; Uuden agentin lisääminen &gt; henkilon kutsuminen kanavalle](https://ninchat.gitbook.io/ninchat-support/organisaatio/uuden-agentin-lisaaminen#henkilon-kutsuminen-tiimikanavalle).
+Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Kats tarkemmat ohjeet kohdassa Käyttäjän lisääminen kanavalle:
+
+{% page-ref page="kayttajan-lisaaminen-kanavalle.md" %}
 
 ![](../.gitbook/assets/invite.png)
 

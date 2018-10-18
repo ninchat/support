@@ -6,7 +6,7 @@ Huom! Monikielisyyden tuki ja UI-elementtien kielen vaihto tulossa myöhemmin.
 
 ## Usein kysyttyä
 
-{% page-ref page="kayttajatili/kayttajatilin-luominen.md" %}
+{% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
 
 {% page-ref page="yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 

@@ -2,7 +2,7 @@
 description: Näin luot Ninchat-käyttäjätunnuksen
 ---
 
-# Käyttäjätilin luominen
+# Käyttäjätilin luonti
 
 {% hint style="info" %}
 Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.

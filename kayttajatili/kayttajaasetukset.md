@@ -65,13 +65,17 @@ Internet Eplorer -selain ei tue työpöytäilmoituksia.
 
 ### Aseta ilmoitustyypit
 
-Salli **Ääni- ja työpöytäilmoitukset** ainakin seuraavista ilmoitustyypeistä: 
+**Salli Ääni- ja työpöytäilmoitukset ainakin seuraavista ilmoitustyypeistä:** 
 
-* Yksityisviestit
-* Kanavan korostukset
-* Uusi henkilö asiakaspalvelujonossa.
+* **Yksityisviestit**
+* **Kanavan korostukset**
+* **Uusi henkilö asiakaspalvelujonossa.**
 
 Tallenna muutokset.
+
+{% hint style="info" %}
+Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
+{% endhint %}
 
 ![](../.gitbook/assets/user-settings-notifications.png)
 

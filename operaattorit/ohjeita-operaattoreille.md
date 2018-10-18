@@ -4,7 +4,7 @@ description: Organisaation operaattoreille ohjeet kootusti
 
 # Ohjeita operaattoreille
 
-{% page-ref page="../kayttajatili/kayttajatilin-luominen.md" %}
+{% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
 
 {% page-ref page="../tiimikanavat/" %}
 

@@ -4,5 +4,5 @@ description: Asiakkaan näkymän esittely ja toiminta
 
 # Asiakkaan chat-näkymä
 
-yleistä embed chateista 
+Tässä dokumentissa on esitelty asiakaspalvelu-chatin toimintaa ja näkymiä asiakkaan päässä.
 
