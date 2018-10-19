@@ -4,9 +4,11 @@ Julkisen ryhmäkeskustelun sijoittaminen onnistuu web-sivustolle, mobiilisivusto
 
 ## Chatin upotuskoodi \(embed-koodi\)
 
-Upottamista varten tarvitset ns. upotuskoodin, jonka saat Ninchatin henkilökunnalta, kun chat on valmiina. Muokkaamme ja valmistelemme chatin valmiiksi haluamallanne tavalla; teidän tulee vain sijoittaa upotuskoodi sivustolle.
+Upottamista varten toimitamme teille ns. upotuskoodin, kun chat on valmiina. Muokkaamme ja valmistelemme chatin valmiiksi haluamallanne tavalla; teidän tehtäväksenne jää sijoittaa upotuskoodi sivustolle.
 
 Julkinen ryhmäkeskustelu sijoitetaan yleensä osaksi web-sivun sisältöä, sen sekaan esimerkiksi div-elementtiin. Tarvitset upottamista varten 1\) raamielementin \(container\) oikealla tunniste-ID:llä 2\) upotus-script-tägin. Upotuskoodi on yhden rivin mittainen Javascript-tägi \(toimitamme teille oman koodinne\). 
+
+Asiakkaan tai hänen sivustonsa kehittäjän tulee sijoittaa nämä koodipätkät sivustolle.
 
 Container-elementin tyyli, sijainti ja koko on täysin teidän päätettävissänne. Oheisessa esimerkissä lyhyt esimerkkityyli \(style\) ja esimerkki-upotuskoodi.
 
@@ -36,4 +38,12 @@ Embed-script-tägin suosittelemme sijoittamaan web-sivun body-elementin loppuun.
 {% hint style="info" %}
 Mikäli sivustolla käytetään sekä yksityistä asiakaspalvelu-chattia että julkista ryhmäkeskustelua, ne tulee käynnistää samalla upotus-script-tagilla. Samalla sivulla ei voi olla useaa upotuskoodia, muuten chattien toiminta menee sekaisin.
 {% endhint %}
+
+## Mitä asiakkaan tulee selvittää {#mita-asiakkaan-tulee-selvittaa}
+
+* Mille sivu\(i\)lle ryhmä-chat tulee ja käytetäänkö samalla sivulla yksityistä asiakaspalvelu-chattia?
+* Sijoitetaanko ryhmäkeskustelu osaksi sivun sisältöä, vai kelluvaan ikkunaan?
+* Mitä tapahtuu kun ryhmäkanava on suljettu; piilotetaanko keskusteluhistoria vai jätetäänkö se näkyville, näytetäänkö tilalla ainoastaan Suljettu-ilmoitus, piilotetaanko koko ikkuna näkyvistä?
+
+### 
 
