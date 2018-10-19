@@ -46,7 +46,7 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/online-ball.png" alt/>Vihreä pallo</td>
+        <img src="../.gitbook/assets/online (1).png" alt/>Vihreä pallo</td>
       <td style="text-align:left">Käyttäjä on kirjautunut ja aktiivinen</td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/offline-ball.png" alt/>Ei palloa</td>
+        <img src="../.gitbook/assets/offline-avatar.png" alt/>Ei palloa</td>
       <td style="text-align:left">Käyttäjä ei ole paikalla; näkee hänelle tulleet viestit myöhemmin</td>
     </tr>
   </tbody>
