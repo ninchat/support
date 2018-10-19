@@ -10,13 +10,13 @@ Kanavan moderaattorit voivat poistaa hänet tiimikanavilta.
 Käyttäjä itse voi poistaa koko tilinsä Ninchatista.
 {% endhint %}
 
-## Tilin poistaminen käyttäjäasetuksista
+## Tilin poistaminen 
 
 Voit halutessasi poistaa käyttäjätilisi Ninchatista poistamalla kaikki kirjautumis-identiteetit.
 
 1. Klikkaa nuolta käyttäjänimesi vieressä, sivupalkin alaosassa.
 2. Valitse Asetukset ja profiili / Settings and profile
-3. Siirry Kirjautuminen / Authentication -välilehdelle
+3. Siirry asetuksissa Kirjautuminen / Authentication -välilehdelle
 4. Klikkaa Poista-kuvaketta \(roskakori\) jokaisen identiteetin kohdalla ja poista identiteetit
 5. Kirjaudu ulos palvelusta
 
