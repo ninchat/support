@@ -66,7 +66,7 @@ Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi
 
 {% page-ref page="kayttajan-lisaaminen-kanavalle.md" %}
 
-![](../.gitbook/assets/invite.png)
+![](../.gitbook/assets/invite%20%281%29.png)
 
 ## Yksityiskeskustelut tiimiläisten kesken {#yksityiskeskustelut-tiimilaisten-kesken}
 

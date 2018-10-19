@@ -2,8 +2,6 @@
 
 Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta. Mikäli et täältä löydä apua, voit kysyä meiltä [chatissa](https://ninchat.com/contact). 
 
-Huom! Monikielisyyden tuki ja UI-elementtien kielen vaihto tulossa myöhemmin.
-
 ## Usein kysyttyä
 
 {% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
@@ -18,9 +16,10 @@ Huom! Monikielisyyden tuki ja UI-elementtien kielen vaihto tulossa myöhemmin.
 
 {% page-ref page="julkiset-ryhmakeskustelut/" %}
 
+ 
+
 {% hint style="info" %}
-Vinkkejä:  
-Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
+Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
 {% endhint %}
 
 

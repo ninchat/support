@@ -16,7 +16,7 @@
 * [Tiimikanavat](tiimikanavat/README.md)
   * [Käyttäjän lisääminen kanavalle](tiimikanavat/kayttajan-lisaaminen-kanavalle.md)
   * [Kanavan asetukset](tiimikanavat/kanavan-asetukset.md)
-  * [Uuden kanavan luominen](tiimikanavat/uuden-kanavan-luominen.md)
+  * [Uuden kanavan luonti](tiimikanavat/uuden-kanavan-luonti.md)
   * [Yksityiskeskustelut](tiimikanavat/yksityiskeskustelut.md)
 * [Organisaatio](organisaatio/README.md)
   * [Uuden agentin lisääminen organisaatioon](organisaatio/uuden-agentin-lisaaminen-organisaatioon.md)

@@ -113,19 +113,51 @@ Asiakasneuvoja voi lähettää asiakkaalle kuia ja tiedostoja, ja hän neuvojall
 
 ## Asiakas-metatiedot
 
-Yleistä
+Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää: 
+
+* Salatusti asiakkaan palvelimelta \(Secure metadata\)
+* Webbisivulta keskustelun alussa ja reaaliaikaisesti keskutelun aikana
+* Ninchatin alku- ja loppukyselyvastaukset
+* Koottu metatieto esim. ostoskorin sisällöstä
+
+Keskustelun alkuun voidaan välittää perustiedot asiakkaasta, jotka ovat hyödyllisiä mm. ongelmatilanteita selvitettäessä. Alkutietoihin voi lisätä esim. selaintiedon, ruudun koon, chatin aloitussivun ja sinne linkanneen sivun, sekä IP-osoitteen ja lokaatiotiedot.
+
+![Tekniset tiedot asiakkaasta](../.gitbook/assets/metadata-customer.png)
+
+{% hint style="info" %}
+Kysy metatietojen lähettämisestä lisää Ninchatin henkilöstöltä.
+{% endhint %}
 
 ### Vahvasti salattu metatieto \(Secure metadata\)
 
-Secure metadata
+Asiakaspalvelijalle on mahdollista välittää asiakkaan sivustolle kirjautuneen käyttäjän tiedot salatusti asiakkaan palvelimelta. Myöhemmin chat-keskustelu tietoineen voidaan välittää takaisin esim. asiakkaan CRM-järjestelmään ja yhdistämään oikeaan käyttäjään tietojen perusteella.
+
+Kysy meiltä lisää, tai tutustu API-dokumentaatioon: 
+
+* [API - https://ninchat.com/api ](https://ninchat.com/api%20)
+* [Master keys & secure metadata - https://github.com/ninchat/ninchat-api/blob/v2/master.md](https://github.com/ninchat/ninchat-api/blob/v2/master.md)
 
 ### Kyselytiedot
 
-Alku- ja loppukyselyt
+Keskustelua edeltävän alkukyselyn tiedot välitetään asiakaspalvelijan keskustelunäkymän sivupalkkiin. Näin asiakkaan neuvominen nopeutuu ja helpottuu.
+
+Alkukyselyssä voidaan pyytää myös asiakkaan nimi ja viesti, jotka tulevat mukaan myös keskusteluun.
+
+Myös keskustelun jälkeen esitettävän loppukyselyn vastaukset ilmestyvät samaan paikkaan asiakkaan suljettua chatin.
+
+![Alkukyselytiedot keskustelussa](../.gitbook/assets/metadata-questionnaire%20%281%29.png)
 
 ### Live-metatiedot
 
-Muu live metadata, folded, yms.
+Asiakkaan toimista sivustolla on mahdollista välittää reaaliaikaista tietoa asiakaspalvelijalle  neuvomisen helpottamiseksi. Esimerkiksi asiakkaan täyttäessä lomaketta, tiedot voidaan kertoa suoraan asiakaspalvelijalle, kuten mm. jos asiakas vaihtaa sivua keskustelun aikana. 
+
+![Live-asiakas-metatieto](../.gitbook/assets/metadata-live.png)
+
+### Koottu metatieto
+
+Live-metadataa voidaan välittää asiakaspalvelijalle myös kootusti. Esim. ostoskorin sisältö ja toimitustiedot voidaan välittää salatusti kaikki kerralla, jolloin ne näytetään kootusti keskustelun sivupalkissa.
+
+![Yheen koottu asiakas-metatieto](../.gitbook/assets/metadata-live-folded.png)
 
 ## Valmisviestit 
 

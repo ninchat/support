@@ -9,17 +9,19 @@ Siirry asiakasjonon asetuksiin klikkaamalla jonon nimeä ja valitse Jonon asetuk
 
 ## Yleiset jonon asetukset
 
-![Asiakasjonon asetukset - Yleiset](../.gitbook/assets/queue-settings.png)
+![Jonon yleiset asetukset](../.gitbook/assets/queue-settings.png)
 
 Jonon yleisissä asetuksissa voit muokata seuraavia asioita:
 
-* Voit muuttaa jonon nimen
-* ~~Määrittää kuka voi lisätä tiedostoja~~
-* ~~Määrittää kuka voi aloittaa videokeskustelun \(jos käytössä\)~~
-* Valita liitetäänkö keskustelun alkuun asiakkaasta metadataa, kuten sijainti ja IP-osoite
-* Määrittää Secure metadatan pakolliseksi
+* Jonon nimi
+* Aseta, liitetäänkö keskustelun alkuun automaattisesti asiakkaasta metadataa, kuten sijainti ja IP-osoite. Muiden metatietojen lisäämisestä pyydä lisätietoa Ninchatin henkilöstöltä.
+* Määritä Salattu metadata pakolliseksi \(lisätietietoa kohdassa: Asiakasjonot ja -keskustelut\)
 
 Muista tallentaa tekemäsi muutokset.
+
+### Liitetiedostojen ja videon tuki
+
+Mikäli haluatte jonoon liitetiedostojen lisäämisen tai videopuhelun käytön, ottakaa yhteyttä Ninchatin henkilöstöön.
 
 ## Jonon ajastaminen
 

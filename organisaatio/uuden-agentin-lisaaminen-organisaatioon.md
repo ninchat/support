@@ -16,7 +16,7 @@ Henkilön lisääminen organisaatioon ja asiakasjonoihin tapahtuu seuraavasti:
 
 Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
 
-![](../.gitbook/assets/invite.png)
+![](../.gitbook/assets/invite%20%281%29.png)
 
 1. Klikkaa jäsenlistan lopussa "Kutsu väkeä / Invite people" -linkkiä.
 2. Kirjoita kutsuttavan henkilön sähköpostiosoite kenttään ja paina Enter.

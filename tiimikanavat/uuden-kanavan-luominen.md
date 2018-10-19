@@ -1,2 +1,0 @@
-# Uuden kanavan luominen
-

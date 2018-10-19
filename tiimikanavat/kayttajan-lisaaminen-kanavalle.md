@@ -8,7 +8,7 @@ description: Uuden agentin kutsuminen kanavalle
 
 Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
 
-![Kanavakutsun l&#xE4;hett&#xE4;minen](../.gitbook/assets/invite.png)
+![Kanavakutsun l&#xE4;hett&#xE4;minen](../.gitbook/assets/invite%20%281%29.png)
 
 1. Klikkaa jäsenlistan lopussa "Kutsu väkeä / Invite people" -linkkiä.
 2. Kirjoita kutsuttavan henkilön sähköpostiosoite tai Ninchat-käyttäjänimi kenttään ja paina Enter.
