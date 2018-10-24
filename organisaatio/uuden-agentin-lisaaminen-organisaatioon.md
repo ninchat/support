@@ -12,7 +12,7 @@ Henkilön lisääminen organisaatioon ja asiakasjonoihin tapahtuu seuraavasti:
 2. Liittymisen jälkeen agentti lisätään organisaation jäseneksi.
 3. Agentille annetaan oikeudet vastata jonoon.
 
-## Henkilön kutsuminen tiimikanavalle {#henkilon-kutsuminen-tiimikanavalle}
+## Henkilön kutsuminen tiimikanavalle <a id="henkilon-kutsuminen-tiimikanavalle"></a>
 
 Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
 

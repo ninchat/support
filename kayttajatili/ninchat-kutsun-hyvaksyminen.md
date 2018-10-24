@@ -18,7 +18,7 @@ Kutsulinkit vanhenevat 14 vuorokauden jälkeen. Mikäli kutsulinkki ei toimi, ta
 Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.
 {% endhint %}
 
-## **Käyttäjätunnuksen luonti** {#kayttajatunnuksen-luonti}
+## **Käyttäjätunnuksen luonti** <a id="kayttajatunnuksen-luonti"></a>
 
 {% page-ref page="kayttajatilin-luonti.md" %}
 

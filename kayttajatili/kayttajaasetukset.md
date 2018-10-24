@@ -30,7 +30,7 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 
 
 
-## Kirjautumisvalinnat {#profiili}
+## Kirjautumisvalinnat <a id="profiili"></a>
 
 Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen sähköpostiosoitteen kirjautumiseen. 
 

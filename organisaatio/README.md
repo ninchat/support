@@ -23,13 +23,13 @@ Organisaatioasetuksiin pääset klikkaamalla ylärivillä organisaation tai kana
 Ensimmäisellä välilehdellä näet organisaatioon lisätyt agentit. Operaattoriagentit on merkattu tähdellä. \(Huom. organisaation operaattori on eri asia kuin yksittäisen tiimikanavan operaattori.\)  
 Organisaation omistaja on merkitty avain-kuvakkeella.
 
-### Organisaation jäsenten haku {#organisaation-jasenten-haku}
+### Organisaation jäsenten haku <a id="organisaation-jasenten-haku"></a>
 
 Mikäli organisaatiossa on paljon jäseniä, heidät jaotellaan usealle sivulle, joita voit selata.
 
 Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan nimestä hakukenttään listan yläpuolella.
 
-### Käyttäjän oikeuksien muokkaus {#kayttajan-oikeuksien-muokkaus}
+### Käyttäjän oikeuksien muokkaus <a id="kayttajan-oikeuksien-muokkaus"></a>
 
 Klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
 

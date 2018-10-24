@@ -24,7 +24,7 @@ Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan l
 
 ![](../.gitbook/assets/invite-accept-signup.png)
 
-###  {#verifying-account}
+###  <a id="verifying-account"></a>
 
 ## Tunnuksen vahvistaminen
 

@@ -68,11 +68,11 @@ Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi
 
 ![](../.gitbook/assets/invite%20%281%29.png)
 
-## Yksityiskeskustelut tiimiläisten kesken {#yksityiskeskustelut-tiimilaisten-kesken}
+## Yksityiskeskustelut tiimiläisten kesken <a id="yksityiskeskustelut-tiimilaisten-kesken"></a>
 
 {% page-ref page="yksityiskeskustelut.md" %}
 
-## Viestien ja tiedostojen lähettäminen {#viestien-ja-tiedostojen-lahettaminen}
+## Viestien ja tiedostojen lähettäminen <a id="viestien-ja-tiedostojen-lahettaminen"></a>
 
 Kirjoita viestit tekstikenttään keskustelun alla. Tekstikenttä kasvaa pidempää viestiä kirjoitettaessa. Lähetä viesti klikkaamalla nuoli-kuvaketta tai näppäimistön \[Enter\]-painiketta. Mikäli haluat tehdä kommenttiin rivinvaihdon, klikkaa näppäimistöltä \[Shift\] + \[Enter\].
 

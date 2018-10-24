@@ -39,7 +39,7 @@ Embed-script-tägin suosittelemme sijoittamaan web-sivun body-elementin loppuun.
 Mikäli sivustolla käytetään sekä yksityistä asiakaspalvelu-chattia että julkista ryhmäkeskustelua, ne tulee käynnistää samalla upotus-script-tagilla. Samalla sivulla ei voi olla useaa upotuskoodia, muuten chattien toiminta menee sekaisin.
 {% endhint %}
 
-## Mitä asiakkaan tulee selvittää {#mita-asiakkaan-tulee-selvittaa}
+## Mitä asiakkaan tulee selvittää <a id="mita-asiakkaan-tulee-selvittaa"></a>
 
 * Mille sivu\(i\)lle ryhmä-chat tulee ja käytetäänkö samalla sivulla yksityistä asiakaspalvelu-chattia?
 * Sijoitetaanko ryhmäkeskustelu osaksi sivun sisältöä, vai kelluvaan ikkunaan?

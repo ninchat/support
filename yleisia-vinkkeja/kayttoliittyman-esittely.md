@@ -9,7 +9,7 @@ Jos haluat käyttää agentin näkymää suomen kielellä, käytä osoittena
 [https://ninchat.com/app?lang=fi](https://ninchat.com/app?lang=fi)
 {% endhint %}
 
-## Yleisnäkymä ja tiimikanava {#yleisnakyma-ja-tiimikanava}
+## Yleisnäkymä ja tiimikanava <a id="yleisnakyma-ja-tiimikanava"></a>
 
 Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskustelun toiminnot
 
@@ -152,7 +152,7 @@ Klikkaamalla nuolta nimesi vieressä saat avattua käyttäjävalikon, jonka kaut
 * Näyttää/piilottaa Suodatuskentän
 * Kirjautua ulos palavelusta
 
-### Suodatus/hakukenttä {#suodatus-haku-kentta}
+### Suodatus/hakukenttä <a id="suodatus-haku-kentta"></a>
 
 ![Suodatus/hakukentt&#xE4;](../.gitbook/assets/sidebar-menus-5%20%281%29.png)
 
@@ -161,7 +161,7 @@ Mikäli sinulla on iso määrä kanavia ja keskusteluita Sidebarissa, voit suoda
 Kirjoita hakemasi keskustelun tai käyttäjän nimi tai osa siitä, ja keskustelulistan sisältö rajataan näihin.  
 Näytä kaikki keskustelut jälleen poistamalla hakuteksti kirjoituskentästä.
 
-## Kirjoituskenttä ja keskustelun sivupalkki {#kirjoituskentta-ja-keskustelun-sivupalkki}
+## Kirjoituskenttä ja keskustelun sivupalkki <a id="kirjoituskentta-ja-keskustelun-sivupalkki"></a>
 
 ![](../.gitbook/assets/textarea.png)
 

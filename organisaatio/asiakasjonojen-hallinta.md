@@ -22,7 +22,7 @@ Klikkaamalla jonon nimeä pääset muokkaaman kyseisen jonon asetuksia ja aikata
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
 
-## Tunnisteet \(Tägit\)  {#keskustelumerkintojen-hallinta-tagit}
+## Tunnisteet \(Tägit\)  <a id="keskustelumerkintojen-hallinta-tagit"></a>
 
 Tunnisteet eli tägit ovat helppo ja nopea tapa agenteille luokitella asiakaskeskusteluja.
 

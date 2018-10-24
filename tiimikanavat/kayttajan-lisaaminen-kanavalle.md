@@ -4,7 +4,7 @@ description: Uuden agentin kutsuminen kanavalle
 
 # Käyttäjän lisääminen kanavalle
 
-## Kutsun lähettäminen {#henkilon-kutsuminen-tiimikanavalle}
+## Kutsun lähettäminen <a id="henkilon-kutsuminen-tiimikanavalle"></a>
 
 Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
 
