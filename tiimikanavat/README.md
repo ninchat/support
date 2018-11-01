@@ -84,14 +84,14 @@ Mikäli tiedostojen lisääminen on sallittu, klemmari-kuvaketta klikkaamalla vo
 
 #### Valmisviestit
 
-Asiakaspalvelun valmisviestejä \(canned messages\) voi käyttää myös kanavilla vaikka niitä ei listana näytetäkään. Kirjoittamalla vinoviivan \[ / \] ja valmisviestin avainsanan ja klikkaamalla \[Välilyönti\]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. Esim:
+Asiakaspalvelun valmisviestejä \(canned messages\) voi käyttää myös kanavilla vaikka niitä ei listana näytetäkään. Kirjoittamalla vinoviivan \[ / \] ja valmisviestin avainsanan ja klikkaamalla \[VÄLILYÖNTI\]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. Esim:
 
 | Avainsana | Valmisviesti |
 | :--- | :--- |
 | avoinna | Palvelemme arkipäivisin klo 9 - 17. |
 
 ```text
-/avoinna[välilyönti]  --> Palvelemme arkipäivisin klo 9 - 17.
+/avoinna[VÄLILYÖNTI]  --> Palvelemme arkipäivisin klo 9 - 17.
 ```
 
 ## Kanavalta poistuminen
