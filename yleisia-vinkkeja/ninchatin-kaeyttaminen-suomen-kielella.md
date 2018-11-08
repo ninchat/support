@@ -6,7 +6,7 @@ description: Näin käytät Ninchat.comia suomeksi
 
 #### Mikäli haluat käyttää Ninchatia suomeksi, mene osoitteeseen 
 
-[https://ninchat.com/app​?lang=fi](https://ninchat.com/app​?lang=fi) 
+[https://ninchat.com/app​/?lang=fi](https://ninchat.com/app/?lang=fi)
 
 Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Yleisiä vinkkejä &gt; Pikakuvakkeet Ninchatiin"
 
