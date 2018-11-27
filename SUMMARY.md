@@ -2,6 +2,7 @@
 
 * [Ninchat-tuki: aloitus](README.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
+  * [Ongelmatilanteet käyttöliittymässä](yleisia-vinkkeja/ongelmatilanteet-kaeyttoeliittymaessae.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Käyttöliittymän esittely](yleisia-vinkkeja/kayttoliittyman-esittely.md)
   * [Unohtunut salasana](yleisia-vinkkeja/unohtunut-salasana.md)

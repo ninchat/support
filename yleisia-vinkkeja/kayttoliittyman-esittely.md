@@ -190,5 +190,15 @@ Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksist
 
 {% page-ref page="../organisaatio/" %}
 
+## Ongelmatilanteet
 
+#### Kanavan jäsenlista ei näy
+
+Kanavan jäsenlista \(oikean puoleisin sivupalkki\) on mahdollista pitää näkyvissä tai piilottaa. Mikäli lista ei näy, voit palauttaa sen avaamalla valikon käyttäjänimesi vieressä olevasta nuoli-kuvakkeesta vasemman palstan \(Sidebar\) alapäässä. Valitse valikosta "Näytä jäsenet / Show members".
+
+![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/sidebar-menus-2.png)
+
+#### Oikeanpuolimmainen palsta \(valmisviestit, tägit\) ei näy asiakaskeskusteluissa
+
+Asiakaskeskustelun työkalut \(muistiinpanot, valmisviestit, tägit, ...\) on mahdollista näyttää tai piilottaa klikkaamalla viestinlähetyskentän vieressä olevaa ![](../.gitbook/assets/menu-ikoni%20%281%29.png)-ikonia. Ikoni näkyy vain asikaskeskusteluissa.
 
