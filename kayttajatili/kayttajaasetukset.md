@@ -4,31 +4,31 @@ description: Profiili ja asetukset
 
 # Käyttäjäasetukset
 
-## Käyttäjäasetuksiin siirtyminen
+## Käyttäjäasetuksiin siirtyminen <a id="kayttajaasetuksiin-siirtyminen"></a>
 
 Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavasti:
 
 1. Klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.
 2. Valitse "Asetukset ja profiili / Settings and profile"
 
-Omat asetukset on jaettu eri välilehdille. Muokattuasi asetuksia, muista painaa "Tallenna" -nappia, jos haluat säilyttää muutokset.
-
 ![](../.gitbook/assets/user-menu%20%281%29.png)
+
+## Käyttäjäasetukset-näkymä <a id="kayttajaasetukset-nakyma"></a>
+
+Omat asetukset on jaettu eri välilehdille. Muokattuasi asetuksia, muista painaa "Tallenna / Save" -nappia, jos haluat säilyttää muutokset.
 
 ## Profiili
 
 Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat tunnistaa sinut helposti.
 
 1. Kirjoita haluamasi näyttönimi kohtaan Lempinimi / Screen name
-2. Kirjoita oikea nimsi kohtaan Koko nimi / Real name
+2. Kirjoita oikea nimesi kohtaan Koko nimi / Real name
    * Tätä ei näytetä esim. asiakkaille asiakaspalvelukeskusteluissa
 3. Lisää itsellesi käyttäjäkuva \(jpg- tai png-kuvatiedosto\)
    * Kuva helpottaa tunnistamista tiimiläisten kesken
 4. Tallenna
 
-![](../.gitbook/assets/user-settings-profile%20%281%29.png)
-
-
+![K&#xE4;ytt&#xE4;j&#xE4;profiili ja -tiedot](../.gitbook/assets/user-settings-profile%20%281%29.png)
 
 ## Kirjautumisvalinnat <a id="profiili"></a>
 
@@ -38,7 +38,7 @@ Voit myös valita näkyykö sähköpostiosoitteesi kaikille Ninchatin käyttäji
 
 Tallenna lopuksi muutokset.
 
-![](../.gitbook/assets/user-settings-authentication.png)
+![Kirjautumisvalinnat](../.gitbook/assets/user-settings-authentication.png)
 
 
 

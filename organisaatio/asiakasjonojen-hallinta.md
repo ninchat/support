@@ -40,13 +40,34 @@ Organisaation operaattorit voivat lisätä, muokata ja poistaa tägejä.
 Sites-välilehdellä voidaan muokata asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen tekstejä, tyylejä ja asetuksia.
 
 {% hint style="info" %}
-Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuuksia. Pyydä Ninchatin henkilöstön tehdä muutokset, mikäli et itse osaa.
+Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuuksia. Pyydä Ninchatin henkilöstöä tekemään muutokset, mikäli koet sen hankalaksi.
 {% endhint %}
 
 ![](../.gitbook/assets/organization-sites.png)
 
-Asiakaspalvelu-chatin voi nopeasti poistaa käytöstä disabloimalla site-konfiguraation. Klikkaa editorinäkymässä "Disable-nappia. Konfiguraatio näkyy disabloituna listassa tämän jälkeen.  
-Voit palauttaa chatin taas käyttöön klikkaamalla editorissa "Enable"-nappia.
+### Chatin tekstien muokkaaminen
+
+Avaa konfiguraatio klikkaamalla kynä-ikonia oikeassa laidassa.
+
+Konfiguraatioeditorissa näet chatin asetukset, tekstit ja käännökset. Niitä voi muuttaa siitä haluamakseen. Tekstien seassa saattaa näkyä HTML-elementtejä, kuten _&lt;p&gt;&lt;/p&gt;_ \(kappale\), _&lt;br&gt;_ \(rivinvaihto\).  
+Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
+
+#### Yleisimpiä muutettavia tekstejä
+
+| Elementti | Kuvaus |
+| :--- | :--- |
+| welcome | Chatin alkunäkymän yläosan sisältö |
+| motd | Chatin alkunäkymän alaosan sisältö |
+| noQueuesText | Opasteteksti chatin ollessa suljettuna \(Yhteydenottolomake korvaa tekstin, mikäli se on asetettu käyttön.\) |
+| inQueueText | Opasteteksti jonotusnäkymässä |
+| userName | Asiakkaan vakionimi keskutelussa |
+
+Muista tallentaa muutokset.
 
 ![](../.gitbook/assets/organization-sites-1.png)
+
+### Chatin ottaminen pois käytöstä
+
+Asiakaspalvelu-chatin voi nopeasti poistaa kokonaan käytöstä disabloimalla site-konfiguraation. Klikkaa editorinäkymässä "Disable-nappia. Konfiguraatio näkyy tämän jälkeen listalla disabloituna.  
+Voit palauttaa chatin taas käyttöön klikkaamalla editorissa "Enable"-nappia.
 
