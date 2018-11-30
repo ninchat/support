@@ -81,7 +81,7 @@ Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonos
 
 ## Korostukset
 
-Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut keskustelussa. Voit tämän ohella asettaa haluamasi korostussanoja, jolloin saat ilmoituksen, kun ne mainitaan keskusteluissa. 
+Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut keskustelussa. Voit tämän ohella asettaa haluamiasi korostussanoja, jolloin saat ilmoituksen, kun ne mainitaan keskusteluissa. 
 
 #### **Korostussanan luominen**
 
@@ -112,7 +112,7 @@ Ruksaa, ellet halua nähdä Käyttäjä liittyi/poistui -viestejä kanavan kesku
 
 #### Näytä piilotetut viestit kanavalla
 
-\(Julkiset ryhmäkeskustelut\) Kavan moderaattorioikeuksilla viestejä voidaan piilottaa. Mikäli haluat nähdä piilotetut viestit, ruksaa kohta.
+\(Julkiset ryhmäkeskustelut\) Kanavan moderaattorioikeuksilla viestejä voidaan piilottaa. Mikäli haluat nähdä piilotetut viestit, ruksaa kohta.
 
 #### Älä vahvista moderaattoritoimenpiteitä
 
@@ -120,7 +120,7 @@ Kanavan moderaattorityökaluilla tehdyt toimenpiteet, kuten viestin piilottamine
 
 #### Käytä uutta käyttöliittymää
 
-Huom! Älä vaihda, jotta Ninchat toimisi oikein! \(Valinta on poistumassa\) 
+ Huom! Älä poista valintaa! Tärkeää, jotta Ninchat toimii oikein. \(Valinta on poistumassa.\)
 
 Muista tallentaa muutokset.
 
@@ -137,7 +137,7 @@ Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai 
 ### Uuden valmisviestin luominen
 
 1. Klikkaa käyttäjäasetusten Valmisviestit-välilehdellä "Luo uusi viesti"
-2. Listaan ilmestyy uusi "avain: viesti" -pari.
+2. Listaan ilmestyy uusi "avainsana: viesti" -pari.
 3. Klikkaa Muokkaus-ikonia 
 4. Kirjoita haluttu avainsana - saa sisältää pieniä kirjaimia \(a-z\) ja numeroita
 5. Kirjoita valmisviestin teksti

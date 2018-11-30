@@ -62,7 +62,7 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
   </tbody>
 </table>## Käyttäjän lisääminen kanavalle
 
-Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Kats tarkemmat ohjeet kohdassa Käyttäjän lisääminen kanavalle:
+Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Katso tarkemmat ohjeet kohdassa Käyttäjän lisääminen kanavalle:
 
 {% page-ref page="kayttajan-lisaaminen-kanavalle.md" %}
 
@@ -74,9 +74,9 @@ Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi
 
 ## Viestien ja tiedostojen lähettäminen <a id="viestien-ja-tiedostojen-lahettaminen"></a>
 
-Kirjoita viestit tekstikenttään keskustelun alla. Tekstikenttä kasvaa pidempää viestiä kirjoitettaessa. Lähetä viesti klikkaamalla nuoli-kuvaketta tai näppäimistön \[Enter\]-painiketta. Mikäli haluat tehdä kommenttiin rivinvaihdon, klikkaa näppäimistöltä \[Shift\] + \[Enter\].
+Kirjoita viestit tekstikenttään keskustelun alla. Tekstikenttä kasvaa pidempää viestiä kirjoitettaessa. Lähetä viesti klikkaamalla nuoli-kuvaketta tai näppäimistön \[Enter\]-painiketta. Mikäli haluat tehdä viestiin rivinvaihdon, klikkaa näppäimistöltä \[Shift\] + \[Enter\].
 
-Voit lisätä kommenttiin hymiöitä klikkaamalla hymynaama-kuvaketta.
+Voit lisätä viestiin hymiöitä klikkaamalla hymynaama-kuvaketta.
 
 #### Tiedostot
 

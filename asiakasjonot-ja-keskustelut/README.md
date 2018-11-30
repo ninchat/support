@@ -22,7 +22,7 @@ Asiakkaat voivat liittyä nyt jonoon.
 #### Jonon sulkeminen
 
 Klikkaa jonon nimeä ja valitse valikosta "Sulje jono / Close queue".  
-Asiakkaat eivät tämän jälkeen voi aloittaa chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai ha päättävät sulkea chatin/ikkunan.
+Asiakkaat eivät tämän jälkeen voi aloittaa chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai he päättävät sulkea chatin/ikkunan.
 
 #### Asiakasjonon ajastaminen
 
@@ -52,7 +52,7 @@ Lue automaattisesta ajastamisesta [Jonon asetukset &gt; Jonon ajastaminen](https
 3. Keskustelu alkaa ja avautuu näkymään
 
 {% hint style="info" %}
-Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet tämän palkin sinisenä, vaikka olisit esim. toisessa organisaatiossa kuin missä kyseinen jono sijaitsee.
+Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet tämän palkin sinisenä, vaikka sinulla olisi ilmoituksen tullessa avattuna toisen organisaation näkymä.
 {% endhint %}
 
 {% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
@@ -109,14 +109,14 @@ Poimittuasi asiakkaan jonosta keskustelu alkaa.
 
 ### Kuvat ja tiedostot
 
-Asiakasneuvoja voi lähettää asiakkaalle kuia ja tiedostoja, ja hän neuvojalle, mikäli tämä on sallittu chatin asetuksissa.
+Asiakasneuvoja voi lähettää asiakkaalle kuvia ja tiedostoja, ja hän neuvojalle, mikäli tämä on sallittu chatin asetuksissa.
 
 ## Asiakas-metatiedot
 
 Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää: 
 
 * Salatusti asiakkaan palvelimelta \(Secure metadata\)
-* Webbisivulta keskustelun alussa ja reaaliaikaisesti keskutelun aikana
+* Webbisivulta keskustelun alussa ja reaaliaikaisesti keskustelun aikana
 * Ninchatin alku- ja loppukyselyvastaukset
 * Koottu metatieto esim. ostoskorin sisällöstä
 
@@ -157,9 +157,9 @@ Asiakkaan toimista sivustolla on mahdollista välittää reaaliaikaista tietoa a
 
 Live-metadataa voidaan välittää asiakaspalvelijalle myös kootusti. Esim. ostoskorin sisältö ja toimitustiedot voidaan välittää salatusti kaikki kerralla, jolloin ne näytetään kootusti keskustelun sivupalkissa.
 
-![Yheen koottu asiakas-metatieto](../.gitbook/assets/metadata-live-folded.png)
+![Yhteen koottu asiakas-metatieto](../.gitbook/assets/metadata-live-folded.png)
 
-## Valmisviestit 
+## Valmisviestit
 
 Valmisviestit nopeuttavat ja helpottavat asiakaspalvelijan työtä. Voit hoitaa usein kysytyt kysymykset valitsemalla vastauksen suoraan listalta.
 
@@ -247,13 +247,15 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
       <td style="text-align:left">Mozilla Firefox, Apple Safari</td>
     </tr>
   </tbody>
-</table>## Tunnisteet \(tägit\)
+</table>
+
+## Tunnisteet \(tägit\)
 
 Asiakaspalvelija voi merkata asiakaskeskusteluita tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esin. "myynti", "uusi asiakas", "ongelma", "bugi", ... Tägäys helpottaa myöhemmin keskutelujen tilastointia sekä tarkastelua.
 
 #### Keskustelun merkitseminen
 
-Agentti voi lisätä merkinnäin klikkaamalla tägejä keskustelun sivupalkissa. Lisätyt tägit ilmestyvät ja tallentuvat keskustelun metatietoihin keskustelun alkuun.
+Agentti voi lisätä merkinnän klikkaamalla tägejä keskustelun sivupalkissa. Lisätyt tägit ilmestyvät ja tallentuvat keskustelun metatietoihin keskustelun alkuun.
 
 #### Tagien luonti ja muokkaus
 
