@@ -8,7 +8,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 {% page-ref page="unohtunut-salasana.md" %}
 
-## Käyttöliittymä rikki?
+## Käyttöliittymä rikki? <a id="kayttoliittyma-rikki"></a>
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen näkymän - sivupalkkioikealla?
 
@@ -21,7 +21,7 @@ Näkymä pitäisi nyt korjaantua.
 
 ![](../.gitbook/assets/user-settings-view-old-ui.png)
 
-## Tiimikanavia ei näy?
+## Tiimikanavia ei näy? <a id="tiimikanavia-ei-nay"></a>
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 
@@ -37,7 +37,7 @@ Kutsulinkki ei toimi ja saat virheilmoituksen yrittäessäsi hyväksyä kutsun?
 
 Kutsu on todennäköisesti vanhentunut. Kutsulinkit ovat voimassa 14 vuorokautta. Pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
 
-## Pyydä apua chatissa
+## Pyydä apua chatissa <a id="pyyda-apua-chatissa"></a>
 
 Mikäli mikään näistä neuvoista ei auttanut, voit kysyä meiltä apua asiakaspalveluchatissa.
 
