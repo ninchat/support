@@ -23,21 +23,25 @@ Organisaatioasetuksiin pääset klikkaamalla ylärivillä organisaation tai kana
 Ensimmäisellä välilehdellä näet organisaatioon lisätyt agentit. Operaattoriagentit on merkattu tähdellä. \(Huom. organisaation operaattori on eri asia kuin yksittäisen tiimikanavan operaattori.\)  
 Organisaation omistaja on merkitty avain-kuvakkeella.
 
-### Organisaation jäsenten haku <a id="organisaation-jasenten-haku"></a>
-
-Mikäli organisaatiossa on paljon jäseniä, heidät jaotellaan usealle sivulle, joita voit selata.
-
-Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan nimestä hakukenttään listan yläpuolella.
-
 ### Käyttäjän oikeuksien muokkaus <a id="kayttajan-oikeuksien-muokkaus"></a>
 
 Klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
 
 * Lisää/poista hänet käsittelijäksi asiakaspalvelujonoihin.
 * Lisää/poista agentilta organisaation operaattorioikeudet
-* Poistaa hänet orgnisaatiosta - toiminta poistaa käyttäjän jonoista ja organisaatiosta. Agentti tulee erikseen poistaa tiimikanavilta kanavien jäsenlistan kautta.
+* Poistaa hänet orgznisaatiosta - toiminta poistaa käyttäjän jonoista ja organisaatiosta. Agentti tulee erikseen poistaa tiimikanavilta kanavien jäsenlistan kautta.
 
-![Organisaation j&#xE4;senten haku/suodatus ja j&#xE4;senlista](../.gitbook/assets/organization-members%20%282%29.png)
+Katso lisää kohdassa _Agentin lisääminen jonon käsittelijäksi_.
+
+![Organisation j&#xE4;senlista](../.gitbook/assets/organization-organization%20%281%29.png)
+
+### Organisaation jäsenten haku <a id="organisaation-jasenten-haku"></a>
+
+Mikäli organisaatiossa on paljon jäseniä, heidät jaotellaan usealle sivulle, joita voit selata.
+
+Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan nimestä hakukenttään listan yläpuolella.
+
+![Organisaation j&#xE4;senten haku](../.gitbook/assets/organization-search.png)
 
 ## Uuden agentin lisääminen organisaatioon
 
