@@ -28,6 +28,7 @@
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
   * [Asiakkaan chat-näkymä](asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md)
+  * [Hyödyllisiä vinkkejä](asiakasjonot-ja-keskustelut/hyoedyllisiae-vinkkejae.md)
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
   * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelut/ryhmaekeskustelun-asiakasnaekymae.md)
