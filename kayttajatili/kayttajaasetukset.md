@@ -11,7 +11,7 @@ Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavast
 1. Klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.
 2. Valitse "Asetukset ja profiili / Settings and profile"
 
-![](../.gitbook/assets/user-menu%20%281%29.png)
+![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/user-menu.png)
 
 ## Käyttäjäasetukset-näkymä <a id="kayttajaasetukset-nakyma"></a>
 
@@ -28,7 +28,7 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
    * Kuva helpottaa tunnistamista tiimiläisten kesken
 4. Tallenna
 
-![K&#xE4;ytt&#xE4;j&#xE4;profiili ja -tiedot](../.gitbook/assets/user-settings-profile%20%281%29.png)
+![K&#xE4;ytt&#xE4;j&#xE4;profiili ja -tiedot](../.gitbook/assets/user-settings.png)
 
 ## Kirjautumisvalinnat <a id="profiili"></a>
 
@@ -38,7 +38,7 @@ Voit myös valita näkyykö sähköpostiosoitteesi kaikille Ninchatin käyttäji
 
 Tallenna lopuksi muutokset.
 
-![Kirjautumisvalinnat](../.gitbook/assets/user-settings-authentication.png)
+![Kirjautumisvalinnat](../.gitbook/assets/user-auth.png)
 
 
 
@@ -77,7 +77,7 @@ Tallenna muutokset.
 Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
 {% endhint %}
 
-![](../.gitbook/assets/user-settings-notifications.png)
+![Ilmoitusvalinnat](../.gitbook/assets/user-notifications.png)
 
 ## Korostukset
 
@@ -90,7 +90,7 @@ Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut k
 3. Ilmoitukset-välilehdellä korostussana-ilmoituksista voi asettaa hälytyksen myös sähköpostiin.
 4. Tallenna muutokset.
 
-![Korostussanojen asettaminen](../.gitbook/assets/user-settings-highlights%20%281%29.png)
+![](../.gitbook/assets/user-highlights.png)
 
 #### **Korostussanojen näkyminen keskustelussa**
 
@@ -124,7 +124,7 @@ Kanavan moderaattorityökaluilla tehdyt toimenpiteet, kuten viestin piilottamine
 
 Muista tallentaa muutokset.
 
-![](../.gitbook/assets/user-settings-view%20%281%29.png)
+![N&#xE4;kym&#xE4;valinnat](../.gitbook/assets/user-view.png)
 
 
 
@@ -132,7 +132,7 @@ Muista tallentaa muutokset.
 
 Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai tarkkojen asioiden kanssa. Voit asiakas-chatissa valita valmiiksi asetettuja viestejä yhdellä klikkauksella keskustelun sivupalkista.
 
-![](../.gitbook/assets/user-settings-canned-msgs.png)
+![K&#xE4;ytt&#xE4;j&#xE4;n valmisviestit](../.gitbook/assets/user-canned.png)
 
 ### Uuden valmisviestin luominen
 
