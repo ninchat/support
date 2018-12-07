@@ -4,8 +4,6 @@ description: Organisaation hallinta
 
 # Organisaatio
 
-_\[ Osittain kesken koska organisaatioasetukset tulevat muuttumaan \]_
-
 ## Käyttäjäoikeustasot
 
 | Taso | Oikeudet |
