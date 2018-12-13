@@ -6,6 +6,14 @@ description: Kirjanmerkit ja pikakuvakkeet
 
 Voit helpottaa Nincatin käynnistämistä ja käyttöä pikakuvakkeilla ja kirjanmerkeillä. Alla opastus eri selainten sallimiin toimintoihin.
 
+{% hint style="info" %}
+#### Luo kirjanmerkki/pikakuvake suoraan tietylle kanavalle
+
+Voit käynnistää Ninchatin aina halumallesi kanavalle luomalla selaimessa kirjanmerkin, kun sinulla on ko. kanava avoinna. Osoite on muotoa: [https://ninchat.com/app/\#/c/1p255nth008](https://ninchat.com/app/#/c/1p255nth008)
+
+Mikäli haluat käyttää Ninchatia suomeksi, lisää osoitteeseen ​_?lang=fi_ -määritys, esim. [https://ninchat.com/app/?lang=fi\#/c/1p255nth008](https://ninchat.com/app/?lang=fi#/c/1p255nth008)
+{% endhint %}
+
 ## Google Chrome -selain <a id="google-chrome-selain"></a>
 
 Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläriville kirjanmerkin, tai tekemällä Ninchatille oman käynnistyspikakuvakkeen Windowsin työpöydälle.
