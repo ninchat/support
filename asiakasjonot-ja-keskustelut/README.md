@@ -115,12 +115,12 @@ Asiakasneuvoja voi lähettää asiakkaalle kuvia ja tiedostoja, ja hän neuvojal
 
 Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää: 
 
-* Salatusti asiakkaan palvelimelta \(Secure metadata\)
+* Salatusti sopimuskumppanin palvelimelta \(secure metadata\)
 * Webbisivulta keskustelun alussa ja reaaliaikaisesti keskustelun aikana
 * Ninchatin alku- ja loppukyselyvastaukset
 * Koottu metatieto esim. ostoskorin sisällöstä
 
-Keskustelun alkuun voidaan välittää perustiedot asiakkaasta, jotka ovat hyödyllisiä mm. ongelmatilanteita selvitettäessä. Alkutietoihin voi lisätä esim. selaintiedon, ruudun koon, chatin aloitussivun ja sinne linkanneen sivun, sekä IP-osoitteen ja lokaatiotiedot.
+Keskustelun alkuun voidaan välittää asiakkaasta perustiedot, jotka ovat hyödyllisiä mm. ongelmatilanteita selvitettäessä. Alkutietoihin voi lisätä esim. selaintiedon, ruudun koon, chatin aloitussivun ja sinne linkanneen sivun, sekä IP-osoitteen ja sijaintitiedot.
 
 ![Tekniset tiedot asiakkaasta](../.gitbook/assets/metadata-customer.png)
 
@@ -128,9 +128,9 @@ Keskustelun alkuun voidaan välittää perustiedot asiakkaasta, jotka ovat hyöd
 Kysy metatietojen lähettämisestä lisää Ninchatin henkilöstöltä.
 {% endhint %}
 
-### Vahvasti salattu metatieto \(Secure metadata\)
+### Vahvasti salattu metatieto \(secure metadata\)
 
-Asiakaspalvelijalle on mahdollista välittää asiakkaan sivustolle kirjautuneen käyttäjän tiedot salatusti asiakkaan palvelimelta. Myöhemmin chat-keskustelu tietoineen voidaan välittää takaisin esim. asiakkaan CRM-järjestelmään ja yhdistämään oikeaan käyttäjään tietojen perusteella.
+Asiakaspalvelijalle on mahdollista välittää sopimuskumppanin sivustolle kirjautuneen käyttäjän tiedot salatusti sopimuskumppanin palvelimelta. Myöhemmin chat-keskustelu tietoineen voidaan välittää takaisin esim. sopimuskumppanin CRM-järjestelmään ja yhdistää oikeaan käyttäjään tietojen perusteella.
 
 Kysy meiltä lisää, tai tutustu API-dokumentaatioon: 
 
