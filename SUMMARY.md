@@ -8,7 +8,7 @@
   * [Unohtunut salasana](yleisia-vinkkeja/unohtunut-salasana.md)
   * [Ongelmatilanteet sisäänkirjautumisessa](yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md)
   * [Pikakuvakkeet Ninchatiin](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
-  * [Ninchatin käyttäminen suomen kielellä](yleisia-vinkkeja/ninchatin-kaeyttaminen-suomen-kielella.md)
+  * [Ninchatin käyttäminen suomen kielellä](yleisia-vinkkeja/ninchatin-kayttaminen-suomen-kielella.md)
   * [Tunnuksen poistaminen](yleisia-vinkkeja/tunnuksen-poistaminen.md)
 * [Käyttäjätili](kayttajatili/README.md)
   * [Ninchat-kutsun hyväksyminen](kayttajatili/ninchat-kutsun-hyvaksyminen.md)

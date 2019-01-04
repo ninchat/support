@@ -6,7 +6,7 @@ description: Yleisiä käytettyjä termejä
 
 | Termi | Selite |
 | :--- | :--- |
-| **Ninchat** | Chat-palvelun nimi |
+| **Ninchat** | Chat-palvelun nimi  |
 | **Agentti** | Henkilö, joka käyttää Ninchata ninchat.comin kautta, ei upotettavaa asiaskanäkymää |
 | **Jono** | Asiakaspalvelu-chatin jono, josta agentti poimii asiakkaan kahdenväliseen keskusteluun |
 | **Kanava** | Keskusteluhuone usean henkilön jutusteluun; voidaan käyttää sisäiseen tiimiviestintään tai web-sivulle upotettavaan julkiseen ryhmäkeskusteluun |
