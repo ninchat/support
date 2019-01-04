@@ -2,7 +2,7 @@
 
 ## Käyttöliittymä rikki? <a id="kayttoliittyma-rikki"></a>
 
-Näetkö sisään kirjauduttuasi seuraavanlaisen näkymän - sivupalkkioikealla?
+Näetkö sisään kirjauduttuasi seuraavanlaisen näkymän – sivupalkki oikealla?
 
 ![Vanha k&#xE4;ytt&#xF6;liittym&#xE4;](../.gitbook/assets/nin-old-ui-1.png)
 
