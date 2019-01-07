@@ -23,6 +23,7 @@
   * [Uuden agentin lisääminen organisaatioon](organisaatio/uuden-agentin-lisaaminen-organisaatioon.md)
   * [Agentin lisääminen jonon käsittelijäksi](organisaatio/agentin-lisaaminen-jonon-kasittelijaksi.md)
   * [Asiakasjonojen hallinta](organisaatio/asiakasjonojen-hallinta.md)
+  * [Agentin poistaminen organisaatiosta](organisaatio/agentin-poistaminen-organisaatiosta.md)
 * [Asiakasjonot ja -keskustelut](asiakasjonot-ja-keskustelut/README.md)
   * [Jonon asetukset](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
