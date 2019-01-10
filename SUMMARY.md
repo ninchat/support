@@ -33,6 +33,7 @@
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
   * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelut/ryhmaekeskustelun-asiakasnaekymae.md)
+  * [Keskustelun moderointi](julkiset-ryhmakeskustelut/keskustelun-moderointi.md)
 
 ## Operaattorit
 
