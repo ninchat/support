@@ -30,3 +30,7 @@ Mikäli kutsuttavalla ei ole vielä Ninchat-tunnusta, kutsu lähetetään hänel
 
 Mikäli kutsuttava on jo Ninchat-käyttäjä eli agentti, kutsulinkin voi lähettää/kopioida hänelle yksityisviestinä. Sähköpostiosoitteen sijaan kutsukenttään voi tällöin kirjoittaa agentin käyttäjätunnuksen.
 
+## Käyttäjän poistaminen kanavalta <a id="kayttajan-poistaminen-kanavalta"></a>
+
+{% page-ref page="kayttajan-poistaminen-kanavalta.md" %}
+

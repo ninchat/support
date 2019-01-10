@@ -19,6 +19,7 @@
   * [Kanavan asetukset](tiimikanavat/kanavan-asetukset.md)
   * [Uuden kanavan luonti](tiimikanavat/uuden-kanavan-luonti.md)
   * [Yksityiskeskustelut](tiimikanavat/yksityiskeskustelut.md)
+  * [Käyttäjän poistaminen kanavalta](tiimikanavat/kayttajan-poistaminen-kanavalta.md)
 * [Organisaatio](organisaatio/README.md)
   * [Uuden agentin lisääminen organisaatioon](organisaatio/uuden-agentin-lisaaminen-organisaatioon.md)
   * [Agentin lisääminen jonon käsittelijäksi](organisaatio/agentin-lisaaminen-jonon-kasittelijaksi.md)
