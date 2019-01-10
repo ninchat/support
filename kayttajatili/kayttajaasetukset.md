@@ -98,7 +98,7 @@ Korostetut sanat näkyvät sinisellä taustavärillä ja saat ilmoituksen aina t
 
 ![](../.gitbook/assets/highlights%20%281%29.png)
 
-## Näkymävalinnat
+## Näkymävalinnat <a id="nakymavalinnat"></a>
 
 Voit muuttaa Ninchatin näkymää tietyiltä osin.
 

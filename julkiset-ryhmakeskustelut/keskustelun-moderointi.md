@@ -14,13 +14,19 @@ Moderointitykalut näkyvät kun agentille on kyseisellä kanavalla annettu moder
 Kun sinulle on annettu moderointioikeudet, päivitä sivu, jotta muutos astuu voimaan.
 {% endhint %}
 
+## Moderointityökalut
+
 ![Moderaattorin ty&#xF6;kalut ja valinnat](../.gitbook/assets/channel-embed-moderation.png)
 
 ![Moderaattorin kommenttity&#xF6;kalut](../.gitbook/assets/moderator-comment-tools%20%281%29.png)
 
+### Piilotetut viestit
+
+Keskusteluista on moderaattorin työkaluilla mahdollista piilottaa viestejä, esim. häiritsevät tai turhat viestit. Katso ohjeet alta. Jotta näkisit piilotetut viestit itse, sinun tulee omissa käyttäjäasetuksissa asettaa piilotetut viestit näkyviksi. Ohje: [https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset\#nakymavalinnat](https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset#nakymavalinnat)
+
 ### Keskustelutyökalut ja käyttäjävalikko
 
-Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  Klikkaa haluttua käyttäjää jäsenlistalla nähdäksesi käyttäjävalikko.
+Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  Klikkaa haluttua käyttäjää jäsenlistalla nähdäksesi käyttäjävalikko. 
 
 <table>
   <thead>
@@ -35,7 +41,13 @@ Moderointityökalut tulevat esille kun hiiren kursorin vie kommentin päälle.  
       <td style="text-align:left">
         <img src="../.gitbook/assets/mod1.png" alt/>Piilota viesti</td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">Piilota kyseinen viesti muilta asiakkailta</td>
+      <td style="text-align:left">Piilota kyseinen viesti muilta käyttäjiltä</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/unhide-message.png" alt/>Näytä viesti</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Näytä piilotettu viesti</td>
     </tr>
     <tr>
       <td style="text-align:left">
