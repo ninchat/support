@@ -14,7 +14,32 @@ description: Avoimen ryhmächatin ohjeistus
 
 ### Kanavan operaattori- ja moderaattorioikeudet
 
-Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä - niiden avulla saa kutsuttua uusia ihmisiä ja annettua moderaattori- ja operaattorioikeuksia.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Jäsenlistan merkintä</th>
+      <th style="text-align:left">Merkitys</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/operator.png" alt/>Tähti, umpinainen</td>
+      <td style="text-align:left">
+        <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p>
+        <p>voi hallita kanavan asetuksia ja kutsua jäseniä</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/moderator.png" alt/>Tähti, reunustettu</td>
+      <td style="text-align:left">
+        <p>Kanavan moderaattorikäyttäjä:</p>
+        <p>voi moderoida viestejä ja poistaa jäseniä</p>
+      </td>
+    </tr>
+  </tbody>
+</table>Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä - niiden avulla saa kutsuttua uusia ihmisiä ja annettua moderaattori- ja operaattorioikeuksia.
 
 #### Kanavan operaattorioikeudet päälle
 
