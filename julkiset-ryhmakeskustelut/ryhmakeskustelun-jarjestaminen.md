@@ -35,18 +35,32 @@ Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Gi
 * Klikkaa sivun alareunasta "Save" 
 * Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\)
 
-## Ryhmächatin sulkeminen
+## Ryhmächat-kanavan ajastaminen <a id="ryhmachat-kanavan-ajastaminen"></a>
 
-* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa
-* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Channel settings"
-* Tee kaksi muutosta: 
-  * "Who can read messages" - kohdasta valitse "Channel members, history available since join only"
-  * "Who can write messages" -kohdasta valitse "Nobody, channel is closed" 
-  * Lisää halutessasi infoteksti kohtaan "Channel closed text" - se näkyy chat-ikkunassa kun chat on suljettu. 
-* Klikkaa sivun alareunasta "Save" 
-* Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\) 
+Julkisen ryhmäkeskusteluanavan voi asettaa avautumaan ja sulkeutumaan automaattisesti.  
+Katso lisää kohdassa [Tiimikanavat &gt; Kanava asetukset &gt; Kanavan aikataulu](https://ninchat.gitbook.io/ninchat-support/tiimikanavat/kanavan-asetukset#kanavan-aikataulu).
 
-_Miksi nämä kohtien 1 ja 2 asetukset tulee muuttaa:   
-1. kohdan muuttaminen pitää huolen, että uudessa chatissa ei näy upotuksen puolella viestihistoriaa edelliseltä chattikerralta.   
-2. kohta mahdollistaa ja estää viesti en kirjoittamisen chattiin._
+## Ryhmächatin sulkeminen <a id="ryhmachatin-sulkeminen"></a>
+
+Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel". Tämän jälkeen uusien viestien kirjoittaminen on estetty ja kirjoituskentässä näkyy asetettu Kanava suljettu -viesti. Muuta viestiä halutessasi kanavan asetuksissa.
+
+{% page-ref page="../tiimikanavat/kanavan-asetukset.md" %}
+
+## Viestihistorian piilottaminen
+
+Jos haluat piilottaa käydyn keskustelun ryhmäkeskustelutuokion jälkeen uusilta vierailijoilta, toimi seuraavasti: \(Noudata ohjeita tarkasti 😉\)
+
+1. Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa.
+2. Mene kanavan asetuksiin \(klikkaa kanavan nimeä ja valitse "Kanavan asetukset / Channel settings".
+3. Kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kanavan jäsenille, historia näytetään kanavalle liittymisestä alkaen \(Channel members, history available since join only\)".
+4. Tallenna
+5. Uudelleen kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kaikki voivat seurata keskustelua anonyymisti \(Everybody may follow anonymously\)".
+6. Tallenna
+7. Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\) 
+
+Kanavan keskusteluhistoriaa ei näytetä vieraille, jotka tulevat sivulle tämän jälkeen.
+
+## Kanavaikkunan piilottaminen web-sivulta
+
+On mahdollista piilottaa upotettu kanava web-sivulta kanavan ollessa suljettu. Kysy lisää Ninchatin henkilöstöltä.
 
