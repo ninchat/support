@@ -38,7 +38,7 @@ Kysy lisää Ninchatin henkilöstöltä.
 
 ## Asiakasnäkymä
 
-{% page-ref page="ryhmaekeskustelun-asiakasnaekymae.md" %}
+{% page-ref page="ryhmakeskustelun-asiakasnakyma.md" %}
 
 
 
