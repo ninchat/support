@@ -50,6 +50,15 @@ Kanavan moderointioikeudet laitetaan päälle asiantuntijoille ym vierailijoille
 
 Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Give moderator rights / Anna moderaattorioikeudet".
 
+### Moderaattorin käyttäjäasetukset <a id="moderaattorin-kayttajaasetukset"></a>
+
+**Tärkeää!** Moderaattorien piilottamat viestit on hyödyllistä laittaa näkymään moderaattorille itselleen, jolloin sitä voi tarpeen vaatiessa yhä muokata. Tee näin:
+
+1. Mene käyttäjäasetuksiin \(klikkaa nuolta käyttäjänimesi vieressä keskustelulistan alapäässä ja valitse "Profiili ja asetukset".
+2. Valitse asetuksissa "View/ Näkymä" -välilehti
+3. Ruksaa laatikko "Näytä piilotetut viestit / Show hidden messages" -kohdassa.
+4. Tallenna
+
 ## Ryhmächatin avaaminen
 
 * Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa
