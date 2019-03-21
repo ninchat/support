@@ -19,8 +19,8 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
   <thead>
     <tr>
       <th style="text-align:left">Sidebar</th>
-      <th style="text-align:left">Keskustelunäkymä</th>
-      <th style="text-align:left">Jäsenlista</th>
+      <th style="text-align:left">Keskustelun&#xE4;kym&#xE4;</th>
+      <th style="text-align:left">J&#xE4;senlista</th>
     </tr>
   </thead>
   <tbody>
@@ -30,11 +30,11 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
         <p></p>
       </td>
       <td style="text-align:left">
-        <p>Keskustelu ja viestin lähetys</p>
+        <p>Keskustelu ja viestin l&#xE4;hetys</p>
         <p></p>
       </td>
       <td style="text-align:left">Haku-toiminto,
-        <br />Kanavan jäsenet ja keskustelutoiminnot</td>
+        <br />Kanavan j&#xE4;senet ja keskustelutoiminnot</td>
     </tr>
   </tbody>
 </table>### Tiimikanavan tunnisteet
@@ -42,46 +42,47 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Jäsenlistan merkintä</th>
+      <th style="text-align:left">J&#xE4;senlistan merkint&#xE4;</th>
       <th style="text-align:left">Merkitys</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/operator.png" alt/>Tähti, umpinainen</td>
+        <img src="../.gitbook/assets/operator.png" alt/>T&#xE4;hti, umpinainen</td>
       <td style="text-align:left">
-        <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p>
-        <p>voi hallita kanavan asetuksia ja kutsua jäseniä</p>
+        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4; (eri kuin organisaation operaattori):</p>
+        <p>voi hallita kanavan asetuksia ja kutsua j&#xE4;seni&#xE4;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/moderator.png" alt/>Tähti, reunustettu</td>
+        <img src="../.gitbook/assets/moderator.png" alt/>T&#xE4;hti, reunustettu</td>
       <td style="text-align:left">
-        <p>Kanavan moderaattorikäyttäjä:</p>
-        <p>voi moderoida viestejä ja poistaa jäseniä</p>
+        <p>Kanavan moderaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
+        <p>voi moderoida viestej&#xE4; ja poistaa j&#xE4;seni&#xE4;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/online.png" alt/>Vihreä pallo</td>
-      <td style="text-align:left">Käyttäjä on kirjautunut ja aktiivinen</td>
+        <img src="../.gitbook/assets/online.png" alt/>Vihre&#xE4; pallo</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut ja aktiivinen</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <img src="../.gitbook/assets/idle.png" alt/>Oranssi pallo</td>
-      <td style="text-align:left">Käyttäjä on kirjautunut mutta ei aktiivinen</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut mutta ei aktiivinen</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <img src="../.gitbook/assets/avatar-male.svg" alt/>Ei palloa</td>
-      <td style="text-align:left">Käyttäjä ei ole paikalla; hän näkee hänelle osoitetut viestit myöhemmin</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; ei ole paikalla; h&#xE4;n n&#xE4;kee h&#xE4;nelle
+        osoitetut viestit my&#xF6;hemmin</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/invite-icon.png" alt/>Kutsu väkeä</td>
-      <td style="text-align:left">Kutsu uusia henkilöitä kanavalle (Kanavan operaattori)</td>
+        <img src="../.gitbook/assets/invite-icon.png" alt/>Kutsu v&#xE4;ke&#xE4;</td>
+      <td style="text-align:left">Kutsu uusia henkil&#xF6;it&#xE4; kanavalle (Kanavan operaattori)</td>
     </tr>
   </tbody>
 </table>## Sidebar \(keskustelulista\)

@@ -38,30 +38,31 @@ Kanavan kuvausteksti, jolla voit määritellä tarkemmin kanavan tarkoitusta.
   <tbody>
     <tr>
       <td style="text-align:left">Avoin kaikille</td>
-      <td style="text-align:left">Kuka tahansa voi liittyä kanavalle ja nähdä keskustelun, myös organisaatioon
-        kuulumattomat henkilöt. Valintaa käytetään julkisiin ryhmäkeskusteluihin
-        (web-sivuille upotettavat keskustelut).
-        <br />EI suositella sisäisille tiimikanaville!</td>
+      <td style="text-align:left">Kuka tahansa voi liitty&#xE4; kanavalle ja n&#xE4;hd&#xE4; keskustelun,
+        my&#xF6;s organisaatioon kuulumattomat henkil&#xF6;t. Valintaa k&#xE4;ytet&#xE4;&#xE4;n
+        julkisiin ryhm&#xE4;keskusteluihin (web-sivuille upotettavat keskustelut).
+        <br
+        />EI suositella sis&#xE4;isille tiimikanaville!</td>
     </tr>
     <tr>
-      <td style="text-align:left">Ainoastaan organisaation jäsenille</td>
+      <td style="text-align:left">Ainoastaan organisaation j&#xE4;senille</td>
       <td style="text-align:left">
-        <p>Kaikki ko. organisaation jäsenet voivat etsimällä löytää ja liittyä kanavalle
-          ilman kutsua.</p>
-        <p>Organisaation ulkopuoliset agentit eivät voi liittyä kanavalle.</p>
+        <p>Kaikki ko. organisaation j&#xE4;senet voivat etsim&#xE4;ll&#xE4; l&#xF6;yt&#xE4;&#xE4;
+          ja liitty&#xE4; kanavalle ilman kutsua.</p>
+        <p>Organisaation ulkopuoliset agentit eiv&#xE4;t voi liitty&#xE4; kanavalle.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Ainoastaan kutsutut käyttäjät</td>
+      <td style="text-align:left">Ainoastaan kutsutut k&#xE4;ytt&#xE4;j&#xE4;t</td>
       <td style="text-align:left">
-        <p>Kanavalle voi liittyä ainoastaan kutsulinkillä. Ks. <a href="https://ninchat.gitbook.io/ninchat-support/~/drafts/-LOx8mlpvl6IaYNYc029/primary/organisaatio/uuden-agentin-lisaaminen#henkilon-kutsuminen-tiimikanavalle">Henkilön kutsuminen kanavalle</a>.</p>
-        <p>Suositellaan sisäisille tiimikanaville!</p>
+        <p>Kanavalle voi liitty&#xE4; ainoastaan kutsulinkill&#xE4;. Ks. <a href="https://ninchat.gitbook.io/ninchat-support/~/drafts/-LOx8mlpvl6IaYNYc029/primary/organisaatio/uuden-agentin-lisaaminen#henkilon-kutsuminen-tiimikanavalle">Henkil&#xF6;n kutsuminen kanavalle</a>.</p>
+        <p>Suositellaan sis&#xE4;isille tiimikanaville!</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Käyttäjän on oltava todennettu</td>
-      <td style="text-align:left">Lisävalinta; käyttäjä voi liittyä kanavalle vasta, kun hän on varmentanut
-        käyttäjätunnuksensa.</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4;n on oltava todennettu</td>
+      <td style="text-align:left">Lis&#xE4;valinta; k&#xE4;ytt&#xE4;j&#xE4; voi liitty&#xE4; kanavalle vasta,
+        kun h&#xE4;n on varmentanut k&#xE4;ytt&#xE4;j&#xE4;tunnuksensa.</td>
     </tr>
   </tbody>
 </table>#### Kenelle viestit näkyvät
@@ -76,28 +77,29 @@ Kanavan kuvausteksti, jolla voit määritellä tarkemmin kanavan tarkoitusta.
   <tbody>
     <tr>
       <td style="text-align:left">Kaikki voivat seurata keskustelua anonyymisti</td>
-      <td style="text-align:left">Ei käytössä kutsu-kanaville.</td>
+      <td style="text-align:left">Ei k&#xE4;yt&#xF6;ss&#xE4; kutsu-kanaville.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Kanavan jäsenille, alkaen pvm</td>
+      <td style="text-align:left">Kanavan j&#xE4;senille, alkaen pvm</td>
       <td style="text-align:left">
-        <p>Viestihistoria näkyy vain kanavan jäsenille, alkaen kanavan luontipäivämäärästä,
-          tai myöhemmin asetetusta päivämäärästä, jolloin asetuksia muutetaan.</p>
-        <p>Tätä hetkeä aiemmat viestit piilotetaan uusilta käyttäjiltä.</p>
+        <p>Viestihistoria n&#xE4;kyy vain kanavan j&#xE4;senille, alkaen kanavan
+          luontip&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4;st&#xE4;, tai my&#xF6;hemmin asetetusta
+          p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4;st&#xE4;, jolloin asetuksia muutetaan.</p>
+        <p>T&#xE4;t&#xE4; hetke&#xE4; aiemmat viestit piilotetaan uusilta k&#xE4;ytt&#xE4;jilt&#xE4;.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Kanavan jäsenille, liittymisestä alkaen</td>
+      <td style="text-align:left">Kanavan j&#xE4;senille, liittymisest&#xE4; alkaen</td>
       <td style="text-align:left">
-        <p>Viestihistoria näkyy vain kanavan jäsenille, alkaen hetkestä, jona he
-          liittyvät kanavalle.</p>
-        <p>Tätä hetkeä aiemmat viestit piilotetaan uusilta käyttäjiltä.</p>
+        <p>Viestihistoria n&#xE4;kyy vain kanavan j&#xE4;senille, alkaen hetkest&#xE4;,
+          jona he liittyv&#xE4;t kanavalle.</p>
+        <p>T&#xE4;t&#xE4; hetke&#xE4; aiemmat viestit piilotetaan uusilta k&#xE4;ytt&#xE4;jilt&#xE4;.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Piilota liittymis- ja poistumusviestit</td>
-      <td style="text-align:left">Lisävalinta. Agenttien liittymisestä ja poistumisesta ei näytetä ilmoitusta
-        keskustelussa.</td>
+      <td style="text-align:left">Lis&#xE4;valinta. Agenttien liittymisest&#xE4; ja poistumisesta ei n&#xE4;ytet&#xE4;
+        ilmoitusta keskustelussa.</td>
     </tr>
   </tbody>
 </table>#### **Kuka voi kirjoittaa kanavalle**

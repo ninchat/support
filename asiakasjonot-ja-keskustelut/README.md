@@ -65,7 +65,7 @@ Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet t
   <thead>
     <tr>
       <th style="text-align:left">1) Sidebar</th>
-      <th style="text-align:left">2) Keskustelunäkymä</th>
+      <th style="text-align:left">2) Keskustelun&#xE4;kym&#xE4;</th>
       <th style="text-align:left">3) Chat-sivupalkki</th>
     </tr>
   </thead>
@@ -77,14 +77,15 @@ Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet t
           <li>Asiakasjonot</li>
           <li>Tiimi- ja tukikanavat</li>
           <li>Asiakaskeskustelut</li>
-          <li>Yksityiskeskustelut tiimiläisten kanssa</li>
+          <li>Yksityiskeskustelut tiimil&#xE4;isten kanssa</li>
         </ol>
       </td>
       <td style="text-align:left">
         <ol>
           <li>Tietoja asiakkaasta</li>
           <li>Keskustelu</li>
-          <li>Tekstikenttä, hymiöt, liitetiedostot, videokeskustelu, sivupalkin näyttö/piilotus</li>
+          <li>Tekstikentt&#xE4;, hymi&#xF6;t, liitetiedostot, videokeskustelu, sivupalkin
+            n&#xE4;ytt&#xF6;/piilotus</li>
         </ol>
         <p></p>
         <p></p>
@@ -221,7 +222,7 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Alusta/käyttöjärjestelmä</th>
+      <th style="text-align:left">Alusta/k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;</th>
       <th style="text-align:left">Tuetut selaimet</th>
     </tr>
   </thead>
@@ -232,7 +233,7 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
         <p></p>
       </td>
       <td style="text-align:left">Google Chrome, Mozilla Firefox
-        <br />(Microsoft Edgellä toimintaa ei taata)</td>
+        <br />(Microsoft Edgell&#xE4; toimintaa ei taata)</td>
     </tr>
     <tr>
       <td style="text-align:left">Mac OS</td>

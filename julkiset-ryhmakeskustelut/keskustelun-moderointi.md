@@ -33,7 +33,7 @@ Moderointityökalut tulevat esille kun hiiren osoittimen vie kommentin päälle.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Kommenttityökalu</th>
+      <th style="text-align:left">Kommenttity&#xF6;kalu</th>
       <th style="text-align:left">Toiminta</th>
     </tr>
   </thead>
@@ -41,38 +41,40 @@ Moderointityökalut tulevat esille kun hiiren osoittimen vie kommentin päälle.
     <tr>
       <td style="text-align:left">
         <img src="../.gitbook/assets/mod1.png" alt/>Piilota viesti / Hide message</td>
-      <td style="text-align:left">Piilota kyseinen viesti muilta käyttäjiltä</td>
+      <td style="text-align:left">Piilota kyseinen viesti muilta k&#xE4;ytt&#xE4;jilt&#xE4;</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/unhide-message.png" alt/>Näytä viesti / Show message</td>
-      <td style="text-align:left">Näytä piilotettu viesti</td>
+        <img src="../.gitbook/assets/unhide-message.png" alt/>N&#xE4;yt&#xE4; viesti / Show message</td>
+      <td style="text-align:left">N&#xE4;yt&#xE4; piilotettu viesti</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/mod2.png" alt/>Vaienna käyttäjä / Silence user</td>
-      <td style="text-align:left">Käyttäjä hiljennetään toistaiseksi</td>
+        <img src="../.gitbook/assets/mod2.png" alt/>Vaienna k&#xE4;ytt&#xE4;j&#xE4; / Silence user</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; hiljennet&#xE4;&#xE4;n toistaiseksi</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/mod3.png" alt/>Vaienna käyttäjä x ajaksi /
+        <img src="../.gitbook/assets/mod3.png" alt/>Vaienna k&#xE4;ytt&#xE4;j&#xE4; x ajaksi /
         <br />Silence this user for time being</td>
-      <td style="text-align:left">Käyttäjä hiljennetään valituksi ajaksi
-        <br />(tämän jälkeen hän saa taas kirjoittaa)</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; hiljennet&#xE4;&#xE4;n valituksi ajaksi
+        <br />(t&#xE4;m&#xE4;n j&#xE4;lkeen h&#xE4;n saa taas kirjoittaa)</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/mod4.png" alt/>Piilota kaikki käyttäjän viestit /
+        <img src="../.gitbook/assets/mod4.png" alt/>Piilota kaikki k&#xE4;ytt&#xE4;j&#xE4;n viestit /
         <br />Hide all messages from this user</td>
-      <td style="text-align:left">Kaikki käyttäjän viestit piilotetaan muilta vierailta</td>
+      <td style="text-align:left">Kaikki k&#xE4;ytt&#xE4;j&#xE4;n viestit piilotetaan muilta vierailta</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/mod5.png" alt/>Näytä/piilota käyttäjän uudet viestit /
+        <img src="../.gitbook/assets/mod5.png" alt/>N&#xE4;yt&#xE4;/piilota k&#xE4;ytt&#xE4;j&#xE4;n uudet viestit /
         <br />Toggle hide new messages from this user</td>
       <td style="text-align:left">
-        <p>Käyttäjän uudet viestit piilotetaan/näytetään vakiona</p>
-        <p>(moderaattori voi käsin piilottaa/näyttää yksittäisiä viestejä)</p>
+        <p>K&#xE4;ytt&#xE4;j&#xE4;n uudet viestit piilotetaan/n&#xE4;ytet&#xE4;&#xE4;n
+          vakiona</p>
+        <p>(moderaattori voi k&#xE4;sin piilottaa/n&#xE4;ytt&#xE4;&#xE4; yksitt&#xE4;isi&#xE4;
+          viestej&#xE4;)</p>
       </td>
     </tr>
   </tbody>
@@ -83,29 +85,31 @@ Klikkaa haluttua käyttäjää jäsenlistalla nähdäksesi käyttäjävalikko.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Käyttäjävalikko</th>
+      <th style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4;valikko</th>
       <th style="text-align:left">Toiminta</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">Vaienna / Silence</td>
-      <td style="text-align:left">Käyttäjä hiljennetään toistaiseksi</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; hiljennet&#xE4;&#xE4;n toistaiseksi</td>
     </tr>
     <tr>
       <td style="text-align:left">Piilota kaikki viestit / Hide all messages</td>
-      <td style="text-align:left">Kaikki käyttäjän viestit piilotetaan muilta vierailta</td>
+      <td style="text-align:left">Kaikki k&#xE4;ytt&#xE4;j&#xE4;n viestit piilotetaan muilta vierailta</td>
     </tr>
     <tr>
       <td style="text-align:left">Piilota uudet viestit / Hide new messages</td>
       <td style="text-align:left">
-        <p>Käyttäjän uudet viestit piilotetaan/näytetään vakiona</p>
-        <p>(moderaattori voi käsin piilottaa/näyttää yksittäisiä viestejä)</p>
+        <p>K&#xE4;ytt&#xE4;j&#xE4;n uudet viestit piilotetaan/n&#xE4;ytet&#xE4;&#xE4;n
+          vakiona</p>
+        <p>(moderaattori voi k&#xE4;sin piilottaa/n&#xE4;ytt&#xE4;&#xE4; yksitt&#xE4;isi&#xE4;
+          viestej&#xE4;)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Poista kanavalta / Remove from channel</td>
-      <td style="text-align:left">Käyttäjä poistetaan kokonaan keskustelusta.</td>
+      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; poistetaan kokonaan keskustelusta.</td>
     </tr>
   </tbody>
 </table>### Kanavavalikko

@@ -35,9 +35,9 @@ Tilastosivu koostuu osioista:
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Valitse aikaväli, jolta haluat
+        <p>Valitse aikav&#xE4;li, jolta haluat
           <br />katsoa tilastoja</p>
-        <p>Valitse haluamasi aikavyöhyke</p>
+        <p>Valitse haluamasi aikavy&#xF6;hyke</p>
       </td>
       <td style="text-align:left">
         <p>Lataa tilastot CSV-tiedostona</p>
@@ -46,7 +46,7 @@ Tilastosivu koostuu osioista:
       </td>
       <td style="text-align:left">
         <p>Valitse tarkastelujakson tarkkuus:</p>
-        <p>kk / päivä / tunti</p>
+        <p>kk / p&#xE4;iv&#xE4; / tunti</p>
         <p></p>
       </td>
     </tr>

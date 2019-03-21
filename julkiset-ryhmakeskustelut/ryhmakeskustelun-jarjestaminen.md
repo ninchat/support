@@ -17,25 +17,25 @@ description: Avoimen ryhmächatin ohjeistus
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Jäsenlistan merkintä</th>
+      <th style="text-align:left">J&#xE4;senlistan merkint&#xE4;</th>
       <th style="text-align:left">Merkitys</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/operator.png" alt/>Tähti, umpinainen</td>
+        <img src="../.gitbook/assets/operator.png" alt/>T&#xE4;hti, umpinainen</td>
       <td style="text-align:left">
-        <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p>
-        <p>voi hallita kanavan asetuksia ja kutsua jäseniä</p>
+        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4; (eri kuin organisaation operaattori):</p>
+        <p>voi hallita kanavan asetuksia ja kutsua j&#xE4;seni&#xE4;</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/moderator.png" alt/>Tähti, reunustettu</td>
+        <img src="../.gitbook/assets/moderator.png" alt/>T&#xE4;hti, reunustettu</td>
       <td style="text-align:left">
-        <p>Kanavan moderaattorikäyttäjä:</p>
-        <p>voi moderoida viestejä ja poistaa jäseniä</p>
+        <p>Kanavan moderaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
+        <p>voi moderoida viestej&#xE4; ja poistaa j&#xE4;seni&#xE4;</p>
       </td>
     </tr>
   </tbody>
