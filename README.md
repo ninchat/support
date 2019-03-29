@@ -10,15 +10,13 @@ Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai s
 
 {% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
 
-{% page-ref page="yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
-
-{% page-ref page="asiakasjonot-ja-keskustelut/" %}
-
 {% page-ref page="organisaatio/uuden-agentin-lisaaminen-organisaatioon.md" %}
 
-{% page-ref page="tiimikanavat/" %}
+{% page-ref page="kayttajatili/kayttajaasetukset.md" %}
 
-{% page-ref page="julkiset-ryhmakeskustelut/" %}
+{% page-ref page="asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
+
+{% page-ref page="julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md" %}
 
  
 
