@@ -49,23 +49,11 @@ Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin.
 Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.  
 Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä.
 
-### Työpöytäilmoitukset
-
-Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia.  
-\(Vanhat selaimet, kuten Internet Explorer \(IE\) eivät tue työpöytäilmoituksia.\)
-
-{% hint style="info" %}
-Työpöytäilmoitukset toimivat Chrome, Firefox, Safari- ja Edge-selaimilla.   
-Internet Eplorer -selain ei tue työpöytäilmoituksia.
-{% endhint %}
-
-#### Työpöytäilmoituksen näkyminen
-
-![Esimerkki ty&#xF6;p&#xF6;yt&#xE4;ilmoituksesta \(Windows\); asiakas jonossa](../.gitbook/assets/desktop-notification.png)
+![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user-notifications.png)
 
 ### Aseta ilmoitustyypit
 
-**Salli Ääni- ja työpöytäilmoitukset ainakin seuraavista ilmoitustyypeistä \(ks. kuva alla\):** 
+**Salli Ääni- ja työpöytäilmoitukset ainakin seuraavista ilmoitustyypeistä \(ks. kuva yllä\):** 
 
 * **Yksityisviestit**
 * **Kanavan korostukset**
@@ -77,7 +65,43 @@ Tallenna muutokset.
 Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
 {% endhint %}
 
-![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user-notifications.png)
+### Työpöytäilmoitukset
+
+Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia. Ilmoituslupa on selain- ja konekohtainen, joten muista sallia luvat kaikissa laitteissa ja selaimissa joita käytät.
+
+{% hint style="info" %}
+Työpöytäilmoitukset toimivat Chrome, Firefox, Safari- ja Edge-selaimilla.   
+Internet Eplorer -selain \(IE\) ei tue työpöytäilmoituksia.
+{% endhint %}
+
+#### Työpöytäilmoituksen näkyminen
+
+![Esimerkki ty&#xF6;p&#xF6;yt&#xE4;ilmoituksesta \(Windows\); asiakas jonossa](../.gitbook/assets/desktop-notification.png)
+
+#### Työpöytäilmoitusten salliminen selaimessa
+
+Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa, että työpöytäilmoituksille \(sekä äänille, kameralle ja mikrofonille\) on annettu lupa klikkaamalla lukkoikonia osoiterivillä, ollessasi ninchat.comissa. Alla ohjeet eri selaimille.
+
+**Goole Chrome**
+
+![Sivustoasetukset Google Chrome -selaimessa](../.gitbook/assets/browser-permissions-chrome.png)
+
+Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
+Ilmoitusluvat voit säätää myös Chrome-selaimen asetuksissa:  [chrome://settings/content](chrome://settings/content)
+
+**Mozilla Firefox**
+
+![Sivustoasetukset Mozilla Firefox-selaimessa](../.gitbook/assets/browser-permissions-firefox.png)
+
+Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
+Ilmoitusluvat voit säätää myös Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences\#privacy_
+
+**Microsoft Edge**
+
+![Sivustoasetukset Microsoft Edge -selaimessa](../.gitbook/assets/browser-permissions-edge.png)
+
+Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
+Ilmoitusluvat voit säätää myös Edge-selaimen asetuksissa, joihin pääset selaimen menu-valikon kautta.
 
 ## Korostukset
 
