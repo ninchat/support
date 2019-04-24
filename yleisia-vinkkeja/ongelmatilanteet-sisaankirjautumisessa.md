@@ -12,6 +12,10 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 {% page-ref page="ongelmatilanteet-kayttoliittymassa.md" %}
 
+## Mistä pääsen kirjautumaan palveluun?
+
+Mikäli pikakuvake hävinnyt tai osoite on unohtunut, pääset Ninchatiin aina siirtymällä web-selaimella osoitteeseen [**https://ninchat.com/app**](https://ninchat.com/app).
+
 ## Tiimikanavia ei näy? <a id="tiimikanavia-ei-nay"></a>
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
