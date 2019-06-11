@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ninchat-tuki: aloitus](README.md)
+* [Ninchat Support: Start](README.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Käyttöliittymän esittely](yleisia-vinkkeja/kayttoliittyman-esittely.md)
@@ -12,7 +12,7 @@
   * [Tunnuksen poistaminen](yleisia-vinkkeja/tunnuksen-poistaminen.md)
 * [Käyttäjätili](kayttajatili/README.md)
   * [Ninchat-kutsun hyväksyminen](kayttajatili/ninchat-kutsun-hyvaksyminen.md)
-  * [Käyttäjätilin luonti](kayttajatili/kayttajatilin-luonti.md)
+  * [Creating an account](kayttajatili/kayttajatilin-luonti.md)
   * [Käyttäjäasetukset](kayttajatili/kayttajaasetukset.md)
 * [Tiimikanavat](tiimikanavat/README.md)
   * [Käyttäjän lisääminen kanavalle](tiimikanavat/kayttajan-lisaaminen-kanavalle.md)

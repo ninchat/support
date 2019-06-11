@@ -1,12 +1,12 @@
-# Ninchat-tuki: aloitus
+# Ninchat Support: Start
 
 {% hint style="info" %}
-Tukisivusto on testausvaiheessa, eikä kaikin osin valmis. Jotkin sisällöt tulevat muuttumaan.
+Our Support site is in Beta phase. It is not completely finished and parts of content and structure may change.
 {% endhint %}
 
-Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta. Mikäli et täältä löydä apua, voit kysyä meiltä [chatissa](https://ninchat.com/contact). 
+Welcome to Ninchat Support site! Choose from common topics below or browse articles on the left column by topic. If you can't find what you are looking for, you can always as for help in [chat](https://ninchat.com/contact). 
 
-## Usein kysyttyä
+## Frequently asked
 
 {% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
 
@@ -21,7 +21,7 @@ Tervetuloa Ninchatin tukisivustolle! Valitse alta usein kysyttyjä aiheita tai s
  
 
 {% hint style="info" %}
-Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
+Tip: See article pictures enlarged by clicking them.
 {% endhint %}
 
 

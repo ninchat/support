@@ -1,11 +1,11 @@
 ---
-description: Näin luot Ninchat-käyttäjätunnuksen
+description: Here's how you can create a Ninchat account
 ---
 
-# Käyttäjätilin luonti
+# Creating an account
 
 {% hint style="info" %}
-Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.
+We recommend using Google Chrome or Mozilla Firefox web browser with Ninchat.
 {% endhint %}
 
 ## **Tunnuksen luominen**
