@@ -1,7 +1,7 @@
 # Ninchat Support: Start
 
 {% hint style="info" %}
-Our Support site is in Beta phase. It is not completely finished and parts of content and structure may change.
+**The English version of Nichat Support documents is under construction. In need of assistance, please contact us on support channel or via out customer service chat at this point. Thank you.**
 {% endhint %}
 
 Welcome to Ninchat Support site! Choose from common topics below or browse articles on the left column by topic. If you can't find what you are looking for, you can always as for help in [chat](https://ninchat.com/contact). 
