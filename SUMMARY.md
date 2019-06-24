@@ -29,6 +29,7 @@
   * [Agentin poistaminen organisaatiosta](organisaatio/agentin-poistaminen-organisaatiosta.md)
 * [Asiakasjonot ja -keskustelut](asiakasjonot-ja-keskustelut/README.md)
   * [Jonon asetukset](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
+  * [Jonon ajastaminen](asiakasjonot-ja-keskustelut/jonon-ajastaminen.md)
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
   * [Asiakkaan chat-näkymä](asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md)

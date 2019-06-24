@@ -25,32 +25,9 @@ Mikäli haluatte jonoon liitetiedostojen lisäämisen tai videopuhelun käytön,
 
 ## Jonon ajastaminen
 
-Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti. Lisäksi voit asettaa poikkeuskäytäntöjä.
+Katso jonon aikataulutuksen ohjeistus seuraavalta sivulta:
 
-![Asiakasjonon asetukset - Aikataulu](../.gitbook/assets/queue-settings-schdule1.png)
-
-### Luo aikataulu jonolle
-
-Valitse tarvittaessa oikea aikavyöhyke
-
-Viikonpäivää klikkaamalla pääset luomaan ja muokkaamaan jonon avaamis- ja sulkemisaikoja. Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
-
-* Esim. kuvassa maanantaina chat avataan klo 9:00 ja suljetaan klo 17:00. Keskiviikkona chat on avoinna klo 9:30 - 17:00 sekä klo 18:00 - 21:30.
-* Palaa viikkonäkymään klikkaamalla nuoli- tai x-kuvaketta.
-
-Luo vuosittaisia poikkeusaikatauluja esim. juhlapyhille ja muille vapaapäiville:
-
-* Vuosittainen poikkeusaikataulu vaatii sekä avaamis- että sulkemisajan asettamisen
-* Jos haluat ettei chat avaudu tiettynä päivänä lainkaan, luo päivämäärä tyhjänä ilman avaamis- tai sulkemistietoja
-
-Luo yksittäisiä, kerran tapahtuvia poikkeuspäiviä:
-
-* Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset
-* Tyhjän päivämäärän luominen pitää chatin suljettuna koko päivän.
-
-Muista tallentaa muutokset.
-
-![Asiakasjonon asetukset - P&#xE4;ivitt&#xE4;inen aikataulu](../.gitbook/assets/queue-settings-schdule.png)
+{% page-ref page="jonon-ajastaminen.md" %}
 
 ## Merkinnät \(Muistiinpanot\)
 
