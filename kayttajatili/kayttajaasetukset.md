@@ -4,18 +4,17 @@ description: Profiili ja asetukset
 
 # Käyttäjäasetukset
 
-## Käyttäjäasetuksiin siirtyminen <a id="kayttajaasetuksiin-siirtyminen"></a>
-
 Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavasti:
 
 1. Klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.
 2. Valitse "Asetukset ja profiili / Settings and profile"
+3. Omat asetukset -näkymä on jaettu eri välilehdille, joilta voit valita haluamasi.
+
+{% hint style="info" %}
+Muokattuasi asetuksia, muista painaa "Tallenna / Save" -nappia, jos haluat säilyttää muutokset.
+{% endhint %}
 
 ![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/user-menu.png)
-
-## Käyttäjäasetukset-näkymä <a id="kayttajaasetukset-nakyma"></a>
-
-Omat asetukset on jaettu eri välilehdille. Muokattuasi asetuksia, muista painaa "Tallenna / Save" -nappia, jos haluat säilyttää muutokset.
 
 ## Profiili
 
@@ -34,19 +33,31 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 
 Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen sähköpostiosoitteen kirjautumiseen. 
 
-Voit myös valita näkyykö sähköpostiosoitteesi kaikille Ninchatin käyttäjille.
+### Salasanan vaihtaminen
 
-Tallenna lopuksi muutokset.
+Voit vaihtaa tilisi salasanan klikkaamalla kirjautumissähköpostiosoitteen rivillä _"Muuta salasana"_. Sinulta tarkistetaan vanha salasanasi ja pyydetään keksimään uusi salasana.
+
+Tapauksessa, että olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salasanan vaihtolinkin sähköpostiisi.
+
+### Uuden kirjautumissähköpostin lisääminen <a id="uuden-kirjautumissahkopostin-lisaaminen"></a>
+
+Käyttäjätililläsi voi olla useita sähköpostiosoitteita, joilla pääset kirjautumaan. Klikkaamalla _"Lisää uusi sähköposti"_, voit luoda uden kirjautumissähköpostiosoitteen ja salasanan sille.
+
+### Kirjautumistavan poistaminen
+
+Voit poistaa kirjautumistavan \(sähköposti, mobiililaite\) klikkaamalla roskakorikuvaketta.
+
+**Huom!** Jos poistat kaikki kirjautumistyypit, et voi enää käyttää tiliäsi. Säilytä siis aina esim. yksi kirjautumissähköposti asetuksissa.
+
+### Tilin ja sähköpostin näkyvyys muille <a id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
+
+Kirjautumissähköpostiosoiterivillä voit kohdassa "Näkyvyys" valita, kenelle kyseinen sähköposti on näkyvissä: ainoastaan itsellesi, organisaatiosi jäsenille, kaikille Ninchatin käyttäjille. 
 
 ![Kirjautumisvalinnat](../.gitbook/assets/user-auth.png)
 
-
-
 ## Ilmoitukset
 
-Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin.
-
-Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.  
+Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.  
 Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä.
 
 ![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user-notifications.png)
@@ -64,6 +75,10 @@ Tallenna muutokset.
 {% hint style="info" %}
 Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
 {% endhint %}
+
+### Näytä ilmoitukset aina
+
+Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset aina"_ -valinta ja tallenna.
 
 ### Työpöytäilmoitukset
 

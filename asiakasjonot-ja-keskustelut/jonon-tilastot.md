@@ -83,7 +83,7 @@ Päiväkohtaisista tilastoista näet käydyt keskustelut ja voit katsoa keskuste
 Klikkaa päiväriviä avataksesi näkymään kyseisen päivän keskustelut. Keskusteluhistoria-linkkiä klikkaamalla pääset lukemaan kyseisen keskustelun.
 
 {% hint style="info" %}
-![](../.gitbook/assets/rating-1.png) Negatiivinen palaute ei aina tunnu mukavalta mutta on monesti kaikkein arvokkain. Lukemalla negatiivisen palautteen aiheuttaneen keskustelun pääset helposti ongelman jäljille.
+![](../.gitbook/assets/rating--1.png) Negatiivinen palaute ei aina tunnu mukavalta mutta on monesti kaikkein arvokkain. Lukemalla negatiivisen palautteen aiheuttaneen keskustelun pääset helposti ongelman jäljille.
 {% endhint %}
 
 ##  Keskusteluhistoria
