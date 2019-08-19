@@ -10,7 +10,7 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 
 {% page-ref page="../organisaatio/" %}
 
-## Asiakasjonopalkki ja -näkymä
+## Asiakasjonopalkki ja -näkymä <a id="asiakasjonopalkki-ja-nakyma"></a>
 
 ![Asiakasjono sivupalkissa sek&#xE4; jonon&#xE4;kym&#xE4;](../.gitbook/assets/queue-view.png)
 
