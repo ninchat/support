@@ -10,50 +10,63 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 
 {% page-ref page="../organisaatio/" %}
 
+## Asiakasjonopalkki ja -näkymä
+
+![Asiakasjono sivupalkissa sek&#xE4; jonon&#xE4;kym&#xE4;](../.gitbook/assets/queue-view.png)
+
+Asiakasjonot löytyvät vasemman laidan sivupalkista. Palkkia klikkaamalla saat auki asiakasjononäkymän, josta voidaan napata jonoon tulevat asiakkaat, sekä tarkastella jonon tapahtumia: milloin jono on avattu ja suljettu, sekä kuka on poiminut asiakkaita.  
+Sivupalkin kanavan nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata pudotusvalikon, josta asiakkaan nappaaminen onnistuu ilman jononäkymään siirtymistä. Pudotusvalikosta voit myös mm. sulkea jonon.
+
 ## Asiakasjonon avaaminen ja sulkeminen
 
-Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti. Avattu jono on merkattu vihreällä pallolla, suljettu jono punaisella.
+Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti. Avattu jono on merkattu sivupalkissa ja jononäkymässä vihreällä pallolla, suljettu jono punaisella.
 
 #### Jonon avaaminen
 
-Klikkaa jonon nimeä ja valitse valikosta "Avaa jono / Open queue".  
+Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Avaa jono / Open queue".  
 Asiakkaat voivat liittyä nyt jonoon.
 
 #### Jonon sulkeminen
 
-Klikkaa jonon nimeä ja valitse valikosta "Sulje jono / Close queue".  
+Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Sulje jono / Close queue".  
 Asiakkaat eivät tämän jälkeen voi aloittaa chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai he päättävät sulkea chatin/ikkunan.
 
 #### Asiakasjonon ajastaminen
 
-Lue automaattisesta ajastamisesta [Jonon asetukset &gt; Jonon ajastaminen](https://ninchat.gitbook.io/ninchat-support/asiakasjonot-ja-keskustelut/jonon-asetukset#jonon-ajastaminen).
+Lue automaattisesta ajastamisesta:
+
+{% page-ref page="jonon-ajastaminen.md" %}
 
 ## Asiakkaan nappaaminen jonosta
 
-### Asiakas jonossa
+{% hint style="info" %}
+Ilmoitus asiakkaasta jonossa näkyy aina Jono-palkin lisäksi myös _Tapahtumat/Activity_ -palkissa. Palkki ilmoittaa tapahtumista muuttumalla siniseksi, ja näet ilmoituksen, vaikka sinulla olisi ilmoituksen tullessa avattuna toisen organisaation näkymä.
+{% endhint %}
 
-![Asiakas jonossa -ilmoitukset ja asiakkaan poimiminen](../.gitbook/assets/queue%20%281%29.png)
+Asiakas voidaan poimia joko sivupalkista tai isommasta jononäkymästä. Alla ohjeet molempiin tapoihin.
 
-1. Tapahtumat-palkissa tieto aktiviteetista: asiakas on liittynyt jonoon.
-2. Jono on suljettu, jonottamassa ei ole ketään.
-3. Jono on auki ja jonossa on yksi henkilö
+### A\) Jono-näkymän kautta asiakkaan nappaaminen 
+
+1. Klikkaa sivupalkissa jonon nimeä \(kuvassa Customer service queue\) muusta kuin nuoli-kohdasta.
+2. Jono-näkymässä klikkaa nappia "Nappaa asiakas jonosta".
+3. Asiakaskeskustelu alkaa.
+
+![](../.gitbook/assets/queue-answer1%20%281%29.png)
+
+### B\) Pudotusvalikon kautta asiakkaan nappaaminen
+
+1. Klikkaa sivupalkissa jonon nimen vieressä nuoli-ikonia \(kuvassa Customer service queue\).
+2. Palkin alle avautuu pudotusvalikko, josta voit valita "Nappaa asiakas jonosta".
+3. Asiakaskeskustelu alkaa.
+
+![](../.gitbook/assets/queue-answer2.png)
 
 ### **Jono-valikon toiminnot**
 
-* Poimi jonottava asiakas
-* Avaa ja sulje jono
+* Poimi asiakas jonosta
+* Avaa / sulje jono
 * Siirry jonon asetuksiin \(vaatii organisaation operaattorioikeudet\)
-* Siirry jonon statistiikkoihin \(vaatii organisaation operaattorioikeudet\)
-
-### **Jonosta poimiminen**
-
-1. Klikkaa jonon nimeä
-2. Valitse "Nappaa asiakas jonosta / Pick person from queue"
-3. Keskustelu alkaa ja avautuu näkymään
-
-{% hint style="info" %}
-Ilmoitus asiakkaasta jonossa näkyy myös Tapahtumat/Activity -palkissa. Näet tämän palkin sinisenä, vaikka sinulla olisi ilmoituksen tullessa avattuna toisen organisaation näkymä.
-{% endhint %}
+* Siirry jonon tilastoihin \(vaatii organisaation operaattorioikeudet\)
 
 {% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 
@@ -108,9 +121,11 @@ Poimittuasi asiakkaan jonosta keskustelu alkaa.
 2. Näet keskustelun yläpuolella teknisiä tietoja asiakkaasta, kuten käytetyn selaimen, sivun jolla chat on aloitettu, sekä muita tietoja, mikäli ne on päätetty ottaa käyttöön.
 3. Mikäli chatissa on alkukysely, näet asiakkaan tekemät kyselyvalinnat ja -vastaukset oikealla palstalla, ja voit niiden perusteella paremmin neuvoa asiakasta.
 
-### Kuvat ja tiedostot
+## Kuvat ja tiedostot
 
 Asiakasneuvoja voi lähettää asiakkaalle kuvia ja tiedostoja, ja hän neuvojalle, mikäli tämä on sallittu chatin asetuksissa.
+
+Lähetettävien tiedostojen kokoa tai formaattia ei ole rajattu.
 
 ## Asiakas-metatiedot
 
@@ -265,6 +280,6 @@ Tunnisteiden luonnista ja muokkauksesta kerrotaan kohdassa [Asiakasjonot ja -kes
 
 ## Muistiinpanot \(merkinnät\)
 
-Merkinnät \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun.  Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
-Pyydä lisätietoa Ninchatin henkilöstöltä.
+Merkinnät \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
+Merkintöjä voidaan hyödyntää myös tietojen viennissä asiakkaan omaan tietojärjestelmään. Pyydä lisätietoa Ninchatin henkilöstöltä.
 

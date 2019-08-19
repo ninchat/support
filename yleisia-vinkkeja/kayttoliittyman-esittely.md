@@ -177,6 +177,12 @@ Kanavan operaattorit voivat listan kautta kutsua uusia jäseniä, sekä antaa k�
 
 Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksista. Sivupalkissa voidaan näyttää metatietoja, muistiinpanokenttä, valmisviestit ja tägit.
 
+## Asiakasjononäkymä
+
+![Asiakasjono-n&#xE4;kym&#xE4;](../.gitbook/assets/queue-view.png)
+
+{% page-ref page="../asiakasjonot-ja-keskustelut/" %}
+
 ## Yksityiskeskustelut
 
 ![Yksityiskeskustelun aloittaminen](../.gitbook/assets/team-start-private%20%281%29.png)
