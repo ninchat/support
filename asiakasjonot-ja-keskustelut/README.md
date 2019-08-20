@@ -14,8 +14,8 @@ Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaati
 
 ![Asiakasjono sivupalkissa sek&#xE4; jonon&#xE4;kym&#xE4;](../.gitbook/assets/queue-view.png)
 
-Asiakasjonot löytyvät vasemman laidan sivupalkista. Palkkia klikkaamalla saat auki asiakasjononäkymän, josta voidaan napata jonoon tulevat asiakkaat, sekä tarkastella jonon tapahtumia: milloin jono on avattu ja suljettu, sekä kuka on poiminut asiakkaita.  
-Sivupalkin kanavan nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata pudotusvalikon, josta asiakkaan nappaaminen onnistuu ilman jononäkymään siirtymistä. Pudotusvalikosta voit myös mm. sulkea jonon.
+Asiakasjonot näkyvät vasemman laidan sivupalkissa. Klikkaamalla jonon nimeä saat auki asiakasjononäkymän, josta voidaan napata jonoon tulevat asiakkaat, sekä tarkastella jonon tapahtumia: milloin jono on avattu ja suljettu, sekä kuka on poiminut asiakkaita.  
+Sivupalkin jonon nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata pudotusvalikon, josta asiakkaan nappaaminen onnistuu ilman jononäkymään siirtymistä. Pudotusvalikosta voit myös mm. sulkea jonon.
 
 ## Asiakasjonon avaaminen ja sulkeminen
 
