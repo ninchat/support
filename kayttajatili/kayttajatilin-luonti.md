@@ -5,7 +5,7 @@ description: Näin luot Ninchat-käyttäjätunnuksen
 # Käyttäjätilin luonti
 
 {% hint style="info" %}
-Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.
+Suosittelemme Ninchatin käyttöön [Google Chrome](https://www.google.com/chrome/)- tai [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) -selainohjelmia.
 {% endhint %}
 
 ## **Tunnuksen luominen**
@@ -47,7 +47,7 @@ Kirjautuessasi sinun tulisi päätyä organisaatiosi tiimikanavalle tai viimeksi
 #### Ninchatin käyttäminen suomen kielellä
 
 Mikäli haluat käyttää Ninchatia suomeksi, mene osoitteeseen [https://ninchat.com/app​?lang=fi](https://ninchat.com/app​?lang=fi)   
-Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Yleisiä vinkkejä: Pikakuvakkeet Ninchatiin"
+Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "[Yleisiä vinkkejä: Pikakuvakkeet Ninchatiin](https://support.ninchat.com/ninchat-support/yleisia-vinkkeja/pikakuvakkeet-ninchatiin)"
 {% endhint %}
 
 {% page-ref page="../yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md" %}
