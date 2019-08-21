@@ -134,7 +134,7 @@ Klikkaamalla tapahtumariviä pääset suoraan esim. kanavalle, jossa sinua koske
 
 ![](../.gitbook/assets/sidebar-menus-4.png)
 
-Asiakasjonorivi näyttää jonot ja niiden aukiolon \(vihreä pallo - jono on avoinna asiakkaille, punainen pallo - jono on suljettu\), sekä jonossa olevien asiakkaiden määrän. Valikosta voit:
+Asiakasjonorivi näyttää jonot ja niiden aukiolon \(vihreä pallo - jono on avoinna asiakkaille, punainen pallo - jono on suljettu\), sekä jonossa olevien asiakkaiden määrän. Klikkaamalla jonon nimeä pääset Asiakasjononäkymään, ks. alempana. Nimen vieressä olevasta nuoli-ikonista taas saat avattua valikon, josta voit:
 
 * Poimia asiakkaan jonosta
 * Avata jonon asetukset \(Organisaation operaattorit\)
@@ -179,7 +179,9 @@ Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksist
 
 ## Asiakasjononäkymä
 
-![Asiakasjono-n&#xE4;kym&#xE4;](../.gitbook/assets/queue-view.png)
+![Asiakasjono-n&#xE4;kym&#xE4;](../.gitbook/assets/queue-answer1%20%281%29.png)
+
+Asiakasjononäkymään pääset klikkaamalla jonon nimeä. Näkymästä voit poimia asiakkaat sekä näet tapahtumalokin: kuka on poiminut asiakkaita, milloin jono on avattu ja suljettu.
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
