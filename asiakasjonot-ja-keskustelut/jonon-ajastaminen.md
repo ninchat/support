@@ -21,7 +21,11 @@ Viikonpäivää klikkaamalla pääset luomaan ja muokkaamaan jonon avaamis- ja s
 
 Valitse tarvittaessa oikea aikavyöhyke.
 
-Muista tallentaa muutokset
+Muista tallentaa muutokset.
+
+{% hint style="info" %}
+Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle on asetetaan nykyhetkeä aikaisemmin. Voit avata jonon aina manuaalisesti sivupalkin jono-valikosta.
+{% endhint %}
 
 ### Luo vuosittaisia poikkeusaikatauluja esim. juhlapyhille ja muille vapaapäiville:
 
