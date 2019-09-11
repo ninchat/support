@@ -26,6 +26,18 @@ Keskusteluista on moderaattorin työkaluilla mahdollista piilottaa viestejä, es
 
 {% page-ref page="ryhmakeskustelun-jarjestaminen.md" %}
 
+### Kanavan asetukset
+
+#### Kuka voi kirjoittaa kanavalle
+
+Kanavan asetusten kautta voit määrittää, miten vieraat voivat kirjoittaa kanavalle. Voit esim. vähentää häiriökäyttäytymistä hiljentämällä uudet vieraat automaattisesti, tai piilottamalla uusien vieraiden viestit automaattisesti.
+
+Katso lisätietoa Kanavan asetukset -sivun kohdassa "Turvallisuusasetukset - kuka voi kirjoittaa kanavalle":
+
+{% page-ref page="../tiimikanavat/kanavan-asetukset.md" %}
+
+Lisää kanavan määrittelyjä alempana kohdassa "Kanavavalikko".
+
 ### Keskustelutyökalut
 
 Moderointityökalut tulevat esille kun hiiren osoittimen vie kommentin päälle.
