@@ -18,8 +18,6 @@ Kun sinulle on annettu moderointioikeudet, päivitä sivu, jotta muutos astuu vo
 
 ![Moderaattorin ty&#xF6;kalut ja valinnat](../.gitbook/assets/channel-embed-moderation.png)
 
-![Moderaattorin kommenttity&#xF6;kalut](../.gitbook/assets/moderator-comment-tools%20%281%29.png)
-
 ### Piilotetut viestit
 
 Keskusteluista on moderaattorin työkaluilla mahdollista piilottaa viestejä, esim. häiritsevät tai turhat viestit. Katso ohjeet alta. Jotta näkisit piilotetut viestit itse, sinun tulee omissa käyttäjäasetuksissa asettaa piilotetut viestit näkyviksi. Ohje: 
@@ -41,6 +39,8 @@ Lisää kanavan määrittelyjä alempana kohdassa "Kanavavalikko".
 ### Keskustelutyökalut
 
 Moderointityökalut tulevat esille kun hiiren osoittimen vie kommentin päälle.
+
+![Moderaattorin kommenttity&#xF6;kalut](../.gitbook/assets/moderator-comment-tools%20%281%29.png)
 
 <table>
   <thead>
