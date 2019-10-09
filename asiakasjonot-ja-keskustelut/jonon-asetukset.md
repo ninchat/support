@@ -21,7 +21,7 @@ Muista tallentaa tekemäsi muutokset.
 
 ### Liitetiedostojen ja videon tuki
 
-Mikäli haluatte jonoon liitetiedostojen lisäämisen tai videopuhelun käytön, ottakaa yhteyttä Ninchatin henkilöstöön.
+Mikäli haluatte jonoon liitetiedostojen lisäämisen tai videopuhelun ja ruudunjaon käytön, ottakaa yhteyttä Ninchatin henkilöstöön.
 
 ## Jonon ajastaminen
 
@@ -31,7 +31,14 @@ Katso jonon aikataulutuksen ohjeistus seuraavalta sivulta:
 
 ## Merkinnät \(Muistiinpanot\)
 
-Muistiinpanot \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
+Muistiinpanot \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.
+
+Pyydä lisätietoa Ninchatin henkilöstöltä.
+
+## Siirtojonot
+
+Asiakaskeskustelu on mahdollista ohjata toiseen jonoon ja tätä kautta toiselle ammattilaiselle. Asetuksissa määritellään sallitut siirtojonot. 
+
 Pyydä lisätietoa Ninchatin henkilöstöltä.
 
 ## Jonon tilastot

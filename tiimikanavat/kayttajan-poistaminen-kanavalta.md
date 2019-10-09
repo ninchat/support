@@ -12,3 +12,5 @@ Agentti poisetaan jokaiselta halutulta kanavalta erikseen. Hän ei automaattises
 2. Klikkaa poistettavan agentin nimeä ja valitse pudotusvalikosta _Poista kanavalta / Remove from channel_. Käyttäjä poistetaan kanavalta.
 3. Toista tarvittaessa muilla kanavilla.
 
+{% page-ref page="../organisaatio/agentin-poistaminen-organisaatiosta.md" %}
+

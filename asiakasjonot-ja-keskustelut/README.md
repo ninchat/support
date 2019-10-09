@@ -218,9 +218,15 @@ Jonon asetusten mukaan videopuhelun voi aloittaa agentti, asiakas, molemmat, tai
 1. Aloittaaksesi videopuhelun, klikkaa kommenttikentän vieressä videokamera-kuvaketta.
 2. Mikäli asiakkaan selain tukee videopuhelua, hänelle näytetään videopuhelupyyntö, jonka hän hyväksyy tai hylkää.
 
-### Videopuhelu
+### Videopuhelunäkymä <a id="videopuhelunakyma"></a>
 
 Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas voi halutessaan laajentaa videon koko ruudun kokoiseksi, jolloin tekstikeskustelu näkyy videon oikealla puolella. \(Anna selaimelle lupa näyttää Ninchatin video koko ruudussa.\)
+
+### Ruudunjako
+
+Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolelle. Ruudunjako voi olla apuna, kun asiakkaalle pitää näyttää miten web-sovellus toimii, tai neuvoessa tätä esim. lomakkeen täyttämisessä.
+
+Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klikkkaa videopuhelun aikana ruudunjako-kuvaketta ja valitse, mitä haluat näytöltäsi jakaa. Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen kuten web-selaimen näkymän.
 
 ### Videotoiminnot
 
@@ -260,7 +266,7 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
     </tr>
     <tr>
       <td style="text-align:left">iOS</td>
-      <td style="text-align:left">Mozilla Firefox, Apple Safari</td>
+      <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
 </table>
