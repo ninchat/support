@@ -16,7 +16,9 @@ Organisaatioasetusten jonot-välilehdellä näet organisaation jonot, sekä pä�
 
 {% page-ref page="tunnisteet-tagit.md" %}
 
-## Sites-konfiguraatiot
+## Sivut-konfiguraatiot
 
-{% page-ref page="sites-konfiguraatiot.md" %}
+Organisaatioasetusten Sivut/Sites-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.
+
+{% page-ref page="../asiakasjonot-ja-keskustelut/sivut-konfiguraatiot.md" %}
 

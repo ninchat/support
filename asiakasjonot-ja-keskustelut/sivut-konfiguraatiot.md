@@ -2,11 +2,12 @@
 description: Chattien asetustiedostot
 ---
 
-# Sites-konfiguraatiot
+# Sivut-konfiguraatiot
 
 ## Yleistä <a id="yleista"></a>
 
-Sites-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.
+Organisaatioasetusten Sivut/Sites-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.  
+Pääset konfiguraatioihin menemällä organisaatioasetuksiin ja valitsemalla Sivut-välilehden.
 
 {% hint style="info" %}
 Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuuksia. Pyydä Ninchatin henkilöstöä tekemään muutokset, tai apua, mikäli koet sen hankalaksi.
