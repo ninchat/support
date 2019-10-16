@@ -31,6 +31,8 @@ Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
 | noQueuesText | Opasteteksti chatin ollessa suljettuna \(Yhteydenottolomake korvaa tekstin, mikäli se on asetettu käyttön.\) |
 | inQueueText | Opasteteksti jonotusnäkymässä |
 | userName | Asiakkaan vakionimi keskutelussa |
+| preAudienceQuestionnaire | Chatin alkukysely |
+| postAudienceQuestionnaire | Chatin loppukysely |
 
 Muista tallentaa muutokset.
 
