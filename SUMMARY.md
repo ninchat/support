@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Ninchat-tuki: aloitus](README.md)
+* [Mitä uutta](mitae-uutta.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Yleistä](yleisia-vinkkeja/yleistae.md)
@@ -18,7 +19,7 @@
 * [Organisaatio](organisaatio/README.md)
   * [Uuden agentin lisääminen organisaatioon](organisaatio/uuden-agentin-lisaaminen-organisaatioon.md)
   * [Agentin lisääminen jonon käsittelijäksi](organisaatio/agentin-lisaaminen-jonon-kasittelijaksi.md)
-  * [Jonot](organisaatio/asiakasjonojen-hallinta.md)
+  * [Jonojen hallinta](organisaatio/asiakasjonojen-hallinta.md)
   * [Tunnisteet \(Tägit\)](organisaatio/tunnisteet-tagit.md)
   * [Agentin poistaminen organisaatiosta](organisaatio/agentin-poistaminen-organisaatiosta.md)
 * [Tiimikanavat](tiimikanavat/README.md)
