@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Ninchat-tuki: aloitus](README.md)
-* [Mitä uutta](mitae-uutta.md)
+* [Mitä uutta](mita-uutta.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Yleistä](yleisia-vinkkeja/yleistae.md)
