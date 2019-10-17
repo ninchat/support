@@ -35,11 +35,13 @@ Muistiinpanot \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpa
 
 Pyydä lisätietoa Ninchatin henkilöstöltä.
 
+![Jonon merkint&#xE4;asetukset](../.gitbook/assets/queue-settings-notes.jpg)
+
 ## Siirtojonot
 
-Asiakaskeskustelu on mahdollista ohjata toiseen jonoon ja tätä kautta toiselle ammattilaiselle. Asetuksissa määritellään sallitut siirtojonot. 
+Asiakaskeskustelu on mahdollista ohjata toiseen jonoon ja tätä kautta toiselle ammattilaiselle. Jonon asetuksissa määritellään sallitut siirtojonot. Pyydä lisätietoa Ninchatin henkilöstöltä.
 
-Pyydä lisätietoa Ninchatin henkilöstöltä.
+![Siirtojonojen asettaminen](../.gitbook/assets/queue-settings-transfer.png.jpg)
 
 ## Jonon tilastot
 

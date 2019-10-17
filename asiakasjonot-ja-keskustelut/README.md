@@ -207,6 +207,14 @@ Esimerkki: Olet asettanut valmisviestin: _avoinna_ \(avain\): _Palvelemme arkip�
 
 {% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
+## Asiakkaan siirtäminen <a id="asiakkaan-siirtaminen"></a>
+
+Asiakas voidaan keskustelun alettua siirtää toiseen jonoon, jolloin toinen agentti voi poimia tämän keskusteluun. Esimerkiksi ensiksi vastannut hoitaja voi tarvittaessa siirtää asiakkaan lääkärijonoon.
+
+Siirtojonot määritellään jonon asetuksissa. Kun siirtojonoja on määritelty, siirtomahdollisuus näkyy asiakaskeskustelun oikealla palstalla.
+
+![Asiakkaan siirt&#xE4;minen, siirtojonon valinta](../.gitbook/assets/queue-transfer.png)
+
 ## Videopuhelut
 
 Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Kysy lisää ominaisuudesta.
