@@ -2,7 +2,7 @@
 description: Asiakkaan näkymän esittely ja toiminta
 ---
 
-# Asiakkaan chat-nakyma
+# Asiakkaan chat-näkymä
 
 Tässä dokumentissa esitellään asiakaspalvelu-chatin toimintaa ja näkymiä asiakkaan päässä. Ohessa yksi esimerkki chat-toteutuksen näkymistä. Ninchatin kaikki näkymät ja toiminnot ovat muokattavissa brändinne ja toivomustenne mukaisesti.
 
