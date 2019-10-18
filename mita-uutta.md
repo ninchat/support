@@ -16,11 +16,11 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 * [Video- ja äänilaitteen valinta](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut#videopuhelut). Videokeskustelun alussa on nyt mahdollista valita käytetty kamera ja mikrofoni. Valinnat tallennetaan jatkoa varten ja ovat myöhemmin muutettavissa video-chatin asetuksissa.
 
-![Video chat: laitevalinta](.gitbook/assets/video-media-select.jpg)
+![Video-chat: laitteiden valinta](.gitbook/assets/video-settings.jpg)
 
 * [Ruudunjakomahdollisuus](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut#videopuhelut). Kun video-keskustelu on aloitettu, on mahdollista aloittaa ruudunjako , jolla oman näyttönsä tai selaimensa näkymän voi jakaa keskustelukumppanille. Ruudunjako sallitaan asiakasjonon asetuksissa.
 
-![Ruudunjako](.gitbook/assets/video-screenshare.jpg)
+![Video-chat: ruudunjako](.gitbook/assets/video-screenshare.jpg)
 
 ## 23.7.2019
 
