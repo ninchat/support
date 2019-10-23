@@ -28,7 +28,7 @@ Siirry takaisin omaan organisaatioon klikkaamalla nuolta organisaation nimen vie
 
 ![Vaihda organisaatio organisaatiovalikosta](../.gitbook/assets/problem-wrong-organization.png)
 
-### Rekisteröidyit palveluun ilman kutsulinkkiä
+### Rekisteröidyit palveluun ilman kutsulinkkiä <a id="rekisteroidyit-palveluun-ilman-kutsulinkkia"></a>
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 
