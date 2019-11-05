@@ -4,6 +4,16 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 # Mitä uutta
 
+## 29.10.2019
+
+### Alkukyselyn kenttien automaattinen täyttäminen 
+
+* Chatin alkukyselyn kenttiä on mahdollista täyttää valmiiksi asiakasjärjestelmän tietojen pohjalta. Valmiiksi täytetyt kentät voivat myös olla loppuaiakkaalta piilotettuja.
+
+### Keskustelun automaattinen tägäys \(merkitseminen\) esitietojen pohjalta 
+
+* Keskustelu voidaan tägätä automaattisesti loppuasiakkaan alkukyselyvalintojen ja -vastausten perusteella, tai valmiiksi täytettyjen kenttien perusteella.
+
 ## 17.9.2019
 
 ### Liitetiedostojen näyttäminen keskusteluhistoriassa
