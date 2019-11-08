@@ -93,7 +93,7 @@ Internet Eplorer -selain \(IE\) ei tue työpöytäilmoituksia.
 
 ![Esimerkki ty&#xF6;p&#xF6;yt&#xE4;ilmoituksesta \(Windows\); asiakas jonossa](../.gitbook/assets/desktop-notification.png)
 
-#### Työpöytäilmoitusten salliminen selaimessa
+### Ilmoitusten salliminen selaimessa
 
 Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa, että työpöytäilmoituksille \(sekä äänille, kameralle ja mikrofonille\) on annettu lupa klikkaamalla lukkoikonia osoiterivillä, ollessasi ninchat.comissa. Alla ohjeet eri selaimille.
 
@@ -101,15 +101,17 @@ Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa
 
 ![Sivustoasetukset Google Chrome -selaimessa](../.gitbook/assets/browser-permissions-chrome.png)
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
-Ilmoitusluvat voit säätää myös Chrome-selaimen asetuksissa:  [chrome://settings/content](chrome://settings/content)
+Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.
+
+Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Chrome-selaimen asetuksissa, kirjoita osoiteriville:  chrome://settings/content/siteDetails?site=https://ninchat.com
 
 **Mozilla Firefox**
 
 ![Sivustoasetukset Mozilla Firefox-selaimessa](../.gitbook/assets/browser-permissions-firefox.png)
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
-Ilmoitusluvat voit säätää myös Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences\#privacy_
+Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.
+
+Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences\#privacy_
 
 **Microsoft Edge**
 
