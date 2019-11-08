@@ -25,7 +25,7 @@ Suosittelemme sijoittamaan script-tägin web-sivun body-elementin loppuun. Esim:
 
 Upotuskoodi tulee sijoittaa jokaiselle sivulle, jolla chatin halutaan toimivan. Käytännössä script-tägi kannattaa sijoittaa sivuston header- tai footer-osioon, joka kulkee mukana jokaisella sivulla.
 
-### Ninchatin lisääminen Wordpress-sivustolle
+### Ninchat Wordpress-sivustolle
 
 Ninchatin embed-koodin lisäminen Wordpress-sivustolle onnistuu muokkaamalla sivuston HTML-lähdekoodia.
 

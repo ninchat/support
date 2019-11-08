@@ -8,40 +8,58 @@ description: Asiakasjonon aikataulut
 
 Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti. Lisäksi voit asettaa poikkeuskäytäntöjä.
 
-![Asiakasjonon asetukset - Aikataulu](../.gitbook/assets/queue-settings-schdule1.png)
+![](../.gitbook/assets/schedule-overall.png)
 
-## Luo aikataulu jonolle
-
-Viikonpäivää klikkaamalla pääset luomaan ja muokkaamaan jonon avaamis- ja sulkemisaikoja. Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
-
-* Esim. kuvassa maanantaina chat avataan klo 9:00 ja suljetaan klo 17:00. Keskiviikkona chat on avoinna klo 9:30 - 17:00 sekä klo 18:00 - 21:30.
-* Palaa viikkonäkymään klikkaamalla nuoli- tai x-kuvaketta.
+### Ajastukset päälle/pois <a id="ajastukset-paalle-pois"></a>
 
 "Ota aikataulu käyttöön" -kohdasta voit nopeasti asettaa ajastukset käyttöön tai pois.
 
-Valitse tarvittaessa oikea aikavyöhyke.
+Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajann, voi olla helpompaa laittaa ajastukset pois, poikkusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle.
 
-Muista tallentaa muutokset.
+Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
+
+![Ajastukset k&#xE4;yt&#xF6;ss&#xE4;/pois k&#xE4;yt&#xF6;st&#xE4;](../.gitbook/assets/schedule-disable.png)
 
 {% hint style="info" %}
-Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle on asetetaan nykyhetkeä aikaisemmin. Voit avata jonon aina manuaalisesti sivupalkin jono-valikosta.
+Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle on asetetaan nykyhetkeä aikaisemmin.   
+Voit avata jonon aina manuaalisesti sivupalkin jono-valikosta.
 {% endhint %}
+
+## Luo aikataulu jonolle
+
+Luo toistuva viikkoaikataulu chat-jonollesi. Viikonpäivää klikkaamalla pääset luomaan ja muokkaamaan jonon avaamis- ja sulkemisaikoja. Alla keskiviikon \(Wednesday\) ajastusten muokkausnäkymä.
+
+Muista aina tallentaa muutokset.
+
+### Toistuva viikkoajastus
+
+![Viikkoaikataulu-esimerkki](../.gitbook/assets/schedule-weekly.png)
+
+Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
+
+* Lisää uusi tapahtumakohta klikkaamalla +-ikonia. Valitse aika ja avataanko vai suljetaanko chat tällöin.
+* Esim. kuvassa keskiviikkona chat avataan klo 10:00 ja suljetaan klo 17:00 ja avataan jälleen 19:00 - 22:00.
+* Palaa viikkonäkymään klikkaamalla nuoli- tai x-kuvaketta.
+
+![P&#xE4;iv&#xE4;kohtaisten ajastusten muokkaus](../.gitbook/assets/schedule-weekly-set.png)
 
 ### Luo vuosittaisia poikkeusaikatauluja esim. juhlapyhille ja muille vapaapäiville:
 
-* Vuosittainen poikkeusaikataulu vaatii sekä avaamis- että sulkemisajan asettamisen
-* Jos haluat ettei chat avaudu tiettynä päivänä lainkaan, luo päivämäärä tyhjänä ilman avaamis- tai sulkemistietoja
+* Vuosittainen poikkeusaikataulu \(Annual exception\) vaatii sekä avaamis- että sulkemisajan asettamisen
+* Jos haluat ettei chat avaudu tiettynä päivänä lainkaan, lisää päivämäärä tyhjänä ilman avaamis- tai sulkemistietoja
+* Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2. Lisäksi jouluaattona ja -päivänä chat on kokonaan suljettuna.
+
+![](../.gitbook/assets/schedule-annual.png)
 
 ### Luo yksittäisiä, kerran tapahtuvia poikkeuspäiviä:
 
-* Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset
-* Tyhjän päivämäärän luominen pitää chatin suljettuna koko päivän.
+* Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä.
+* Tyhjän päivämäärän luominen ilman avaamis- tai sulkemistietoja pitää chatin suljettuna koko päivän.
+* Ao. kuvan esimerkissä on 19.9.2019 tapahtuva poikkeusajastus.
+
+![](../.gitbook/assets/schedule-exception.png)
 
 {% hint style="info" %}
 Muista tallentaa muutokset.
 {% endhint %}
-
-![Asiakasjonon asetukset - P&#xE4;ivitt&#xE4;inen aikataulu](../.gitbook/assets/queue-settings-schdule.png)
-
-![Asiakasjonon asetukset - P&#xE4;ivitt&#xE4;inen aikataulu](../.gitbook/assets/queue-settings-schdule.png)
 

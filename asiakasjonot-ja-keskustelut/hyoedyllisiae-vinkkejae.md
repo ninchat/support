@@ -6,11 +6,11 @@ description: Vinkkejä asiakaspalvelijalle
 
 ## Yleisiä neuvoja
 
-### Älä vaikene pitkäksi ajaksi
+### Älä vaikene pitkäksi ajaksi <a id="ala-vaikene-pitkaksi-ajaksi"></a>
 
-Älä jätä asiakasta odottamaan hiljaisuudessa - jos sinun pitää etsiä vastausta, kerro siitä lyhyesti sen sijaan, että vain jäät mykäksi useaksi minuutiksi; "Pieni hetki, selvitän asiaa." Varsinkin mobiililaitteella keskusteleva asiakas ei halua odottaa pitkään.
+Älä jätä asiakasta odottamaan hiljaisuudessa - jos sinun pitää etsiä vastausta, kerro siitä lyhyesti sen sijaan, että vain jäät mykäksi useaksi minuutiksi; "Pieni hetki, selvitän asiaa." Varsinkaan mobiililaitteella keskusteleva asiakas ei halua odottaa pitkään.
 
-### Häiriköijät
+### Häiriköijät <a id="hairikoijat"></a>
 
 Häiriköiviä käyttäjiä voi yrittää vähentää jatkuvissa tapauksissa IP-estoilla \(kysy Ninchatin henkilöstöltä\), mutta tämä ei välttämättä poista ongelmaa.
 
