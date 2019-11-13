@@ -180,11 +180,9 @@ Muista tallentaa muutokset.
 
 ![N&#xE4;kym&#xE4;valinnat](../.gitbook/assets/user-view.png)
 
-
-
 ## Valmisviestit
 
-Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai tarkkojen asioiden kanssa. Voit asiakas-chatissa valita valmiiksi asetettuja viestejä yhdellä klikkauksella keskustelun sivupalkista.
+Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai tarkkojen asioiden kanssa. Voit asiakas-chatissa valita valmiiksi asetettuja viestejä yhdellä klikkauksella keskustelun sivupalkista, tai käyttää niitä pikakomennolla viestinkirjoituskentästä.
 
 ![K&#xE4;ytt&#xE4;j&#xE4;n valmisviestit](../.gitbook/assets/user-canned.png)
 
@@ -198,6 +196,8 @@ Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai 
 6. Tallenna
 
 ### Valmisviestin käyttäminen
+
+Ohjeet valmisviestien käyttöön keskusteluissa löydät täältä:
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
