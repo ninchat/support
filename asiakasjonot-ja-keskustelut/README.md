@@ -181,6 +181,12 @@ Valmisviestit nopeuttavat ja helpottavat asiakaspalvelijan työtä. Voit hoitaa 
 
 Lisäksi asioissa, jotka vaativat tarkasti oikein annettua vastausta, kuten juridiset tai hoitotoimenpiteisiin liittyvät asiat, voi olla hyvä käyttää valmisvastauksia.
 
+### Valmisviestin luominen ja muokkaus
+
+Valmisviestit ovat henkilökohtaisia ja ne luodaan omissa käyttäjäasetuksissa. Katso ohjeet linkin takaa:
+
+{% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
+
 ### Valmisviestin käyttäminen
 
 #### **Asiakaskeskustelun sivupalkki**
@@ -202,10 +208,6 @@ Esimerkki: Olet asettanut valmisviestin: _avoinna_ \(avain\): _Palvelemme arkip�
 ```text
 /avoinna[välilyönti]  --> Palvelemme arkipäivisin klo 9 - 17.
 ```
-
-### Valmisviestin luominen ja muokkaus
-
-{% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
 ## Asiakkaan siirtäminen <a id="asiakkaan-siirtaminen"></a>
 
@@ -277,9 +279,7 @@ Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klik
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
-</table>
-
-## Tunnisteet \(tägit\)
+</table>## Tunnisteet \(tägit\)
 
 Asiakaspalvelija voi merkata asiakaskeskusteluita tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esin. "myynti", "uusi asiakas", "ongelma", "bugi", ... Tägäys helpottaa myöhemmin keskutelujen tilastointia sekä tarkastelua.
 
