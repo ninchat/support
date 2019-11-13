@@ -57,10 +57,11 @@ Kirjautumissähköpostiosoiterivillä voit kohdassa "Näkyvyys" valita, kenelle 
 
 ## Ilmoitukset
 
-Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.  
-Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä.
+Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.
 
-![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user-notifications.png)
+Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä. Työpöytäilmoitus ilmestyy ikkunan nurkkaan popup-laatikkona, jota klikkaamalla näet tapahtuman Ninchatissa. Lue lisää alempana.
+
+![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user_settings_notifications%20%282%29.png)
 
 ### Aseta ilmoitustyypit
 
@@ -69,6 +70,7 @@ Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienenne
 * **Yksityisviestit**
 * **Kanavan korostukset**
 * **Uusi henkilö asiakaspalvelujonossa.**
+* **Asiakaspalveluviestit**
 
 Tallenna muutokset.
 
@@ -78,11 +80,22 @@ Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonos
 
 ### Näytä ilmoitukset aina
 
-Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset aina"_ -valinta ja tallenna.
+Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset aina"_ -valinta ja tallenna. Tämä helpottaa tapahtumien havainnointia.
 
 ### Työpöytäilmoitukset
 
-Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia. Ilmoituslupa on selain- ja konekohtainen, joten muista sallia luvat kaikissa laitteissa ja selaimissa joita käytät.
+Työpöytäilmoitukset tarvitsevat luvan web-selaimelta, jotta ne näkyvät sinulle. 
+
+Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia. Ilmoituslupa on selain- ja laitekohtainen, joten muista sallia luvat kaikissa laitteissa ja selaimissa joita käytät.
+
+#### Windows-käyttöjärjestelmä
+
+Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät Toimintokeskuksen ilmoituksista \(Windows 10\), kunnes kuittaat ne. [Lue lisää Windowsin Toimintokeskuksesta](https://support.microsoft.com/fi-fi/help/4026791/windows-how-to-open-action-center)
+
+### Työpöytäilmoitusten kuittaaminen
+
+Työpöytäilmoitukset saa näkymään ruudulla pysyvästi, kunnes klikkaat sitä, tai suljet sen. Tällöin ilmoitus ei mene sinulta ohi.   
+Ilmoitusasetusten kohdassa _"Lisäasetukset"_, ruksaa _"Sulje työpöytäilmoitus vasta käyttäjän vuorovaikutuksesta, kuten hiiren klikkauksesta"_.
 
 {% hint style="info" %}
 Työpöytäilmoitukset toimivat Chrome, Firefox, Safari- ja Edge-selaimilla.   
