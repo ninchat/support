@@ -29,7 +29,7 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 
 ![K&#xE4;ytt&#xE4;j&#xE4;profiili ja -tiedot](../.gitbook/assets/user-settings.png)
 
-## Kirjautumisvalinnat <a id="profiili"></a>
+## Kirjautumisvalinnat <a id="kirjautumisvalinnat"></a>
 
 Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen sähköpostiosoitteen kirjautumiseen. 
 
