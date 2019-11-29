@@ -134,7 +134,7 @@ Klikkaamalla tapahtumariviä pääset suoraan esim. kanavalle, jossa sinua koske
 
 ![](../.gitbook/assets/sidebar-menus-4.png)
 
-Asiakasjonorivi näyttää jonot ja niiden aukiolon \(vihreä pallo - jono on avoinna asiakkaille, punainen pallo - jono on suljettu\), sekä jonossa olevien asiakkaiden määrän. Klikkaamalla jonon nimeä pääset Asiakasjononäkymään, ks. alempana. Nimen vieressä olevasta nuoli-ikonista taas saat avattua valikon, josta voit:
+Asiakasjonorivi näyttää jonot ja niiden aukiolon \(vihreä pallo - jono on avoinna asiakkaille, punainen pallo - jono on suljettu\), sekä jonossa olevien asiakkaiden määrän. Valikosta voit:
 
 * Poimia asiakkaan jonosta
 * Avata jonon asetukset \(Organisaation operaattorit\)
@@ -177,14 +177,6 @@ Kanavan operaattorit voivat listan kautta kutsua uusia jäseniä, sekä antaa k�
 
 Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksista. Sivupalkissa voidaan näyttää metatietoja, muistiinpanokenttä, valmisviestit ja tägit.
 
-## Asiakasjononäkymä
-
-![Asiakasjono-n&#xE4;kym&#xE4;](../.gitbook/assets/queue-answer1%20%281%29.png)
-
-Asiakasjononäkymään pääset klikkaamalla jonon nimeä. Näkymästä voit poimia asiakkaat sekä näet tapahtumalokin: kuka on poiminut asiakkaita, milloin jono on avattu ja suljettu.
-
-{% page-ref page="../asiakasjonot-ja-keskustelut/" %}
-
 ## Yksityiskeskustelut
 
 ![Yksityiskeskustelun aloittaminen](../.gitbook/assets/team-start-private%20%281%29.png)
@@ -201,5 +193,13 @@ Asiakasjononäkymään pääset klikkaamalla jonon nimeä. Näkymästä voit poi
 
 ## Ongelmatilanteet
 
-{% page-ref page="ongelmatilanteet-kayttoliittymassa.md" %}
+#### Kanavan jäsenlista ei näy
+
+Kanavan jäsenlista \(oikean puoleisin sivupalkki\) on mahdollista pitää näkyvissä tai piilottaa. Mikäli lista ei näy, voit palauttaa sen avaamalla valikon käyttäjänimesi vieressä olevasta nuoli-kuvakkeesta vasemman palstan \(Sidebar\) alapäässä. Valitse valikosta "Näytä jäsenet / Show members".
+
+![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/sidebar-menus-2.png)
+
+#### Oikeanpuolimmainen palsta \(valmisviestit, tägit\) ei näy asiakaskeskusteluissa
+
+Asiakaskeskustelun työkalut \(muistiinpanot, valmisviestit, tägit, ...\) on mahdollista näyttää tai piilottaa klikkaamalla viestinlähetyskentän vieressä olevaa ![](../.gitbook/assets/menu-ikoni%20%281%29.png)-ikonia. Ikoni näkyy vain asikaskeskusteluissa.
 

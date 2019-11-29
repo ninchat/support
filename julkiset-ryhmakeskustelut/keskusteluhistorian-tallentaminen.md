@@ -1,5 +1,5 @@
 ---
-description: Ryhmäkeskustelun tallantaminen
+description: Ryhmäkeskustelun tallantamienn
 ---
 
 # Keskusteluhistorian tallentaminen
@@ -10,10 +10,10 @@ CVS-tiedosto näyttää keskustelijoiden nimimerkit. Jos keskusteluaihe on arka 
 
 ## Keskusteluhistorian lataaminen
 
-* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa.
-* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Download message history / Lataa viestihistoria".
-* Aseta keskusteluhistorian aloitus- ja lopetuspäivämäärä ja kellonaika.
-* Klikkaa sinisellä pohjalla olevaa pilvi-ikonia, niin keskusteluhistoria tallentuu koneellesi.
+* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa
+* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Download message history / Lataa viestihistoria"
+* Aseta keskusteluhistorian aloitus- ja lopetuspäivämäärä ja kellonaika
+* Klikkaa sinisellä pohjalla olevaa pilvi-ikonia, niin keskusteluhistoria tallentuu koneellesi
 
 ![Kanavan viestihistorian lataaminen](../.gitbook/assets/download-channel-history.png)
 

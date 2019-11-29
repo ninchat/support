@@ -18,18 +18,6 @@ Mikäli pikakuvake hävinnyt tai osoite on unohtunut, pääset Ninchatiin aina s
 
 ## Tiimikanavia ei näy? <a id="tiimikanavia-ei-nay"></a>
 
-Alla selitetty pari tilannetta, joissa tiimikanavia ei näy.
-
-### Väärä organisaatio valittuna <a id="vaara-organisaatio-valittuna"></a>
-
-Mikäli sivupalkissa ei näy tuttuja kanavia ja asiakasjonoja, olet saattanut vahingossa siirtyä toiseen organisaatioon tai julkiseen tilaan.
-
-Siirry takaisin omaan organisaatioon klikkaamalla nuolta organisaation nimen vieressä. Valitse pudotusvalikosta oma organisaationne.
-
-![Vaihda organisaatio organisaatiovalikosta](../.gitbook/assets/problem-wrong-organization.png)
-
-### Rekisteröidyit palveluun ilman kutsulinkkiä <a id="rekisteroidyit-palveluun-ilman-kutsulinkkia"></a>
-
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 
 ![](../.gitbook/assets/welcome-screen%20%283%29.png)

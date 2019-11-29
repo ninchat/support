@@ -1,15 +1,12 @@
-# Ninchat-tuki: aloitus
+# Ninchat Support: Start
 
-**Tervetuloa Ninchatin tukisivustolle!**   
-Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta. Mikäli et täältä löydä apua, voit kysyä meiltä [chatissa](https://ninchat.com/contact). 
+{% hint style="info" %}
+**The English version of Nichat Support documents is under construction. In need of assistance, please contact us on support channel or via out customer service chat at this point. Thank you.**
+{% endhint %}
 
-## Uudistukset
+Welcome to Ninchat Support site! Choose from common topics below or browse articles on the left column by topic. If you can't find what you are looking for, you can always as for help in [chat](https://ninchat.com/contact). 
 
-Voit seurata palveluun tulleita muutoksia ja parannuksia Mitä uutta -osiossa.
-
-{% page-ref page="mita-uutta.md" %}
-
-## Usein kysyttyä
+## Frequently asked
 
 {% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
 
@@ -24,7 +21,7 @@ Voit seurata palveluun tulleita muutoksia ja parannuksia Mitä uutta -osiossa.
  
 
 {% hint style="info" %}
-Vinkki: Ohjeartikkelien kuvat saa isompaan kokoon klikkaamalla.
+Tip: See article pictures enlarged by clicking them.
 {% endhint %}
 
 

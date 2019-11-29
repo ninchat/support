@@ -4,17 +4,18 @@ description: Profiili ja asetukset
 
 # Käyttäjäasetukset
 
+## Käyttäjäasetuksiin siirtyminen <a id="kayttajaasetuksiin-siirtyminen"></a>
+
 Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavasti:
 
 1. Klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.
 2. Valitse "Asetukset ja profiili / Settings and profile"
-3. Omat asetukset -näkymä on jaettu eri välilehdille, joilta voit valita haluamasi.
-
-{% hint style="info" %}
-Muokattuasi asetuksia, muista painaa "Tallenna / Save" -nappia, jos haluat säilyttää muutokset.
-{% endhint %}
 
 ![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/user-menu.png)
+
+## Käyttäjäasetukset-näkymä <a id="kayttajaasetukset-nakyma"></a>
+
+Omat asetukset on jaettu eri välilehdille. Muokattuasi asetuksia, muista painaa "Tallenna / Save" -nappia, jos haluat säilyttää muutokset.
 
 ## Profiili
 
@@ -29,39 +30,26 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 
 ![K&#xE4;ytt&#xE4;j&#xE4;profiili ja -tiedot](../.gitbook/assets/user-settings.png)
 
-## Kirjautumisvalinnat <a id="kirjautumisvalinnat"></a>
+## Kirjautumisvalinnat <a id="profiili"></a>
 
 Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen sähköpostiosoitteen kirjautumiseen. 
 
-### Salasanan vaihtaminen
+Voit myös valita näkyykö sähköpostiosoitteesi kaikille Ninchatin käyttäjille.
 
-Voit vaihtaa tilisi salasanan klikkaamalla kirjautumissähköpostiosoitteen rivillä _"Muuta salasana"_. Sinulta tarkistetaan vanha salasanasi ja pyydetään keksimään uusi salasana.
-
-Tapauksessa, että olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salasanan vaihtolinkin sähköpostiisi.
-
-### Uuden kirjautumissähköpostin lisääminen <a id="uuden-kirjautumissahkopostin-lisaaminen"></a>
-
-Käyttäjätililläsi voi olla useita sähköpostiosoitteita, joilla pääset kirjautumaan. Klikkaamalla _"Lisää uusi sähköposti"_, voit luoda uden kirjautumissähköpostiosoitteen ja salasanan sille.
-
-### Kirjautumistavan poistaminen
-
-Voit poistaa kirjautumistavan \(sähköposti, mobiililaite\) klikkaamalla roskakorikuvaketta.
-
-**Huom!** Jos poistat kaikki kirjautumistyypit, et voi enää käyttää tiliäsi. Säilytä siis aina esim. yksi kirjautumissähköposti asetuksissa.
-
-### Tilin ja sähköpostin näkyvyys muille <a id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
-
-Kirjautumissähköpostiosoiterivillä voit kohdassa "Näkyvyys" valita, kenelle kyseinen sähköposti on näkyvissä: ainoastaan itsellesi, organisaatiosi jäsenille, kaikille Ninchatin käyttäjille. 
+Tallenna lopuksi muutokset.
 
 ![Kirjautumisvalinnat](../.gitbook/assets/user-auth.png)
 
+
+
 ## Ilmoitukset
 
-Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.
+Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin.
 
-Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä. Työpöytäilmoitus ilmestyy ikkunan nurkkaan popup-laatikkona, jota klikkaamalla näet tapahtuman Ninchatissa. Lue lisää alempana.
+Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.  
+Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä.
 
-![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user_settings_notifications%20%282%29.png)
+![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user-notifications.png)
 
 ### Aseta ilmoitustyypit
 
@@ -70,7 +58,6 @@ Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienenne
 * **Yksityisviestit**
 * **Kanavan korostukset**
 * **Uusi henkilö asiakaspalvelujonossa.**
-* **Asiakaspalveluviestit**
 
 Tallenna muutokset.
 
@@ -78,24 +65,9 @@ Tallenna muutokset.
 Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
 {% endhint %}
 
-### Näytä ilmoitukset aina
-
-Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset aina"_ -valinta ja tallenna. Tämä helpottaa tapahtumien havainnointia.
-
 ### Työpöytäilmoitukset
 
-Työpöytäilmoitukset tarvitsevat luvan web-selaimelta, jotta ne näkyvät sinulle. 
-
-Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia. Ilmoituslupa on selain- ja laitekohtainen, joten muista sallia luvat kaikissa laitteissa ja selaimissa joita käytät.
-
-#### Windows-käyttöjärjestelmä
-
-Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät Toimintokeskuksen ilmoituksista \(Windows 10\), kunnes kuittaat ne. [Lue lisää Windowsin Toimintokeskuksesta](https://support.microsoft.com/fi-fi/help/4026791/windows-how-to-open-action-center)
-
-### Työpöytäilmoitusten kuittaaminen
-
-Työpöytäilmoitukset saa näkymään ruudulla pysyvästi, kunnes klikkaat sitä, tai suljet sen. Tällöin ilmoitus ei mene sinulta ohi.   
-Ilmoitusasetusten kohdassa _"Lisäasetukset"_, ruksaa _"Sulje työpöytäilmoitus vasta käyttäjän vuorovaikutuksesta, kuten hiiren klikkauksesta"_.
+Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia. Ilmoituslupa on selain- ja konekohtainen, joten muista sallia luvat kaikissa laitteissa ja selaimissa joita käytät.
 
 {% hint style="info" %}
 Työpöytäilmoitukset toimivat Chrome, Firefox, Safari- ja Edge-selaimilla.   
@@ -106,7 +78,7 @@ Internet Eplorer -selain \(IE\) ei tue työpöytäilmoituksia.
 
 ![Esimerkki ty&#xF6;p&#xF6;yt&#xE4;ilmoituksesta \(Windows\); asiakas jonossa](../.gitbook/assets/desktop-notification.png)
 
-### Ilmoitusten salliminen selaimessa
+#### Työpöytäilmoitusten salliminen selaimessa
 
 Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa, että työpöytäilmoituksille \(sekä äänille, kameralle ja mikrofonille\) on annettu lupa klikkaamalla lukkoikonia osoiterivillä, ollessasi ninchat.comissa. Alla ohjeet eri selaimille.
 
@@ -114,17 +86,15 @@ Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa
 
 ![Sivustoasetukset Google Chrome -selaimessa](../.gitbook/assets/browser-permissions-chrome.png)
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.
-
-Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Chrome-selaimen asetuksissa, kirjoita osoiteriville:  chrome://settings/content/siteDetails?site=https://ninchat.com
+Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
+Ilmoitusluvat voit säätää myös Chrome-selaimen asetuksissa:  [chrome://settings/content](chrome://settings/content)
 
 **Mozilla Firefox**
 
 ![Sivustoasetukset Mozilla Firefox-selaimessa](../.gitbook/assets/browser-permissions-firefox.png)
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.
-
-Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences\#privacy_
+Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
+Ilmoitusluvat voit säätää myös Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences\#privacy_
 
 **Microsoft Edge**
 
@@ -180,9 +150,11 @@ Muista tallentaa muutokset.
 
 ![N&#xE4;kym&#xE4;valinnat](../.gitbook/assets/user-view.png)
 
+
+
 ## Valmisviestit
 
-Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai tarkkojen asioiden kanssa. Voit asiakas-chatissa valita valmiiksi asetettuja viestejä yhdellä klikkauksella keskustelun sivupalkista, tai käyttää niitä pikakomennolla viestinkirjoituskentästä.
+Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai tarkkojen asioiden kanssa. Voit asiakas-chatissa valita valmiiksi asetettuja viestejä yhdellä klikkauksella keskustelun sivupalkista.
 
 ![K&#xE4;ytt&#xE4;j&#xE4;n valmisviestit](../.gitbook/assets/user-canned.png)
 
@@ -196,8 +168,6 @@ Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai 
 6. Tallenna
 
 ### Valmisviestin käyttäminen
-
-Ohjeet valmisviestien käyttöön keskusteluissa löydät täältä:
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 

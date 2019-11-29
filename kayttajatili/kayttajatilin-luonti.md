@@ -1,11 +1,11 @@
 ---
-description: Näin luot Ninchat-käyttäjätunnuksen
+description: Here's how you can create a Ninchat account
 ---
 
-# Käyttäjätilin luonti
+# Creating an account
 
 {% hint style="info" %}
-Suosittelemme Ninchatin käyttöön [Google Chrome](https://www.google.com/chrome/)- tai [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) -selainohjelmia.
+We recommend using Google Chrome or Mozilla Firefox web browser with Ninchat.
 {% endhint %}
 
 ## **Tunnuksen luominen**
@@ -35,10 +35,6 @@ Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan l
 
 Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi! 
 
-{% hint style="info" %}
-**Vahvistuslinkki on kertakäyttöinen** - sitä tulee klikata vain kerran. Kirjaudu tämän jälkeen Ninchatiin osoitteella [https://ninchat.com/app](https://ninchat.com/app)
-{% endhint %}
-
 ## Sisäänkirjautuminen
 
 #### Kirjaudu sisään sähköpostiosoitteellasi ja salasanalla osoitteessa:
@@ -46,6 +42,13 @@ Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi!
 #### [https://ninchat.com/app](https://ninchat.com/app)​
 
 Kirjautuessasi sinun tulisi päätyä organisaatiosi tiimikanavalle tai viimeksi avoinna olleeseen keskusteluun.
+
+{% hint style="info" %}
+#### Ninchatin käyttäminen suomen kielellä
+
+Mikäli haluat käyttää Ninchatia suomeksi, mene osoitteeseen [https://ninchat.com/app​?lang=fi](https://ninchat.com/app​?lang=fi)   
+Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Yleisiä vinkkejä: Pikakuvakkeet Ninchatiin"
+{% endhint %}
 
 {% page-ref page="../yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md" %}
 

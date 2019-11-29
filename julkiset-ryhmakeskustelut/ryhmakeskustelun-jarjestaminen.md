@@ -12,15 +12,7 @@ description: Avoimen ryhmächatin ohjeistus
 * Klikkaa nimilistan viimeisenä olevaa linkkiä "Invite people / Kutsu väkeä" ja kopioi aukeavasta ikkunasta kutsu-linkki esim. sähköpostiin.
 * Jos et näe tekstiä "Invite people", sinulta puuttuu kanavan operaattorioikeudet.
 
-Lue lisää osiosta _"Käyttäjän lisääminen kanavalle"_:
-
-{% page-ref page="../tiimikanavat/kayttajan-lisaaminen-kanavalle.md" %}
-
 ### Kanavan operaattori- ja moderaattorioikeudet
-
-Kanavan operaattorit ja moderaattorit ylläpitävät keskustelukanavaa. Lisäksi näillä oikeuksilla varustetut agentit voidaan erottaa näkyvästi julkisessa keskustelussa.
-
-Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä - niiden avulla saa kutsuttua uusia ihmisiä ja annettua moderaattori- ja operaattorioikeuksia.
 
 <table>
   <thead>
@@ -34,9 +26,8 @@ Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä 
       <td style="text-align:left">
         <img src="../.gitbook/assets/operator.png" alt/>T&#xE4;hti, umpinainen</td>
       <td style="text-align:left">
-        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
+        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4; (eri kuin organisaation operaattori):</p>
         <p>voi hallita kanavan asetuksia ja kutsua j&#xE4;seni&#xE4;</p>
-        <p>(eri oikeus kuin organisaation operaattori)</p>
       </td>
     </tr>
     <tr>
@@ -48,7 +39,9 @@ Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä 
       </td>
     </tr>
   </tbody>
-</table>#### Kanavan operaattorioikeudet päälle
+</table>Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä - niiden avulla saa kutsuttua uusia ihmisiä ja annettua moderaattori- ja operaattorioikeuksia.
+
+#### Kanavan operaattorioikeudet päälle
 
 Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Give operator rights / Anna operaattorioikeudet".  
 Kanavan moderointioikeudet laitetaan päälle asiantuntijoille ym vierailijoille sekä heille jotka moderoivat keskustelua.
