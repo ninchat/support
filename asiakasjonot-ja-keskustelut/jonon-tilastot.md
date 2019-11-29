@@ -67,6 +67,12 @@ Asiakkaan saapumista jonoon kutsutaan pyynnöksi:
 * Hyväksytty pyyntö: Asiakapalvelija poimii asiakkaan jonosta.
 * Pudonnut pyyntö: Asiakasta ei poimita jonosta
 
+## Merkintäkohtaiset tilastot <a id="merkintakohtaiset-tilastot"></a>
+
+![](../.gitbook/assets/stats-tags%20%281%29.png)
+
+Voit tarkistella tilastoja merkintöjen \(tägit\) perusteella. Saat näin tietoon, mitkä asiat tai palvelut ovat suosittuja ja vievät aikaa asiakaspalvelusta, sekä minkälaista palautetta aihe kerää.
+
 ## Asiakaspalvelijakohtaiset tilastot
 
 ![](../.gitbook/assets/stats4.png)

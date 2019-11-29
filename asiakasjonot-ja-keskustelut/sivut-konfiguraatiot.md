@@ -2,11 +2,12 @@
 description: Chattien asetustiedostot
 ---
 
-# Sites-konfiguraatiot
+# Sivut-konfiguraatiot
 
 ## Yleistä <a id="yleista"></a>
 
-Sites-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.
+Organisaatioasetusten Sivut/Sites-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.  
+Pääset konfiguraatioihin menemällä organisaatioasetuksiin ja valitsemalla Sivut-välilehden.
 
 {% hint style="info" %}
 Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuuksia. Pyydä Ninchatin henkilöstöä tekemään muutokset, tai apua, mikäli koet sen hankalaksi.
@@ -30,6 +31,9 @@ Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
 | noQueuesText | Opasteteksti chatin ollessa suljettuna \(Yhteydenottolomake korvaa tekstin, mikäli se on asetettu käyttön.\) |
 | inQueueText | Opasteteksti jonotusnäkymässä |
 | userName | Asiakkaan vakionimi keskutelussa |
+| translations | Yleiset tekstimääritykset eli käännökset käytetylle kielelle |
+| preAudienceQuestionnaire | Chatin alkukysely |
+| postAudienceQuestionnaire | Chatin loppukysely |
 
 Muista tallentaa muutokset.
 

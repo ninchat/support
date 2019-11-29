@@ -26,5 +26,7 @@ Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkk
 
 ![](../.gitbook/assets/organization-queue-shown.png)
 
+## Usean agentin lisääminen tiettyyn jonoon <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
 
+{% page-ref page="asiakasjonojen-hallinta.md" %}
 

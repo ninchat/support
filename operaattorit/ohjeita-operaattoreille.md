@@ -20,3 +20,7 @@ description: Organisaation operaattoreille ohjeet kootusti
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
+{% page-ref page="../organisaatio/agentin-poistaminen-organisaatiosta.md" %}
+
+{% page-ref page="../tiimikanavat/kayttajan-poistaminen-kanavalta.md" %}
+

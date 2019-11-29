@@ -1,18 +1,24 @@
 ---
-description: Näin käytät Ninchat.comia suomeksi
+description: Millä kielellä Ninchat näytetään
 ---
 
-# Ninchatin käyttäminen suomen kielellä
+# Ninchat-käyttöliittymän kieli
 
-#### Mikäli haluat käyttää Ninchatia suomeksi, mene osoitteeseen 
+**Ninchat käyttää vakiokielenään web-selaimeen valittua kieltä \(suomi/englanti\).**
 
-[https://ninchat.com/app/?lang=fi](https://ninchat.com/app/?lang=fi)
+Mikäli haluat vaihtaa kielen, muuta selaimen kieliasetuksia. Asetuksiin pääset suoraan alla kerrotuilla linkeillä:
 
-Voit tallentaa tämän osoitteen myös kirjanmerkiksi. Katso ohje kirjanmerkkien ja pikakuvakkeiden luomisesta kohdassa "Yleisiä vinkkejä &gt; Pikakuvakkeet Ninchatiin"
+Chrome  
+chrome://settings/languages
 
-#### Voit myös tallentaa kirjanmerkin suoraan tiimi/tukikanavalle, esim:
+Firefox  
+about:preferences\#general
 
-[https://ninchat.com/app/?lang=fi\#/c/1p255nth008](https://ninchat.com/app/?lang=fi#/c/1p255nth008)
+Edge Chromium  
+[edge://settings/languages](edge://settings/languages)
+
+Opera  
+opera://settings/?search=kieli
 
 {% page-ref page="pikakuvakkeet-ninchatiin.md" %}
 

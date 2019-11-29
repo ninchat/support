@@ -6,7 +6,7 @@ description: Näin poistat palveluagentin organisaatiostasi.
 
 Mikäli työntekijä poistuu palveluksesta tai siirtyy muihin tehtäviin, hänet todennäköisesti halutaan poistaa Ninchat-orgnisaatiosta ja asiakasjonoista, sekä tiimikanavilta.
 
-## Agentin poistaminen jonoista ja organiaatiosta
+## Agentin poistaminen jonoista ja organisaatiosta
 
 Organisaation jäsenten hallinta vaatii orgnisaation operaattori-oikeustasoa. 
 
