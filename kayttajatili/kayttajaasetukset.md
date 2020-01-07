@@ -37,7 +37,9 @@ Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisä
 
 Voit vaihtaa tilisi salasanan klikkaamalla kirjautumissähköpostiosoitteen rivillä _"Muuta salasana"_. Sinulta tarkistetaan vanha salasanasi ja pyydetään keksimään uusi salasana.
 
-Tapauksessa, että olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salasanan vaihtolinkin sähköpostiisi.
+Tapauksessa, että olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salasanan vaihtolinkin sähköpostiisi. 
+
+{% page-ref page="../yleisia-vinkkeja/unohtunut-salasana.md" %}
 
 ### Uuden kirjautumissähköpostin lisääminen <a id="uuden-kirjautumissahkopostin-lisaaminen"></a>
 
