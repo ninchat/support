@@ -3,6 +3,8 @@
 **Tervetuloa Ninchatin tukisivustolle!**   
 Valitse alta usein kysyttyjä aiheita tai selaa aiheita vasemman laidan listalta. Mikäli et täältä löydä apua, voit kysyä meiltä [chatissa](https://ninchat.com/contact). 
 
+### [![](.gitbook/assets/en.png) Support site in English](https://support.ninchat.com/ninchat-support/v/english/)
+
 ## Uudistukset
 
 Voit seurata palveluun tulleita muutoksia ja parannuksia Mitä uutta -osiossa.
