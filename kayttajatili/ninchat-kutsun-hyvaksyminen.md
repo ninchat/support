@@ -4,7 +4,7 @@ description: >-
   Ninchat.
 ---
 
-# How to accept invitation?
+# Ninchat invitation
 
 ## Accept an invitation
 

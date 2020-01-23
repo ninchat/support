@@ -4,7 +4,7 @@ description: >-
   account.
 ---
 
-# How to edit personal settings?
+# User settings and profile
 
 Once you have logged in to Ninchat, here is how to access your personal settings:
 
