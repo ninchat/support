@@ -1,17 +1,17 @@
 ---
-description: Yleisiä käytettyjä termejä
+description: Here you can find common terms used in Ninchat and their definitions.
 ---
 
-# Sanasto
+# Terminology
 
-| Termi | Selite |
+| Term | Definition |
 | :--- | :--- |
-| **Ninchat** | Chat-palvelun nimi  |
-| **Agentti** | Henkilö, joka käyttää Ninchatia ninchat.comin kautta, ei upotettavaa asiaskanäkymää |
-| **Jono** | Asiakaspalvelu-chatin jono, josta agentti poimii asiakkaan kahdenväliseen keskusteluun |
-| **Kanava** | Keskusteluhuone usean henkilön jutusteluun; voidaan käyttää sisäiseen tiimiviestintään tai web-sivulle upotettavaan julkiseen ryhmäkeskusteluun |
-| **Kanavan moderaattori** | Agentti, joka hallinnoi ja moderoi keskustelua ja käyttäjiä kanavalla |
-| **Kanavan operaattori** | Agentti, joka voi muuttaa kanavan asetuksia, kutsua uusia jäseniä kanavalle sekä lisätä käyttäjille operaattori-/moderaattorioikeuksia ja poistaa niitä. |
-| **Organisaatio** | Asiakkaan hallitsema kokonaisuus johon kuuluu kanavia, jonoja ja agentteja. |
-| **Organisaation operaattori** | Agentti joka voi lisätä käyttäjiä asiakasjonon käsittelijäksi, tarkastella statistiikkoja ja lukea asiakaskeskusteluhistoriaa, sekä muokata jonojen tekstejä, asetuksia ja aikatauluja  |
+| **Ninchat** | The name of the chat service. |
+| **Agent** | A person using Ninchat through ninchat.com, has no embedded client view. |
+| **Queue** | A queue for customer service chat in which an agent can pick a customer for bilateral conversation. |
+| **Channel** | Multi-user chat room, can be used for internal team communication or public group discussion embedded into a web page. |
+| **Channel moderator** | An agent who manages and moderates chat as well as users in the channel. |
+| **Channel operator** | An agent who can edit channel settings, invite new members to the channel, and add/remove operator and moderator rights of the channel members. |
+| **Organization** | A client-controlled entity that includes channels, queues, and agents. |
+| **Organization operator** | An agent who can add users as queue members, and view statistics and access customer chat history. Organization operator can also edit queue settings including queue name and schedule. |
 

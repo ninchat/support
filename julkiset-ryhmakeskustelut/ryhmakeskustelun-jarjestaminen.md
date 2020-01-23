@@ -1,107 +1,88 @@
 ---
-description: Avoimen ryhmächatin ohjeistus
+description: >-
+  Here you can learn how to organize a group discussion and find related
+  guidelines.
 ---
 
-# Ryhmäkeskustelun järjestäminen
+# How to organize group discussion?
 
-## Ennen chatin alkamista
+## Before a group chat starts
 
-### Asiantuntijoiden ja vastaajien kutsuminen chattiin
+### Invite experts and respondants to the chat
 
-* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa. 
-* Klikkaa nimilistan viimeisenä olevaa linkkiä "Invite people / Kutsu väkeä" ja kopioi aukeavasta ikkunasta kutsu-linkki esim. sähköpostiin.
-* Jos et näe tekstiä "Invite people", sinulta puuttuu kanavan operaattorioikeudet.
+* Make sure you are on the group chat channel of your choice on Ninchat. 
+* Click the "Invite people" link at the end of the member list, type emails or copy the invitation link and send.
+* If you do not see "Invite people", it means you do not have the channel operator rights.
 
-Lue lisää osiosta _"Käyttäjän lisääminen kanavalle"_:
+Read more in the section _"How to invite people to channel?"_:
 
 {% page-ref page="../tiimikanavat/kayttajan-lisaaminen-kanavalle.md" %}
 
-### Kanavan operaattori- ja moderaattorioikeudet
+### Channel operator and moderator rights
 
-Kanavan operaattorit ja moderaattorit ylläpitävät keskustelukanavaa. Lisäksi näillä oikeuksilla varustetut agentit voidaan erottaa näkyvästi julkisessa keskustelussa.
+Channel operators and moderators have the rights to maintain the chat channel. In addition, agents with these rights can be prominently distinguished in public group discussions.
 
-Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä - niiden avulla saa kutsuttua uusia ihmisiä ja annettua moderaattori- ja operaattorioikeuksia.
+With the channel operator rights, you can keep yourself/ your employees engaged - invite new people and give them the moderator and operator rights.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">J&#xE4;senlistan merkint&#xE4;</th>
-      <th style="text-align:left">Merkitys</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/operator.png" alt/>T&#xE4;hti, umpinainen</td>
-      <td style="text-align:left">
-        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
-        <p>voi hallita kanavan asetuksia ja kutsua j&#xE4;seni&#xE4;</p>
-        <p>(eri oikeus kuin organisaation operaattori)</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/moderator.png" alt/>T&#xE4;hti, reunustettu</td>
-      <td style="text-align:left">
-        <p>Kanavan moderaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
-        <p>voi moderoida viestej&#xE4; ja poistaa j&#xE4;seni&#xE4;</p>
-      </td>
-    </tr>
-  </tbody>
-</table>#### Kanavan operaattorioikeudet päälle
+| Symbol | Meaning |
+| :--- | :--- |
+| ![](../.gitbook/assets/operator.png) Star, filled | Channel operator user - can manage channel settings and invite new members to the channel \(different from organization operator\). |
+| ![](../.gitbook/assets/moderator.png) Star, outline | Channel moderator user - can moderate posts and delete channel members. |
 
-Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Give operator rights / Anna operaattorioikeudet".  
-Kanavan moderointioikeudet laitetaan päälle asiantuntijoille ym vierailijoille sekä heille jotka moderoivat keskustelua.
+#### Give channel operator rights
 
-#### Moderointioikeudet päälle
+Click the name of the person you want to grant the rights in the member list and select "Give operator rights" from the menu.   
+Channel moderator rights are set for experts and visitors as well as those who moderate the discussion.
 
-Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Give moderator rights / Anna moderaattorioikeudet".
+#### Give channel moderator rights
 
-### Moderaattorin käyttäjäasetukset <a id="moderaattorin-kayttajaasetukset"></a>
+Click the name of the person you want to grant the rights in the member list and select "Give moderator rights" from the menu.
 
-**Tärkeää!** Moderaattorien piilottamat viestit on hyödyllistä laittaa näkymään moderaattorille itselleen, jolloin sitä voi tarpeen vaatiessa yhä muokata. Tee näin:
+### Moderator user settings <a id="moderaattorin-kayttajaasetukset"></a>
 
-1. Mene käyttäjäasetuksiin \(klikkaa nuolta käyttäjänimesi vieressä keskustelulistan alapäässä ja valitse "Profiili ja asetukset".
-2. Valitse asetuksissa "View/ Näkymä" -välilehti
-3. Ruksaa laatikko "Näytä piilotetut viestit / Show hidden messages" -kohdassa.
-4. Tallenna
+**Important!** It is useful to make the messages hidden by a moderator visible to that moderator, so that it can still be edited if necessary. Follow these steps:
 
-## Ryhmächatin avaaminen
+1. Go to your persoanl account settings \(click the arrow icon next to your username at the bottom of the Sidebar and select "Settings and profile"\).
+2. In your personal settings, choose the tab "View".
+3. Under View options, check the box that says "Show hidden messages on channel".
+4. Save.
 
-* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa
-* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Channel settings" 
-* Tee kaksi muutosta: 
-  * "Who can read messages" - kohdasta valitse "Everybody may follow anonymously, history available since this moment"
-  * "Who can write messages" -kohdasta valitse "Channel members" 
-* Klikkaa sivun alareunasta "Save" 
-* Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\)
+## Open a public group chat
 
-## Ryhmächat-kanavan ajastaminen <a id="ryhmachat-kanavan-ajastaminen"></a>
+* Make sure you are on the group chat channel of your choice on Ninchat. 
+* Open the menu at the top left of the conversation section by clicking the channel name and selecting "Channel settings".
+* Make two changes: 
+  * Under "Who can read messages", select "Everybody may follow anonymously, history available since this moment".
+  * Under "Who can write messages", select "Channel members".
+* Click "Save" at the bottom of the page.
+* Close the menu from the same place where you opened it \(click the channel name settings and select "Close"\).
 
-Julkisen ryhmäkeskusteluanavan voi asettaa avautumaan ja sulkeutumaan automaattisesti.  
-Katso lisää kohdassa [Tiimikanavat &gt; Kanava asetukset &gt; Kanavan aikataulu](https://ninchat.gitbook.io/ninchat-support/tiimikanavat/kanavan-asetukset#kanavan-aikataulu).
+## Schedule a group chat channel <a id="ryhmachat-kanavan-ajastaminen"></a>
 
-## Ryhmächatin sulkeminen <a id="ryhmachatin-sulkeminen"></a>
+The public group chat channel can be scheduled to open and close automatically.  
+See more in [Team channels &gt; How to edit channel settings? &gt; Channel schedule](https://ninchat.gitbook.io/ninchat-support/tiimikanavat/kanavan-asetukset#kanavan-aikataulu).
 
-Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel". Tämän jälkeen uusien viestien kirjoittaminen on estetty ja kirjoituskentässä näkyy asetettu Kanava suljettu -viesti. Muuta viestiä halutessasi kanavan asetuksissa.
+## Close a group chat <a id="ryhmachatin-sulkeminen"></a>
+
+You can close a group chat by selecting "Close channel" in the channel menu. After that, writing new messages will be blocked and the text filed will show a Channel closed text. You can change the Channel closed text if you want. See: How to edit channel settings? &gt; Channel closed text.
 
 {% page-ref page="../tiimikanavat/kanavan-asetukset.md" %}
 
-## Viestihistorian piilottaminen
+## Hide message history
 
-Jos haluat piilottaa käydyn keskustelun ryhmäkeskustelutuokion jälkeen uusilta vierailijoilta, toimi seuraavasti: \(Noudata ohjeita tarkasti 😉\)
+To hide a discussion from new visitors after a group chat session, follow these steps: \(Follow the instructions carefully.😉\)
 
-1. Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa.
-2. Mene kanavan asetuksiin \(klikkaa kanavan nimeä ja valitse "Kanavan asetukset / Channel settings".
-3. Kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kanavan jäsenille, historia näytetään kanavalle liittymisestä alkaen \(Channel members, history available since join only\)".
-4. Tallenna
-5. Uudelleen kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kaikki voivat seurata keskustelua anonyymisti \(Everybody may follow anonymously\)".
-6. Tallenna
-7. Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\) 
+1. Make sure you are on the group chat channel of your choice on Ninchat.
+2. Go to the channel settings \(click the channel name at the top left of the conversation section and select "Channel settings"\).
+3. Under "Who can read messages", select "Channel members, history available since join only".
+4. Save.
+5. Again, under "Who can read messages", select "Everybody may follow anonymously, history available since this moment".
+6. Save.
+7. Close the menu from the same place where you opened it \(click the channel name settings and select "Close"\).
 
-Kanavan keskusteluhistoriaa ei näytetä vieraille, jotka tulevat sivulle tämän jälkeen.
+The message history will not show to guests who visit the page after these settings.
 
-## Kanavaikkunan piilottaminen web-sivulta
+## Hide a group chat window from the web page
 
-On mahdollista piilottaa upotettu kanava web-sivulta kanavan ollessa suljettu. Kysy lisää Ninchatin henkilöstöltä.
+It is possible to hide an embedded group chat from the web page while the channel is closed. Ask more from Ninchat staff.
 

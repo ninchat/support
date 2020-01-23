@@ -1,21 +1,21 @@
 ---
-description: Tunnisteiden lisääminen organisaation asiakasjonoja varten
+description: Here you can find instructions on how to customize tags in your organization.
 ---
 
-# Tunnisteet \(Tägit\)
+# How to customize tags?
 
-## Yleistä <a id="yleista"></a>
+## Overview <a id="yleista"></a>
 
-Tunnisteet eli tägit ovat helppo ja nopea tapa agenteille luokitella asiakaskeskusteluja. Tunnisteet auttavat keskustelujen tilastoimisessa, kun käydyt keskustelut voidaan luokitella. Näet mm. käytetyt tunnisteet jonon tilastoissa.
+Tags are an efficient way for agents to categorize conversations with customers. Tags help you keep track of conversations, you can find all the tags which have been used in the Queue statistics.
 
-Organisaation operaattorit voivat lisätä, muokata ja poistaa tägejä.
+Your organization operators can create, edit, and delete tags.
 
-## Tunnisteiden muokkaaminen
+## Customize tags
 
 ![](../.gitbook/assets/organization-tags.png)
 
-1. Klikkaa tagin nimeä muokatakseen nimeä tai poistaaksesi se.
-2. Klikkaa maalikuvaketta vaihtaaksesi tagin väri. Värit ovat hyvä tapa erottaa eri kategorioiden tagit.
-3. Lisää kategoriaan alimerkintä.
-4. Lisää ylimmän luokan merkintä \(kategoria\).
+1. Click the tag bar to edit label or delete it.
+2. Click the paint icon to change the color of the tag. Colors are a great way to differentiate between categories of tags.
+3. Add a new tag as a subcategory under an existing category.
+4. Create a new tag category.
 

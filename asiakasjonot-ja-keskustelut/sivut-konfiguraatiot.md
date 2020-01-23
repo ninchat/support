@@ -1,46 +1,39 @@
----
-description: Chattien asetustiedostot
----
+# Site configuration
 
-# Sivut-konfiguraatiot
+## Overview <a id="yleista"></a>
 
-## Yleistä <a id="yleista"></a>
-
-Organisaatioasetusten Sivut/Sites-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.  
-Pääset konfiguraatioihin menemällä organisaatioasetuksiin ja valitsemalla Sivut-välilehden.
+The Organization settings, "Sites" tab, is where the settings, texts, translations, and styles, for the customer service chats and public group chats, are defined. To access the configuration, go to your organization settings and select the "Sites" tab.
 
 {% hint style="info" %}
-Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuuksia. Pyydä Ninchatin henkilöstöä tekemään muutokset, tai apua, mikäli koet sen hankalaksi.
+Site configuration is an advanced user feature. Ask Ninchat staff to help or make changes for you if you find it difficult.
 {% endhint %}
 
 ![](../.gitbook/assets/organization-sites.png)
 
-## Chatin tekstien muokkaaminen
+## Edit chat texts
 
-Avaa konfiguraatio klikkaamalla kynä-ikonia oikeassa laidassa.
+Click the pencil icon on the right to open the configuration.
 
-Konfiguraatioeditorissa näet chatin asetukset, tekstit ja käännökset. Niitä voi muuttaa siitä haluamakseen. Tekstien seassa saattaa näkyä HTML-elementtejä, kuten _&lt;p&gt;&lt;/p&gt;_ \(kappale\), _&lt;br&gt;_ \(rivinvaihto\).  
-Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
+In the edit view, you will see the chat settings, texts, and translations. You can change them as you like. HTML elements such as _&lt;p&gt;&lt;/p&gt;_ \(paragraph\) and _&lt;br&gt;_ \(line break\) may appear in the texts. In multilingual implementation, different languages have their own text elements.
 
-#### Yleisimpiä muutettavia tekstejä
+#### The most common texts to edit
 
-| Elementti | Kuvaus |
+| Element | Description |
 | :--- | :--- |
-| welcome | Chatin alkunäkymän yläosan sisältö |
-| motd | Chatin alkunäkymän alaosan sisältö |
-| noQueuesText | Opasteteksti chatin ollessa suljettuna \(Yhteydenottolomake korvaa tekstin, mikäli se on asetettu käyttön.\) |
-| inQueueText | Opasteteksti jonotusnäkymässä |
-| userName | Asiakkaan vakionimi keskutelussa |
-| translations | Yleiset tekstimääritykset eli käännökset käytetylle kielelle |
-| preAudienceQuestionnaire | Chatin alkukysely |
-| postAudienceQuestionnaire | Chatin loppukysely |
+| welcome | Content at the top of the chat initial view. |
+| motd | Content at the bottom of the chat initial view |
+| noQueuesText | Guidance text when the chat is closed. \(Contact form replaces the text if it is set.\) |
+| inQueueText | Guidance text in the queue view. |
+| userName | Customer's username in the conversation. |
+| translations | Common text definitions, i.e. translated into the language used. |
+| preAudienceQuestionnaire | Initial chat request. |
+| postAudienceQuestionnaire | End chat request. |
 
-Muista tallentaa muutokset.
+Make sure to save your changes.
 
 ![](../.gitbook/assets/organization-sites-1.png)
 
-## Chatin ottaminen pois käytöstä <a id="chatin-ottaminen-pois-kaeytosta"></a>
+## Disable chat <a id="chatin-ottaminen-pois-kaeytosta"></a>
 
-Asiakaspalvelu-chatin voi nopeasti poistaa kokonaan käytöstä disabloimalla site-konfiguraation. Klikkaa editorinäkymässä "Disable-nappia. Konfiguraatio näkyy tämän jälkeen listalla disabloituna.  
-Voit palauttaa chatin taas käyttöön klikkaamalla editorissa "Enable"-nappia.
+You can disable the customer service chat completely by disabling the site configuration. In the edit view, click the "Disable" button. The configuration will then appear in the list with the status - Disabled. You can enable the chat again by clicking the "Enable" button in the edit view.
 

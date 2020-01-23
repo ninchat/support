@@ -1,19 +1,19 @@
 ---
-description: Ryhmäkeskustelun tallantaminen
+description: Here you find instructions on how to save a chat history.
 ---
 
-# Keskusteluhistorian tallentaminen
+# Save chat history
 
-Voit tallentaa ryhmächatin keskustelun omalle koneellesi CVS-formaatissa, jonka voi avata esim. Excelissä.
+You can save a group chat discussion to your own computer in CVS format which can be opened e.g. in Excel.
 
-CVS-tiedosto näyttää keskustelijoiden nimimerkit. Jos keskusteluaihe on arka tai henkilöt tunnistettavissa nimimerkeistään, suosittelemme korvaamaan keskustelijoiden nimimerkit Excelin Liitä ja korvaa -toiminnolla täysin anonyymeiksi, esim. "Keskustelija 1", "Keskustelija 2" jne.
+The CVS file displays nicknames of the chat participants. If the subjects are sensitive or identifiable by their nicknames, we recommend replacing the chat nicknames with Excel's Find and Replace function to make them completely anonymous, e.g. "Chat 1", "Chat 2", etc.
 
-## Keskusteluhistorian lataaminen
+## Download a chat history
 
-* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa.
-* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Download message history / Lataa viestihistoria".
-* Aseta keskusteluhistorian aloitus- ja lopetuspäivämäärä ja kellonaika.
-* Klikkaa sinisellä pohjalla olevaa pilvi-ikonia, niin keskusteluhistoria tallentuu koneellesi.
+* Make sure you are on the group chat channel of your choice on Ninchat.
+* Open the menu by clicking the channel name at the top left of the conversation section and select "Download message history".
+* Set the start and end dates and times for the chat history you want to download.
+* Click the cloud icon on blue background to save the chat history to your computer.
 
-![Kanavan viestihistorian lataaminen](../.gitbook/assets/download-channel-history.png)
+![Download channel message history](../.gitbook/assets/download-channel-history.png)
 

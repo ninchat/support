@@ -1,32 +1,32 @@
 ---
-description: Agentin lisääminen asiakasjonoon
+description: Here you can find instructions on how to add an agent to a queue.
 ---
 
-# Agentin lisääminen jonon käsittelijäksi
+# How to add agent to queue?
 
-## Agentin lisäminen jonoon
+## Add an agent to a queue
 
-Kun agentti on lisätty organisaation jäseneksi, mene organisaation asetuksiin.
+Once the agent is added to the organization, go to the Organization settings.
 
-Organisaatio/Organization -välilehdellä, klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
+In the "Organization" tab, click the agent row in the member list to see the agent's details and his/her rights in a new view.
 
-![Organisaation j&#xE4;senlista](../.gitbook/assets/organization-organization%20%281%29.png)
+![Organization members](../.gitbook/assets/organization-organization%20%281%29.png)
 
-Näet listassa organisaation asiakaspalvelujonot. Ruksaa kyseiselle agentille näkyviin halutut jonot. Jononkäsittelyoikeuksia voidaan jakaa tietämyksen tai alan mukaan, esim. kielitaito, tiedot, työtehtävä, sijainti, jne.
+In the new view, you will see the list that shows all of your organization's queues. Check the box \(under "Member"\) of an appropriate queue\(s\) for that agent. Queue agent status can be granted according to knowledge or field e.g. language skills, information, job, location, etc.
 
-Anna agentille organisaation operaattorioikeudet, jos haluat, että hän pääsee katsomaan \(kaikkien\) jonojen tilastoja ja keskusteluhistoriaa, sekä hallinnoimaan organisaation jäseniä - Klikkaa Anna operaattorioikedet / Give operator status.
+You can give organization operator rights to an agent if you want he/she to view statistics and message history of \(all\) queues, and manage other users in the organization, by clicking the button "Give operator status".
 
-Voit myös poistaa agentin organisaatiosta ja jonoista klikkaamalla Poista organisaatiojäsenyys / Remove membership. Huomioi, että käyttäjä tulee erikseen poistaa tiimi- ja muilta keskustelukanavilta.
+You can also remove an agent from the organization and queues by clicking the button "Remove membership". Please note that the user must be removed separately from the team channel and other chat channels.
 
-Voit palata jäsenlistaan klikkaamalla Takaisin / Back -nappia.
+You can return to the user list by clicking the "Back" button.
 
-![Organisaation j&#xE4;senen oikeudet](../.gitbook/assets/organization-user.png)
+![Rights of an organization member](../.gitbook/assets/organization-user.png)
 
-Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkkiin.
+Once you have added an agent to a queue, the queue will appear to him/her in the Sidebar under the organization's customer care queues.
 
 ![](../.gitbook/assets/organization-queue-shown.png)
 
-## Usean agentin lisääminen tiettyyn jonoon <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
+## Add multiple agents to a particular queue <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
 
 {% page-ref page="asiakasjonojen-hallinta.md" %}
 

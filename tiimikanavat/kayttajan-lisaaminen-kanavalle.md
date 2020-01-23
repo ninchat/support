@@ -1,36 +1,36 @@
 ---
-description: Uuden agentin kutsuminen kanavalle
+description: Here you can find instructions on how to invite people to a channel.
 ---
 
-# Käyttäjän lisääminen kanavalle
+# How to invite people to channel?
 
-## Kutsun lähettäminen <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+## Send an invitation <a id="henkilon-kutsuminen-tiimikanavalle"></a>
 
-Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
+Channel operators can invite new members to the channel.
 
-![Kanavakutsun l&#xE4;hett&#xE4;minen](../.gitbook/assets/invite%20%281%29.png)
+![Send a channel invitation](../.gitbook/assets/invite%20%281%29.png)
 
-1. Klikkaa jäsenlistan lopussa "Kutsu väkeä / Invite people" -linkkiä.
-2. Kirjoita kutsuttavan henkilön sähköpostiosoite tai Ninchat-käyttäjänimi kenttään ja paina Enter.
-3. Lisää tarvittaessa muiden kutsuttavien osoitteet.
-4. Paina "Lähetä kutsu / Send invite"
-5. Voit myös kopioida kutsulinkin osoitteen ja lähettää/jakaa sen itse!
+1. Click the "Invite people" link at the end of the member list.
+2. In the "Search" field, type email address or Ninchat username of the person you want to invite, and press Enter or choose from the shown list.
+3. Add email addresses of other invitees as needed.
+4. Click the button "Send invite".
+5. You can also copy the invitation link and send/share it to each person.
 
 {% hint style="info" %}
-Kanavakutsulinkit ovat voimassa 14 vuorokautta niiden luomishetkestä. Tämän jälkeen ne vanhenevat ja sinun tulee tarvittaessa luoda uusi linkki.
+The invitation link is valid for 14 days from the time it is created. It will then expire and you will need to create a new one if necessary.
 {% endhint %}
 
-#### Kutsu sähköpostiin henkilölle, jolla ei ole vielä tunnusta
+#### Invite someone by email, who does not have a Ninchat account
 
-Mikäli kutsuttavalla ei ole vielä Ninchat-tunnusta, kutsu lähetetään hänelle sähköpostiin. Käyttäjä seuraa ohjeita, jotka kerrotaan kohdassa Käyttäjätilin luonti
+If the invitee does not have a user account on Ninchat yet, the invitation will be sent via email. The person can follow the instructions in the section "How to create account?" below.
 
 {% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
 
-#### Kutsu olemassa olevalle käyttäjälle
+#### Invite an existing Ninchat user
 
-Mikäli kutsuttava on jo Ninchat-käyttäjä eli agentti, kutsulinkin voi lähettää/kopioida hänelle yksityisviestinä. Sähköpostiosoitteen sijaan kutsukenttään voi tällöin kirjoittaa agentin käyttäjätunnuksen.
+If the invitee is already a Ninchat user or an agent, the invitation link can be sent/copied to him/her as a private message. Instead of entering the email address, you can enter the agent username in the "Search" field.
 
-## Käyttäjän poistaminen kanavalta <a id="kayttajan-poistaminen-kanavalta"></a>
+## Remove a user from a channel <a id="kayttajan-poistaminen-kanavalta"></a>
 
 {% page-ref page="kayttajan-poistaminen-kanavalta.md" %}
 

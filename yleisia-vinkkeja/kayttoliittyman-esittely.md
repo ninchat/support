@@ -1,17 +1,17 @@
 ---
-description: Ninchat.com-näkymän esittely
+description: Here you can find introduction to the user interface of ninchat.com.
 ---
 
-# Käyttöliittymän esittely
+# User interface
 
 {% hint style="info" %}
-Jos haluat käyttää agentin näkymää suomen kielellä, käytä osoitteena   
+If you want to use the user view in Finnish, please use the address:   
 [https://ninchat.com/app?lang=fi](https://ninchat.com/app?lang=fi)
 {% endhint %}
 
-## Yleisnäkymä ja tiimikanava <a id="yleisnakyma-ja-tiimikanava"></a>
+## Basic view and team channel <a id="yleisnakyma-ja-tiimikanava"></a>
 
-Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskustelun toiminnot
+Ninchat basic view consists of three sections, from left to right respectively: Sidebar, conversation section, and member list \(chat features during customer chat\).
 
 ![](../.gitbook/assets/team-channel.png)
 
@@ -19,187 +19,154 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
   <thead>
     <tr>
       <th style="text-align:left">Sidebar</th>
-      <th style="text-align:left">Keskustelun&#xE4;kym&#xE4;</th>
-      <th style="text-align:left">J&#xE4;senlista</th>
+      <th style="text-align:left">Conversation section</th>
+      <th style="text-align:left">Member list</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Organisaatio, kanavat ja keskustelut</p>
+        <p>Organizations, channels,</p>
+        <p>and conversation list</p>
         <p></p>
       </td>
       <td style="text-align:left">
-        <p>Keskustelu ja viestin l&#xE4;hetys</p>
+        <p>Conversations and message entering field</p>
         <p></p>
       </td>
-      <td style="text-align:left">Haku-toiminto,
-        <br />Kanavan j&#xE4;senet ja keskustelutoiminnot</td>
-    </tr>
-  </tbody>
-</table>### Tiimikanavan tunnisteet
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">J&#xE4;senlistan merkint&#xE4;</th>
-      <th style="text-align:left">Merkitys</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/operator.png" alt/>T&#xE4;hti, umpinainen</td>
-      <td style="text-align:left">
-        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4; (eri kuin organisaation operaattori):</p>
-        <p>voi hallita kanavan asetuksia ja kutsua j&#xE4;seni&#xE4;</p>
+        <p>Search function,
+          <br />channel members, and</p>
+        <p>chat features (during</p>
+        <p>customer chat)</p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/moderator.png" alt/>T&#xE4;hti, reunustettu</td>
-      <td style="text-align:left">
-        <p>Kanavan moderaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
-        <p>voi moderoida viestej&#xE4; ja poistaa j&#xE4;seni&#xE4;</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/online.png" alt/>Vihre&#xE4; pallo</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut ja aktiivinen</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/idle.png" alt/>Oranssi pallo</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut mutta ei aktiivinen</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/avatar-male.svg" alt/>Ei palloa</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; ei ole paikalla; h&#xE4;n n&#xE4;kee h&#xE4;nelle
-        osoitetut viestit my&#xF6;hemmin</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/invite-icon.png" alt/>Kutsu v&#xE4;ke&#xE4;</td>
-      <td style="text-align:left">Kutsu uusia henkil&#xF6;it&#xE4; kanavalle (Kanavan operaattori)</td>
-    </tr>
   </tbody>
-</table>## Sidebar \(keskustelulista\)
+</table>### Team channel - member list symbols
 
-Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoitukset uusista tapahtumissa eri keskusteluissa.
-
-Huomaa, että sinun ei tule poistua tiimikanavilta esim. kirjautuessasi ulos.
-
-![Sidebarin osiot](../.gitbook/assets/sidebar.png)
-
-| Osio | Toiminta |
+| Symbol | Meaning |
 | :--- | :--- |
-| 1\) Organisaatiot | Organisaatiosetukset, sekä organisaation vaihto mikäli kuulut useampaan. |
-| 2\) Tapahtumat | Kootusti kaikki sinua koskevat uudet tapahtumat Ninchatissa |
-| 3\) Suodatus | Suodatus/haku-palkissa voi rajata keskusteluja nimen perusteella |
-| 4\) Jonot | Asiakasjonot, joista asiakkaat poimitaan |
-| 5\) Kanavat | Sisäiset tiimikanavat \(ja julkiset ryhmäkeskustelut\) |
-| 6\) Asiakas-keskustelut | Asiakaskeskustelut, jotka on poimittu jonoista |
-| 7\) Yksityis-keskustelut | Sisäiset, kahdenväliset yksityiskeskustelut tiimiläisten kanssa |
+| ![](../.gitbook/assets/operator.png) Star, filled | Channel operator \(different from organization operator\) - can manage channel settings and invite new people to the channel. |
+| ![](../.gitbook/assets/moderator.png) Star, outline | Channel moderator - can moderate chat and remove people from the channel.  |
+| ![](../.gitbook/assets/online.png) Green circle | User is logged in and active. |
+| ![](../.gitbook/assets/idle.png) Orange circle | User is logged in but not active. |
+| ![](../.gitbook/assets/avatar-male.svg) No circle | User is offline. The user will see messages addressed to him/her later. |
+| ![](../.gitbook/assets/invite-icon.png) Invite people | Invite new people to the channel \(for channel operators\). |
+
+## Sidebar \(conversation list\)
+
+The Sidebar can be used for switching between conversations, you can also easily see notifications of new activities in different conversations.
+
+Please note that you should not leave the team channels e.g. when logging out.
+
+![Sidebar elements](../.gitbook/assets/sidebar.png)
+
+| Element | Function |
+| :--- | :--- |
+| 1\) Organization | Organization settings, and switching between different organizations if you belong to more than one. |
+| 2\) Activity | All new activities related to you on Ninchat. |
+| 3\) Filter | Filter/search bar lets you filter conversations by name. |
+| 4\) Queues | Customer care queues where customers are picked. |
+| 5\) Channels | Internal team channels \(and public group discussions\). |
+| 6\) Customer conversations | Customer care conversations which are picked from queues. |
+| 7\) Private conversations | Internally one-on-one private conversations with team members. |
 
 {% hint style="info" %}
-Organisaatiovalikosta löytyy omien organisaatioittesi lisäksi ns. vapaa alue \(Public\). Tänne voivat kaikki Ninchatin käyttäjät luoda kanavia. Älä luo organisaatiosi kanavia Public-alueelle!
+In addition to your own organizations, the organization menu contains a so-called "Public" site. All Ninchat users can create channels here. But do not create channels for your organizations in Public!
 {% endhint %}
 
-## Valikot
+## Menus
 
-### Sidebar-menu
+### Sidebar menu
 
-![](../.gitbook/assets/menu-ikoni.png) -valikkoikonista voit laajentaa ja pienentää Sidebar-listan. Pienennetyssä näkymässä näet ilmoitukset ja viemällä hiiren kursorin Sidebarin päälle, näkymä laajenee automaattisesti. Pienennetty näkymä on oivallinen mm. mikäli näyttö on pienikokoinen.
+Click the![](../.gitbook/assets/menu-ikoni.png)-hamburger button to minimize or expand the Sidebar menu. In the minimized view, you can still see notifications, and by hovering over the Sidebar, the view automatically expands. The minimized view has a great example when the screen is compact.
 
 ![](../.gitbook/assets/sidebar-toggle%20%281%29.png)
 
-### Organisaatiovalikko
+### Organization menu
 
 ![](../.gitbook/assets/sidebar-menus-1%20%282%29.png)
 
-* Organisaation asetukset
-* Uuden kanavan luonti
-* Muut organisaatiot joihin kuulut, sekä Yleinen alue
+* Organization settings
+* Create a new channel
+* Other organizations you belong to and Public site
 
-### Tapahtumat-valikko
+### Activity menu
 
 ![](../.gitbook/assets/sidebar-menus-3.png)
 
-Tapahtumat näyttää kootusti kaikki sinua koskevat uudet tapahtumat Ninchatissa, kuten asiakkaat jonossa, yksityisviestit, maininnat kanavilla - myös muista kuin aktiivisesta organisaatioista, mikäli kuulut useampaan.  
-Klikkaamalla tapahtumariviä pääset suoraan esim. kanavalle, jossa sinua koskeva viesti on.
+The activity menu displays a summary of all new activities related to you on Ninchat, such as customers in queue, private messages, channel highlights, including from other active organizations if you belong to more than one. 
 
-### Asiakasjonovalikko
+Clicking the activity bar will take you directly to, for example, the channel that has a message mentioning about you.
+
+### Customer care queues menu
 
 ![](../.gitbook/assets/sidebar-menus-4.png)
 
-Asiakasjonorivi näyttää jonot ja niiden aukiolon \(vihreä pallo - jono on avoinna asiakkaille, punainen pallo - jono on suljettu\), sekä jonossa olevien asiakkaiden määrän. Klikkaamalla jonon nimeä pääset Asiakasjononäkymään, ks. alempana. Nimen vieressä olevasta nuoli-ikonista taas saat avattua valikon, josta voit:
+The customer care queues menu displays all the queues and either they are opened or closed \(green circle = the queue is opened to customers, red circle = the queue is closed\), and the number of people waiting in the queues. Clicking the queue name will show the queue activity log. Clicking the arrow icon next to the queue name will open a menu where you can:
 
-* Poimia asiakkaan jonosta
-* Avata jonon asetukset \(Organisaation operaattorit\)
-* Avata jonon tilastot \(Organisaation operaattorit\)
-* Sulkea / avata jonon manuaalisesti
+* Pick a person from the queue;
+* Access queue settings \(for organization operators\);
+* Access queue statistics \(for organization operators\);
+* Manually close/open the queue.
 
-### Käyttäjävalikko
+### User account menu
 
 ![](../.gitbook/assets/sidebar-menus-2.png)
 
-Klikkaamalla nuolta nimesi vieressä saat avattua käyttäjävalikon, jonka kautta voit:
+Click the arrow icon next to your name to open the user account menu that allows you to:
 
-* Avata käyttäjäasetukset
-* Piilottaa/näyttää kanavan jäsenlistan oikeasta laidasta
-* Vaihtaa pienen ja ison Sidebar-näkymän välillä \(onnistuu myös ylhäältä ![](../.gitbook/assets/menu-ikoni%20%281%29.png) -valikkokuvakkeesta\)
-* Näyttää/piilottaa Suodatuskentän
-* Kirjautua ulos palavelusta
+* Access your personal settings;
+* Hide/show channel members in the member list;
+* Switch between narrow and wide Sidebar views \(also works from the top of the Sidebar menu by clicking the![](../.gitbook/assets/menu-ikoni%20%281%29.png)-hamburger button\);
+* Hide/show the Sidebar filter;
+* Log out.
 
-### Suodatus/hakukenttä <a id="suodatus-haku-kentta"></a>
+### Filter/search field <a id="suodatus-haku-kentta"></a>
 
-![Suodatus/hakukentt&#xE4;](../.gitbook/assets/sidebar-menus-5%20%281%29.png)
+![Filter/search field](../.gitbook/assets/sidebar-menus-5%20%281%29.png)
 
-Mikäli sinulla on iso määrä kanavia ja keskusteluita Sidebarissa, voit suodattaa niitä nimen perusteella, ja löytää haluamasi keskustelut nopeammin. 
+If you have a large number of channels and conversations in the Sidebar, you can filter them by names and find the conversations you want.
 
-Kirjoita hakemasi keskustelun tai käyttäjän nimi tai osa siitä, ja keskustelulistan sisältö rajataan näihin.  
-Näytä kaikki keskustelut jälleen poistamalla hakuteksti kirjoituskentästä.
+In the filter field \(where it is written "Enter filter text"\), type the name or part of the name of the channel or person you are looking for, and the content in the conversation list shown below will be limited to that filter. Remove all the text from the field to show all conversations again.
 
-## Kirjoituskenttä ja keskustelun sivupalkki <a id="kirjoituskentta-ja-keskustelun-sivupalkki"></a>
+## Conversation section and chat features <a id="kirjoituskentta-ja-keskustelun-sivupalkki"></a>
 
 ![](../.gitbook/assets/textarea.png)
 
-Kirjoituskentästä voit viestin kirjoituksen lisäksi lisätä ![](../.gitbook/assets/textarea-1.png)hymiöitä, ![](../.gitbook/assets/textarea-2.png) kuvia ja tiedostoja, ![](../.gitbook/assets/textarea-3.png) aloittaa videokeskustelun \(asiakaskeskustelut\), ![](../.gitbook/assets/textarea-4.png) piilottaa/näyttää asiakaskeskustelun sivupalkin. Lähetä viesti ![](../.gitbook/assets/textarea-5.png) -painikkeella tai \[Enter\]-näppäimellä. Rivinvaihdon voit tehdä \[Vaihto\]+\[Enter\] -näppäimillä.
+In the text field \(where it is written "Enter your message"\), in addtion to typing text messages, you can add![](../.gitbook/assets/textarea-1.png)emojis,![](../.gitbook/assets/textarea-2.png)pictures and files,![](../.gitbook/assets/textarea-3.png)start a video chat \(customer discussion\),![](../.gitbook/assets/textarea-4.png) hide/show the customer chat features on the right. Send a message by clicking the![](../.gitbook/assets/textarea-5.png)send button, or using the \[Enter\] key on your keyboard. You can also use the \[Shift\] + \[Enter\] keys to make a line break.
 
 ![](../.gitbook/assets/channel-members-menu%20%281%29.png)
 
-Kanavan sivupalkissa näet kanavan jäsenet. Listalta voi aloittaa yksityiskeskusteluita.   
-Kanavan operaattorit voivat listan kautta kutsua uusia jäseniä, sekä antaa käyttäjille oikeuksia.
+In the channel member list, you will find all the channel members. You can start a private conversation with a person from the list. Channel operators can invite new members, and give moderator and operator rights to channel members through the list.
 
 ![](../.gitbook/assets/customer-menu.png)
 
-Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksista. Sivupalkissa voidaan näyttää metatietoja, muistiinpanokenttä, valmisviestit ja tägit.
+The elements of the customer chat features depend on the queue and the user's personal settings. The section can display metadata, notes fields, canned messages, and tags.
 
-## Asiakasjononäkymä
+## Customer care queues view
 
-![Asiakasjono-n&#xE4;kym&#xE4;](../.gitbook/assets/queue-answer1%20%281%29.png)
+![Customer care queues view](../.gitbook/assets/queue-answer1%20%281%29.png)
 
-Asiakasjononäkymään pääset klikkaamalla jonon nimeä. Näkymästä voit poimia asiakkaat sekä näet tapahtumalokin: kuka on poiminut asiakkaita, milloin jono on avattu ja suljettu.
+Click the queue name in the Sidebar to access the customer care queues view. The view allows you to pick customers and see the queue activity log: who picked customers, and when the queue was opened and closed.
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
-## Yksityiskeskustelut
+## Private conversations
 
-![Yksityiskeskustelun aloittaminen](../.gitbook/assets/team-start-private%20%281%29.png)
+![Start private conversation](../.gitbook/assets/team-start-private%20%281%29.png)
 
 {% page-ref page="../tiimikanavat/yksityiskeskustelut.md" %}
 
-## Käyttäjäasetukset
+## Personal settings
 
 {% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
-## Organisaation asetukset
+## Organization settings
 
 {% page-ref page="../organisaatio/" %}
 
-## Ongelmatilanteet
+## Troubleshooting
 
 {% page-ref page="ongelmatilanteet-kayttoliittymassa.md" %}
 

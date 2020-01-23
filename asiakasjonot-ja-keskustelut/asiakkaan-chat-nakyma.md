@@ -1,68 +1,68 @@
 ---
-description: Asiakkaan näkymän esittely ja toiminta
+description: Here you can find introduction to customer chat interface and how it works.
 ---
 
-# Asiakkaan chat-näkymä
+# Customer chat interface
 
-Tässä dokumentissa esitellään asiakaspalvelu-chatin toimintaa ja näkymiä asiakkaan päässä. Ohessa yksi esimerkki chat-toteutuksen näkymistä. Ninchatin kaikki näkymät ja toiminnot ovat muokattavissa brändinne ja toivomustenne mukaisesti.
+This page describes customer chat activities and prospects of the customer chat interface. Here is an example of a chat implementation view. All the views and functions can be customized in your brand's look and feel.
 
-Kysy lisää ja pyydä demo-toteutusta: [http://ninchat.com/demo](http://ninchat.com/demo)
+Ask more and request a demo at: [http://ninchat.com/demo](http://ninchat.com/demo)
 
-## Chatin aloitusnäkymät <a id="chatin-aloitusnakymat"></a>
+## Chat starting view <a id="chatin-aloitusnakymat"></a>
 
 ![](../.gitbook/assets/embed-welcome.png)
 
-### Minimoitu näkymä
+### Minimized view
 
-Chat näkyy tavanomaisesti aluksi pienennettynä palkkina ruudun oikeassa alakulmassa. Palkin yläpuolella on mahdollista näyttää mainoskupla, jossa palvelusta on mahdollisuus viestittää enemmän.
+Chat will normally appear in a minimized view such as bar or box in the lower right corner of the screen. Above the bar, it is possible to display a text box where you can communicate more about your service.
 
-### Aloitusruutu
+### Pop-up window
 
-Chat-ikkunan aukaistuaan asiakas näkee aloitusruudun, josta on mahdollisuus siirtyä chattiin. Aloitusruudussa voidaan kertoa lisätietoa palvelusta, tiedotteita, aukioloajat, yms.
+When the pop-up chat window opens, your customers will see a home screen that allows them to start a chat. On the home screen, you can also tell more about your service, opening hours, and other related information.
 
-Myös muut elementit, kuten kuvat, linkit ja taulukot ovat käytettävissä.
+Other elements like images, links, and tables are also possible on the home screen.
 
-Aloitusruudun sijaan vieras voidaan myös ohjata suoraan alkukyselyyn tai jonoon, tai chat-bot-keskusteluun.
+Instead of starting with the home screen, customers can also be directed to pre questionnaire, queue, or chat bot.
 
-Chat-ikkuna voidaan otsikkopalkin valinnaisista napeista pienentää, sulkea ja avata isompaan näkymään tai erilliseen popup-ikkunaan.
+The chat window can be minimized, enlarged, closed, or opened in a new window using the optional buttons in the title bar.
 
-## Alkukysely ja jonotus
+## Pre questionnaire and queue
 
 ![](../.gitbook/assets/embed-queued-questionnaire.png)
 
-### Jonotusnäkymä <a id="jonotusnakyma"></a>
+### Pre questionnaire
 
-Valittuaan chatin aloituksen vieras siirtyy jonotusnäkymään. Jonotusnäkymä kertoo asiakkaan jonotusnumeron, eli onko hänen edellään muita asiakkaita. Agentin poimiessa asiakkaan jonosta, avautuu ikkunaan keskustelunäkymä.
+Before going to a queue, your customers can be screened with a pre questionnaire. You can ask for name/nickname and other concerned questions, or use it to match the customer needs and display instructions or selections for the right customer service queue.
 
-### Alkukysely
+### Queue view <a id="jonotusnakyma"></a>
 
-Ennen jonoon siirtymistä voidaan asiakkaalle näyttää esitietoja kartoittava alkukysely. Alkukyselyssä voidaan kysyä nimi/nimimerkki ja kysymys, tai kartoittaa muuten asiakkaan tarpeita ja näyttää sen perusteella ohjeita tai valita oikea asiakapalvelujono.
+After selecting continue to chat, the customer goes to the queue view. The queue view shows the customer's queue number, whether his/her queue is behind other customers. As an agent picks up the customer from the queue, a conversation view opens.
 
-## Keskustelunäkymä
+## Conversation view
 
 ![](../.gitbook/assets/embed-conversation.png)
 
-Jonotusnäkymästä siirrytään itse keskusteluun. Keskustelussa voidaan hyödyntää tekstin lisäksi linkkejä ja liitetiedostoja. Liitetiedostojen lähettäminen voidaan sallia tai estää jonon asetuksissa.
+The queue view changes to the conversation view itself after an agent picks the queue. In addition to text messages, links and attachments can be used in the conversation. Sending attachments can be allowed or prevented in the queue settings.
 
-### Videokeskustelu
+### Video chat
 
 ![](../.gitbook/assets/embed-video.png)
 
-Tekstipohjaisen keskustelun ja kuvien ohella voit jutella asiakkaan kanssa videon välityksellä. Kameran lisäksi voitte jakaa myös kuvaruutunne. Video ja ruudunjako eivät vaadi lisäohjelmistoja vaan toimivat uudemmilla nykyselaimilla.
+Apart from text messages and pictures, you can chat with the customer via video. In addition to the video camera, you can also share your screen. Video and screen sharing do not require any additional software but ususally compatible with newer browsers.
 
-### Asiakasarviointi ja loppykysely
+### Customer service rating and feedback survey
 
 ![](../.gitbook/assets/embed-rating-survey.png)
 
-Keskustelun päätyttyä asiakkaalle voidaan näyttää arviointinäkymä. Hymiö-palautteenannolla kerätään nopeasti arvokasta palautetta palvelun toimivuudesta.
+At the end of the conversation, the client may be presented with a customer service rating view. Using smiley icons is a quick way for the customer to rate the service and for you to gain valuable feedback.
 
-Hymiöiden ohella voidaan käyttää loppukyselyä, jolla asiakkaalta saadaan kerättyä tarkempaa tietoa ja palautetta. Palautteet tallentuvat keskusteluhistorian oheen tilastoihin.
+In addition to the emoticons, a post questionnaire can be used as a feedback survey to gather more specific information from the customer. Feedback is stored in statistics alongside the chat history.
 
-### Chat suljettu
+### Chat closed
 
 ![](../.gitbook/assets/embed-offline-form.png)
 
-Kun asiakaspalvelu-chattia on suljettu, voidaan chat piilottaa tai näyttää heille suljettu-näkymä. Näkymään voidaan sijoittaa yhteydenottolomake, kertoa palvelusta ja aukioloajoista ja linkata muualle.
+When your customer service chat is closed, the chat can be hidden or shown in a view written that it is currently closed. You can place a contact form in this view, tell about the service and opening hours, and provide related links.
 
-Voitte myös auttaa vierasta yleisissä asioissa tarjoamalla ohjeita Ninchatin kysely-työkalulla tai chat-botilla.
+You can also help the customers on general issues by providing supports with Ninchat query tool or chat bot.
 

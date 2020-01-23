@@ -1,16 +1,16 @@
 ---
-description: Näin poistat käyttäjän kanavalta
+description: Here you can find instructions on how to remove a user from a channel.
 ---
 
-# Käyttäjän poistaminen kanavalta
+# How to remove user from channel?
 
-## Agentin poistaminen kanavalta
+## Remove a user from a channel
 
-Agentti poisetaan jokaiselta halutulta kanavalta erikseen. Hän ei automaattisesti poistu kanavilta, kun häneltä poistetaan organisaation jäsenyys. Agentin poistaminen kanavalta vaatii poistajalta kyseisen kanavan moderaattorioikeutta. 
+A user must be removed from each channel separately. The user will not automatically leave any channels although he/she is removed from the organization. Removing a user from a channel requires moderator rights of that channel.
 
-1. Varmista, että sinulla on kanavan moderaattorioikeus. Jos olet kanavan operaattori, voit laittaa oikeuden päälle klikkaamalla nimeäsi kanavan jäsenlistalla ja valitsemalla _Anna moderaattorioikeudet / Give moderator right_s.
-2. Klikkaa poistettavan agentin nimeä ja valitse pudotusvalikosta _Poista kanavalta / Remove from channel_. Käyttäjä poistetaan kanavalta.
-3. Toista tarvittaessa muilla kanavilla.
+1. Make sure you have the channel moderator rights. If you are a channel operator, you can grant the rights to yourself by clicking your name in the channel member list and selecting _Give moderator right_s.
+2. Click the name of the user to be removed and select _Remove from channel_ in the drop-down menu. The user will be removed from the channel.
+3. Repeat for other channels as needed.
 
 {% page-ref page="../organisaatio/agentin-poistaminen-organisaatiosta.md" %}
 

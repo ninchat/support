@@ -1,8 +1,6 @@
----
-description: Usein kysyttyä
----
+# General tips
 
-# Yleisiä vinkkejä
+
 
 {% page-ref page="sanasto.md" %}
 

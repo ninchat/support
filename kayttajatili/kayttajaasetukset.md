@@ -1,205 +1,211 @@
 ---
-description: Profiili ja asetukset
+description: >-
+  Here you can find instructions on how to edit personal settings of your user
+  account.
 ---
 
-# Käyttäjäasetukset
+# How to edit personal settings?
 
-Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavasti:
+Once you have logged in to Ninchat, here is how to access your personal settings:
 
-1. Klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.
-2. Valitse "Asetukset ja profiili / Settings and profile"
-3. Omat asetukset -näkymä on jaettu eri välilehdille, joilta voit valita haluamasi.
-
-{% hint style="info" %}
-Muokattuasi asetuksia, muista painaa "Tallenna / Save" -nappia, jos haluat säilyttää muutokset.
-{% endhint %}
-
-![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/user-menu.png)
-
-## Profiili
-
-Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat tunnistaa sinut helposti.
-
-1. Kirjoita haluamasi näyttönimi kohtaan Lempinimi / Screen name
-2. Kirjoita oikea nimesi kohtaan Koko nimi / Real name
-   * Tätä ei näytetä esim. asiakkaille asiakaspalvelukeskusteluissa
-3. Lisää itsellesi käyttäjäkuva \(jpg- tai png-kuvatiedosto\)
-   * Kuva helpottaa tunnistamista tiimiläisten kesken
-4. Tallenna
-
-![K&#xE4;ytt&#xE4;j&#xE4;profiili ja -tiedot](../.gitbook/assets/user-settings.png)
-
-## Kirjautumisvalinnat <a id="kirjautumisvalinnat"></a>
-
-Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen sähköpostiosoitteen kirjautumiseen. 
-
-### Salasanan vaihtaminen
-
-Voit vaihtaa tilisi salasanan klikkaamalla kirjautumissähköpostiosoitteen rivillä _"Muuta salasana"_. Sinulta tarkistetaan vanha salasanasi ja pyydetään keksimään uusi salasana.
-
-Tapauksessa, että olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salasanan vaihtolinkin sähköpostiisi.
-
-### Uuden kirjautumissähköpostin lisääminen <a id="uuden-kirjautumissahkopostin-lisaaminen"></a>
-
-Käyttäjätililläsi voi olla useita sähköpostiosoitteita, joilla pääset kirjautumaan. Klikkaamalla _"Lisää uusi sähköposti"_, voit luoda uden kirjautumissähköpostiosoitteen ja salasanan sille.
-
-### Kirjautumistavan poistaminen
-
-Voit poistaa kirjautumistavan \(sähköposti, mobiililaite\) klikkaamalla roskakorikuvaketta.
-
-**Huom!** Jos poistat kaikki kirjautumistyypit, et voi enää käyttää tiliäsi. Säilytä siis aina esim. yksi kirjautumissähköposti asetuksissa.
-
-### Tilin ja sähköpostin näkyvyys muille <a id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
-
-Kirjautumissähköpostiosoiterivillä voit kohdassa "Näkyvyys" valita, kenelle kyseinen sähköposti on näkyvissä: ainoastaan itsellesi, organisaatiosi jäsenille, kaikille Ninchatin käyttäjille. 
-
-![Kirjautumisvalinnat](../.gitbook/assets/user-auth.png)
-
-## Ilmoitukset
-
-Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.
-
-Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä. Työpöytäilmoitus ilmestyy ikkunan nurkkaan popup-laatikkona, jota klikkaamalla näet tapahtuman Ninchatissa. Lue lisää alempana.
-
-![Suositellut ilmoitusvalinnat. Muista sallia ty&#xF6;p&#xF6;yt&#xE4;ilmoitukset.](../.gitbook/assets/user_settings_notifications%20%282%29.png)
-
-### Aseta ilmoitustyypit
-
-**Salli Ääni- ja työpöytäilmoitukset ainakin seuraavista ilmoitustyypeistä \(ks. kuva yllä\):** 
-
-* **Yksityisviestit**
-* **Kanavan korostukset**
-* **Uusi henkilö asiakaspalvelujonossa.**
-* **Asiakaspalveluviestit**
-
-Tallenna muutokset.
+1. Click the arrow icon next to your name in the lower left corner.
+2. An additional menu will appear,  then select "Settings and profile".
+3. Your personal settings view is divided into different tabs where you can select the one you want to edit.
 
 {% hint style="info" %}
-Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
+After editing the settings, make sure you click the "Save" button to save any changes.
 {% endhint %}
 
-### Näytä ilmoitukset aina
+![User account menu](../.gitbook/assets/user-menu.png)
 
-Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset aina"_ -valinta ja tallenna. Tämä helpottaa tapahtumien havainnointia.
+## Profile
 
-### Työpöytäilmoitukset
+In your profile settings \("Profile" tab\), tell more about yourself so your colleagues can easily identify you.
 
-Työpöytäilmoitukset tarvitsevat luvan web-selaimelta, jotta ne näkyvät sinulle. 
+1. Enter the name you want it to be shown to everyone in the "Screen name" field.
+2. Enter your real name in the "Real name" field.
+   * This is not shown e.g. to customers in customer service discussions.
+3. Add your profile image \(JPG or PNG file format\).
+   * The image helps to identify yourself among team members.
+4. Save.
 
-Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia. Ilmoituslupa on selain- ja laitekohtainen, joten muista sallia luvat kaikissa laitteissa ja selaimissa joita käytät.
+![User&apos;s profile and information](../.gitbook/assets/user-settings.png)
 
-#### Windows-käyttöjärjestelmä
+## Authentication <a id="kirjautumisvalinnat"></a>
 
-Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät Toimintokeskuksen ilmoituksista \(Windows 10\), kunnes kuittaat ne. [Lue lisää Windowsin Toimintokeskuksesta](https://support.microsoft.com/fi-fi/help/4026791/windows-how-to-open-action-center)
+In the "Authentication" tab, there are some authentication methods where you can add more email addresses, set the visibility of your emails, and change your password.
 
-### Työpöytäilmoitusten kuittaaminen
+### Add a new sign-in email
 
-Työpöytäilmoitukset saa näkymään ruudulla pysyvästi, kunnes klikkaat sitä, tai suljet sen. Tällöin ilmoitus ei mene sinulta ohi.   
-Ilmoitusasetusten kohdassa _"Lisäasetukset"_, ruksaa _"Sulje työpöytäilmoitus vasta käyttäjän vuorovaikutuksesta, kuten hiiren klikkauksesta"_.
+Your user account can have multiple email addresses for signing in. Click the "Add new email" button, type a new email address and create a password for it.
+
+### Choose visibility of your emails to others <a id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
+
+Under "Visibility", you can choose who can see each of your emails: only yourself \(Visible only to you\), members of your organizations \(Visible to your organizations\), or all Ninchat users \(Visible to all users\).
+
+![Authentication methods](../.gitbook/assets/user-auth.png)
+
+### Change your password
+
+You can change your password by clicking "Change password" under Options. You will be asked to provide your old password and create a new one.
+
+If you forgot your password, you can order a password reset link to your email from the sign-in page.
+
+### Remove a sign-in option
+
+You can remove a sign-in option \(email address\) by clicking the trash can icon on the right of that identity row.
+
+Note! If you delete all of your sign-in options, you will no longer have access to your account. So please always keep at least one email.
+
+## Notifications
+
+Notifications help you respond faster. In the "Notifications" tab, you can set audio and desktop notifications for different types of activities on Ninchat. You can also receive notifications via email for some types of activities.
+
+Even when the browser window is minimized, desktop notifications can still tell you what happened. A desktop notification will appear in a corner of the window as a popup box which you can click to view the new activity on Ninchat. Read more below.
+
+![Recommended notification options. Remember to allow desktop notifications.](../.gitbook/assets/user_settings_notifications%20%282%29.png)
+
+### Notification settings
+
+**It is recommended to enable Audio and Desktop notifications for at least the following types of activities \(see the image above\):**
+
+* **Private messages**
+* **Channel highlights**
+* **New person in audience queue**
+* **Audience messages**
+
+Save the changes.
 
 {% hint style="info" %}
-Työpöytäilmoitukset toimivat Chrome, Firefox, Safari- ja Edge-selaimilla.   
-Internet Eplorer -selain \(IE\) ei tue työpöytäilmoituksia.
+Note! Notifications for "New person in audience queue" and "Person picked from queue" are only visible to agents granted with queue agent status.
 {% endhint %}
 
-#### Työpöytäilmoituksen näkyminen
+### Always receive notifications
 
-![Esimerkki ty&#xF6;p&#xF6;yt&#xE4;ilmoituksesta \(Windows\); asiakas jonossa](../.gitbook/assets/desktop-notification.png)
+If you want to always receive audio and desktop notifications even when Ninchat is active on your screen, under "Advanced settings", check the box _"Display notifications also when not idle"_ and save. This makes it easier to track any activities.
 
-### Ilmoitusten salliminen selaimessa
+### Desktop notifications
 
-Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa, että työpöytäilmoituksille \(sekä äänille, kameralle ja mikrofonille\) on annettu lupa klikkaamalla lukkoikonia osoiterivillä, ollessasi ninchat.comissa. Alla ohjeet eri selaimille.
+Desktop notifications require permission from your web browser in order to be displayed to you.
 
-**Goole Chrome**
+Allow the browser to display desktop notifications by clicking the "Allow" button. Notification permission is browser and device specific, so make sure to allow permissions on all browsers and devices you are using.
 
-![Sivustoasetukset Google Chrome -selaimessa](../.gitbook/assets/browser-permissions-chrome.png)
+#### Windows operating system
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.
+Desktop notifications are displayed on the screen one by one. The rest can be found in Action Center \(Windows 10\) until you acknowledge them. [Learn more about Action Center](https://support.microsoft.com/en-gb/help/4026791/windows-how-to-open-action-center).
 
-Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Chrome-selaimen asetuksissa, kirjoita osoiteriville:  chrome://settings/content/siteDetails?site=https://ninchat.com
+### Confirm desktop notifications
+
+If you want desktop notifications to remain on screen until you confirm by clicking or closing it, under Advanced settings, check the box _"Close desktop notification only after interacting eg. mouse click"_. By doing this, the notifications will not be missed by you. 
+
+{% hint style="info" %}
+Desktop notifications work on Google Chrome, Firefox, Safari, and Microsoft Edge browsers.   
+Desktop notifications are not supported by Internet Explorer \(IE\).
+{% endhint %}
+
+#### Display a desktop notification
+
+![Desktop notification example \(Windows\): customer in queue](../.gitbook/assets/desktop-notification.png)
+
+### Allow notifications on browsers
+
+Once you have enabled notifications in your personal settings, you can check if desktop notifications \(as well as sound, camera, and microphone\) are allowed on your browser by clicking the lock icon in the address bar while you are on ninchat.com. Below are instructions for different browsers.
+
+**Google Chrome**
+
+![Site settings in Google Chrome](../.gitbook/assets/browser-permissions-chrome.png)
+
+Click the lock icon in the address bar to check permissions for the current site.
+
+You can also adjust all notification permissions for Ninchat in Chrome browser settings by typing this in the address bar:   
+chrome://settings/content/siteDetails?site=https://ninchat.com
 
 **Mozilla Firefox**
 
-![Sivustoasetukset Mozilla Firefox-selaimessa](../.gitbook/assets/browser-permissions-firefox.png)
+![Site settings in Mozilla Firefox](../.gitbook/assets/browser-permissions-firefox.png)
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.
+Click the lock icon in the address bar to check permissions for the current site.
 
-Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences\#privacy_
+You can also adjust all notification permissions for Ninchat in Firefox browser settings by typing this in the address bar:  
+about:preferences\#privacy
 
 **Microsoft Edge**
 
-![Sivustoasetukset Microsoft Edge -selaimessa](../.gitbook/assets/browser-permissions-edge.png)
+![Site settings in Microsoft Edge](../.gitbook/assets/browser-permissions-edge.png)
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
-Ilmoitusluvat voit säätää myös Edge-selaimen asetuksissa, joihin pääset selaimen menu-valikon kautta.
+Click the lock icon in the address bar to check permissions for the current site.
 
-## Korostukset
+You can also adjust all notification permissions in Edge browser settings, in which you can access through the browser menu.
 
-Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut keskustelussa. Voit tämän ohella asettaa haluamiasi korostussanoja, jolloin saat ilmoituksen, kun ne mainitaan keskusteluissa. 
+## Highlights
 
-#### **Korostussanan luominen**
+In the "Highlights" tab, check the box "Highlight your name" so that you will be notified when someone mentions you in a conversation. You can also set your own highlighting words to get notified whenever they are mentioned.
 
-1. Kirjoita halutut korostussanat tekstikenttään, erota sanat pilkulla.
-2. Voit asettaa vapaapäätteisiä sanoja lisäämällä sanan perään asteriskin \(\*\), esim. social\*.
-3. Ilmoitukset-välilehdellä korostussana-ilmoituksista voi asettaa hälytyksen myös sähköpostiin.
-4. Tallenna muutokset.
+#### **How to set highlighting words?**
+
+1. Write the words that you want them to be hightlighted, separate each word with a comma \(,\).
+2. You can extend the variations of a word that starts with the same letters by adding an asterisk \(\*\) after the word e.g. Fin\*. This means the word Fin is still highlighted even when someone mentions Finland, Finnish, Finn, or Finns.
+3. In the "Notifications" tab, you can also enable email notifications for Channel highlights.
+4. Save.
 
 ![](../.gitbook/assets/user-highlights.png)
 
-#### **Korostussanojen näkyminen keskustelussa**
+#### **Highlighting words in a conversation**
 
-Korostetut sanat näkyvät sinisellä taustavärillä ja saat ilmoituksen aina tällaisen tullessa.
+In the image below, you can see examples of highlighting words in a conversation. A highlighting word appears with a blue background, and you will be notified whenever it is mentioned.
 
 ![](../.gitbook/assets/highlights%20%281%29.png)
 
-## Näkymävalinnat <a id="nakymavalinnat"></a>
+## View <a id="nakymavalinnat"></a>
 
-Voit muuttaa Ninchatin näkymää tietyiltä osin.
+In the "View" tab, you can change Ninchat view in some certain areas.
 
-#### Näytä ensin kanavat joilla on uusia viestejä
+#### Show channels with new activity first
 
-Ruksaa kohta, jos haluat, että keskustelut järjestetään Sidebar-keskustelulistassa niin, että uusia viestejä sisältävät keskustelut näytetään listan alussa.
+Check this box if you want your conversations to be organized in the Sidebar by showing the conversations with new messages first at the top of the conversation list.
 
-#### Piilota kanavan liittymis- ja poistumisviestit
+#### Hide join and part messages from channel
 
-Ruksaa, ellet halua nähdä Käyttäjä liittyi/poistui -viestejä kanavan keskustelussa.
+Check this box if you do not want to see messages telling that someone has joined/left the channel.
 
-#### Näytä piilotetut viestit kanavalla
+#### Hide name change messages on channel
 
-\(Julkiset ryhmäkeskustelut\) Kanavan moderaattorioikeuksilla viestejä voidaan piilottaa. Mikäli haluat nähdä piilotetut viestit, ruksaa kohta.
+Check this box if you do not want to see messages telling that someone has changed their names.
 
-#### Älä vahvista moderaattoritoimenpiteitä
+#### Show hidden messages on channel
 
-Kanavan moderaattorityökaluilla tehdyt toimenpiteet, kuten viestin piilottaminen tai käyttäjän hiljentäminen vaativat vahvistuksen. Ruksaa, jos haluat vahvistukset pois käytöstä. \(Etenkin julkiset ryhmäkeskustelut\)
+\(For public group discussions.\) Channel moderator rights allow you to hide messages. If you want to see the hidden messages yourself, check this box.
 
-#### Käytä uutta käyttöliittymää
+#### Disable moderation action confirmations
 
- Huom! Älä poista valintaa! Tärkeää, jotta Ninchat toimii oikein. \(Valinta on poistumassa.\)
+Actions taken by channel moderation tools, such as hiding a message or silencing a user, normally require confirmations. Check this box if you want to disable the confirmations. \(Especially for public group discussions.\)
 
-Muista tallentaa muutokset.
+#### Use new interface
 
-![N&#xE4;kym&#xE4;valinnat](../.gitbook/assets/user-view.png)
+Note! Do not uncheck this box! Important for Ninchat to work properly. \(The selection is going away.\) 
 
-## Valmisviestit
+Be sure to save your changes.
 
-Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai tarkkojen asioiden kanssa. Voit asiakas-chatissa valita valmiiksi asetettuja viestejä yhdellä klikkauksella keskustelun sivupalkista, tai käyttää niitä pikakomennolla viestinkirjoituskentästä.
+![View options](../.gitbook/assets/user-view.png)
 
-![K&#xE4;ytt&#xE4;j&#xE4;n valmisviestit](../.gitbook/assets/user-canned.png)
+## Canned messages
 
-### Uuden valmisviestin luominen
+Canned messages are handy to streamline your writing with the most frequently used words or phrases. In customer chat, you can select your canned messages with a single click from the chat features, or access them with a shortcut from the message entering field.
 
-1. Klikkaa käyttäjäasetusten Valmisviestit-välilehdellä "Luo uusi viesti"
-2. Listaan ilmestyy uusi "avainsana: viesti" -pari.
-3. Klikkaa Muokkaus-ikonia 
-4. Kirjoita haluttu avainsana - saa sisältää pieniä kirjaimia \(a-z\) ja numeroita
-5. Kirjoita valmisviestin teksti
-6. Tallenna
+![User&apos;s canned messages](../.gitbook/assets/user-canned.png)
 
-### Valmisviestin käyttäminen
+### Create a new canned message
 
-Ohjeet valmisviestien käyttöön keskusteluissa löydät täältä:
+1. In the "Canned messages" tab, click the "Create new message" button.
+2. A new set of keyword and message will appear.
+3. Click the Edit icon \(pencil icon\). 
+4. Enter a keyword in the Keyword field, only lowercase letters \(a-z\) and numbers are allowed.
+5. Enter your desired word or phrase in the Message field.
+6. Save.
+
+### Use a canned message
+
+Instructions for using canned messages in conversations can be found in this article:
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/" %}
-
-
 

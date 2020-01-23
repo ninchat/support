@@ -1,27 +1,26 @@
-# Ongelmatilanteet käyttöliittymässä
+# Interface problems
 
-## Kanavan jäsenlista ei näy
+## Channel member list not shown
 
-Kanavan jäsenlista \(oikean puoleisin sivupalkki\) on mahdollista pitää näkyvissä tai piilottaa. Mikäli lista ei näy, voit palauttaa sen avaamalla valikon käyttäjänimesi vieressä olevasta nuoli-kuvakkeesta vasemman palstan \(Sidebar\) alapäässä. Valitse valikosta "Näytä jäsenet / Show members".
+It is possible to show or hide the channel member list on the right, in your user interface. If the member list does not appear, you can restore it by opening your user account menu from the arrow icon next to your username at the bottom of the Sidebar. Then select "Show members".
 
-![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/sidebar-menus-2.png)
+![User account menu](../.gitbook/assets/sidebar-menus-2.png)
 
-## Toimintopalsta \(valmisviestit, tägit\) ei näy asiakaskeskusteluissa
+## Chat features \(canned messages, tags\) disappear
 
-Asiakaskeskustelun oikean laidan työkalut \(muistiinpanot, valmisviestit, tägit, ...\) on mahdollista näyttää tai piilottaa klikkaamalla viestinlähetyskentän vieressä olevaa ![](../.gitbook/assets/menu-ikoni%20%281%29.png)-ikonia. Ikoni näkyy vain asikaskeskusteluissa.
+You can show or hide the chat features \(notes, canned messages, tags, etc.\) on the right of the conversation section by clicking the![](../.gitbook/assets/menu-ikoni%20%281%29.png)-hamburger icon next to the message entering field. The icon is only visible during customer chat.
 
-## Käyttöliittymä rikki? <a id="kayttoliittyma-rikki"></a>
+## Interface broken? <a id="kayttoliittyma-rikki"></a>
 
-Näetkö sisään kirjauduttuasi seuraavanlaisen näkymän – sivupalkki oikealla?
+Do you see the following view after logging in - the Sidebar on the right?
 
-![Vanha k&#xE4;ytt&#xF6;liittym&#xE4;](../.gitbook/assets/nin-old-ui-1.png)
+![Old user interface](../.gitbook/assets/nin-old-ui-1.png)
 
-Sinulle on kytketty vahingossa vanhentunut käyttöliittymä, joka ei enää toimi kunnolla ja poistuu käytöstä. Siirry seuraavalla linkillä käyttäjäasetuksiisi: [https://ninchat.com/app/?lang=fi\#/x/settings/view](https://ninchat.com/app/?lang=fi#/x/settings/view)
+You have an accidentally outdated interface that is no longer working properly and is being disabled. Go to your personal settings with the following link: [https://ninchat.com/app/?lang=fi\#/x/settings/view](https://ninchat.com/app/?lang=fi#/x/settings/view)
 
-Ruksaa Näkymä-asetussivulla kohta "Käytä uutta käyttöliittymää / Use new UI" ja Tallenna.  
-Näkymä pitäisi nyt korjaantua.
+In the "View" tab, select "Use new interface" and save. The view should now be corrected.
 
-![Vanha k&#xE4;ytt&#xF6;liitym&#xE4; - n&#xE4;kym&#xE4;asetukset](../.gitbook/assets/nin-old-ui-2.png)
+![Old user interface - View settings](../.gitbook/assets/nin-old-ui-2.png)
 
 ## 
 

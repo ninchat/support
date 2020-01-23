@@ -1,8 +1,10 @@
 ---
-description: Asiakasneuvojille ohjeet kootusti
+description: >-
+  Here is a list of articles where you can find useful instructions for customer
+  advisors.
 ---
 
-# Ohjeet asiakasneuvojille
+# Instructions for customer advisors
 
 {% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
 

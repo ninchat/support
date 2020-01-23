@@ -1,32 +1,36 @@
 ---
-description: Näin poistat palveluagentin organisaatiostasi.
+description: >-
+  Here you can find instructions on how to remove an agent from your
+  organization.
 ---
 
-# Agentin poistaminen organisaatiosta
+# How to remove agent from organization?
 
-Mikäli työntekijä poistuu palveluksesta tai siirtyy muihin tehtäviin, hänet todennäköisesti halutaan poistaa Ninchat-orgnisaatiosta ja asiakasjonoista, sekä tiimikanavilta.
+If an employee is retired or transferred to another position, he/she is likely to be removed from the organization, queues, and team channels on Ninchat.
 
-## Agentin poistaminen jonoista ja organisaatiosta
+## Remove an agent from the organization and queues
 
-Organisaation jäsenten hallinta vaatii orgnisaation operaattori-oikeustasoa. 
+Managing agents of an organization requires organization operator level.
 
-1. Avaa organisaatioasetukset klikkaamalla yläpalkista organisaation tai kanavan nimeä ja valitse pudotusvalikosta _Organisaatioasetukset / Organization settings_.
-2. Klikkaa listalla poistettavan organisaation jäsenen nimeä \(käytä tarvittaessa hakua, filter\).
-3. Jäsenen muokkausnäkymässä klikkaa _Poista jäsenyys / Remove membership_ -painiketta.
+1. Click the name of the organization in the upper left corner and select "Organization settings" from the drop-down menu.
+2. Find the agent name that you want to remove \(or use filter to search for it\), then click the name row.
+3. In the edit view, click the "Remove membership" button.
 
-Asiakas poistetaan organisaatiosta sekä jonoista.
+The agent should now be removed from the organization and queues.
 
-## Agentin poistaminen kanavalta
+## Remove an agent from a channel
 
-Agentin poistaminen kanavalta vaatii kyseisen kanavan moderaattorioikeutta. Agentti pitää poistaa jokaiselta halutulta kanavalta erikseen. Hän ei automaattisesti poistu kanavilta, kun häneltä poistetaan organisaation jäsenyys. 
+Removing an agent from a channel requires moderator rights of that channel. An agent must be removed from each channel separately, as the agent will not leave any channels automatically even though he/she is removed from the organization.
 
-1. Varmista, että sinulla on kanavan moderaattorioikeus. Jos olet kanavan operaattori, voit laittaa oikeuden päälle klikkaamalla nimeäsi kanavan jäsenlistalla ja valitsemalla _Anna moderaattorioikeudet / Give moderator right_s.
-2. Klikkaa poistettavan agentin nimeä ja valitse pudotusvalikosta _Poista kanavalta / Remove from channel_. Käyttäjä poistetaan kanavalta.
-3. Toista tarvittaessa muilla kanavilla.
+1. Make sure you have moderator rights of the channel. If you are a channel operator, you can grant the moderator rights to yourself by clicking your name in the channel member list and selecting "Give moderator rights".
+2. Click the name of the agent to be removed and select "Remove from channel" in the drop-down menu. The user will be removed from that channel.
+3. Repeat for other channels as needed.
 
-## Käyttäjätilin poistaminen Ninchatista <a id="kayttajatilin-poistaminen-ninchatista"></a>
+## Remove a user account from Ninchat <a id="kayttajatilin-poistaminen-ninchatista"></a>
 
-Mikäli käyttäjätili halutaan kokonaan poistaa, agentin tulee tehdä se itse. Ohjeet linkin takana.
+A user account can be completely deleted only if the user do it by him/herself. See detailed instructions from the link below.
 
 {% page-ref page="../yleisia-vinkkeja/tunnuksen-poistaminen.md" %}
+
+
 

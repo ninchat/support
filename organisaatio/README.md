@@ -1,55 +1,54 @@
 ---
-description: Organisaation hallinta
+description: Here you can find introduction to organization management on Ninchat.
 ---
 
-# Organisaatio
+# Organization
 
-## Käyttäjäoikeustasot
+## User levels and rights
 
-| Taso | Oikeudet |
+| Level | Rights |
 | :--- | :--- |
-| **Asiakasjonon käsittelijä** | Näkee asiakaspalvelujonon ja pääsee nappaamaan asiakkaita jonosta. Pääsee avaamaan ja sulkemaan jonon manuaalisesti. Ei näe jonon asetuksia, tilastoja tai keskusteluhistoriaa, eikä organisaation asetuksia. |
-| **Organisaation operaattori** | Pääsee organisaation asetuksiin, voi lisätä organisaatioon uusia jäseniä. Pääsee muokkaamaan jonojen tageja ja chat-asetuksia. Näkee ja voi muokata jonojen asetuksia ja aikatauluja. Pääsee katsomaan jonojen tilastoja ja keskusteluhistoriaa. |
-| **Organisaation omistaja** ![](../.gitbook/assets/owner-key.png)  | Organisaation luonut agentti. Voi lisätä salausavaimia organisaatiolle salatun metatiedon välitykseen. |
-| **Kanavan operaattori** | Hallitsee yksittäistä tiimikanavaa tai julkista keskustelukanavaa. Pääsee muuttamaan kanavan asetuksia. Voi kutsua kanavalle uusia agentteja. |
-| **Kanavan moderaattori** | Voi moderoida yksittäisen kanavan keskustelua ja viestejä sekä poistaa käyttäjiä ko. kanavalta. Ei näe kanavan asetuksia. |
+| **Queue member** | A queue member can see the customer queue and pick customers from the queue in which he/she is a member. He/she can also manually open and close the queue, but cannot see queue settings, queue statistics, message history, and organization settings. |
+| **Organization operator** | An organization operator can access organization settings and add new agents to the organization. He/she can also edit tags and chat settings, see and edit queue settings and schedule, and access queue statistics and message history. |
+| **Organization owner** ![](../.gitbook/assets/owner-key.png)  | An organzation owner is the agent who created the organization. He/she can add encryption keys to your organization for transmitting encrypted metadata. |
+| **Channel operator** | A channel operator can control a team channel or public discussion channel. He/she can change the channel settings and invite new agents to the channel. |
+| **Channel moderator** | A channel moderator can moderate discussions and posts on a team channel or public discussion channel, and remove users from that channel, but cannot edit the channel settings. |
 
-## Käyttäjien hallinta organisaatiossa
+## User settings in organization
 
-Organisaatioasetuksiin pääset klikkaamalla ylärivillä organisaation tai kanavan nimeä ja valitsemalla "Orgnisaatioasetukset". \(Vaatii orgnisaation operaatorin oikeudet.\)
+You can access organization settings by clicking the name of the organization in the upper left corner and selecting "Organization settings". \(This requires organization operator level.\)
 
-Ensimmäisellä välilehdellä näet organisaatioon lisätyt agentit. Operaattoriagentit on merkattu tähdellä. \(Huom. organisaation operaattori on eri asia kuin yksittäisen tiimikanavan operaattori.\)  
-Organisaation omistaja on merkitty avain-kuvakkeella.
+In the first tab \("Organization" tab\), you will see the list of users which are all the agents added to your organization. An operator agent is marked with a star icon. \(Note: An organization operator is different from a channel operator.\) The owner of the organization is marked with a key icon.
 
-### Käyttäjän oikeuksien muokkaus <a id="kayttajan-oikeuksien-muokkaus"></a>
+### Edit user rights <a id="kayttajan-oikeuksien-muokkaus"></a>
 
-Klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
+Click the agent row in the user list to open a new view where you can. 
 
-* Lisää/poista hänet käsittelijäksi asiakaspalvelujonoihin.
-* Lisää/poista agentilta organisaation operaattorioikeudet
-* Poistaa hänet orgznisaatiosta - toiminta poistaa käyttäjän jonoista ja organisaatiosta. Agentti tulee erikseen poistaa tiimikanavilta kanavien jäsenlistan kautta.
+* Toggle queue membership to grant/revoke the queue agent status of each queue in your organization.
+* Give/revoke operator status of the agent.
+* Remove membership - Remove the user from all the queues and the organization. The agent must be removed from each team channel separately through the channel member list.
 
-Katso lisää kohdassa _Agentin lisääminen jonon käsittelijäksi_.
+See the article _"How to add agent to queue?"_ for more information.
 
-![Organisation j&#xE4;senlista](../.gitbook/assets/organization-organization%20%281%29.png)
+![Organization member list](../.gitbook/assets/organization-organization%20%281%29.png)
 
-### Organisaation jäsenten haku <a id="organisaation-jasenten-haku"></a>
+### Search for organization agents <a id="organisaation-jasenten-haku"></a>
 
-Mikäli organisaatiossa on paljon jäseniä, heidät jaotellaan usealle sivulle, joita voit selata.
+If your organization has a large number of agents, the user list is divided into several pages.
 
-Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan nimestä hakukenttään listan yläpuolella.
+Instead of browsing through all the pages, you can filter or search for a specific agent by typing the name or part of the name in the Filter field.
 
-![Organisaation j&#xE4;senten haku](../.gitbook/assets/organization-search.png)
+![Search for a member of the organization](../.gitbook/assets/organization-search.png)
 
-## Uuden agentin lisääminen organisaatioon
+## Add a new agent to your organization
 
 {% page-ref page="uuden-agentin-lisaaminen-organisaatioon.md" %}
 
-## Agentin lisääminen jonon käsittelijäksi
+## Add an agent to a queue
 
 {% page-ref page="agentin-lisaaminen-jonon-kasittelijaksi.md" %}
 
-## Asiakasjonojen hallinta
+## Manage customer care queues
 
 {% page-ref page="asiakasjonojen-hallinta.md" %}
 

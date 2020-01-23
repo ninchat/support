@@ -1,52 +1,54 @@
 ---
-description: Eikö sisäänkirjautuminen onnistu?
+description: >-
+  Here you can find troubleshooting tips if you have problems when signing in or
+  in other related situations.
 ---
 
-# Ongelmatilanteet sisäänkirjautumisessa
+# Problems signing in
 
-## Unohtunut salasana
+## Forgot your password?
 
 {% page-ref page="unohtunut-salasana.md" %}
 
-## Käyttöliittymä rikki? <a id="kayttoliittyma-rikki"></a>
+## Something wrong with the user interface? <a id="kayttoliittyma-rikki"></a>
 
 {% page-ref page="ongelmatilanteet-kayttoliittymassa.md" %}
 
-## Mistä pääsen kirjautumaan palveluun?
+## Where can I access the service?
 
-Mikäli pikakuvake hävinnyt tai osoite on unohtunut, pääset Ninchatiin aina siirtymällä web-selaimella osoitteeseen [**https://ninchat.com/app**](https://ninchat.com/app).
+If your shortcut to Ninchat disappears or the address is forgotten, you can always access Ninchat by going to [**https://ninchat.com/app**](https://ninchat.com/app) in your web browser. 
 
-## Tiimikanavia ei näy? <a id="tiimikanavia-ei-nay"></a>
+## Team channels not visible? <a id="tiimikanavia-ei-nay"></a>
 
-Alla selitetty pari tilannetta, joissa tiimikanavia ei näy.
+Below you can find some situations when you cannot see the team channels you want.
 
-### Väärä organisaatio valittuna <a id="vaara-organisaatio-valittuna"></a>
+### Wrong organization selected <a id="vaara-organisaatio-valittuna"></a>
 
-Mikäli sivupalkissa ei näy tuttuja kanavia ja asiakasjonoja, olet saattanut vahingossa siirtyä toiseen organisaatioon tai julkiseen tilaan.
+If you do not see familiar channels and customer care queues in your Sidebar, you may have selected another organization or Public site.
 
-Siirry takaisin omaan organisaatioon klikkaamalla nuolta organisaation nimen vieressä. Valitse pudotusvalikosta oma organisaationne.
+Go back to your desired organization by clicking the arrow icon next to the current organization name on the top of the Sidebar. Then select the organization you want from the drop-down menu.
 
-![Vaihda organisaatio organisaatiovalikosta](../.gitbook/assets/problem-wrong-organization.png)
+![Change your organization from the organization menu](../.gitbook/assets/problem-wrong-organization.png)
 
-### Rekisteröidyit palveluun ilman kutsulinkkiä <a id="rekisteroidyit-palveluun-ilman-kutsulinkkia"></a>
+### You signed up for the service without an invitation link <a id="rekisteroidyit-palveluun-ilman-kutsulinkkia"></a>
 
-Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
+Do you see the following screen instead of your team channel after signing in?
 
 ![](../.gitbook/assets/welcome-screen%20%283%29.png)
 
-Olet todennäköisesti tullut Ninchatiin ilman kutsulinkkiä ja olet tilanteessa, jossa et kuulu mihinkään organisaatioon tai tiimikanavalle.
+You have probably come to Ninchat without an invitation link and you are in a situation that you do not belong to any organization or team channel.
 
-Etsi sähköpostistasi Ninchat Invite -viesti ja klikkaa sieltä kutsulinkkiä \(ks. ohje ylempänä\), tai pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
+Find Ninchat invitation email in your inbox and click the invitation link \(see instructions in the section "How to accept invitation?"\), or ask a colleague or Ninchat staff for a new invitation link to the team channel.
 
-## Kutsulinkki ei toimi?
+## Invitation link not working?
 
-Kutsulinkki ei toimi ja saat virheilmoituksen yrittäessäsi hyväksyä kutsun?
+The invitation link does not work and you get an error message when trying to accept the invitation?
 
-Kutsu on todennäköisesti vanhentunut. Kutsulinkit ovat voimassa 14 vuorokautta. Pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
+The invitation link to the team channel is likely to be expired. Invitation links are valid only for 14 days. Ask for a new one from a colleague or Ninchat staff.
 
-## Pyydä apua chatissa <a id="pyyda-apua-chatissa"></a>
+## Ask for help in chat <a id="pyyda-apua-chatissa"></a>
 
-Mikäli mikään näistä neuvoista ei auttanut, voit kysyä meiltä apua asiakaspalveluchatissa.
+If none of the above tips worked, you can ask for help from us in our customer service chat.
 
-[Avaa chat](https://ninchat.com/contact?help)
+[Open chat](https://ninchat.com/contact?help)
 

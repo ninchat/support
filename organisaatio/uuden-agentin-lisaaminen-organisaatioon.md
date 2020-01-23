@@ -1,45 +1,49 @@
 ---
-description: Uuden agentin ja jononkäsittelijän lisääminen
+description: >-
+  Here you can find instructions on how to add a new agent to your organization
+  and customer care queues.
 ---
 
-# Uuden agentin lisääminen organisaatioon
+# How to add new agent to organization?
 
-## Uuden agentin lisääminen
+## Add a new agent
 
-Henkilön lisääminen organisaatioon ja asiakasjonoihin tapahtuu seuraavasti:
+These are the main steps how a new agent can be invited to your organization and customer care queues:
 
-1. Henkilö kutsutaan tiimikanavalle.
-2. Liittymisen jälkeen agentti lisätään organisaation jäseneksi.
-3. Agentille annetaan oikeudet vastata jonoon.
+1. The person is invited to a team channel.
+2. After the person accepts the invitation, he/she can be added to the organization.
+3. The agent is then given the rights to answer queues.
 
-## Henkilön kutsuminen tiimikanavalle <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+## Invite people to a team channel <a id="henkilon-kutsuminen-tiimikanavalle"></a>
 
-Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
+A channel operator can invite new people to join the channel.
 
 ![](../.gitbook/assets/invite%20%281%29.png)
 
-1. Klikkaa jäsenlistan lopussa "Kutsu väkeä / Invite people" -linkkiä.
-2. Kirjoita kutsuttavan henkilön sähköpostiosoite kenttään ja paina Enter.
-3. Lisää tarvittaessa muiden kutsuttavien osoitteet.
-4. Paina "Lähetä kutsu / Send invite"
-5. Voit myös kopioida kutsulinkin osoitteen ja lähettää/jakaa sen itse!
+1. Click "Invite people" at the bottom of the member list.
+2. Type email address of the person you want to invite in Search field and press Enter.
+3. Add email addresses of other invitees as needed.
+4. Click the "Send invite" button.
+5. You can also copy the invitation link and send to each person.
 
 {% hint style="info" %}
-Kanavakutsulinkit ovat voimassa 14 vuorokautta niiden luomishetkestä. Tämän jälkeen ne vanhenevat ja sinun tulee tarvittaessa luoda uusi linkki.
+The inviation link is valid for 14 days from the time it is created. It will then expire and you will have to create a new link if needed.
 {% endhint %}
 
-## Agentin lisääminen organisaatioon
+## Add an agent to your organization
 
-1. Uusi jäsen seuraa Käyttäjätilin luominen -ohjeen vaiheet ja liittyy tiimikanavalle.
-2. Näet uuden käyttäjän jäsenlistalla sekä ilmoituksen liittymisestä keskustelussa.
-3. Klikkaa agentin nimeä ja valitse listalta "Lisää organisaatioon / Add to organization".
-4. Klikkaa OK ponnahdusikkuna-ilmoituksessa.
+1. A new user can follow the steps in the article "How to create account?", and join the team channel.
+2. You will see the new member in the member list and a notification that he/she has joined the channel.
+3. Click the agent name and select "Add to organization".
+4. Click OK in the pop-up notification.
 
-![Lis&#xE4;&#xE4; agentti organisaatioon](../.gitbook/assets/add-to-organization.png)
+![Add an agent to the organization](../.gitbook/assets/add-to-organization.png)
 
-## Agentin lisäminen jonoon
+## Add an agent to a queue
 
-Siirry linkistä seuraavalle ohjesivulle:
+Navigate to the following page to learn how to add an agent to a queue:
 
 {% page-ref page="agentin-lisaaminen-jonon-kasittelijaksi.md" %}
+
+
 

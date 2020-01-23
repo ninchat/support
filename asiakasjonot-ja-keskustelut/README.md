@@ -1,76 +1,75 @@
 ---
-description: Jonot ja asiakaskeskustelun työkalut
+description: Here you can learn about customer care queues and conversations.
 ---
 
-# Asiakasjonot ja -keskustelut
+# Customer care queues and conversations
 
-## Jonon käsittelijät
+## Queue members
 
-Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaatio-osiossa.
+Instructions on how to add and manage queue members are described in the Organization section.
 
 {% page-ref page="../organisaatio/" %}
 
-## Asiakasjonopalkki ja -näkymä <a id="asiakasjonopalkki-ja-nakyma"></a>
+## Queue bar and view <a id="asiakasjonopalkki-ja-nakyma"></a>
 
-![Asiakasjono sivupalkissa sek&#xE4; jonon&#xE4;kym&#xE4;](../.gitbook/assets/queue-view.png)
+![Customer care queues in the Sidebar and queue view](../.gitbook/assets/queue-view.png)
 
-Asiakasjonot näkyvät vasemman laidan sivupalkissa. Klikkaamalla jonon nimeä saat auki asiakasjononäkymän, josta voidaan napata jonoon tulevat asiakkaat, sekä tarkastella jonon tapahtumia: milloin jono on avattu ja suljettu, sekä kuka on poiminut asiakkaita.  
-Sivupalkin jonon nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata pudotusvalikon, josta asiakkaan nappaaminen onnistuu ilman jononäkymään siirtymistä. Pudotusvalikosta voit myös mm. sulkea jonon.
+Customer care queues appear in the left Sidebar. Clicking a queue bar  will open the queue view, which can be used to pick incoming customers from the queue and view activity log. The queue activity log shows different events of the queue i.e. when the queue was opened and closed, and who picked customers \(accepted audience\). Clicking the arrow icon next to a queue name in the Sidebar will open a drop-down menu that allows you to pick customers without having to go to the queue view. You can also use the drop-down menu to manually close the queue.
 
-## Asiakasjonon avaaminen ja sulkeminen
+## Open and close a queue
 
-Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti. Avattu jono on merkattu sivupalkissa ja jononäkymässä vihreällä pallolla, suljettu jono punaisella.
+The queue can be opened and closed manually, or automatically by scheduling. An open queue is marked with a green circle in the Sidebar and queue view, while a closed queue is markded with a red circle.
 
-#### Jonon avaaminen
+#### Open queue
 
-Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Avaa jono / Open queue".  
-Asiakkaat voivat liittyä nyt jonoon.
+Click the arrow icon next to the queue name and select "Open queue" from the menu.   
+Customers can now join the queue.
 
-#### Jonon sulkeminen
+#### Close queue
 
-Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Sulje jono / Close queue".  
-Asiakkaat eivät tämän jälkeen voi aloittaa chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai he päättävät sulkea chatin/ikkunan.
+Click the arrow icon next to the queue name and select "Close queue" from the menu.   
+After that, customers cannot start a chat. Customers in the queue at the time of closing will remain in the queue until they are picked or they decide to close the chat/window.
 
-#### Asiakasjonon ajastaminen
+#### Schedule a customer care queue
 
-Lue automaattisesta ajastamisesta:
+Read more about opening and closing a queue automatically by scheduling:
 
 {% page-ref page="jonon-ajastaminen.md" %}
 
-## Asiakkaan nappaaminen jonosta
+## Pick a customer from a queue
 
 {% hint style="info" %}
-Ilmoitus asiakkaasta jonossa näkyy aina Jono-palkin lisäksi myös _Tapahtumat/Activity_ -palkissa. Palkki ilmoittaa tapahtumista muuttumalla siniseksi, ja näet ilmoituksen, vaikka sinulla olisi ilmoituksen tullessa avattuna toisen organisaation näkymä.
+Notifications of customers in a queue are displayed in the queue bar as well as in the Activity bar. The Activity bar notifies you of new events by turning blue, and you will see it even when you have another organization view.
 {% endhint %}
 
-Asiakas voidaan poimia joko sivupalkista tai isommasta jononäkymästä. Alla ohjeet molempiin tapoihin.
+A customer can be picked from either the Sidebar or the larger queue view. Below are the instructions for both options.
 
-### A\) Jono-näkymän kautta asiakkaan nappaaminen 
+### A\) Pick a customer through the queue view 
 
-1. Klikkaa sivupalkissa jonon nimeä \(kuvassa Customer service queue\) muusta kuin nuoli-kohdasta.
-2. Jono-näkymässä klikkaa nappia "Nappaa asiakas jonosta".
-3. Asiakaskeskustelu alkaa.
+1. In the Sidebar, click the name of the queue \(in the picture - Customer service queue\) rather than the arrow.
+2. In the queue view, click the button "Pick person from queue".
+3. The customer conversation begins.
 
 ![](../.gitbook/assets/queue-answer1%20%281%29.png)
 
-### B\) Pudotusvalikon kautta asiakkaan nappaaminen
+### B\) Pick a customer through the drop-down menu
 
-1. Klikkaa sivupalkissa jonon nimen vieressä nuoli-ikonia \(kuvassa Customer service queue\).
-2. Palkin alle avautuu pudotusvalikko, josta voit valita "Nappaa asiakas jonosta".
-3. Asiakaskeskustelu alkaa.
+1. Click the arrow icon next to the queue name in the Sidebar \(in the picture - Customer service queue\).
+2. Select "Pick person from queue" from the drop-down menu that opens.
+3. The customer conversation begins.
 
 ![](../.gitbook/assets/queue-answer2.png)
 
-### **Jono-valikon toiminnot**
+### **Queue menu functions**
 
-* Poimi asiakas jonosta
-* Avaa / sulje jono
-* Siirry jonon asetuksiin \(vaatii organisaation operaattorioikeudet\)
-* Siirry jonon tilastoihin \(vaatii organisaation operaattorioikeudet\)
+* Pick person from queue
+* Queue settings \(requires organization operator rights\)
+* Queue statistics \(requires organization operator rights\)
+* Open/Close queue
 
 {% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 
-## Asiakaskeskustelunäkymä
+## Customer conversation view
 
 ![](../.gitbook/assets/customer-chat-agent-view%20%281%29.png)
 
@@ -78,183 +77,222 @@ Asiakas voidaan poimia joko sivupalkista tai isommasta jononäkymästä. Alla oh
   <thead>
     <tr>
       <th style="text-align:left">1) Sidebar</th>
-      <th style="text-align:left">2) Keskustelun&#xE4;kym&#xE4;</th>
-      <th style="text-align:left">3) Chat-sivupalkki</th>
+      <th style="text-align:left">2) Conversation section</th>
+      <th style="text-align:left">3) Chat features</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
         <ol>
-          <li>Organisaatio</li>
-          <li>Asiakasjonot</li>
-          <li>Tiimi- ja tukikanavat</li>
-          <li>Asiakaskeskustelut</li>
-          <li>Yksityiskeskustelut tiimil&#xE4;isten kanssa</li>
+          <li>Organization</li>
+          <li>Customer care queues</li>
+          <li>Team and support channels</li>
+          <li>Customer care conversations</li>
+          <li>Private conversations with team members</li>
         </ol>
       </td>
       <td style="text-align:left">
         <ol>
-          <li>Tietoja asiakkaasta</li>
-          <li>Keskustelu</li>
-          <li>Tekstikentt&#xE4;, hymi&#xF6;t, liitetiedostot, videokeskustelu, sivupalkin
-            n&#xE4;ytt&#xF6;/piilotus</li>
+          <li>About the customer</li>
+          <li>Conversation</li>
+          <li>Text field, emojis, attachments, video chat, hide/show the chat features</li>
         </ol>
         <p></p>
         <p></p>
       </td>
       <td style="text-align:left">
         <ol>
-          <li>Muistiinpanot</li>
-          <li>Valmisvastaukset</li>
-          <li>Tagit (merkit) keskustelun luokitteluun</li>
+          <li>Notes</li>
+          <li>Caned messages</li>
+          <li>Tags to clasify a conversation</li>
         </ol>
         <p></p>
       </td>
     </tr>
   </tbody>
-</table>## Asiakaskeskustelu
+</table>## Customer conversation
 
-Poimittuasi asiakkaan jonosta keskustelu alkaa. 
+Once you have picked a customer from a queue, a conversation with the customer begins.
 
-1. Asiakkaalle näytetään "Keskustelu aloitettu" -viesti, mutta on hyvä lähettää asiakkaalle heti tervehdys tai muu vastaava kommentti.
-2. Näet keskustelun yläpuolella teknisiä tietoja asiakkaasta, kuten käytetyn selaimen, sivun jolla chat on aloitettu, sekä muita tietoja, mikäli ne on päätetty ottaa käyttöön.
-3. Mikäli chatissa on alkukysely, näet asiakkaan tekemät kyselyvalinnat ja -vastaukset oikealla palstalla, ja voit niiden perusteella paremmin neuvoa asiakasta.
+1. The customer will see a message "Conversation started", but it is a good idea to send the customer a greeting or similar message immediately.
+2. Above the conversation, you will see technical information about the customer, such as the browser he/she is using, the page where the chat was started, and other information if you have enabled it.
+3. If the chat has a pre questionnaire, you will see the choices and answers the customer has made on the right of the conversation section. This information can help you better advise the customer.
 
-## Kuvat ja tiedostot
+## Pictures and files
 
-Asiakasneuvoja voi lähettää asiakkaalle kuvia ja tiedostoja, ja hän neuvojalle, mikäli tämä on sallittu chatin asetuksissa.
+The agent can send pictures and files to the customer, and vice versa if allowed in the settings.
 
-Lähetettävien tiedostojen kokoa tai formaattia ei ole rajattu.
+There is no limit to the size or format of files to upload.
 
-## Asiakas-metatiedot
+## Customer metadata 
 
-Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää: 
+Various metadata can be passed from the customer to expedite and facilitate the work of the agent. The data which may be communicated are:
 
-* Salatusti sopimuskumppanin palvelimelta \(secure metadata\)
-* Webbisivulta keskustelun alussa ja reaaliaikaisesti keskustelun aikana
-* Ninchatin alku- ja loppukyselyvastaukset
-* Koottu metatieto esim. ostoskorin sisällöstä
+* Encrypted from contract partner server \(secure metadata\);
+* From the web page at the beginning of the chat and in real time during the chat;
+* Ninchat pre and post questionnaire responses;
+* Collected metadata such as the contents of the shopping cart.
 
-Keskustelun alkuun voidaan välittää asiakkaasta perustiedot, jotka ovat hyödyllisiä mm. ongelmatilanteita selvitettäessä. Alkutietoihin voi lisätä esim. selaintiedon, ruudun koon, chatin aloitussivun ja sinne linkanneen sivun, sekä IP-osoitteen ja sijaintitiedot.
+At the beginning of the conversation, you can look into the basic information about the customer, which is useful e.g. for problem solving. It is possible to see the customer's browser information and screen size, chat landing page and referral page, as well as IP address and location information.
 
-![Tekniset tiedot asiakkaasta](../.gitbook/assets/metadata-customer.png)
+![Customer&apos;s information](../.gitbook/assets/metadata-customer.png)
 
 {% hint style="info" %}
-Kysy metatietojen lähettämisestä lisää Ninchatin henkilöstöltä.
+Ask Ninchat staff for more information about uploading metadata.
 {% endhint %}
 
-### Vahvasti salattu metatieto \(secure metadata\)
+### Strongly encrypted metadata \(secure metadata\)
 
-Asiakaspalvelijalle on mahdollista välittää sopimuskumppanin sivustolle kirjautuneen käyttäjän tiedot salatusti sopimuskumppanin palvelimelta. Myöhemmin chat-keskustelu tietoineen voidaan välittää takaisin esim. sopimuskumppanin CRM-järjestelmään ja yhdistää oikeaan käyttäjään tietojen perusteella.
+It is possible for the customer service provider to encrypt the information of the user logged on to the contractor's site from the contractor's server. Later, the conversation with the information can be transmitted back to the contract partner's CRM system and linked to the right user based on the information.
 
-Kysy meiltä lisää, tai tutustu API-dokumentaatioon: 
+Contact us for more information, or read from our API documents: 
 
 * [API - https://ninchat.com/api ](https://ninchat.com/api%20)
 * [Master keys & secure metadata - https://github.com/ninchat/ninchat-api/blob/v2/master.md](https://github.com/ninchat/ninchat-api/blob/v2/master.md)
 
-### Kyselytiedot
+### Pre and post questionnaire
 
-Keskustelua edeltävän alkukyselyn tiedot välitetään asiakaspalvelijan keskustelunäkymän sivupalkkiin. Näin asiakkaan neuvominen nopeutuu ja helpottuu.
+The information from the pre questionnaire is shown on the right of the conversation section as "Pre audience questionnaire". This will make the customer service quicker and easier.
 
-Alkukyselyssä voidaan pyytää myös asiakkaan nimi ja viesti, jotka tulevat mukaan myös keskusteluun.
+The pre questionnaire can also ask for the customer's name and message, which will also be included in the conversation.
 
-Myös keskustelun jälkeen esitettävän loppukyselyn vastaukset ilmestyvät samaan paikkaan asiakkaan suljettua chatin.
+The answers to the post questionnaire after the discussion will also appear in the same place as "Post audience questionnaire" after the customer has closed the chat.
 
-![Alkukyselytiedot keskustelussa](../.gitbook/assets/metadata-questionnaire%20%281%29.png)
+![An answer from the pre questionnaire included in the conversation](../.gitbook/assets/metadata-questionnaire%20%281%29.png)
 
-### Live-metatiedot
+### Live metadata
 
-Asiakkaan toimista sivustolla on mahdollista välittää reaaliaikaista tietoa asiakaspalvelijalle  neuvomisen helpottamiseksi. Esimerkiksi asiakkaan täyttäessä lomaketta, tiedot voidaan kertoa suoraan asiakaspalvelijalle, kuten mm. jos asiakas vaihtaa sivua keskustelun aikana. 
+It is possible to provide real-time information of customer's activities on the site, to a customer service agent for easier guidance. For example, when a customer completes a form, the information can be reported directly to the customer service agent, or when the customer changes pages during the conversation.
 
-![Live-asiakas-metatieto](../.gitbook/assets/metadata-live.png)
+![Live customer metadata](../.gitbook/assets/metadata-live.png)
 
-### Koottu metatieto
+### Collected metadata
 
-Live-metadataa voidaan välittää asiakaspalvelijalle myös kootusti. Esim. ostoskorin sisältö ja toimitustiedot voidaan välittää salatusti kaikki kerralla, jolloin ne näytetään kootusti keskustelun sivupalkissa.
+Live metadata can also be provided to a customer service agent on an aggregate basis. For example, the contents of the shopping cart and shipping information can be encrypted all at once, so that they are displayed altogether in a cohesive view.
 
-![Yhteen koottu asiakas-metatieto](../.gitbook/assets/metadata-live-folded.png)
+![Collected customer metadata](../.gitbook/assets/metadata-live-folded.png)
 
-## Valmisviestit
+## Canned messages
 
-Valmisviestit nopeuttavat ja helpottavat asiakaspalvelijan työtä. Voit hoitaa usein kysytyt kysymykset valitsemalla vastauksen suoraan listalta.
+Canned messages speed up and facilitate the work of customer service agents. To deal with frequently asked questions, the answers can be selected directly from the list.
 
-Lisäksi asioissa, jotka vaativat tarkasti oikein annettua vastausta, kuten juridiset tai hoitotoimenpiteisiin liittyvät asiat, voi olla hyvä käyttää valmisvastauksia.
+In addition, if the questions require correct or specific answers, such as legal or therapeutic matters, it may be helpful to use canned messages.
 
-### Valmisviestin luominen ja muokkaus
+### Create and edit canned messages
 
-Valmisviestit ovat henkilökohtaisia ja ne luodaan omissa käyttäjäasetuksissa. Katso ohjeet linkin takaa:
+Canned messages are personal, and can be created and edited in your own user settings. See detailed instructions in the link:
 
 {% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
-### Valmisviestin käyttäminen
+### Use a canned message
 
-#### **Asiakaskeskustelun sivupalkki**
+#### **Customer chat features**
 
-Valmisviestit näkyvät asiakaskeskustelun sivupalkissa. Voit valita viestin klikkaamalla, jolloin se ilmestyy kirjoituskenttään. Muokkaa tekstiä tarvittaessa tai lähetä suoraan.
+Canned messages appear as a list in the chat features on the right of the conversation section. Click to select a message and it will appear in the text field. Edit the text as needed or send it right away.
 
-#### **Näppäimistö**
+#### **Keyboard**
 
-Valmisviestejä voi käyttää myös näppäimistöltä hyväksikäyttäen niiden avainsanoja. Valmisviestit toimivat näppäimistöltä myös tiimikanavilla ja yksityiskeskusteluissa.
+Canned messages can also be accessed by using your keyboard to type in the text field. Canned messages also work from the keyboard in team channels and private conversations.
 
-Kirjoittamalla tekstikenttään vinoviivan \[ / \] ja valmisviestin avainsanan ja klikkaamalla \[Välilyönti\]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. 
+By typing the slash \[/\] and the keyword of a canned message you want to use and pressing the \[Spacebar\] key, the canned message will appear in the text field.
 
-Esimerkki: Olet asettanut valmisviestin: _avoinna_ \(avain\): _Palvelemme arkipäivisin klo 9 - 17._ \(viesti\). 
+Example: You have set up a canned message: open \(keyword\): We are open on weekdays from 9 am to 5 pm \(canned message\).
 
-| Avainsana | Valmisviesti |
+| Keyword | Canned message  |
 | :--- | :--- |
-| avoinna | Palvelemme arkipäivisin klo 9 - 17. |
+| open | We are open on weekdays from 9 am to 5 pm. |
 
 ```text
-/avoinna[välilyönti]  --> Palvelemme arkipäivisin klo 9 - 17.
+/open[Spacebar] --> We are open on weekdays from 9 am to 5 pm.
 ```
 
-## Asiakkaan siirtäminen <a id="asiakkaan-siirtaminen"></a>
+## Transfer customer <a id="asiakkaan-siirtaminen"></a>
 
-Asiakas voidaan keskustelun alettua siirtää toiseen jonoon, jolloin toinen agentti voi poimia tämän keskusteluun. Esimerkiksi ensiksi vastannut hoitaja voi tarvittaessa siirtää asiakkaan lääkärijonoon.
+Once a conversation started, the customer can be transferred to another queue so that another agent can pick up the conversation. For example, the first responding nurse can refer the customer to a doctor's queue if needed.
 
-Siirtojonot määritellään jonon asetuksissa. Kun siirtojonoja on määritelty, siirtomahdollisuus näkyy asiakaskeskustelun oikealla palstalla.
+Transfer queues can be enabled in the queue settings. Once a queue is allowed for transfer, the transfer customer option is displayed on the  top of the chat features.
 
-![Asiakkaan siirt&#xE4;minen, siirtojonon valinta](../.gitbook/assets/queue-transfer.png)
+![Transfer customer, queue selection](../.gitbook/assets/queue-transfer.png)
 
-## Videopuhelut
+## Video call
 
-Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Kysy lisää ominaisuudesta.
+Video call can be used in customer conversations when text messages and attachments are not enough. Ask more about the feature.
 
-Jonon asetusten mukaan videopuhelun voi aloittaa agentti, asiakas, molemmat, tai ei kumpikaan.
+In the queue settings, you can allow a video call to be initiated by an agent, a customer, both, or neither.
 
-### Videpuhelun aloitus
+### Start a video call
 
-1. Aloittaaksesi videopuhelun, klikkaa kommenttikentän vieressä videokamera-kuvaketta.
-2. Mikäli asiakkaan selain tukee videopuhelua, hänelle näytetään videopuhelupyyntö, jonka hän hyväksyy tai hylkää.
+1. Click the video camera icon next to the text field to start a video call.
+2. If the client's browser supports video call, a video call invitation will be shown to the client where he/she can choose to accept or decline.
 
-### Videopuhelunäkymä <a id="videopuhelunakyma"></a>
+### Video call view <a id="videopuhelunakyma"></a>
 
-Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas voi halutessaan laajentaa videon koko ruudun kokoiseksi, jolloin tekstikeskustelu näkyy videon oikealla puolella. \(Anna selaimelle lupa näyttää Ninchatin video koko ruudussa.\)
+Video call innitially appears above the conversation. Both the agent and the client can later expand the video call to full screen, with the conversation displayed on the right side instead. \(Allow your browser to view Ninchat video call in full screen.\)
 
-### Ruudunjako
+### Screensharing
 
-Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolelle. Ruudunjako voi olla apuna, kun asiakkaalle pitää näyttää miten web-sovellus toimii, tai neuvoessa tätä esim. lomakkeen täyttämisessä.
+In addition to video call, it is also possible to share the view of your screen with the opposite party. Screensharing can be helpful, for example when showing a client how a web application works, or instructing someone to fill in a form.
 
-Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klikkkaa videopuhelun aikana ruudunjako-kuvaketta ja valitse, mitä haluat näytöltäsi jakaa. Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen kuten web-selaimen näkymän.
+Screensharing can be selected after you have started a video call. During the video call, click the screensharing icon and choose what you want to share on your screen. Depending on your browser, you can either share your entire screen, or a single application such as a web browser view.
 
-### Videotoiminnot
-
-| Valinta | Toiminta |
-| :--- | :--- |
-| ![](../.gitbook/assets/video-button-toggle-full.svg) ![](../.gitbook/assets/video-button-toggle-normal.svg) | Näytä videokeskustelu koko ruudun kokoisena / pienennä kuva normaaliin ikkunaan. |
-| ![](../.gitbook/assets/video-button-sound-on.svg) ![](../.gitbook/assets/video-button-sound-off.svg) | Äänet päällä / pois - mykistää keskustelukumppanin äänet |
-| ![](../.gitbook/assets/video-button-microphone-on.svg) ![](../.gitbook/assets/video-button-microphone-off.svg) | Mikrofoni päällä / pois - mykistää oman mikrofonisi, jolloin vastapuoli ei kuule sinua. |
-| ![](../.gitbook/assets/video-button-camera-on.svg) ![](../.gitbook/assets/video-button-camera-off.svg)  | Video päällä / pois - Piilottaa oman videokuvasi, jolloin vastapuoli ei näe sinua. |
-| ![](../.gitbook/assets/video-button-hangup.svg)  | Lopeta videopuhelu. \(Ei lopeta chat-keskustelua\) |
-
-### Videotuki eri selaimilla
+### Video call functions
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Alusta/k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;</th>
-      <th style="text-align:left">Tuetut selaimet</th>
+      <th style="text-align:left">Symbol</th>
+      <th style="text-align:left">Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/video-button-toggle-full.svg" alt/>
+        <img src="../.gitbook/assets/video-button-toggle-normal.svg" alt/>
+      </td>
+      <td style="text-align:left">
+        <p>Expand video call to full screen/</p>
+        <p>Minimize video call to normal window.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/video-button-sound-on.svg" alt/>
+        <img src="../.gitbook/assets/video-button-sound-off.svg" alt/>
+      </td>
+      <td style="text-align:left">Audio on/off - Mute the sound from the other side of the conversation.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/video-button-microphone-on.svg" alt/>
+        <img src="../.gitbook/assets/video-button-microphone-off.svg" alt/>
+      </td>
+      <td style="text-align:left">Microphone on/off - Disable your microphone so that the other person cannot
+        hear you.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/video-button-camera-on.svg" alt/>
+        <img src="../.gitbook/assets/video-button-camera-off.svg" alt/>
+      </td>
+      <td style="text-align:left">Video on/off - Disable your camera so that the other person cannot see
+        you.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/video-button-hangup.svg" alt/>
+      </td>
+      <td style="text-align:left">End the video call. (This does not end the chat.)</td>
+    </tr>
+  </tbody>
+</table>### Video call support in different browsers
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Platform/Operating system</th>
+      <th style="text-align:left">Supported browsers</th>
     </tr>
   </thead>
   <tbody>
@@ -264,7 +302,7 @@ Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klik
         <p></p>
       </td>
       <td style="text-align:left">Google Chrome, Mozilla Firefox
-        <br />(Microsoft Edgell&#xE4; toimintaa ei taata)</td>
+        <br />(Microsoft Edge not guaranteed)</td>
     </tr>
     <tr>
       <td style="text-align:left">Mac OS</td>
@@ -279,21 +317,19 @@ Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klik
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
-</table>## Tunnisteet \(tägit\)
+</table>## Tags
 
-Asiakaspalvelija voi merkata asiakaskeskusteluita tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esin. "myynti", "uusi asiakas", "ongelma", "bugi", ... Tägäys helpottaa myöhemmin keskutelujen tilastointia sekä tarkastelua.
+Customer service agents can tag customer conversations with tags according to the topic or nature of the conversations, for example, "sales", "new customer", "problem", "bug", etc. Adding tags makes it easier to record and later review the conversations.
 
-#### Keskustelun merkitseminen
+#### Tag a conversation
 
-Agentti voi lisätä merkinnän klikkaamalla tägejä keskustelun sivupalkissa. Lisätyt tägit ilmestyvät ja tallentuvat keskustelun metatietoihin keskustelun alkuun.
+An agent can add a tag by choosing from the list of tags in the chat features. Added tags appear and are stored in the conversation metadata in the beginning of the conversation.
 
-#### Tagien luonti ja muokkaus
+#### Create and edit tags
 
-Tunnisteet ovat organisaatiokohtaisia ja niitä voivat lisätä ja muokata organisaation operaattorit.  
-Tunnisteiden luonnista ja muokkauksesta kerrotaan kohdassa [Asiakasjonot ja -keskutelut &gt; Jonon asetukset &gt; Tagit](https://ninchat.gitbook.io/ninchat-support/organisaatio/asiakasjonojen-hallinta#keskustelumerkintojen-hallinta-tagit)
+Tags are organization specific and can be created and edited by your organization operators. To create and edit tags, see[ Organization &gt; How to manage queues and queue members? &gt; Tags](https://ninchat.gitbook.io/ninchat-support/organisaatio/asiakasjonojen-hallinta#keskustelumerkintojen-hallinta-tagit)
 
-## Muistiinpanot \(merkinnät\)
+## Notes
 
-Merkinnät \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
-Merkintöjä voidaan hyödyntää myös tietojen viennissä asiakkaan omaan tietojärjestelmään. Pyydä lisätietoa Ninchatin henkilöstöltä.
+Notes is an advanced option that allows you to create different options of notes for a customer conversation. Notes made by a customer service representative are stored in the conversation history. Notes can also be used to export data to the customer's own information system. Contact Ninchat staff for more information.
 

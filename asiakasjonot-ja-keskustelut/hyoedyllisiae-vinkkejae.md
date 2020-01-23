@@ -1,18 +1,18 @@
 ---
-description: Vinkkejä asiakaspalvelijalle
+description: Here you can find some useful tips for customer service.
 ---
 
-# Hyödyllisiä vinkkejä
+# Customer service tips
 
-## Yleisiä neuvoja
+## General advice
 
-### Älä vaikene pitkäksi ajaksi <a id="ala-vaikene-pitkaksi-ajaksi"></a>
+### Do not be silent for long <a id="ala-vaikene-pitkaksi-ajaksi"></a>
 
-Älä jätä asiakasta odottamaan hiljaisuudessa - jos sinun pitää etsiä vastausta, kerro siitä lyhyesti sen sijaan, että vain jäät mykäksi useaksi minuutiksi; "Pieni hetki, selvitän asiaa." Varsinkaan mobiililaitteella keskusteleva asiakas ei halua odottaa pitkään.
+Do not leave your customers waiting in silence - if you need to look for an answer, respond something briefly instead of just being quiet for several minutes e.g. "Just a moment, I'll figure it out." In particular, a customer talking on the phone does not want to wait too long.
 
-### Häiriköijät <a id="hairikoijat"></a>
+### Distracting users <a id="hairikoijat"></a>
 
-Häiriköiviä käyttäjiä voi yrittää vähentää jatkuvissa tapauksissa IP-estoilla \(kysy Ninchatin henkilöstöltä\), mutta tämä ei välttämättä poista ongelmaa.
+You can try to reduce distracting users with continuous IP blocking \(ask your Ninchat staff\), however, this may not eliminate the problem.
 
-Häiriköivät käyttäjät on paras olla huomioimatta. Älä vastaa hänelle mitään, äläkä sulje keskustelua, vaan jätä tämä puhumaan itsekseen. Lopulta hän todennäköisesti väsähtää, kun ei saa huomioita.
+It is best to ignore distracting users. Do not reply and do not close the conversation, just leave him/her alone. In the end, he/she will probably get tired of not getting any attentions.
 

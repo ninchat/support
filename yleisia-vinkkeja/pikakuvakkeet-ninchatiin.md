@@ -1,105 +1,103 @@
----
-description: Kirjanmerkit ja pikakuvakkeet
----
+# Shortcuts to Ninchat
 
-# Pikakuvakkeet Ninchatiin
-
-Voit helpottaa Nincatin käynnistämistä ja käyttöä pikakuvakkeilla ja kirjanmerkeillä. Alla opastus eri selainten sallimiin toimintoihin.
+You can make launching and using Ninchat easier with shortcuts and bookmarks. Below is a guide to how you can do it in different browsers.
 
 {% hint style="info" %}
-#### Luo kirjanmerkki/pikakuvake suoraan tietylle kanavalle
+#### Create a bookmark or shortcut directly to a specific channel
 
-Voit käynnistää Ninchatin aina halumallesi kanavalle luomalla selaimessa kirjanmerkin, kun sinulla on ko. kanava avoinna. Osoite on muotoa: [https://ninchat.com/app/\#/c/1p255nth008](https://ninchat.com/app/#/c/1p255nth008)
+You can directly launch a specific channel on Ninchat, by creating a bookmark in your browser when you are on the desired channel. The address is in the format:  
+[https://ninchat.com/app/\#/c/1p255nth008](https://ninchat.com/app/#/c/1p255nth008)
 
-Mikäli haluat käyttää Ninchatia suomeksi, lisää osoitteeseen ​_?lang=fi_ -määritys, esim. [https://ninchat.com/app/?lang=fi\#/c/1p255nth008](https://ninchat.com/app/?lang=fi#/c/1p255nth008)
+If you want to use Ninchat in Finnish, please add the language configuration "?lang=fi". For example:  
+[https://ninchat.com/app/?lang=fi\#/c/1p255nth008](https://ninchat.com/app/?lang=fi#/c/1p255nth008)
 {% endhint %}
 
-## Google Chrome -selain <a id="google-chrome-selain"></a>
+## Google Chrome <a id="google-chrome-selain"></a>
 
-Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläriville kirjanmerkin, tai tekemällä Ninchatille oman käynnistyspikakuvakkeen Windowsin työpöydälle.
+You can make launching and opening Ninchat faster by creating a bookmark on the top row of your Chrome browser, or by creating a custom launch shortcut to Ninchat on your desktop.
 
-![Kirjanmerkin ja sovelluspikakuvakkeen lis&#xE4;&#xE4;minen Chromessa](../.gitbook/assets/chrome-app.png)
+![Add a bookmark and application shortcut in Chrome](../.gitbook/assets/chrome-app.png)
 
-#### Kirjanmerkki <a id="kirjanmerkki"></a>
+#### Bookmark <a id="kirjanmerkki"></a>
 
-Lisää Ninchat kirjanmerkkeihin klikkaamalla [https://ninchat.com/app](https://ninchat.com/app/#) -sivulla tähti-ikonia selaimen osoiterivillä. Voit tallentaa kirjanmerkin kirjanmerkkipalkkiin tai kirjanmerkkivalikkoon.
+To bookmark Ninchat, click the star icon in the address bar of your browser when you are at [https://ninchat.com/app](https://ninchat.com/app) page. You can choose to add it to the Bookmarks Bar or Other Bookmarks/folders.
 
-#### Sovelluspikakuvake <a id="sovelluspikakuvake"></a>
+#### Application <a id="sovelluspikakuvake"></a>
 
-Voit myös ajaa Ninchatin normaalista selaimesta erillisenä sovelluksena, jonka voi myös kiinnittää tehtäväpalkkiin tai Käynnistä-valikkoon. Notifikaatiot ja muu toiminta ovat samanlaisia kuin normaalissa selainikkunassa.
+You can also run Ninchat as a standalone application from your normal browser, which can also be pinned to the taskbar or Start menu. Notifications and other actions are the same as in the normal browser window.
 
-1. Klikkaa valikkonappia \(kolme pistettä\).
-2. Valitse Työkalut / More tools.
-3. Valitse Luo pikakuvakkeita / Create Shortcut.
-4. Ponnahdusikkunassa ruksaa Avaa ikkunassa / Open as window ja klikkaa Create.
-5. Pikakuvake ilmestyy Työpöydälle ja voit tuplaklikkaamalla käynnistää Ninchatin.
-6. Kiinnitä Ninchat Windowsin Tehtäväpalkkiin klikkaamalla kuvaketta oikealla hiiren napilla ja valitse Kiinnitä tehtäväpalkkiin / Pin to taskbar.
+1. Click the menu button \(3 dots\) on your browser.
+2. Select "More Tools".
+3. Select "Create Shortcut..."
+4. In the pop-up window, check the box written "Open as window" and click the "Create" button.
+5. A shortcut will appear on your desktop and you can double click it to launch Ninchat.
+6. Pin Ninchat app to the Windows taskbar by right clicking the icon and selecting "Pin to taskbar".
 
-![Ninchat omassa ikkunassaan ja kuvakkeen kiinnitt&#xE4;minen teht&#xE4;v&#xE4;palkkiin](../.gitbook/assets/taskbar.PNG)
+![Ninchat in its own window and the icon on the taskbar](../.gitbook/assets/taskbar.PNG)
 
-## Mozilla Firefox -selain <a id="mozilla-firefox-selain"></a>
+## Mozilla Firefox <a id="mozilla-firefox-selain"></a>
 
-#### Kirjanmerkin lisääminen  <a id="kirjanmerkin-lisaeaeminen"></a>
+#### Bookmark <a id="kirjanmerkin-lisaeaeminen"></a>
 
-Firefox ei tue erillisiä työpöytä-pikakuvakkeita, mutta voit lisätä Ninchatin selaimen kirjanmerkkeihin klikkaamalla tähti-ikonia osoiterivillä. Kirjanmerkin voi lisätä kirjanmerkkipalkkiin tai -valikkoon.
+Firefox does not support standalone desktop shortcuts, but you can still bookmark Ninchat in your browser by clicking the star icon in the address bar. You can add a bookmark to the Bookmarks Toolbar, Bookmarks Menu, or Other Bookmarks. 
 
-#### Välilehden kiinnittäminen  <a id="vaelilehden-kiinnittaeminen"></a>
+#### Pin tab <a id="vaelilehden-kiinnittaeminen"></a>
 
-Voit kiinnittää Ninchat-välilehden \(tabin\) yläriville, jolloin se pysyy aina avoinna.
+You can pin the Ninchat tab on the top row of the browser, so that it is always there whenever you use your Firefox browser. 
 
-1. Klikkaa välilehteä oikealla hiiren napilla.
-2. Valitse Kiinnitä välilehti / Pin tab.
-3. Välilehti näkyy nyt pienempänä mutta pysyy aina auki valmiina.
+1. Right click on the Ninchat tab.
+2. Select "Pin Tab".
+3. The tab now appears smaller, and will always remain open.
 
 ![](../.gitbook/assets/firefox.png)
 
-## Microsoft Edge -selain <a id="microsoft-edge-selain"></a>
+## Microsoft Edge <a id="microsoft-edge-selain"></a>
 
-Edge sallii sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin ja Käynnistä-valikkoon.
+Edge allows you to bookmark websites, as well as to create shortcuts on the Windows taskbar and Start menu.
 
-#### Kirjanmerkin lisääminen <a id="kirjanmerkin-lisaeaeminen-1"></a>
+#### Bookmark <a id="kirjanmerkin-lisaeaeminen-1"></a>
 
-Lisätäksesi kirjanmerkin, klikkaa tähti-ikonia osoiterivillä. Kirjanmerkin voi lisätä kirjanmerkkipalkkiin tai -valikkoon.
+To add a bookmark, click the star icon in the address bar. You can add a bookmark to the bookmarks toolbar or menu.
 
-#### Ninchatin kiinnittäminen tehtäväpalkkiin tai Käynnistä-valikkoon <a id="ninchatin-kiinnittaeminen-tehtaevaepalkkiin-tai-kaeynnistae-valikkoon"></a>
+#### Add Ninchat to the Windows taskbar or Start menu <a id="ninchatin-kiinnittaeminen-tehtaevaepalkkiin-tai-kaeynnistae-valikkoon"></a>
 
-Ollessasi osoitteessa https://ninchat.com/app tai tiimikanavalla, klikkaa selaimen valikko-nappia \(kolme pistettä\) ja valitse vaihtoehdoista:
+While you are on [https://ninchat.com/app](https://ninchat.com/app) or the desired team channel, click the browser menu button \(3 dots\) and select from the options:
 
-1. Kiinnitä sivu tehtäväpalkkiin / Pin this page to the taskbar. Voit tämän jälkeen käynnistää Ninchatin suoraan tehtäväpalkin kuvakkeesta.
-2. Kiinnitä sivu Aloitukseen / Pin this page to Start. Löydät tämän jälkeen Ninchatin ikonin Käynnistä-valikon ruudukosta, josta voit sen suoraan käynnistää.
+1. "Pin this page to the taskbar" - You can launch Ninchat directly from the icon on the taskbar.
+2. "Pin this page to Start" - You will then find Ninchat icon in the Start menu where you can launch it directly.
 
-![Sivun kiinnitt&#xE4;minen Windowsin teht&#xE4;v&#xE4;palkkiin tai K&#xE4;ynnistys-valikkoon](../.gitbook/assets/edge2.png)
+![Pin a page to the Windows taskbar or Start menu](../.gitbook/assets/edge2.png)
 
-#### Välilehden kiinnittäminen <a id="vaelilehden-kiinnittaeminen-1"></a>
+#### Pin tab <a id="vaelilehden-kiinnittaeminen-1"></a>
 
-Voit kiinnittää Ninchat-välilehden \(tabin\) yläriville, jolloin se pysyy aina avoinna.
+You can pin the Ninchat tab on the top row of the browser, so that it is always there whenever you use your Edge browser. 
 
-1. Klikkaa välilehteä oikealla hiiren napilla
-2. Valitse Kiinnitä välilehti / Pin tab.
-3. Välilehti näkyy nyt pienempänä mutta pysyy aina auki valmiina.
+1. Right click on the Ninchat tab.
+2. Select "Pin".
+3. The tab now appears smaller, and will always remain open.
 
-![Ninchat-v&#xE4;lilehden kiinnitt&#xE4;minen Edgess&#xE4;](../.gitbook/assets/edge%20%281%29.png)
+![Pin Ninchat tab on Edge](../.gitbook/assets/edge%20%281%29.png)
 
-## Internet Explorer \(IE\) -selain <a id="internet-explorer-ie-selain"></a>
+## Internet Explorer \(IE\) <a id="internet-explorer-ie-selain"></a>
 
- IE mahdollistaa sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin.
+IE allows you to bookmark websites, as well as to create shortcuts on the Windows taskbar.
 
-#### Kirjanmerkin lisääminen <a id="kirjanmerkin-lisaeaeminen-2"></a>
+#### Bookmark <a id="kirjanmerkin-lisaeaeminen-2"></a>
 
-Lisätäksesi kirjanmerkin klikkaa tähti-ikonia osoiterivillä. Kirjanmerkin voi lisätä kirjanmerkkipalkkiin tai -valikkoon.
+To add a bookmark, click the star icon in the address bar. You can add a bookmark to the bookmarks toolbar or menu.
 
-#### Ninchatin kiinnittäminen Windowsin tehtäväpalkkiin <a id="ninchatin-kiinnittaeminen-windowsin-tehtaevaepalkkiin"></a>
+#### Add Ninchat to the Windows taskbar <a id="ninchatin-kiinnittaeminen-tehtaevaepalkkiin-tai-kaeynnistae-valikkoon"></a>
 
-Internet Explorer sallii sivuston lisäämisen Windowsin tehtäväpalkkiin, josta sen voi suoraan käynnistää. Ollessasi osoitteessa https://ninchat.com/app tai tiimikanavalla, klikkaa selaimen valikko-nappia \(ratas-kuvake\).
+Internet Explorer allows you to add a website to the Windows taskbar where you can launch it directly. Go to [https://ninchat.com/app](https://ninchat.com/app) or the desired team channel, and click the browser menu button \(gear icon\).
 
-1. Klikkaa Add site to Apps ja Ninchat-kuvake ilmestyy Windowsin tehtäväpalkkiin
-2. Klikkaa kuvaketta hiiren oikealla napilla ja valitse Kiinnitä tehtäväpalkkiin / Pin to taskbar
+1. Click "Add site to Apps" and Ninchat icon will appear in the Windows taskbar.
+2. Right click on the icon and select "Pin to taskbar".
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNV26ZBWc4tpGlvMlCe%2F-LNnhgBvz6Dxy2fsuoId%2F-LNneVbYqo3GctIZnALh%2FIE.png?alt=media&token=87e0523c-852f-4858-990a-a0c34941c391)
 
 
 
 {% hint style="info" %}
-Jos haluat, että kirjanmerkki tai pikakuvake ohjaa sinut suoraan tiimikanavalle, mene ensin kyseiselle kanavalle, ja luo sitten kirjamerkki/pikakuvake.
+If you want a bookmark or shortcut that directs you to a team channel, first go to that channel and then create a bookmark/shortcut.
 {% endhint %}
 

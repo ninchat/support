@@ -1,55 +1,57 @@
 ---
-description: Näin luot Ninchat-käyttäjätunnuksen
+description: Here you can find instructions on how to create a Ninchat account.
 ---
 
-# Käyttäjätilin luonti
+# How to create account?
+
+
 
 {% hint style="info" %}
-Suosittelemme Ninchatin käyttöön [Google Chrome](https://www.google.com/chrome/)- tai [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) -selainohjelmia.
+We recommend using [Google Chrome](https://www.google.com/chrome/) or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser for Ninchat.
 {% endhint %}
 
-## **Tunnuksen luominen**
+## **Create an account**
 
-Tunnistautumisnäkymässä osoitteessa [https://ninchat.com/app/](https://ninchat.com//app/), anna tiedot tunnustasi varten:
+Go to [https://ninchat.com/app/](https://ninchat.com//app/), choose the tab "Create account" and enter the following information:
 
-* **Name: Oma nimi tai niminerkki**
-* **Email: Käyttämäsi työpaikan/organisaation sähköpostiosoite, esim. matti.mainio@yritys.com**
-* **Password: Keksi tunnukselle vahva salasana**
+* **Name: Your real name or nickname**
+* **Email: Email address of the company/organization you are using e.g. matti.mainio@yritys.com**
+* **Password: A strong password for the account**
 
-Jatka klikkaamalla **"Sign up"** -nappia.
+To continue, click the **"Create account"** button.
 
 {% hint style="info" %}
-Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan löydy sanakirjasta. Käytä aina eri salanaa jokaisessa palvelussa.
+A strong password is a combination of at least 13 characters which cannot be directly found in dictionary. Always use a different password for each service.
 {% endhint %}
 
 ![](../.gitbook/assets/invite-accept-signup.png)
 
 ###  <a id="verifying-account"></a>
 
-## Tunnuksen vahvistaminen
+## Verify your account
 
-1. **Saat sähköpostiisi vahvistusviestin Ninchat-tunnuksen luomisesta.**
-2. **Vahvista tunnuksesi klikkaamalla viestissä "Click to verify" -nappia.**
+1. **After you have created your account, you will receive a confirmation email with a verification request.**
+2. **To verify the email to be used for your account, please click the button "Click to verify".**
 
 ![](../.gitbook/assets/verify.png)
 
-Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi! 
+Great! Now you have succesfully created and verified your Ninchat account.
 
 {% hint style="info" %}
-**Vahvistuslinkki on kertakäyttöinen** - sitä tulee klikata vain kerran. Kirjaudu tämän jälkeen Ninchatiin osoitteella [https://ninchat.com/app](https://ninchat.com/app)
+**The verification link is for one-time use** - you need to click it only once. After that, you can sign in at [https://ninchat.com/app](https://ninchat.com/app).
 {% endhint %}
 
-## Sisäänkirjautuminen
+## Sign in to your account
 
-#### Kirjaudu sisään sähköpostiosoitteellasi ja salasanalla osoitteessa:
+#### Sign in with your email address and password at:
 
 #### [https://ninchat.com/app](https://ninchat.com/app)​
 
-Kirjautuessasi sinun tulisi päätyä organisaatiosi tiimikanavalle tai viimeksi avoinna olleeseen keskusteluun.
+After siging in, you will reach your organization's team channel or the most recent chat.
 
 {% page-ref page="../yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md" %}
 
-## Käyttäjätilin asetukset
+## Account settings
 
 {% page-ref page="kayttajaasetukset.md" %}
 

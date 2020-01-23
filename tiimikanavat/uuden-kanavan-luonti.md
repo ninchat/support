@@ -1,8 +1,12 @@
 ---
-description: Näin luot uuden kanavan
+description: >-
+  This is where you can create a new channel. Contact Ninchat staff for more
+  details.
 ---
 
-# Uuden kanavan luonti
+# How to create channel?
+
+
 
 ![](../.gitbook/assets/sidebar-menus-1.png)
 

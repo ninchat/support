@@ -1,24 +1,30 @@
-# Ninchat-kutsun hyväksyminen
+---
+description: >-
+  Here you can find instructions on how to accept an invitation to a channel on
+  Ninchat.
+---
 
-## Kutsun hyväksyminen
+# How to accept invitation?
 
-Saat alkuun Ninchatin henkilöstöltä kutsun teille tehtyyn organisaatioon. 
+## Accept an invitation
 
-1. **Saat sähköpostiisi kutsulinkin.** 
-2. **Avaa linkki klikkaamalla "Accept invitation" -nappia \(Hyväksy kutsu\)**
-3. **Web-sivulla avautuvassa ponnahdusikkunassa valitse "Accept invite".**
+Get started with an invitation from Ninchat staff to the organization you belong to. 
 
-Kutsulinkit vanhenevat 14 vuorokauden jälkeen. Mikäli kutsulinkki ei toimi, tai et saanut kutsua, pyydä uusi linkki Ninchatin henkilöstöltä tai Ninchat-kanavasi operaattorikäyttäjältä.
+1. **You will receive an invitation link in your email.** 
+2. **Click the "Accept invitation" button to open the link.**
+3. **In the pop-up window, choose "Accept invite".**
+
+The link will expire after 14 days. If the invitation link does not work or you have not received the invitation, please request a new link from Ninchat staff or an operator of your Ninchat channel.
 
 ![](../.gitbook/assets/invite-gmail.png)
 
 ![](../.gitbook/assets/invite-accept.png)
 
 {% hint style="info" %}
-Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.
+We recommend using Google Chrome or Mozilla Firefox browser for Ninchat.
 {% endhint %}
 
-## **Käyttäjätunnuksen luonti** <a id="kayttajatunnuksen-luonti"></a>
+## **Create an account** <a id="kayttajatunnuksen-luonti"></a>
 
 {% page-ref page="kayttajatilin-luonti.md" %}
 

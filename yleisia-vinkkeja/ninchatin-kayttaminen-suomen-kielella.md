@@ -1,12 +1,14 @@
 ---
-description: Millä kielellä Ninchat näytetään
+description: >-
+  This page explains about the language in which Ninchat displays and how you
+  can change it.
 ---
 
-# Ninchat-käyttöliittymän kieli
+# Ninchat language
 
-**Ninchat käyttää vakiokielenään web-selaimeen valittua kieltä \(suomi/englanti\).**
+**Ninchat uses the selected language as default language of your browser \(Suomi/English\).**
 
-Mikäli haluat vaihtaa kielen, muuta selaimen kieliasetuksia. Asetuksiin pääset suoraan alla kerrotuilla linkeillä:
+If you want to change the language, please change it in the language settings of your browser. You can access the settings directly from the links provided below:
 
 Chrome  
 chrome://settings/languages

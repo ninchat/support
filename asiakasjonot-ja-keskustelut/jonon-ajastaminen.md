@@ -1,65 +1,67 @@
 ---
-description: Asiakasjonon aikataulut
+description: Here you can learn about customer queue schedule and how to manage it.
 ---
 
-# Jonon ajastaminen
+# Queue schedule
 
-## Yleistä
+## Overview
 
-Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti. Lisäksi voit asettaa poikkeuskäytäntöjä.
+You can schedule a queue to open and close automatically. You can also add exeptions that occur annually or just once.
 
 ![](../.gitbook/assets/schedule-overall.png)
 
-### Ajastukset päälle/pois <a id="ajastukset-paalle-pois"></a>
+### Schedule on/off <a id="ajastukset-paalle-pois"></a>
 
-"Ota aikataulu käyttöön" -kohdasta voit nopeasti asettaa ajastukset käyttöön tai pois.
+The function "Enable schedule" allows you to quickly turn the queue schedule on or off.
 
-Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajann, voi olla helpompaa laittaa ajastukset pois, poikkusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle.
+If you keep the chat closed, for example during summer holidays or Christmas holidays, it may be easier to set the schedule off instead of creating exceptions. When the agents return from holidays, the schedule can be quickly switched back on.
 
-Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
+Remember to set a desired closed message for holidays and preferably in advance.
 
-![Ajastukset k&#xE4;yt&#xF6;ss&#xE4;/pois k&#xE4;yt&#xF6;st&#xE4;](../.gitbook/assets/schedule-disable.png)
+![Schedule on/off](../.gitbook/assets/schedule-disable.png)
 
 {% hint style="info" %}
-Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle on asetetaan nykyhetkeä aikaisemmin.   
-Voit avata jonon aina manuaalisesti sivupalkin jono-valikosta.
+Note! Schedule operates based on current time. Thus, your customer queue will not open/close if the schudeled time is set ahead of the current time.  
+You can always open/close a queue manually from the Sidebar queue menu.
 {% endhint %}
 
-## Luo aikataulu jonolle
+## Create a schedule
 
-Luo toistuva viikkoaikataulu chat-jonollesi. Viikonpäivää klikkaamalla pääset luomaan ja muokkaamaan jonon avaamis- ja sulkemisaikoja. Alla keskiviikon \(Wednesday\) ajastusten muokkausnäkymä.
+Create a recurring weekly schedule for your customer care queue. To get started, click anywhere under the day of the week that you want to create or edit opening and closing times.
 
-Muista aina tallentaa muutokset.
+Remember to always save your changes.
 
-### Toistuva viikkoajastus
+### Recurring weekly schedule
 
-![Viikkoaikataulu-esimerkki](../.gitbook/assets/schedule-weekly.png)
+![Weekly schedule example](../.gitbook/assets/schedule-weekly.png)
 
-Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
+Below is the Wednesday schedule edit view. You can create mutiple opening and closing times for each day:
 
-* Lisää uusi tapahtumakohta klikkaamalla +-ikonia. Valitse aika ja avataanko vai suljetaanko chat tällöin.
-* Esim. kuvassa keskiviikkona chat avataan klo 10:00 ja suljetaan klo 17:00 ja avataan jälleen 19:00 - 22:00.
-* Palaa viikkonäkymään klikkaamalla nuoli- tai x-kuvaketta.
+* Click the plus \(+\) icon to add an action. Select either it is an opening or closing time and then select the time.
+* For example, in the image below, on Wednesday the chat opens at 10:00 and closes at 17:00 and then opens again at 19:00 and closes at 22:00.
+* Click the left arrow or calendar icon to return to the weekly schedule view.
 
-![P&#xE4;iv&#xE4;kohtaisten ajastusten muokkaus](../.gitbook/assets/schedule-weekly-set.png)
+![Edit daily schedule](../.gitbook/assets/schedule-weekly-set.png)
 
-### Luo vuosittaisia poikkeusaikatauluja esim. juhlapyhille ja muille vapaapäiville:
+### Create annual exceptions e.g. for holidays:
 
-* Vuosittainen poikkeusaikataulu \(Annual exception\) vaatii sekä avaamis- että sulkemisajan asettamisen
-* Jos haluat ettei chat avaudu tiettynä päivänä lainkaan, lisää päivämäärä tyhjänä ilman avaamis- tai sulkemistietoja
-* Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2. Lisäksi jouluaattona ja -päivänä chat on kokonaan suljettuna.
+* Click the "Add new annual date" button.
+* An annual exception requires both opening and closing times.
+* If you do not want the chat to open at all on a particular day, choose the date without adding opening or closing times.
+* E.g. the image below shows a recurring schedule for Valentine's Day \(14.02\) that the chat opens at 12:00 and closes at 18:00 every year. Also, on Christmas Eve \(24.12\) and Christmas Day \(25.12\) the chat is completely closed yearly.
 
 ![](../.gitbook/assets/schedule-annual.png)
 
-### Luo yksittäisiä, kerran tapahtuvia poikkeuspäiviä:
+### Create one-time exceptions:
 
-* Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä.
-* Tyhjän päivämäärän luominen ilman avaamis- tai sulkemistietoja pitää chatin suljettuna koko päivän.
-* Ao. kuvan esimerkissä on 19.9.2019 tapahtuva poikkeusajastus.
+* Click the "Add new exception" button.
+* Creating a one-time exception will override the schedules and annual exceptions. This exception occurs only once on a given day without repeating annually.
+* You can add a date without opening and closing times which will keep the chat closed for the whole day.
+* The example in the image below shows that on September 19, 2019, the chat exceptionally opens at 11:00 and closes at 15:00.
 
 ![](../.gitbook/assets/schedule-exception.png)
 
 {% hint style="info" %}
-Muista tallentaa muutokset.
+Make sure to save your changes.
 {% endhint %}
 

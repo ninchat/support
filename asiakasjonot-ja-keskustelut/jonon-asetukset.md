@@ -1,53 +1,55 @@
 ---
-description: Asiakasjonon asetukset (Organisaation operaattori)
+description: >-
+  Here you can find instructions on how to edit queue settings for your customer
+  care queues.
 ---
 
-# Jonon asetukset
+# How to edit queue settings?
 
-Siirry asiakasjonon asetuksiin klikkaamalla jonon nimeä ja valitse Jonon asetukset / Queue settings.  
-\(Vaatii organisaation operaattori -oikeudet\)
+Click the arrow icon next to the queue name and select "Queue settings".  
+\(This requires organization operator rights.\)
 
-## Yleiset jonon asetukset
+## General
 
-![Jonon yleiset asetukset](../.gitbook/assets/queue-settings.png)
+![Queue settings: General](../.gitbook/assets/queue-settings.png)
 
-Jonon yleisissä asetuksissa voit muokata seuraavia asioita:
+In the Queue settings, "General" tab, you can edit the following:
 
-* Jonon nimi
-* Aseta, liitetäänkö keskustelun alkuun automaattisesti asiakkaasta metadataa, kuten sijainti ja IP-osoite. Muiden metatietojen lisäämisestä pyydä lisätietoa Ninchatin henkilöstöltä.
-* Määritä Salattu metadata pakolliseksi \(lisätietietoa kohdassa: Asiakasjonot ja -keskustelut\)
+* Name of the queue;
+* Metadata, such as IP address and location, whether it is automatically added to the beginning of the conversation. For additional metadata information, please contact Ninchat staff.
+* Secure metadata, whether it is required to be present \(for more information, see the section "Customer care queues and conversations"\).
 
-Muista tallentaa tekemäsi muutokset.
+Make sure to save any changes.
 
-### Liitetiedostojen ja videon tuki
+### Support for attachments and video calls
 
-Mikäli haluatte jonoon liitetiedostojen lisäämisen tai videopuhelun ja ruudunjaon käytön, ottakaa yhteyttä Ninchatin henkilöstöön.
+If you would like to be able to upload attachments or use video calls and screen sharing during customer conversation picked from a queue, please contact Ninchat staff.
 
-## Jonon ajastaminen
+## Schedule
 
-Katso jonon aikataulutuksen ohjeistus seuraavalta sivulta:
+See instructions for queue scheduling in the following page:
 
 {% page-ref page="jonon-ajastaminen.md" %}
 
-## Merkinnät \(Muistiinpanot\)
+## Notes
 
-Muistiinpanot \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.
+Notes is an advanced feature which allows adding one or more form fields within a customer care conversation that can be saved as notes. Notes made by customer service representatives are also stored in chat history.
 
-Pyydä lisätietoa Ninchatin henkilöstöltä.
+Contact Ninchat staff for more information.
 
-![Jonon merkint&#xE4;asetukset](../.gitbook/assets/queue-settings-notes.jpg)
+![Notes settings](../.gitbook/assets/queue-settings-notes.jpg)
 
-## Siirtojonot
+## Transfer queues
 
-Asiakaskeskustelu on mahdollista ohjata toiseen jonoon ja tätä kautta toiselle ammattilaiselle. Jonon asetuksissa määritellään sallitut siirtojonot. Pyydä lisätietoa Ninchatin henkilöstöltä.
+In the Queue settings, "Advanced" tab, it is possible to set transfer queues which will allow transferring a customer conversation to another queue and thereby another professional. Check the box for allowable queues. Contact Ninchat staff for more information.
 
-![Siirtojonojen asettaminen](../.gitbook/assets/queue-settings-transfer.png.jpg)
+![Transfer queues settings](../.gitbook/assets/queue-settings-transfer.png.jpg)
 
-## Jonon tilastot
+## Queue statistics
 
 {% page-ref page="jonon-tilastot.md" %}
 
-## Jonojen ja jononkäsittelijöiden hallinta
+## Manage queue and queue members
 
 {% page-ref page="../organisaatio/asiakasjonojen-hallinta.md" %}
 

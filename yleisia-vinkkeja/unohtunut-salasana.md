@@ -1,25 +1,27 @@
 ---
-description: Salasanan palauttamisohjeet
+description: Here you can find instructions on how to reset your password if you forgot it.
 ---
 
-# Unohtunut salasana
+# Forgot password
+
+
 
 {% hint style="info" %}
-Tarkistathan, että kirjoitit tunnuksen \(sähköpostiosoite\) oikein sisäänkirjautumisessa!
+Please make sure you typed the username \(email address\) correctly!
 {% endhint %}
 
-## Salasanan nollaus
+## Reset password
 
-1. Mene osoitteeseen [https://ninchat.com/app](https://ninchat.com/app)
-2. Klikkaa linkkiä "Forgotten password" \(Unohtunut salasana\)
-3. Kirjoita tunnuksesi sähköpostiosoite-kenttään
-4. Klikkaa "Send password reset email". \(Lähetä linkki salasanan nollaamiseen\)
-5. Avaa sähköpostilaatikkoosi tuleva "Ninchat - Password reset confirmation" -viesti.
-6. Klikkaa viestissä "Click to reset your password" -linkkiä.
-7. Linkki avaa web-sivun, jossa voit asettaa tunnuksellesi uuden salasanan. Keksi uusi salasana ja paina "Change password".
-8. Voit nyt kirjautua sisään sähköpostiosoiteellasi ja uudella salasanalla.
+1. Go to [https://ninchat.com/app](https://ninchat.com/app).
+2. Click the "Forgot your password?" link \(below the "Sign in" button\).
+3. Enter your email address.
+4. Click the "Send password reset email" button.
+5. Open the email with the subject "Ninchat - Password reset confirmation" in your inbox.
+6. Click the button "Click to reset your password".
+7. The link will open a web page where you can set a new password for your account. Create a new password and then press "Change password".
+8. You can now sign in with your email address and the new password.
 
-## Muut ongelmat sisäänkirjautumisessa
+## Other sign-in problems
 
 {% page-ref page="ongelmatilanteet-sisaankirjautumisessa.md" %}
 

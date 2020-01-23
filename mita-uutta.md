@@ -1,56 +1,58 @@
 ---
-description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
+description: >-
+  Here you can learn about our new features, changes, and improvements on
+  Ninchat services.
 ---
 
-# Mitä uutta
+# What's new
 
 ## 29.10.2019
 
-### Alkukyselyn kenttien automaattinen täyttäminen 
+### Auto-fill fields for pre questionnaire
 
-* Chatin alkukyselyn kenttiä on mahdollista täyttää valmiiksi asiakasjärjestelmän tietojen pohjalta. Valmiiksi täytetyt kentät voivat myös olla loppuaiakkaalta piilotettuja.
+* It is possible to fill in the fields of pre questionnaire automatically based on the client system information. Pre-filled fields may also be hidden from the end customer.
 
-### Keskustelun automaattinen tägäys \(merkitseminen\) esitietojen pohjalta 
+### Auto-tag conversations based on pre information
 
-* Keskustelu voidaan tägätä automaattisesti loppuasiakkaan alkukyselyvalintojen ja -vastausten perusteella, tai valmiiksi täytettyjen kenttien perusteella.
+* A conversation can be automatically tagged based on the end customer's choices and responses from the pre questionnaire, or based on the pre-filled fields.
 
 ## 17.9.2019
 
-### Liitetiedostojen näyttäminen keskusteluhistoriassa
+### Display attachments in chat history
 
-* Keskusteluihin lisätyt liitetiedostot näytetään tilastojen keskuteluhistorioissa ja ladatuissa CSV-tiedostoissa.
+* You can find attachments added to conversations in queue statistics, which are displayed in chat history and downloaded CSV files.
 
 ## 3.9.2019
 
-### Video-chat-parannukset
+### Video chat improvements
 
-* [Video- ja äänilaitteen valinta](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut#videopuhelut). Videokeskustelun alussa on nyt mahdollista valita käytetty kamera ja mikrofoni. Valinnat tallennetaan jatkoa varten ja ovat myöhemmin muutettavissa video-chatin asetuksissa.
+* [Video and audio device selection](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut#videopuhelut). At the beginning of a video chat, it is now possible to select the camera and microphone to be used. The selected devices are saved for further use and can be changed later in the video chat settings.
 
-![Video-chat: laitteiden valinta](.gitbook/assets/video-settings.jpg)
+![Video chat: device selection](.gitbook/assets/video-settings.jpg)
 
-* [Ruudunjakomahdollisuus](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut#videopuhelut). Kun video-keskustelu on aloitettu, on mahdollista aloittaa ruudunjako , jolla oman näyttönsä tai selaimensa näkymän voi jakaa keskustelukumppanille. Ruudunjako sallitaan asiakasjonon asetuksissa.
+* [Screensharing](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut#videopuhelut). Once a video chat has started, it is possible to start screensharing that lets you share your screen or browser view with the chat partner. Screensharing can be allowed in the customer queue settings.
 
-![Video-chat: ruudunjako](.gitbook/assets/video-screenshare.jpg)
+![Video chat: screensharing](.gitbook/assets/video-screenshare.jpg)
 
 ## 23.7.2019
 
-### Asiakasistunnon muistaminen
+### Remember client sessions
 
-* Asiakasistunto on aikaisemmin vakiona asetettu jatkumaan tilanteissa, joissa web-selain suljetaan ja avataan uudestaan. Nyt vakioasetuksena on, että istunto loppuu selaimen sulkiessa, kuten moni asiakas saattaa olettaa.
+* Previously, a client session had been set by default to continue in the situations where the web browser is closed and reopened.  Now, by default, the session ends when the browser is closed, as many customers may expect.
 
 ## 13.5.2019
 
-### Jonon ajastuksien kytkeminen päälle/pois
+### Turn on/off queue schedule
 
-* [Asetetut ajastukset](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut/jonon-ajastaminen) voi jonon asetuksissa kytkeä pois esim. lomien ajaksi, jolloin chat-palvelu on pidempään pois käytöstä.
+* [Schedule](https://support.ninchat.com/ninchat-support/asiakasjonot-ja-keskustelut/jonon-ajastaminen) which has been set can be switched off in the queue settings, for example during holidays, when the chat service will be closed for a longer period.
 
-### Kyselyjen tallennus tilastoihin
+### Store initial replies in statistics
 
-* Jonoasetuksiin lisätty mahdollisuus tallentaa vieraan alkukyselyvastaukset. Vastaukset tallentuvat Ninchatin tilastoihin.
+* The possibility to save pre questionnaire replies is added. The answers are stored in Ninchat's statistics.
 
-### Keskustelun siirto
+### Transfer customer
 
-* Asiakas on mahdollista siirtää keskutelusta toiseen jonoon, jolloin toinen ammattilainen voi jatkaa keskustelua hänen kanssaan. Kun siirtomahdollisuus on asetettu käyttöön, keskustelunäkymän oikealla palstalla näytetään siirtomahdollisuus
+* It is possible for a client to be transferred from the current conversation to another queue, so that another professional can continue the conversation with the client. Once a queue is allowed for transfer, the transfer customer option shows on the right of the conversation section.
 
 ## 
 

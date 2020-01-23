@@ -1,16 +1,16 @@
-# Ryhmäkeskustelun upottaminen web-sivustolle
+# Embed group chat on website
 
-Julkisen ryhmäkeskustelun sijoittaminen onnistuu web-sivustolle, mobiilisivustolle ja -aplikaatioon, blogiin tai Facebook-sivulle.
+You can place a public group chat on a website, mobile site and application, blog, or Facebook page.
 
-## Chatin upotuskoodi \(embed-koodi\)
+## Chat embed code
 
-Upottamista varten toimitamme teille ns. upotuskoodin, kun chat on valmiina. Muokkaamme ja valmistelemme chatin valmiiksi haluamallanne tavalla; teidän tehtäväksenne jää sijoittaa upotuskoodi sivustolle.
+For embedding, we provide you with a so called embed code when the chat is ready. We will customize and prepare the chat as you wish, all you have to do is to place the embed code on your desired website.
 
-Julkinen ryhmäkeskustelu sijoitetaan yleensä osaksi web-sivun sisältöä, sen sekaan esimerkiksi div-elementtiin. Tarvitset upottamista varten 1\) raamielementin \(container\) oikealla tunniste-ID:llä 2\) upotus-script-tägin. Upotuskoodi on yhden rivin mittainen Javascript-tägi \(toimitamme teille oman koodinne\). 
+A public group discussion is usually placed as a part of contents of a web page, including div element. For embedding, you will need: 1\) a container element with the right identifier ID; 2\) an embed script tag. The embed code is a one-line Javascript tag \(we will provide you with your own code\).
 
-Asiakkaan tai hänen sivustonsa kehittäjän tulee sijoittaa nämä koodipätkät sivustolle.
+You or your site developer should place these snippets on your site.
 
-Container-elementin tyyli, sijainti ja koko on täysin teidän päätettävissänne. Oheisessa esimerkissä lyhyt esimerkkityyli \(style\) ja esimerkki-upotuskoodi.
+The style, location, and size of the container element are entirely up to you. In the example below, you can see a short example of style and embed code.
 
 ```markup
 <div id="ninchat-groupchat-container" style="width: 100%; height: 500px; border: solid 1px #000;"></div>
@@ -18,10 +18,9 @@ Container-elementin tyyli, sijainti ja koko on täysin teidän päätettävissä
 <script src="http://ninchat.com/[...]/ninchat-public-init.js" charset="UTF-8"></script>
 ```
 
-### Upotuskoodin sijoittaminen
+### Place the embed code
 
-Container-elementti sijoitetaan haluttuun kohtaan ja tyylitellään halutulla tavalla. Avustamme tyylittelyssä tarvittaessa.  
-Embed-script-tägin suosittelemme sijoittamaan web-sivun body-elementin loppuun. Esim:
+The container element is placed at the desired position and styled as you wish. We will assist with styling as needed. We recommend placing the embed script tag at the end of the body element of the web page. For example:
 
 ```markup
         <section id="groupchat" class="page-section">
@@ -36,14 +35,14 @@ Embed-script-tägin suosittelemme sijoittamaan web-sivun body-elementin loppuun.
 ```
 
 {% hint style="info" %}
-Mikäli sivustolla käytetään sekä yksityistä asiakaspalvelu-chattia että julkista ryhmäkeskustelua, ne tulee käynnistää samalla upotus-script-tagilla. Samalla sivulla ei voi olla useaa upotuskoodia, muuten chattien toiminta menee sekaisin.
+If a web page operates both a private customer service chat and a public group chat, they should be triggered with the same embed script tag. There should not be multiple embed codes on the same page, otherwise, the chat activities will be confused.
 {% endhint %}
 
-## Mitä asiakkaan tulee selvittää <a id="mita-asiakkaan-tulee-selvittaa"></a>
+## What you should know <a id="mita-asiakkaan-tulee-selvittaa"></a>
 
-* Mille sivu\(i\)lle ryhmä-chat tulee ja käytetäänkö samalla sivulla yksityistä asiakaspalvelu-chattia?
-* Sijoitetaanko ryhmäkeskustelu osaksi sivun sisältöä, vai kelluvaan ikkunaan?
-* Mitä tapahtuu kun ryhmäkanava on suljettu; piilotetaanko keskusteluhistoria vai jätetäänkö se näkyville, näytetäänkö tilalla ainoastaan Suljettu-ilmoitus, piilotetaanko koko ikkuna näkyvistä?
+* Which page\(s\) does the group chat come from and does the same page has private chat?
+* Is the group discussion placed in the content of the page or as a floating window?
+* What happens when the group channel is closed: hide chat history or leave it visible, show a closed status only, or hide the entire window?
 
 ### 
 

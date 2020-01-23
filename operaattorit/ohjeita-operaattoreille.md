@@ -1,8 +1,10 @@
 ---
-description: Organisaation operaattoreille ohjeet kootusti
+description: >-
+  Here you can find useful links to the articles regarding instructions for
+  operators in your organization.
 ---
 
-# Ohjeet operaattoreille
+# Instructions for operators
 
 {% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
 

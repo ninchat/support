@@ -1,20 +1,20 @@
-# Asiakaspalvelu-chatin upottaminen web-sivustolle
+# Embed customer service chat on website
 
-Asiakaspalvelun sijoittaminen onnistuu web-sivustolle, mobiilisivustolle ja -aplikaatioon, blogiin tai Facebook-sivulle.
+You can place a customer service chat on a website, mobile site and application, blog, or Facebook page.
 
-## Chatin upotuskoodi \(embed-koodi\)
+## Chat embed code
 
-Upottamista varten tarvitset ns. upotuskoodin, jonka saat Ninchatin henkilökunnalta, kun chat on valmiina. Muokkaamme ja valmistelemme chatin valmiiksi haluamallanne tavalla; teidän tulee vain sijoittaa upotuskoodi sivustolle.
+For embedding, you need a so-called embed code that you will get from Ninchat staff when the chat is ready. We will customize and prepare the chat as you wish, all you have to do is to place the embed code on your desired site.
 
-Upotuskoodi on seuraavankaltainen, yhden rivin mittainen Javascript-tägi \(toimitamme teille oman koodinne\):
+The embed code is a one-line Javascript tag, example below \(we will provide you with your own code\):
 
 ```markup
 <script src="http://ninchat.com/[...]/ninchat-init.js" charset="UTF-8"></script>
 ```
 
-### Upotuskoodin sijoittaminen
+### Place the embed code
 
-Suosittelemme sijoittamaan script-tägin web-sivun body-elementin loppuun. Esim:
+We recommend placing the script tag at the end of the body element of the web page. Example:
 
 ```markup
         ...
@@ -23,16 +23,16 @@ Suosittelemme sijoittamaan script-tägin web-sivun body-elementin loppuun. Esim:
 </html>
 ```
 
-Upotuskoodi tulee sijoittaa jokaiselle sivulle, jolla chatin halutaan toimivan. Käytännössä script-tägi kannattaa sijoittaa sivuston header- tai footer-osioon, joka kulkee mukana jokaisella sivulla.
+The embed code should be placed on each page where the chat is expected to function. In practice, it is a good idea to place the script tag in the header or footer section of your site that goes with each page.
 
-### Ninchat Wordpress-sivustolle
+### Add Ninchat to Wordpress
 
-Ninchatin embed-koodin lisäminen Wordpress-sivustolle onnistuu muokkaamalla sivuston HTML-lähdekoodia.
+You can add the Ninchat embed code to a Wordpress site by editing the site's HTML source code.
 
-1. Sivuston hallintanäkymässä siirry "Appearance"-osioon.
-2. Klikkaa kohtaa "Editor", joka avaa muokkausnäkymän.
-3. Selaa ja klikkaa "Theme Files" -listalta esim. "Theme footer \(footer.php\)" -sivu.
-4. Liitä Ninchatin upotuskoodi haluamaasi kohtaan \(mielellään lähellä body-elementin loppua, kuitenkin sen sisäpuolelle\).
+1. In the Site Manager view, go to the "Appearance" section.
+2. Click "Editor" to open the edit view.
+3. Browse and click the "Theme Files" list e.g. "Theme Footer \(footer.php\)" page.
+4. Paste the Ninchat embed code where you want it \(preferably near the end of the body element, and inside it\).
 
-![Ninchatin lis&#xE4;&#xE4;minen Wordpress-sivustolle](../.gitbook/assets/wordpress-ninchat-ohje.png.jpg)
+![Add Ninchat to Wordpress](../.gitbook/assets/wordpress-ninchat-ohje.png.jpg)
 

@@ -1,69 +1,38 @@
 ---
-description: Tiimikanavan esittely ja hallinta
+description: >-
+  Here you can find introduction to team channels and instructions on how to
+  manage them.
 ---
 
-# Tiimikanavat
+# Team channels
 
-## Yleistä
+## Overview
 
-Tiimikanava on organisaatioon kuuluva, yleensä yksityinen, usean henkilön keskusteluhuone. Kanavalla voit jutella ja lähettää tiedostoja reaaliaikaisesti kollegojesi kanssa. Kanavat voivat olla myös julkisia, esim. upotettavat ryhmäkeskustelut, tai niille voi kutsua ulkopuolisia yhteistyökumppaneita.
+A team channel is a multi-people chat room within an organization, usually private. You can use a team channel to chat and upload files in real time with your colleagues. Channels can also be public, such as embedded group discussions or invited to external partners.
 
-Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
+Team channels can be created to meet the needs of different topics and groups, such as:
 
-* Toimisto - yleinen keskustelu
-* Myynti - myyntiin ja asiakkuuksiin liittyvä keskustelu
-* Koodarit - sovelluskehitys-aiheinen keskustelu
-* Projekti X - tiettyyn asiakkaaseen tai projektiin liittyvä keskustelu
-* Julkinen - web-sivustolle upotettava kaikille avoin asiakaskeskustelu
+* Office - General discussion
+* Sales - Discussion of sales and customer relationships
+* Encoders - Discussion of application development
+* Project X - Discussion of a specific client or project
+* Public - Embedded customer discussion on a web page
 
-![Tiimikanavan&#xE4;kym&#xE4;: Keskustelu ja j&#xE4;senlista](https://lh4.googleusercontent.com/vF6Ck5-WasKyMg03jHp1T9-QcfBnb9b4BqueuGcYwzpVG2N5pRN2akPJDBwHDN8QRVAnidbXVJtmtSbTANMrUyEm8d2FL12C8Fwx0x65bQ3NbBAGm8JVprJtYlgrGYxFbrnUz85RhU8)
+![Team channel view: Discussion and member list](https://lh4.googleusercontent.com/vF6Ck5-WasKyMg03jHp1T9-QcfBnb9b4BqueuGcYwzpVG2N5pRN2akPJDBwHDN8QRVAnidbXVJtmtSbTANMrUyEm8d2FL12C8Fwx0x65bQ3NbBAGm8JVprJtYlgrGYxFbrnUz85RhU8)
 
-## Tiimikanavan oikeudet
+## Team channel symbols and rights
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">J&#xE4;senlistan merkint&#xE4;</th>
-      <th style="text-align:left">Merkitys</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/operator.png" alt/>T&#xE4;hti, umpinainen</td>
-      <td style="text-align:left">
-        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4; (eri kuin organisaation operaattori):</p>
-        <p>voi hallita kanavan asetuksia ja kutsua j&#xE4;seni&#xE4;</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/moderator.png" alt/>T&#xE4;hti, reunustettu</td>
-      <td style="text-align:left">
-        <p>Kanavan moderaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
-        <p>voi moderoida viestej&#xE4; ja poistaa j&#xE4;seni&#xE4;</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/online (1).png" alt/>Vihre&#xE4; pallo</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut ja aktiivinen</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/idle.png" alt/>Oranssi pallo</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut mutta ei aktiivinen</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/offline-avatar.png" alt/>Ei palloa</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; ei ole paikalla; n&#xE4;kee h&#xE4;nelle tulleet
-        viestit my&#xF6;hemmin</td>
-    </tr>
-  </tbody>
-</table>## Käyttäjän lisääminen kanavalle
+| Symbol | Meaning |
+| :--- | :--- |
+| ![](../.gitbook/assets/operator.png) Star, filled | Channel operator \(different from organization operator\) - can manage channel settings and invite new people to the channel. |
+| ![](../.gitbook/assets/moderator.png) Star, outline | Channel moderator - can moderate chat and remove people from the channel.  |
+| ![](../.gitbook/assets/online%20%281%29.png) Green circle | User is logged in and active. |
+| ![](../.gitbook/assets/idle.png) Orange circle | User is logged in but not active. |
+| ![](../.gitbook/assets/offline-avatar.png) No circle | User is offline. The user will see messages addressed to him/her later. |
 
-Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Katso tarkemmat ohjeet kohdassa Käyttäjän lisääminen kanavalle:
+## Add a user to a channel
+
+Channel operators can invite new members to the channel. Click "Invite people" at the end of the member list to search for users to be invited or copy an invitation link and send. See "How to invite people to channel?" below for detailed instructions:
 
 {% page-ref page="kayttajan-lisaaminen-kanavalle.md" %}
 
@@ -71,48 +40,48 @@ Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi
 
 ![](../.gitbook/assets/invite%20%281%29.png)
 
-## Yksityiskeskustelut tiimiläisten kesken <a id="yksityiskeskustelut-tiimilaisten-kesken"></a>
+## Private conversations with team members <a id="yksityiskeskustelut-tiimilaisten-kesken"></a>
 
 {% page-ref page="yksityiskeskustelut.md" %}
 
-## Viestien ja tiedostojen lähettäminen <a id="viestien-ja-tiedostojen-lahettaminen"></a>
+## Send messages and files <a id="viestien-ja-tiedostojen-lahettaminen"></a>
 
-Kirjoita viestit tekstikenttään keskustelun alla. Tekstikenttä kasvaa pidempää viestiä kirjoitettaessa. Lähetä viesti klikkaamalla nuoli-kuvaketta tai näppäimistön \[Enter\]-painiketta. Mikäli haluat tehdä viestiin rivinvaihdon, klikkaa näppäimistöltä \[Shift\] + \[Enter\].
+Write your messages in the text field \(where it is written "Enter your message"\), at the bottom of the conversation section. The text field grows bigger when you write longer. Click the![](../.gitbook/assets/textarea-5.png)-send button or use the \[Enter\] key on your keyboard to send a message. If you want to make a line break in your messages, use the \[Shift\] + \[Enter\] keys on the keyboard.
 
-Voit lisätä viestiin hymiöitä klikkaamalla hymynaama-kuvaketta.
+You can add emojis to your messages by clicking the smiley face icon and choose from the list.
 
-#### Tiedostot
+#### Files
 
-Mikäli tiedostojen lisääminen on sallittu, klemmari-kuvaketta klikkaamalla voit ladata työasemaltasi/laitteeltasi kuvan tai tiedoston keskusteluun. Kuvatiedostot näytetään kuvakkeina, josta ne voi avata. Muut tiedostot näytetään linkkinä, jota klikkaamalla käyttäjä voi ladata ne.
+If files are allowed, you can click the![](../.gitbook/assets/textarea-2.png)-paperclip icon to upload a picture or file from your desktop/device to the channel conversation. Image files are displayed as thumbnails where you can click to open them. Other types of files are displayed as a link that users can click to download.
 
-#### Valmisviestit
+#### Canned messages
 
-Asiakaspalvelun valmisviestejä \(canned messages\) voi käyttää myös kanavilla vaikka niitä ei listana näytetäkään. Kirjoittamalla vinoviivan \[ / \] ja valmisviestin avainsanan ja klikkaamalla \[VÄLILYÖNTI\]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. Esim:
+Canned messages can also be used on channels, even though they do not appear as a list. Type the slash \[/\] and the keyword of a canned message you want to use, and press the \[Spacebar\] key on your keyborad, the canned message will then appear in the text field. For example:
 
-| Avainsana | Valmisviesti |
+| Keyword | Canned message |
 | :--- | :--- |
-| avoinna | Palvelemme arkipäivisin klo 9 - 17. |
+| open | We are open on weekdays from 9 am to 5 pm. |
 
 ```text
-/avoinna[VÄLILYÖNTI]  --> Palvelemme arkipäivisin klo 9 - 17.
+/open[Spacebar] --> We are open on weekdays from 9 am to 5 pm.
 ```
 
-## Kanavalta poistuminen
+## Leave a channel
 
 {% hint style="info" %}
-Huom! Kanavalta poistuminen poistaa sinut kanavalta kokonaan. Kanavan asetuksista riippuen aiempi keskusteluhistoria saatetaan piilottaa sinulta, mikäli liityt kanavalle uudestaan.   
-Voit vaihdella keskustelujen välillä keskustelulistan \(Sidebar\) kautta, poistumatta kanavilta.
+Note! Leaving a channel will completely remove you from the channel. Depending on the channel settings, your previous chat history may be hidden from you if you re-join the channel.  
+You can always switch between different conversations via the Sidebar without leaving any channels.
 {% endhint %}
 
-Poistu kanavalta klikkaamalla kanavan nimeä ylävalikosta ja valitse valikosta "Poistu kanavalta / Part channel".
+To leave a channel, click the arrow icon next to the channel name in the Sidebar and select "Part channel".
 
-Uudelleen liittyminen tiimikanavalle edellyttää yleensä kanavakutsun pyytämistä kanavan operaattorikäyttäjiltä.
+Reconnecting to a team channel usually requires a channel invitation from channel operator users.
 
-## Kanavan tuhoaminen
+## Delete a channel
 
-Kanava on olemassa niin kauan kuin sillä on jäseniä. Mikäli viimeinen / ainoa jäsen-agentti poistuu kanavalta, kanava ja sen keskusteluhistoria pyyhkiytyvät pois. Sama koskee yksityiskeskusteluja.
+A channel exists as long as it has members. If the last/only member agent leaves the channel, the channel and its chat history will be deleted. This works the same for private discussions.
 
-## Katso lisää
+## See more
 
 {% page-ref page="kanavan-asetukset.md" %}
 

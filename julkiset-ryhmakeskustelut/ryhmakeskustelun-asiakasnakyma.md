@@ -1,14 +1,14 @@
-# Ryhmäkeskustelun asiakasnäkymä
+# Group chat view
 
-Esimerkkinäkymä ryhmäkeskustelusta:
+Example view of a group chat:
 
-![Julkinen ryhm&#xE4;keskustelun&#xE4;kym&#xE4;](../.gitbook/assets/group-embed.jpg)
+![Public group chat view](../.gitbook/assets/group-embed.jpg)
 
-Ryhmäkeskustelu upotettuna osaksi asiakkaan web-sivua:
+Group chat embedded on a client's web page:
 
-![Ryhm&#xE4;keskustelu osana sivua](../.gitbook/assets/group-embed-mockup.jpg)
+![Group chat as a part of a web page](../.gitbook/assets/group-embed-mockup.jpg)
 
-Osallistujan nimenvalitsemisnäkymä:
+Participant name choosing view:
 
-![K&#xE4;ytt&#xE4;j&#xE4;n nimen valitseminen](../.gitbook/assets/group-embed-name-modal.png)
+![Choose a username](../.gitbook/assets/group-embed-name-modal.png)
 
