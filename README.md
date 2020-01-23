@@ -3,6 +3,8 @@
 **Welcome to Ninchat Support portal!**   
 You can find answers to frequently asked questions \(FAQs\) below or browse through the articles on the left by topic. If you still cannot find what you are looking for, contact us [here](https://ninchat.com/contact).
 
+#### English version of Ninchat Support site is in development. Apologies for any mistakes you might still see!
+
 ## Updates
 
 You can keep track of updates and improvements on our services in the What's new section.
