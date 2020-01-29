@@ -6,23 +6,23 @@ description: >-
 
 # What's new
 
-## 29/10/2019
+## 29.10.2019
 
-### Auto-fill inputs in pre-audience questionnaire
+### Auto-fill fields for pre questionnaire
 
-* It is possible to fill in the fields of pre-audience questionnaire automatically based on the client system information. Pre-filled fields may also be hidden from the end customer.
+* It is possible to fill in the fields of pre questionnaire automatically based on the client system information. Pre-filled fields may also be hidden from the end customer.
 
 ### Auto-tag conversations based on pre information
 
 * A conversation can be automatically tagged based on the end customer's choices and responses from the pre questionnaire, or based on the pre-filled fields.
 
-## 17/9/2019
+## 17.9.2019
 
 ### Display attachments in chat history
 
 * You can find attachments added to conversations in queue statistics, which are displayed in chat history and downloaded CSV files.
 
-## 3/9/2019
+## 3.9.2019
 
 ### Video chat improvements
 
@@ -34,13 +34,13 @@ description: >-
 
 ![Video chat: screensharing](.gitbook/assets/video-screenshare.jpg)
 
-## 23/7/2019
+## 23.7.2019
 
 ### Remember client sessions
 
 * Previously, a client session had been set by default to continue in the situations where the web browser is closed and reopened.  Now, by default, the session ends when the browser is closed, as many customers may expect.
 
-## 13/5/2019
+## 13.5.2019
 
 ### Turn on/off queue schedule
 

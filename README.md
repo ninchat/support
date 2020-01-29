@@ -7,7 +7,7 @@ You can find answers to frequently asked questions \(FAQs\) below or browse thro
 
 ## Updates
 
-You can keep track of updates and improvements on Ninchat in the _What's new_ section.
+You can keep track of updates and improvements on our services in the What's new section.
 
 {% page-ref page="mita-uutta.md" %}
 

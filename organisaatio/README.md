@@ -4,6 +4,21 @@ description: Here you can find introduction to organization management on Nincha
 
 # Organization
 
+## General info
+
+An organization is a private and closed space in Ninchat for your company or community. Organizations include: 
+
+* Members/agents
+* Channels for group conversations
+* Customer queues and conversations, statistics and settings
+* Tags
+
+Organization is managed by organization operators. They add and administer members and permit rights for customer queues, and their statistics and configurations.
+
+Channels in organizations are mainly private, invite-only so only users how are invited, can join them. Channel operators can send channel invites to existing users and via email to new ones. You can create channels for different topics or departments: General, Coders, Sales,... - or for projects and invite your affiliates solely to those channels. 
+
+More about adding and managing agents below.
+
 ## User levels and rights
 
 | Level | Rights |
