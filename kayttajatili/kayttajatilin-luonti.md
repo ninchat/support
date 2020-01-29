@@ -39,6 +39,12 @@ Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi!
 **Vahvistuslinkki on kertakäyttöinen** - sitä tulee klikata vain kerran. Kirjaudu tämän jälkeen Ninchatiin osoitteella [https://ninchat.com/app](https://ninchat.com/app)
 {% endhint %}
 
+### Vanhentunut vahvistuslinkki
+
+Mikäli et vahvista tunnusta ajoissa, toimitettu vahvistuslinkki vanhenee eikä enää toimi. Tilaa tällöin uusi vahvistuslinkki Ninchatin käyttäjäasetuksista. Lisätietoa _Käyttäjäasetukset_-sivulla.
+
+{% page-ref page="kayttajaasetukset.md" %}
+
 ## Sisäänkirjautuminen
 
 #### Kirjaudu sisään sähköpostiosoitteellasi ja salasanalla osoitteessa:

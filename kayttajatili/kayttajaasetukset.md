@@ -57,6 +57,16 @@ Kirjautumissähköpostiosoiterivillä voit kohdassa "Näkyvyys" valita, kenelle 
 
 ![Kirjautumisvalinnat](../.gitbook/assets/user-auth.png)
 
+### Käyttäjätilin tai identiteetin todentaminen <a id="kayttajatilin-tai-identiteetin-todentaminen"></a>
+
+Kun luot uuden tunnuksen, saat sähköpostiisi vahvistuslinkin. Ennen kuin klikkaat tuota linkkiä, tilisi/kirjautumis-identiteettisi näkyy todentamattomana. Liian pitkään todentamaton tunnus poistetaan lopulta. 
+
+Mikäli olet kadottanut vahvistuslinkin, voit tilata uuden käyttäjäasetuksissa. Klikkaa "Lähetä vahvistus uudelleen"-linkkiä identiteetin \(sähköpostiosoite\) yhteydessä. Tämän jälkeen mene sähköpostiisi ja klikkaa vahvistuslinkkiä. Jos sähköpöstia ei näy, tarkista roskapostikansiosi.
+
+Vahvistuslinkki avaa Ninchat-näkymän, joka kertoo tunnuksen vahvistamisen onnistuneen. Tämän jälkeen käyttäjäasetuksissa identiteetti näkyy todennettuna.
+
+Huom! Vahvistuslinkkiä voi klikata vain kerran. Seuraavilla kerroilla se ei enää toimi. Kirjaudu Ninchatiin normaalisti kirjautumissivun [https://ninchat.com/app](https://ninchat.com/app) kautta.
+
 ## Ilmoitukset
 
 Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni- ja työpöytäilmoitusia Ninchatissa tapahtuvista asioista. Lisäksi voit asettaa hälytykset myös sähköpostiisi, ellet ole usein paikalla.
