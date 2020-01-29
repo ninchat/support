@@ -4,6 +4,23 @@ description: Organisaation hallinta
 
 # Organisaatio
 
+## Yleistä <a id="yleista"></a>
+
+Organisaatio on yrityksesi tai yhteisösi yksityinen ja suljettu alue Ninchatissa. Organisaatio sisältää: 
+
+* Jäsenet/agentit
+* Kanavat ryhmäkeskusteluille
+* Asiakasjonot ja -keskustelut, -tilastot ja -asetukset
+* Tunnisteet eli tägit
+
+Organisaatiota hallinnoivat organisaation operaattorikäyttäjät. He jakavat agenteille oikeudet vastata asiakaskeskusteluihin ja tarvittaessa katsoa tilastoja ja asetuksia.
+
+Kanavat ovat pääsääntöisesti suljettuja niin, että vain erillisellä kutsulla voi liittyä niille. Kanavaoperaattorit voivat jakaa kutsuja olemassa oleville käyttäjille tai lähettää niitä sähköpostille uusille.
+
+Voit luoda kanavia eri aiheita tai osastoja varten, esim. Yleinen, Koodarit, Myynti,... - tai projekteille, ja kutsua yhteistyökumppaneita yksinomaan noille kanaville.
+
+Jäsenten lisäämisestä ja hallinnoinnista lisää alempana.
+
 ## Käyttäjäoikeustasot
 
 | Taso | Oikeudet |

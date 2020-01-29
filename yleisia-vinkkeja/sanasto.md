@@ -14,5 +14,4 @@ description: Yleisiä käytettyjä termejä
 | **Kanavan operaattori** | Agentti, joka voi muuttaa kanavan asetuksia, kutsua uusia jäseniä kanavalle sekä lisätä käyttäjille operaattori-/moderaattorioikeuksia ja poistaa niitä. |
 | **Organisaatio** | Asiakkaan hallitsema kokonaisuus johon kuuluu kanavia, jonoja ja agentteja. |
 | **Organisaation operaattori** | Agentti joka voi lisätä käyttäjiä asiakasjonon käsittelijäksi, tarkastella statistiikkoja ja lukea asiakaskeskusteluhistoriaa, sekä muokata jonojen tekstejä, asetuksia ja aikatauluja  |
-| **Pyyntö/request** | Asiakasjonoon tullut keskustelun aloituspyyntö. Tilastoissa vastatut ja vastaamattomat jonotukset näkyvät hyväksyttyinä ja hylättyinä pyyntöinä. |
 
