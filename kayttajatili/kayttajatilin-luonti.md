@@ -41,6 +41,12 @@ Great! Now you have succesfully created and verified your Ninchat account.
 **The verification link is for one-time use** - you need to click it only once. After that, you can sign in at [https://ninchat.com/app](https://ninchat.com/app).
 {% endhint %}
 
+### Outdated verification link
+
+If you haven't verified your account on time, the verification link goes out of date and doesn't work anymore. In this case you can order a new link in your Ninchat user settings. More info on _User settings and profile_ page. 
+
+{% page-ref page="kayttajaasetukset.md" %}
+
 ## Sign in to your account
 
 #### Sign in with your email address and password at:

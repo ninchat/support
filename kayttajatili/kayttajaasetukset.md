@@ -57,6 +57,16 @@ You can remove a sign-in option \(email address\) by clicking the trash can icon
 
 Note! If you delete all of your sign-in options, you will no longer have access to your account. So please always keep at least one email.
 
+### Verifying account or a sign-in option
+
+As you register your account, you receive a verification link in your email. Before you click the verification link, your sign-in option shows up unverified. Unverified user accounts are ultimately deleted.
+
+If you have lost the verification link email, you can order a new one on the Authentication tab. Click "_Resend verification_" link next to sign-in email. Then check your inbox and click the verification link in the email you received. If email doesn't show up, check your spam folder.
+
+Verification link opens up Ninchat view, which tells you the verification is done. Your sign in email shows up verified in the user settings after this.
+
+Note that verification link can be used only once. After this the link doesn't work anymore. Sign in to Ninchat normally on [https://ninchat.com/app](https://ninchat.com/app).
+
 ## Notifications
 
 Notifications help you respond faster. In the "Notifications" tab, you can set audio and desktop notifications for different types of activities on Ninchat. You can also receive notifications via email for some types of activities.
