@@ -1,5 +1,5 @@
 ---
-description: Asiakasneuvojille ohjeet kootusti
+description: Kootusti yleisimmät ohjeaiheet asiakasneuvojille
 ---
 
 # Ohjeet asiakasneuvojille

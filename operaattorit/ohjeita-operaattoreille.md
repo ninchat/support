@@ -1,8 +1,10 @@
 ---
-description: Organisaation operaattoreille ohjeet kootusti
+description: Kootusti yleisimmät ohjeaiheet organisaation operaattoreille
 ---
 
 # Ohjeet operaattoreille
+
+
 
 {% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
 

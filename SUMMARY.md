@@ -50,3 +50,7 @@
 
 * [Ohjeet asiakasneuvojille](asiakasneuvojat/ohjeita-asiakasneuvojille.md)
 
+## Kehittäjät
+
+* [Ohjeet kehittäjille](kehittaejaet/ohjeet-kehittaejille.md)
+
