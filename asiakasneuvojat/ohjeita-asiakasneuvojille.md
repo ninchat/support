@@ -1,7 +1,5 @@
 ---
-description: >-
-  Here is a list of articles where you can find useful instructions for customer
-  advisors.
+description: Here is a collection of common topics for  customer agents.
 ---
 
 # Instructions for customer advisors

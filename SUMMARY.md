@@ -50,3 +50,7 @@
 
 * [Instructions for customer advisors](asiakasneuvojat/ohjeita-asiakasneuvojille.md)
 
+## Developers
+
+* [For Developers](developers/for-developers.md)
+

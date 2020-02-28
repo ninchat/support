@@ -1,7 +1,5 @@
 ---
-description: >-
-  Here you can find useful links to the articles regarding instructions for
-  operators in your organization.
+description: Here is a collection of common topics for operators in your organization.
 ---
 
 # Instructions for operators

@@ -14,4 +14,5 @@ description: Here you can find common terms used in Ninchat and their definition
 | **Channel operator** | An agent who can edit channel settings, invite new members to the channel, and add/remove operator and moderator rights of the channel members. |
 | **Organization** | A client-controlled entity that includes channels, queues, and agents. |
 | **Organization operator** | An agent who can add users as queue members, and view statistics and access customer chat history. Organization operator can also edit queue settings including queue name and schedule. |
+| **Request** | Chat request in customer queue. In statistics answered and un-answered queueings are shown as accepted and dropped requests. |
 
