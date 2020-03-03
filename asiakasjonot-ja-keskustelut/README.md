@@ -127,6 +127,12 @@ Asiakasneuvoja voi lähettää asiakkaalle kuvia ja tiedostoja, ja hän neuvojal
 
 Lähetettävien tiedostojen kokoa tai formaattia ei ole rajattu.
 
+## Videopuhelut
+
+Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua ja ruudunjakoa tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Lue lisää sivulla _Videopuhelut_ ja kysy meiltä lisää ominaisuudesta.
+
+{% page-ref page="videopuhelut.md" %}
+
 ## Asiakas-metatiedot
 
 Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää: 
@@ -217,69 +223,7 @@ Siirtojonot määritellään jonon asetuksissa. Kun siirtojonoja on määritelty
 
 ![Asiakkaan siirt&#xE4;minen, siirtojonon valinta](../.gitbook/assets/queue-transfer.png)
 
-## Videopuhelut
-
-Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Kysy lisää ominaisuudesta.
-
-Jonon asetusten mukaan videopuhelun voi aloittaa agentti, asiakas, molemmat, tai ei kumpikaan.
-
-### Videpuhelun aloitus
-
-1. Aloittaaksesi videopuhelun, klikkaa kommenttikentän vieressä videokamera-kuvaketta.
-2. Mikäli asiakkaan selain tukee videopuhelua, hänelle näytetään videopuhelupyyntö, jonka hän hyväksyy tai hylkää.
-
-### Videopuhelunäkymä <a id="videopuhelunakyma"></a>
-
-Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas voi halutessaan laajentaa videon koko ruudun kokoiseksi, jolloin tekstikeskustelu näkyy videon oikealla puolella. \(Anna selaimelle lupa näyttää Ninchatin video koko ruudussa.\)
-
-### Ruudunjako
-
-Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolelle. Ruudunjako voi olla apuna, kun asiakkaalle pitää näyttää miten web-sovellus toimii, tai neuvoessa tätä esim. lomakkeen täyttämisessä.
-
-Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klikkkaa videopuhelun aikana ruudunjako-kuvaketta ja valitse, mitä haluat näytöltäsi jakaa. Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen kuten web-selaimen näkymän.
-
-### Videotoiminnot
-
-| Valinta | Toiminta |
-| :--- | :--- |
-| ![](../.gitbook/assets/video-button-toggle-full.svg) ![](../.gitbook/assets/video-button-toggle-normal.svg) | Näytä videokeskustelu koko ruudun kokoisena / pienennä kuva normaaliin ikkunaan. |
-| ![](../.gitbook/assets/video-button-sound-on.svg) ![](../.gitbook/assets/video-button-sound-off.svg) | Äänet päällä / pois - mykistää keskustelukumppanin äänet |
-| ![](../.gitbook/assets/video-button-microphone-on.svg) ![](../.gitbook/assets/video-button-microphone-off.svg) | Mikrofoni päällä / pois - mykistää oman mikrofonisi, jolloin vastapuoli ei kuule sinua. |
-| ![](../.gitbook/assets/video-button-camera-on.svg) ![](../.gitbook/assets/video-button-camera-off.svg)  | Video päällä / pois - Piilottaa oman videokuvasi, jolloin vastapuoli ei näe sinua. |
-| ![](../.gitbook/assets/video-button-hangup.svg)  | Lopeta videopuhelu. \(Ei lopeta chat-keskustelua\) |
-
-### Videotuki eri selaimilla
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Alusta/k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;</th>
-      <th style="text-align:left">Tuetut selaimet</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>Windows</p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox
-        <br />(Microsoft Edgell&#xE4; toimintaa ei taata)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mac OS</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Apple Safari</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Android</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">iOS</td>
-      <td style="text-align:left">Apple Safari</td>
-    </tr>
-  </tbody>
-</table>## Tunnisteet \(tägit\)
+## Tunnisteet \(tägit\)
 
 Asiakaspalvelija voi merkata asiakaskeskusteluita tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esin. "myynti", "uusi asiakas", "ongelma", "bugi", ... Tägäys helpottaa myöhemmin keskutelujen tilastointia sekä tarkastelua.
 

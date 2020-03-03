@@ -28,6 +28,7 @@
   * [Yksityiskeskustelut](tiimikanavat/yksityiskeskustelut.md)
   * [Käyttäjän poistaminen kanavalta](tiimikanavat/kayttajan-poistaminen-kanavalta.md)
 * [Asiakasjonot ja -keskustelut](asiakasjonot-ja-keskustelut/README.md)
+  * [Videopuhelut](asiakasjonot-ja-keskustelut/videopuhelut.md)
   * [Asiakkaan chat-näkymä](asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md)
   * [Jonon asetukset](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
   * [Sivut-konfiguraatiot](asiakasjonot-ja-keskustelut/sivut-konfiguraatiot.md)
