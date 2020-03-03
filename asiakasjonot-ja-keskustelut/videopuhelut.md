@@ -45,7 +45,9 @@ Kun aloitat videopuhelun ensimmäistä kertaa, Ninchat pyytää automaattisesti 
 
 Mikäli haluat myöhemmin vaihtaa laitteita, pääset asetuksiin klikkaamalla Asetukset-kuvaketta videopuhelun aikana.
 
-![Videoasetukset](../.gitbook/assets/videocall-settings.jpg)
+![Video settings](../.gitbook/assets/videocall-settings%20%281%29.jpg)
+
+Asetussivulla valitaan videokamera, mikrofoni ja äänentoistolaite. Näet esikatselukuvan valitusta videolähteestä sekä mikrofonin äänenvoimakkuuden visualisoituna kuvan alla palkissa.
 
 ### Ruudunjako
 
