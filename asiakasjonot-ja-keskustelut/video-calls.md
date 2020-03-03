@@ -92,7 +92,9 @@ When you start a video call for the first time, Ninchat automatically requests y
 
 Later, if you want to change devices, you can do it in Video settings. Access settings by clicking settings icon during a video call.
 
-![Video settings](../.gitbook/assets/videocall-settings.jpg)
+![Video settings](../.gitbook/assets/videocall-settings%20%281%29.jpg)
+
+In video settings, you can select video preferred camera, microphone and sound system equipment. You see a preview picture from the video source, and microphone input level visualized in the bar below the picture.
 
 ### Screen sharing
 
