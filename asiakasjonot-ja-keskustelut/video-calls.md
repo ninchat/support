@@ -10,7 +10,7 @@ Video call can be used in customer conversations when text messages and attachme
 
 ## Video call view <a id="videocallview"></a>
 
-Video call innitially appears above the conversation. Both the agent and the client can later expand the video call to full screen, with the conversation displayed on the right side instead. \(Allow your browser to view Ninchat video call in full screen.\)
+Once started, video call appears above the conversation. Both the agent and the customer can later expand the video call to full screen, with the conversation displayed on the right side instead. \(Allow your browser to view Ninchat video call in full screen.\)
 
 ![Agent&apos;s video call view](../.gitbook/assets/videocall-screen.jpg)
 
@@ -75,7 +75,9 @@ Video call innitially appears above the conversation. Both the agent and the cli
   </tbody>
 </table>## Having video calls
 
-In the queue settings, you can allow a video call to be initiated by an agent, a customer, both, or neither.
+Before having video calls, please test compatibility with our Video test tool. The tool reports whether your hardware, web browser and connection is adequate for video calls. [Open video testing tool](https://ninchat.com/videotest)
+
+Initiating a video call can be allowed for the agent, the customer, both, or neither.
 
 ### Starting a video call
 
