@@ -6,6 +6,8 @@ description: Asiakaskeskustelujen videopuhelut
 
 ## Yleistä <a id="yleista"></a>
 
+Ennen kuin alat järjestää videopuheluita, testaa toimivuus ja yhteensopivuus Ninchatin Videotestityökalulla, joka kertoo, onko laitteisto, selain ja verkkoyhteys kuunnossa videopuheluita varten. [Avaa Videotestityökalu](https://ninchat.com/videotest)
+
 Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Kysy lisää ominaisuudesta.
 
 ## Videpuhelunäkymä <a id="videpuhelunakyma"></a>
@@ -28,7 +30,7 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
 
 ## Videopuhelun ottaminen
 
-Jonon asetusten mukaan videopuhelun voi aloittaa agentti, asiakas, molemmat, tai ei kumpikaan.
+Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemmille.
 
 ### Videpuhelun aloitus
 
@@ -90,9 +92,19 @@ Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klik
   </tbody>
 </table>## Ongelmatilanteet
 
-### Videopuhelutesti
+### Testaa toiminta: [**Videopuhelutesti**](https://ninchat.com/videotest)\*\*\*\*
 
 Voit kokeilla videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sopiva videopuhelujen käymiseen. Testi kertoo, mikäli jokin osa-alue ei ole kunnossa.
 
-\*\*\*\*[**Ninchat - Videopuhelutesti**](https://ninchat.com/videotest)\*\*\*\*
+\*\*\*\*[**Ninchat - Videopuhelu-testityökalu**](https://ninchat.com/videotest)\*\*\*\*
+
+### **Ongelmatilanteita**
+
+**"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. "Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty". Tähän asti päästään mutta sitten ei vain tule yhteyttä."**  
+  
+Tämän kaltaiseen ongelmaan tavallinen syy on, että jommassa kummassa \(tai kummassakin\) päässä palomuuri tai jokin muu tietoturvaohjelma estää videoyhteyden. Jos olet aiemmin saanut onnistuneesti videoyhteyden samalla koneella, on ongelma todennäköisemmin asiakkaan yhteydessä. 
+
+**"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
+
+Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.
 
