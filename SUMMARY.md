@@ -28,6 +28,7 @@
   * [How to start private conversation?](tiimikanavat/yksityiskeskustelut.md)
   * [How to remove user from channel?](tiimikanavat/kayttajan-poistaminen-kanavalta.md)
 * [Customer care queues and conversations](asiakasjonot-ja-keskustelut/README.md)
+  * [Video calls](asiakasjonot-ja-keskustelut/video-calls.md)
   * [Customer chat interface](asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md)
   * [How to edit queue settings?](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
   * [Site configuration](asiakasjonot-ja-keskustelut/sivut-konfiguraatiot.md)

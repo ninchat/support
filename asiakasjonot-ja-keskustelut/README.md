@@ -173,6 +173,12 @@ Live metadata can also be provided to a customer service agent on an aggregate b
 
 ![Collected customer metadata](../.gitbook/assets/metadata-live-folded.png)
 
+## Video calls
+
+Video call can be used in customer conversations when text messages and attachments are not enough. Read more in _Video calls_ section. Ask us more about the feature.
+
+{% page-ref page="video-calls.md" %}
+
 ## Canned messages
 
 Canned messages speed up and facilitate the work of customer service agents. To deal with frequently asked questions, the answers can be selected directly from the list.
@@ -215,109 +221,7 @@ Transfer queues can be enabled in the queue settings. Once a queue is allowed fo
 
 ![Transfer customer, queue selection](../.gitbook/assets/queue-transfer.png)
 
-## Video call
-
-Video call can be used in customer conversations when text messages and attachments are not enough. Ask more about the feature.
-
-In the queue settings, you can allow a video call to be initiated by an agent, a customer, both, or neither.
-
-### Start a video call
-
-1. Click the video camera icon next to the text field to start a video call.
-2. If the client's browser supports video call, a video call invitation will be shown to the client where he/she can choose to accept or decline.
-
-### Video call view <a id="videopuhelunakyma"></a>
-
-Video call innitially appears above the conversation. Both the agent and the client can later expand the video call to full screen, with the conversation displayed on the right side instead. \(Allow your browser to view Ninchat video call in full screen.\)
-
-### Screensharing
-
-In addition to video call, it is also possible to share the view of your screen with the opposite party. Screensharing can be helpful, for example when showing a client how a web application works, or instructing someone to fill in a form.
-
-Screensharing can be selected after you have started a video call. During the video call, click the screensharing icon and choose what you want to share on your screen. Depending on your browser, you can either share your entire screen, or a single application such as a web browser view.
-
-### Video call functions
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Symbol</th>
-      <th style="text-align:left">Function</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/video-button-toggle-full.svg" alt/>
-        <img src="../.gitbook/assets/video-button-toggle-normal.svg" alt/>
-      </td>
-      <td style="text-align:left">
-        <p>Expand video call to full screen/</p>
-        <p>Minimize video call to normal window.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/video-button-sound-on.svg" alt/>
-        <img src="../.gitbook/assets/video-button-sound-off.svg" alt/>
-      </td>
-      <td style="text-align:left">Audio on/off - Mute the sound from the other side of the conversation.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/video-button-microphone-on.svg" alt/>
-        <img src="../.gitbook/assets/video-button-microphone-off.svg" alt/>
-      </td>
-      <td style="text-align:left">Microphone on/off - Disable your microphone so that the other person cannot
-        hear you.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/video-button-camera-on.svg" alt/>
-        <img src="../.gitbook/assets/video-button-camera-off.svg" alt/>
-      </td>
-      <td style="text-align:left">Video on/off - Disable your camera so that the other person cannot see
-        you.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/video-button-hangup.svg" alt/>
-      </td>
-      <td style="text-align:left">End the video call. (This does not end the chat.)</td>
-    </tr>
-  </tbody>
-</table>### Video call support in different browsers
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Platform/Operating system</th>
-      <th style="text-align:left">Supported browsers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>Windows</p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox
-        <br />(Microsoft Edge not guaranteed)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mac OS</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Apple Safari</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Android</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">iOS</td>
-      <td style="text-align:left">Apple Safari</td>
-    </tr>
-  </tbody>
-</table>## Tags
+## Tags
 
 Customer service agents can tag customer conversations with tags according to the topic or nature of the conversations, for example, "sales", "new customer", "problem", "bug", etc. Adding tags makes it easier to record and later review the conversations.
 
