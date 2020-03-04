@@ -86,8 +86,8 @@ Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten
         <p>Windows</p>
         <p></p>
       </td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox
-        <br />(Microsoft Edgell&#xE4; toimintaa ei taata)</td>
+      <td style="text-align:left">Google Chrome, Mozilla Firefox, Microsoft Edge (2020 Chromium-pohjainen
+        versio)</td>
     </tr>
     <tr>
       <td style="text-align:left">Mac OS</td>
@@ -95,7 +95,7 @@ Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten
     </tr>
     <tr>
       <td style="text-align:left">Android</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox</td>
+      <td style="text-align:left">Google Chrome, Mozilla Firefox, Microsoft Edge</td>
     </tr>
     <tr>
       <td style="text-align:left">iOS</td>
