@@ -77,18 +77,20 @@ Once started, video call appears above the conversation. Both the agent and the 
 
 Before having video calls, please test compatibility with our Video test tool. The tool reports whether your hardware, web browser and connection is adequate for video calls. [Open video testing tool](https://ninchat.com/videotest)
 
-Initiating a video call can be allowed for the agent, the customer, both, or neither.
+Initiating a video call can be allowed for the agent, the customer, or both.
 
 ### Starting a video call
 
-1. Click the video camera icon next to the text field to start a video call.
-2. If the client's browser supports video call, a video call invitation will be shown to the client where he/she can choose to accept or decline.
+You can initiate a video call after you have started a customer audience.
 
-If customers's hardware, web browser or connection is not up to par, video call cannot be started. Compatibility can be tested with Ninchat Video test tool, see part _Problems regarding video calls_.
+1. Click the video camera icon next to the comment field.
+2. If web browser asks for permission to use video camera and microphone, give permission.
+3. On the first time, select video and audio devices of your choosing.
+4. Video call starts, when customer accepts video call request.
 
-Browser may ask for permission to use video camera and microphone. Give permission before starting video call.
+Video call cannot be started if customer's hardware, web browser or connection is not up to par. Compatibility can be tested with Ninchat Video test tool, see part _Problems regarding video calls_.
 
-### Video call settings on first time
+### Video call settings on the first time
 
 When you start a video call for the first time, Ninchat automatically requests you to select correct video camera, microphone, and sound system equipment. The selections are remembered after this.
 
