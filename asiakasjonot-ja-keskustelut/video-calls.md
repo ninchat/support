@@ -12,7 +12,7 @@ Video call can be used in customer conversations when text messages and attachme
 
 Once started, video call appears above the conversation. Both the agent and the customer can later expand the video call to full screen, with the conversation displayed on the right side instead. \(Allow your browser to view Ninchat video call in full screen.\)
 
-![Agent&apos;s video call view](../.gitbook/assets/videocall-screen.jpg)
+![Agent&apos;s video call view](../.gitbook/assets/video-call-screen.jpg)
 
 ### Video funcation
 
@@ -88,23 +88,33 @@ If customers's hardware, web browser or connection is not up to par, video call 
 
 Browser may ask for permission to use video camera and microphone. Give permission before starting video call.
 
-### Video settings
+### Video call settings on first time
 
 When you start a video call for the first time, Ninchat automatically requests you to select correct video camera, microphone, and sound system equipment. The selections are remembered after this.
 
-Later, if you want to change devices, you can do it in Video settings. Access settings by clicking settings icon during a video call.
-
-![Video settings](../.gitbook/assets/videocall-settings%20%281%29.jpg)
-
 In video settings, you can select video preferred camera, microphone and sound system equipment. You see a preview picture from the video source, and microphone input level visualized in the bar below the picture.
 
-### Screen sharing
+![Video call settigns](../.gitbook/assets/video-call-settings2.jpg)
+
+### Changing settings afterwards
+
+Later, if you want to change devices, you can do it in Video settings. Access settings by clicking settings icon during a video call.
+
+![Opening video settings](../.gitbook/assets/video-call-settings-button.jpg)
+
+## Screen sharing
 
 In addition to video call, it is also possible to share the view of your screen with the opposite party. Screensharing can be helpful, for example when showing a client how a web application works, or instructing someone to fill in a form.
 
-Screensharing can be selected after you have started a video call. During the video call, click the screensharing icon and choose what you want to share on your screen. Depending on your browser, you can either share your entire screen, or a single application such as a web browser view.
-
 ![Screen sharing from customer&apos;s end](../.gitbook/assets/videocall-screenshare.jpg)
+
+### Start screen sharing
+
+Screensharing can be selected after you have started a video call. During the video call, click the screensharing icon and choose what you want to share on your screen. 
+
+Depending on your browser, you can either share your entire screen, or a single application such as a web browser view, or certain web browser tab.
+
+![Start screen sharing](../.gitbook/assets/video-call-settings-screenshare-settings.jpg)
 
 ### Video call support in different browsers <a id="video-call-support"></a>
 
