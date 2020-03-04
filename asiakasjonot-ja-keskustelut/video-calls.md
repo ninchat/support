@@ -106,13 +106,13 @@ Later, if you want to change devices, you can do it in Video settings. Access se
 
 ## Screen sharing
 
-In addition to video call, it is also possible to share the view of your screen with the opposite party. Screensharing can be helpful, for example when showing a client how a web application works, or instructing someone to fill in a form.
+In addition to video call, it is also possible to share the view of your screen with the opposite party. Screen sharing can be helpful, for example when showing a client how a web application works, or instructing someone to fill in a form.
 
 ![Screen sharing from customer&apos;s end](../.gitbook/assets/videocall-screenshare.jpg)
 
 ### Start screen sharing
 
-Screensharing can be selected after you have started a video call. During the video call, click the screensharing icon and choose what you want to share on your screen. 
+Screen sharing can be selected after you have started a video call. During the video call, click the screen sharing icon and choose what you want to share from your screen. 
 
 Depending on your browser, you can either share your entire screen, or a single application such as a web browser view, or certain web browser tab.
 
