@@ -25,11 +25,7 @@ description: Support for software developers
 ## Ninchat Embed
 
 [Ninchatin embedding instructions](https://github.com/ninchat/ninchat-embed/blob/master/embed2.md)   
-Examples on how to embed Ninchat to a web page using site configs: Queued 1-on-1 customer service chat and Multiple user chat room\(s\).
+Examples on how to embed Ninchat to a web page using site configs: Queued 1-on-1 customer service chat and Multiple user chat room\(s\). Please utilize Ninchat Embed v2. 
 
-Please utilize Ninchat Embed v2!
-
-{% hint style="info" %}
 Note! We usually deliver a ready-to-use embed code for our customers. If you need advice on adding the embed script, please [contact us](https://ninchat.com/contact?help).
-{% endhint %}
 
