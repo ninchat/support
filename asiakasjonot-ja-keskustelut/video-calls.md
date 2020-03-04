@@ -133,8 +133,7 @@ Depending on your browser, you can either share your entire screen, or a single 
         <p>Windows</p>
         <p></p>
       </td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox
-        <br />(Microsoft Edge not guaranteed)</td>
+      <td style="text-align:left">Google Chrome, Mozilla Firefox, Microsoft Edge (2020 Chromium-based version)</td>
     </tr>
     <tr>
       <td style="text-align:left">Mac OS</td>
