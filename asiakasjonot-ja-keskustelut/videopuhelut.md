@@ -32,14 +32,16 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
 
 Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemmille.
 
-### Videpuhelun aloitus
+### Videopuhelun aloitus
 
-1. Aloittaaksesi videopuhelun, klikkaa kommenttikentän vieressä videokamera-kuvaketta.
-2. Mikäli asiakkaan selain tukee videopuhelua, hänelle näytetään videopuhelupyyntö, jonka hän hyväksyy tai hylkää.
+Videopuhelun voi käynnistää sen jälkeen kun asiakas-keskustelu on aloitettu.
 
-Mikäli asiakkaan laitteisto, selain tai verkkoyhteys ei tue videopuhelua, sitä ei voi aloittaa. Yhteensopivuutta voi kokeilla videotestityökalulla, ks. kohta _Ongelmatilanteet._
+1. Klikkaa videokamera-kuvaketta kommenttikentässä.
+2. Jos selain kysyy aloittaessa lupaa käyttää kameraa ja mikrofonia, hyväksy pyyntö.
+3. Valitse ensimmäisellä kerralla halutut asetukset.
+4. Videopuhelu alkaa, kun asiakas hyväksyy videpuhelupyynnön.
 
-Kun selain kysyy aloittaessa lupaa käyttää kameraa ja mikrofonia, anna Ninchatille lupa siihen.
+Videopuhelua ei voi aloittaa, mikäli asiakkaan laitteisto, selain tai verkkoyhteys ei tue videopuhelua Yhteensopivuutta voi kokeilla videotestityökalulla, ks. kohta _Ongelmatilanteet._
 
 ### Videopuhelun asetukset ensimmäisellä kerralla
 
