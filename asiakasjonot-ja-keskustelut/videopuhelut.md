@@ -14,7 +14,7 @@ Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, jois
 
 Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas voi halutessaan laajentaa videon koko ruudun kokoiseksi, jolloin tekstikeskustelu näkyy videon oikealla puolella. \(Anna selaimelle lupa näyttää Ninchatin video koko ruudussa.\)
 
-![Agentin videopuhelun&#xE4;kym&#xE4;](../.gitbook/assets/videocall-screen.jpg)
+![Agentin videopuhelun&#xE4;kym&#xE4;](../.gitbook/assets/video-call-screen.jpg)
 
 ### Videotoiminnot
 
@@ -41,23 +41,33 @@ Mikäli asiakkaan laitteisto, selain tai verkkoyhteys ei tue videopuhelua, sitä
 
 Kun selain kysyy aloittaessa lupaa käyttää kameraa ja mikrofonia, anna Ninchatille lupa siihen.
 
-### Videoasetukset
+### Videopuhelun asetukset ensimmäisellä kerralla
 
-Kun aloitat videopuhelun ensimmäistä kertaa, Ninchat pyytää automaattisesti valitsemaan halutun kameran, mikrofonin ja äänentoistolaitteen. Jatkossa valinta muistetaan.
-
-Mikäli haluat myöhemmin vaihtaa laitteita, pääset asetuksiin klikkaamalla Asetukset-kuvaketta videopuhelun aikana.
-
-![Video settings](../.gitbook/assets/videocall-settings%20%281%29.jpg)
+Kun käynnistät videopuhelun ensimmäistä kertaa, Ninchat pyytää automaattisesti valitsemaan halutun kameran, mikrofonin ja äänentoistolaitteen. Jatkossa valinta muistetaan.
 
 Asetussivulla valitaan videokamera, mikrofoni ja äänentoistolaite. Näet esikatselukuvan valitusta videolähteestä sekä mikrofonin äänenvoimakkuuden visualisoituna kuvan alla palkissa.
 
-### Ruudunjako
+![Videopuheluasetukset](../.gitbook/assets/video-call-settings2.jpg)
+
+### Asetusten muuttaminen jälkikäteen
+
+Videopuhelun asetuksia voi jälkikäteen muuttaa ratas-ikonin kautta videon ollessa päällä.
+
+![](../.gitbook/assets/video-call-settings-button.jpg)
+
+## Ruudunjako
+
+![Ruudunjako asiakkaan suunnasta](../.gitbook/assets/videocall-screenshare.jpg)
 
 Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolelle. Ruudunjako voi olla apuna, kun asiakkaalle pitää näyttää miten web-sovellus toimii, tai neuvoessa tätä esim. lomakkeen täyttämisessä.
 
-Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klikkkaa videopuhelun aikana ruudunjako-kuvaketta ja valitse, mitä haluat näytöltäsi jakaa. Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen kuten web-selaimen näkymän.
+### Ruudunjaon valinta
 
-![Ruudunjako asiakkaan suunnasta](../.gitbook/assets/videocall-screenshare.jpg)
+Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klikkkaa videopuhelun aikana ruudunjako-kuvaketta ja valitse, mitä haluat näytöltäsi jakaa. 
+
+Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten web-selaimen tai tietyn selaimen välilehden.
+
+![Ruudunjakovalinta](../.gitbook/assets/video-call-settings-screenshare-settings.jpg)
 
 ## Videotuki eri selaimilla ja alustoilla
 
