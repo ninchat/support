@@ -10,7 +10,7 @@ Ennen kuin alat järjestää videopuheluita, testaa toimivuus ja yhteensopivuus 
 
 Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Kysy lisää ominaisuudesta.
 
-## Videpuhelunäkymä <a id="videpuhelunakyma"></a>
+## Videopuhelunäkymä <a id="videpuhelunakyma"></a>
 
 Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas voi halutessaan laajentaa videon koko ruudun kokoiseksi, jolloin tekstikeskustelu näkyy videon oikealla puolella. \(Anna selaimelle lupa näyttää Ninchatin video koko ruudussa.\)
 
