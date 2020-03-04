@@ -25,11 +25,7 @@ description: Ohjeita sovelluskehittäjille
 ## Ninchat Embed
 
 [Ninchatin upotusohjeet](https://github.com/ninchat/ninchat-embed/blob/master/embed2.md)   
-Kahdenvälisten asiakaskeskustelujen ja ryhmäkeskustelujen upottaminen web-sivustoille
+Kahdenvälisten asiakaskeskustelujen ja ryhmäkeskustelujen upottaminen web-sivustoille. Käytäthän Ninchat Embedin versiota 2.
 
-Käytäthän Ninchat Embedin versiota 2.
-
-{% hint style="info" %}
 Huom! Yleensä toimitamme valmiin upotuskoodin tilauksen yhteydessä asiakkaalle. Jos tarvit neuvoja upotuskoodin lisäämisessä, [ota meihin yhteyttä](https://ninchat.com/contact?help).
-{% endhint %}
 
