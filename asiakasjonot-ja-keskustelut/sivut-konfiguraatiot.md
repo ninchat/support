@@ -34,6 +34,7 @@ Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
 | translations | Yleiset tekstimääritykset eli käännökset käytetylle kielelle |
 | preAudienceQuestionnaire | Chatin alkukysely |
 | postAudienceQuestionnaire | Chatin loppukysely |
+| window - titlebar - title | Chat-ikkunan otsikko |
 
 Muista tallentaa muutokset.
 
