@@ -213,6 +213,8 @@ Canned messages are handy to streamline your writing with the most frequently us
 5. Enter your desired word or phrase in the Message field.
 6. Save.
 
+**Note!** You can create on canned message row at a time. Create new row after you have edited the keyword and message on the new canned message row.
+
 ### Use a canned message
 
 Instructions for using canned messages in conversations can be found in this article:
