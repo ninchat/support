@@ -207,6 +207,8 @@ Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai 
 5. Kirjoita valmisviestin teksti
 6. Tallenna
 
+**Huom!** Voit luoda yhden valmisviestirivin kerrallaan. Luo uusi rivi kun olet muokannut lisäämäsi rivin avainsana-kentän.
+
 ### Valmisviestin käyttäminen
 
 Ohjeet valmisviestien käyttöön keskusteluissa löydät täältä:
