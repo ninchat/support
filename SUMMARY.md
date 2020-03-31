@@ -5,7 +5,7 @@
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Käyttöliittymän esittely](yleisia-vinkkeja/kayttoliittyman-esittely.md)
-  * [Unohtunut salasana](yleisia-vinkkeja/unohtunut-salasana.md)
+  * [Salasana unohtunut](yleisia-vinkkeja/unohtunut-salasana.md)
   * [Ongelmatilanteet sisäänkirjautumisessa](yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md)
   * [Ongelmatilanteet käyttöliittymässä](yleisia-vinkkeja/ongelmatilanteet-kayttoliittymassa.md)
   * [Pikakuvakkeet Ninchatiin](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
