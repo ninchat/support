@@ -22,6 +22,8 @@ Please make sure you typed the username \(email address\) correctly!
 8. The link will open a web page where you can set a new password for your account. Create a new password and then press "Change password".
 9. You can now sign in with your email address and the new password.
 
+### Common problems
+
 {% hint style="info" %}
 _**Problem:** When I click the "Reset password" link in the mail, the "Change password" -form flashes in the screen but the system logs me in Ninchat and I can't use the form._  
 **Solution:** Log out from Ninchat before requesting a password reset link or clicking the reset link.
