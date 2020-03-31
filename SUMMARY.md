@@ -5,7 +5,7 @@
 * [General tips](yleisia-vinkkeja/README.md)
   * [Terminology](yleisia-vinkkeja/sanasto.md)
   * [User interface](yleisia-vinkkeja/kayttoliittyman-esittely.md)
-  * [Forgot password](yleisia-vinkkeja/unohtunut-salasana.md)
+  * [Forgotten password](yleisia-vinkkeja/unohtunut-salasana.md)
   * [Problems signing in](yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md)
   * [Interface problems](yleisia-vinkkeja/ongelmatilanteet-kayttoliittymassa.md)
   * [Shortcuts to Ninchat](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
