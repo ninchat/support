@@ -20,6 +20,16 @@ Tarkistathan, että kirjoitit tunnuksen \(sähköpostiosoite\) oikein sisäänki
 8. Linkki avaa web-sivun, jossa voit asettaa tunnuksellesi uuden salasanan. Keksi uusi salasana ja paina "Change password".
 9. Voit nyt kirjautua sisään sähköpostiosoiteellasi ja uudella salasanalla.
 
+{% hint style="info" %}
+_**Ongelma:** Kun klikkaan resetointilinkkiä sähköpostissa, salasanan vaihtokenttä vilahtaa ruudussa, mutta en ehdi tehdä mitään koska minut kirjataan sisään palveluun._  
+**Ratkaisu:** Kirjaudu ensin ulos Ninchatista, ennen kuin klikkaat salasananvaihtolinkkiä.
+{% endhint %}
+
+{% hint style="info" %}
+_**Ongelma:** Salasanan vaihto ilmoittaa: "Virhe salasanan vaihdossa"._  
+**Vastaus:** Olet jo käyttänyt salasananvaihtolinkin ja vaihtanut salasanasi kertaalleen. Mikäli et tiedä salasaan, tilaa uusi resetointilinkki sähköpostiisi.
+{% endhint %}
+
 ## Muut ongelmat sisäänkirjautumisessa
 
 {% page-ref page="ongelmatilanteet-sisaankirjautumisessa.md" %}

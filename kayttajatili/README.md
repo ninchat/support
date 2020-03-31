@@ -6,5 +6,7 @@
 
 {% page-ref page="kayttajaasetukset.md" %}
 
+{% page-ref page="../yleisia-vinkkeja/unohtunut-salasana.md" %}
+
 
 
