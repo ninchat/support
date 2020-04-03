@@ -104,11 +104,9 @@ Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten
   </tbody>
 </table>## Ongelmatilanteet
 
-### Testaa toiminta: [**Videopuhelutesti**](https://ninchat.com/videotest)\*\*\*\*
+### Testaa toiminta: [**Videopuhelu-testityökalu**](https://ninchat.com/videotest)
 
 Voit kokeilla videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sopiva videopuhelujen käymiseen. Testi kertoo, mikäli jokin osa-alue ei ole kunnossa.
-
-\*\*\*\*[**Ninchat - Videopuhelu-testityökalu**](https://ninchat.com/videotest)\*\*\*\*
 
 ### **Ohjeita ongelmatilanteisiin**
 
