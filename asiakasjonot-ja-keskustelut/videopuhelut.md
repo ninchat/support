@@ -110,13 +110,25 @@ Voit kokeilla videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sop
 
 \*\*\*\*[**Ninchat - Videopuhelu-testityökalu**](https://ninchat.com/videotest)\*\*\*\*
 
-### **Ongelmatilanteita**
+### **Ohjeita ongelmatilanteisiin**
 
-**"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. "Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty". Tähän asti päästään mutta sitten ei vain tule yhteyttä."**  
+**En näe videopuhelun käynnistyskuvaketta \(kamera-ikoni\).**  
+  
+Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. Internet Explorer ei tue videopuheluita. Videopuhelu on käynnistettävissä vain kahdenvälisissä keskusteluissa.
+
+**"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. Pääsemme kohtaan 'Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty' mutta sitten ei vain tule yhteyttä."**  
   
 Tämän kaltaiseen ongelmaan tavallinen syy on, että jommassa kummassa \(tai kummassakin\) päässä palomuuri tai jokin muu tietoturvaohjelma estää videoyhteyden. Jos olet aiemmin saanut onnistuneesti videoyhteyden samalla koneella, on ongelma todennäköisemmin asiakkaan yhteydessä. 
 
 **"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
 
-Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.
+Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.  
+Jos videon kanssa on säätöä kannattaa agentin ladata selainikkuna-uusiksi \(kaiken varalta\).  
+Jossain tilanteissa myös palomuuri tai anti-virusohjelma voi estää kameran käytön.
+
+**Ääni kiertää tai kaikuu pahasti.**  
+  
+Käytä mieluusti kuulokemikrofonia. Käytä lisäksi Chrome-selainta, jossa on paras kaiunpoisto. Voit yrittää vähentää oman mikrofonin volyymiä \(jos olet kuulokkeissa itse\) tai asiakasta voi pyytää laskemaan omaa volyymiä \(jos asiakkaan päässä kiertää eikä asiakkaalla ole kuulokkeita\).  
+Ääni voi kiertää, jos kummallakaan osapuolella ei ole kuulokkeita käytössä.  
+Jotkut kuulokemikrofonit voivat aiheuttaa äänen kiertämistä. Esim. joissain Bluetooth-kuulokemikrofoneissa oma ääni kuuluu kuulokkeista kun valitsee saman laitteen mikrofoniksi. Joskus selaimen uudelleenkäynnistys voi auttaa.
 
