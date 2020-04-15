@@ -6,6 +6,20 @@ description: >-
 
 # What's new
 
+## 15/3/2020
+
+### **Show queueing time within each queue in sidebar** 
+
+* Queueing time is now displayed next to the queue name in sidebar. If queueing time exceeds one hour an infinity symbol ∞ is shown instead of minutes and seconds.
+
+![Jonotusaika](.gitbook/assets/queueing-time.png)
+
+### **Display channel topic within channel member list**
+
+* Team/group channel topic is shown above the member list. Edit topic in channel settings. In the topic you can show channel memers e.g. common tips and links
+
+![Kanavan aihe](.gitbook/assets/channel-topic-example.PNG)
+
 ## 29/10/2019
 
 ### Auto-fill inputs in pre-audience questionnaire
