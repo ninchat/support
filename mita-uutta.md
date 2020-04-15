@@ -4,6 +4,20 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 # Mitä uutta
 
+## 15.4.2020
+
+### Asiakkaan jonotusajan näyttäminen 
+
+* Jonotusaika näytetään sivupalkissa kunkin jonon osalta. Mikäli jonotusaika on yli tunnin, ajan sijaan näytetään ∞ \(ääretön\) -symboli.
+
+![Jonotusaika](.gitbook/assets/queueing-time.png)
+
+### Kanavan otsikko/aihe jäsenlistan yläpuolella
+
+* Ryhmäkanaville asetettava otsikko/aihe-teksti näytetään jäsenlistan yläpuolella. Muokkaa aihetta kanavan asetuksissa. Voit näyttää jäsenille tässä esim. usein kysyttyjä ohjeita ja linkkejä.
+
+![Kanavan aihe](.gitbook/assets/channel-topic-example.PNG)
+
 ## 29.10.2019
 
 ### Alkukyselyn kenttien automaattinen täyttäminen 
