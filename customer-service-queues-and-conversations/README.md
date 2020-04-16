@@ -14,7 +14,13 @@ Instructions on how to add and manage queue members are described in the Organiz
 
 ![Customer care queues in the Sidebar and queue view](../.gitbook/assets/queue-view.png)
 
-Customer care queues appear in the left Sidebar. Clicking a queue bar  will open the queue view, which can be used to pick incoming customers from the queue and view activity log. The queue activity log shows different events of the queue i.e. when the queue was opened and closed, and who picked customers \(accepted audience\). Clicking the arrow icon next to a queue name in the Sidebar will open a drop-down menu that allows you to pick customers without having to go to the queue view. You can also use the drop-down menu to manually close the queue.
+Customer care queues appear in the left Sidebar. Clicking a queue bar  will open the queue view, which can be used to pick incoming customers from the queue and view activity log. The queue activity log shows different events of the queue i.e. when the queue was opened and closed, and who picked customers \(accepted audience\).
+
+Clicking the arrow icon next to a queue name in the Sidebar will open a drop-down menu that allows you to pick customers without having to go to the queue view. You can also use the drop-down menu to manually close the queue.
+
+In the sidebar, next to queue's name is a timer, which tells you how long \(the first\) customer has waited in the queue. If queueing time has been more than one hour, ∞ -symbol \(infinity\) is shown instead of time.
+
+![Queueing time in sidebar](../.gitbook/assets/queueing-time.png)
 
 ## Open and close a queue
 
