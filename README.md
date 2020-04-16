@@ -9,19 +9,19 @@ You can find answers to frequently asked questions \(FAQs\) below or browse thro
 
 You can keep track of updates and improvements on Ninchat in the _What's new_ section.
 
-{% page-ref page="mita-uutta.md" %}
+{% page-ref page="whats-new.md" %}
 
 ## FAQs
 
-{% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
+{% page-ref page="user-account/create-account.md" %}
 
-{% page-ref page="organisaatio/uuden-agentin-lisaaminen-organisaatioon.md" %}
+{% page-ref page="organization/add-new-agent.md" %}
 
-{% page-ref page="kayttajatili/kayttajaasetukset.md" %}
+{% page-ref page="user-account/user-settings-and-profile.md" %}
 
-{% page-ref page="asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
+{% page-ref page="customer-service-queues-and-conversations/queue-settings.md" %}
 
-{% page-ref page="julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md" %}
+{% page-ref page="public-group-discussions/organize-group-discussion.md" %}
 
  
 
