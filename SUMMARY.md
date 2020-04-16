@@ -35,7 +35,7 @@
   * [Jonon ajastaminen](asiakasjonot-ja-keskustelut/jonon-ajastaminen.md)
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
-  * [Hyödyllisiä vinkkejä](asiakasjonot-ja-keskustelut/hyoedyllisiae-vinkkejae.md)
+  * [Hyödyllisiä vinkkejä](asiakasjonot-ja-keskustelut/hyodyllisia-vinkkeja.md)
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
   * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelut/ryhmakeskustelun-asiakasnakyma.md)
