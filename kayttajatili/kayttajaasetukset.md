@@ -92,7 +92,7 @@ Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonos
 
 ### Näytä ilmoitukset aina
 
-Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset aina"_ -valinta ja tallenna. Tämä helpottaa tapahtumien havainnointia.
+Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset vaikka olisit paikalla"_ -valinta ja tallenna. Tämä helpottaa tapahtumien havainnointia.
 
 ### Työpöytäilmoitukset
 
