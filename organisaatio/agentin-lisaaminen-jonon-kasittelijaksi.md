@@ -4,7 +4,16 @@ description: Agentin lisääminen asiakasjonoon
 
 # Agentin lisääminen jonon käsittelijäksi
 
-## Agentin lisäminen jonoon
+## Agentin lisääminen organisaatioon
+
+1. Uusi jäsen seuraa Käyttäjätilin luominen -ohjeen vaiheet ja liittyy tiimikanavalle.
+2. Näet uuden käyttäjän jäsenlistalla sekä ilmoituksen liittymisestä keskustelussa.
+3. Klikkaa agentin nimeä ja valitse listalta "Lisää organisaatioon / Add to organization".
+4. Klikkaa OK ponnahdusikkuna-ilmoituksessa.
+
+![Lis&#xE4;&#xE4; agentti organisaatioon](../.gitbook/assets/add-to-organization.png)
+
+## Agentin lisäminen jonon
 
 Kun agentti on lisätty organisaation jäseneksi, mene organisaation asetuksiin.
 
