@@ -4,6 +4,15 @@ description: Here you can find instructions on how to add an agent to a queue.
 
 # How to add agent to queue?
 
+## Add an agent to your organization
+
+1. A new user can follow the steps in the article "How to create account?", and join the team channel.
+2. You will see the new member in the member list and a notification that he/she has joined the channel.
+3. Click the agent name and select "Add to organization".
+4. Click OK in the pop-up notification.
+
+![Add an agent to the organization](../.gitbook/assets/add-to-organization.png)
+
 ## Add an agent to a queue
 
 Once the agent is added to the organization, go to the Organization settings.
