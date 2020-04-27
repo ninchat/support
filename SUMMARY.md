@@ -16,7 +16,7 @@
   * [Käyttäjätilin luonti](kayttajatili/kayttajatilin-luonti.md)
   * [Käyttäjäasetukset](kayttajatili/kayttajaasetukset.md)
 * [Organisaatio](organisaatio/README.md)
-  * [Uuden agentin lisääminen](organisaatio/agentin-lisaaminen-jonon-kasittelijaksi.md)
+  * [Uuden agentin lisääminen](organisaatio/uuden-agentin-lisaaminen.md)
   * [Jonojen hallinta](organisaatio/asiakasjonojen-hallinta.md)
   * [Tunnisteet \(Tägit\)](organisaatio/tunnisteet-tagit.md)
   * [Agentin poistaminen organisaatiosta](organisaatio/agentin-poistaminen-organisaatiosta.md)

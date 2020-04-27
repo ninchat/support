@@ -14,7 +14,7 @@ description: Kootusti yleisimmät ohjeaiheet organisaation operaattoreille
 
 {% page-ref page="../organisaatio/" %}
 
-{% page-ref page="../organisaatio/agentin-lisaaminen-jonon-kasittelijaksi.md" %}
+{% page-ref page="../organisaatio/uuden-agentin-lisaaminen.md" %}
 
 {% page-ref page="../organisaatio/asiakasjonojen-hallinta.md" %}
 

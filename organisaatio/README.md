@@ -62,7 +62,7 @@ Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan n
 
 ## Agentin lisääminen jonon käsittelijäksi
 
-{% page-ref page="agentin-lisaaminen-jonon-kasittelijaksi.md" %}
+{% page-ref page="uuden-agentin-lisaaminen.md" %}
 
 ## Asiakasjonojen hallinta
 
