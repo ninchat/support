@@ -60,8 +60,6 @@ Voit hakea ja suodattaa näytettäviä jäseniä kirjoittamalla nimen tai osan n
 
 ## Uuden agentin lisääminen organisaatioon
 
-{% page-ref page="uuden-agentin-lisaaminen-organisaatioon.md" %}
-
 ## Agentin lisääminen jonon käsittelijäksi
 
 {% page-ref page="agentin-lisaaminen-jonon-kasittelijaksi.md" %}

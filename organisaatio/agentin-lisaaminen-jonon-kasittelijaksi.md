@@ -1,10 +1,36 @@
 ---
-description: Agentin lisääminen asiakasjonoon
+description: >-
+  Agentin kutsuminen tiimikanavalle ja lisääminen organisaatioon ja
+  asiakasjonoon
 ---
 
-# Agentin lisääminen jonon käsittelijäksi
+# Uuden agentin lisääminen
 
-## Agentin lisääminen organisaatioon
+## Uuden agentin lisääminen <a id="uuden-agentin-lisaaminen"></a>
+
+Henkilön lisääminen organisaatioon ja asiakasjonoihin tapahtuu seuraavasti:
+
+1. Henkilö kutsutaan tiimikanavalle.
+2. Liittymisen jälkeen agentti lisätään organisaation jäseneksi.
+3. Agentille annetaan oikeudet vastata jonoon.
+
+## 1. Uuden henkilön kutsuminen tiimikanavalle <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+
+Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
+
+![Kutsuminen tiimikanavalle](../.gitbook/assets/invite%20%281%29.png)
+
+1. Klikkaa jäsenlistan lopussa "Kutsu väkeä / Invite people" -linkkiä.
+2. Kirjoita kutsuttavan henkilön sähköpostiosoite kenttään ja paina Enter.
+3. Lisää tarvittaessa muiden kutsuttavien osoitteet.
+4. Paina "Lähetä kutsu / Send invite"
+5. Voit myös kopioida kutsulinkin osoitteen ja lähettää/jakaa sen itse!
+
+{% hint style="info" %}
+Kanavakutsulinkki ovat voimassa 14 vuorokautta sen luomishetkestä. Tämän jälkeen se ei enää toimi, ja sinun tulee tarvittaessa luoda uusi linkki.
+{% endhint %}
+
+## 2. Agentin lisääminen organisaatioon
 
 1. Uusi jäsen seuraa Käyttäjätilin luominen -ohjeen vaiheet ja liittyy tiimikanavalle.
 2. Näet uuden käyttäjän jäsenlistalla sekä ilmoituksen liittymisestä keskustelussa.
@@ -13,7 +39,7 @@ description: Agentin lisääminen asiakasjonoon
 
 ![Lis&#xE4;&#xE4; agentti organisaatioon](../.gitbook/assets/add-to-organization.png)
 
-## Agentin lisäminen jonon
+## 3. Agentin lisäminen jonoon
 
 Kun agentti on lisätty organisaation jäseneksi, mene organisaation asetuksiin.
 
@@ -36,6 +62,8 @@ Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkk
 ![](../.gitbook/assets/organization-queue-shown.png)
 
 ## Usean agentin lisääminen tiettyyn jonoon <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
+
+Organisaation jäseniä on mahdollista lisätä ja poistaa tietyn jonon käsittelijöistä kerralla useita.
 
 {% page-ref page="asiakasjonojen-hallinta.md" %}
 

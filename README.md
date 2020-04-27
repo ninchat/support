@@ -16,8 +16,6 @@ Voit seurata Ninchatiin tulleita muutoksia ja parannuksia Mitä uutta -osiossa.
 
 {% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
 
-{% page-ref page="organisaatio/uuden-agentin-lisaaminen-organisaatioon.md" %}
-
 {% page-ref page="kayttajatili/kayttajaasetukset.md" %}
 
 {% page-ref page="asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
