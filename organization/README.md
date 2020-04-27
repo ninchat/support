@@ -59,7 +59,7 @@ Instead of browsing through all the pages, you can filter or search for a specif
 
 ## Add an agent to a queue
 
-{% page-ref page="add-agent-to-queue.md" %}
+{% page-ref page="add-new-agent.md" %}
 
 ## Manage customer care queues
 

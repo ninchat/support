@@ -16,7 +16,7 @@
   * [Create account](user-account/create-account.md)
   * [User settings and profile](user-account/user-settings-and-profile.md)
 * [Organization](organization/README.md)
-  * [Add a new agent](organization/add-agent-to-queue.md)
+  * [Add a new agent](organization/add-new-agent.md)
   * [Manage queues and queue agents?](organization/manage-queues-and-queue-agents.md)
   * [How to customize tags?](organization/customize-tags.md)
   * [How to remove agent from organization?](organization/remove-agent-from-organization.md)

@@ -12,7 +12,7 @@ description: Here is a collection of common topics for operators in your organiz
 
 {% page-ref page="../organization/" %}
 
-{% page-ref page="../organization/add-agent-to-queue.md" %}
+{% page-ref page="../organization/add-new-agent.md" %}
 
 {% page-ref page="../organization/manage-queues-and-queue-agents.md" %}
 
