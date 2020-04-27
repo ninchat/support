@@ -30,6 +30,10 @@ A strong password is a combination of at least 13 characters which cannot be dir
 
 ## Verify your account
 
+{% hint style="info" %}
+**The verification link is for one-time use** - you need to click it only once. After that, you can sign in at [https://ninchat.com/app](https://ninchat.com/app).
+{% endhint %}
+
 1. **After you have created your account, you will receive a confirmation email with a verification request.**
 2. **To verify the email to be used for your account, please click the button "Click to verify".**
 
@@ -37,9 +41,12 @@ A strong password is a combination of at least 13 characters which cannot be dir
 
 Great! Now you have succesfully created and verified your Ninchat account.
 
-{% hint style="info" %}
-**The verification link is for one-time use** - you need to click it only once. After that, you can sign in at [https://ninchat.com/app](https://ninchat.com/app).
-{% endhint %}
+### Verification mail not found <a id="verification-mail-not-found"></a>
+
+Sometimes in can take a moment for the verification mail to arrive. Wait a minute and try to refresh your mail inbox view.  
+If you can't find the verification mail in your inbox, check your spam folder. If it's not there either, you can order a new verification link mail from your Ninchat user settings.
+
+{% page-ref page="user-settings-and-profile.md" %}
 
 ### Outdated verification link
 
