@@ -28,6 +28,10 @@ Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan l
 
 ## Tunnuksen vahvistaminen
 
+{% hint style="info" %}
+**Vahvistuslinkki on kertakäyttöinen** - sitä tulee klikata vain kerran. Kirjaudu tämän jälkeen Ninchatiin osoitteella [https://ninchat.com/app](https://ninchat.com/app)
+{% endhint %}
+
 1. **Saat sähköpostiisi vahvistusviestin Ninchat-tunnuksen luomisesta.**
 2. **Vahvista tunnuksesi klikkaamalla viestissä "Click to verify" -nappia.**
 
@@ -35,9 +39,12 @@ Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan l
 
 Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi! 
 
-{% hint style="info" %}
-**Vahvistuslinkki on kertakäyttöinen** - sitä tulee klikata vain kerran. Kirjaudu tämän jälkeen Ninchatiin osoitteella [https://ninchat.com/app](https://ninchat.com/app)
-{% endhint %}
+### Vahvistussähköpostia ei löydy <a id="vahvistussahkopostia-ei-loydy"></a>
+
+Vahvistusmailin lähettämisessä voi toisinaan kulua pikku tovi. Odota siis hetki ja päivitä postilaatikkonäkymä.   
+Ellei vahvistusmaili löydy postilaatikostasi, tarkista onko se mennyt roskapostiin. Ellei maili löydy sieltäkään, voit tilata uuden Ninchatin käyttäjäasetuksistasi.
+
+{% page-ref page="kayttajaasetukset.md" %}
 
 ### Vanhentunut vahvistuslinkki
 
