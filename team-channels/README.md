@@ -87,5 +87,3 @@ A channel exists as long as it has members. If the last/only member agent leaves
 
 {% page-ref page="../general-tips/user-interface.md" %}
 
-{% page-ref page="../organization/add-new-agent.md" %}
-

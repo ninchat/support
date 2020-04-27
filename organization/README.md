@@ -57,8 +57,6 @@ Instead of browsing through all the pages, you can filter or search for a specif
 
 ## Add a new agent to your organization
 
-{% page-ref page="add-new-agent.md" %}
-
 ## Add an agent to a queue
 
 {% page-ref page="add-agent-to-queue.md" %}

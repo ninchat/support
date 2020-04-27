@@ -2,7 +2,7 @@
 description: You can find different settings for queues through the Organization settings.
 ---
 
-# How to manage queues and queue agents?
+# Manage queues and queue agents?
 
 ## Queues tab <a id="jonot-valilehti"></a>
 
@@ -14,13 +14,19 @@ In the Organization settings, "Queues" tab, you can view all of your organizatio
 
 ### Manage queue members <a id="jonon-jasenten-hallinta"></a>
 
-You can add multiple agents and manage queue members of a particular queue in the "Queues" tab of your organization settings.
+Manage queue member status for a single user by clicking the agent row in the "Organization" tab.
+
+You can add multiple agents and manage queue members of a particular queue in the "Queues" tab of your organization settings. The agents must be members of the organization \(See page "Adding new agent"\).
 
 1. In the "Queues" tab, click the row of the queue you want to manage.
-2. You will see the list of agents in your organization, and who are marked as member of that queue.
-3. Check or uncheck the box to add or remove the queue membership for appropriate agents.
 
-You can also manage queue member status for a single user by clicking the agent row in the "Organization" tab.
+![Select a queue of which agents you want to edit](../.gitbook/assets/organization-queues-select%20%281%29.png)
+
+2. You will see the list of agents in your organization, and who are marked as member of that queue.
+
+![Add or remove agents in this queue](../.gitbook/assets/organization-queues-members.png)
+
+3. Check or uncheck the box to add or remove the queue membership for appropriate agents.
 
 ## Tags <a id="keskustelumerkintojen-hallinta-tagit"></a>
 
