@@ -8,6 +8,8 @@ description: Video calls in sustomer chats
 
 Video call can be used in customer conversations when text messages and attachments are not enough. Ask more about the feature.
 
+Before you start taking video calls, test your equipment \(camera & audio devices, web browser, connection\) compatibility and functionality with Ninchat Video Call Test Tool. [Open Video Call Test tool](https://ninchat.com/videotest)
+
 ## Video call view <a id="videocallview"></a>
 
 Once started, video call appears above the conversation. Both the agent and the customer can later expand the video call to full screen, with the conversation displayed on the right side instead. \(Allow your browser to view Ninchat video call in full screen.\)
