@@ -6,9 +6,9 @@ description: Asiakaskeskustelujen videopuhelut
 
 ## Yleistä <a id="yleista"></a>
 
-Ennen kuin alat järjestää videopuheluita, testaa toimivuus ja yhteensopivuus Ninchatin Videotestityökalulla, joka kertoo, onko laitteisto, selain ja verkkoyhteys kuunnossa videopuheluita varten. [Avaa Videotestityökalu](https://ninchat.com/videotest)
-
 Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Kysy lisää ominaisuudesta.
+
+Ennen kuin alat järjestää videopuheluita, testaa toimivuus ja yhteensopivuus Ninchatin Videotestityökalulla, joka kertoo, onko laitteisto, selain ja verkkoyhteys kuunnossa videopuheluita varten. [Avaa Videotestityökalu](https://ninchat.com/videotest)
 
 ## Videopuhelunäkymä <a id="videpuhelunakyma"></a>
 
@@ -34,7 +34,7 @@ Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemm
 
 ### Videopuhelun aloitus
 
-Videopuhelun voi käynnistää sen jälkeen kun asiakas-keskustelu on aloitettu.
+Videopuhelun voi käynnistää sen jälkeen kun tekstimuotoinen asiakas-keskustelu on aloitettu.
 
 1. Klikkaa videokamera-kuvaketta kommenttikentässä.
 2. Jos selain kysyy aloittaessa lupaa käyttää kameraa ja mikrofonia, hyväksy pyyntö.
