@@ -92,6 +92,8 @@ You can initiate a video call after you have started a customer audience.
 
 Video call cannot be started if customer's hardware, web browser or connection is not up to par. Compatibility can be tested with Ninchat Video test tool, see part _Problems regarding video calls_.
 
+![Start a video call](../.gitbook/assets/admin-videocall-start.png)
+
 ### Video call settings on the first time
 
 When you start a video call for the first time, Ninchat automatically requests you to select correct video camera, microphone, and sound system equipment. The selections are remembered after this.
