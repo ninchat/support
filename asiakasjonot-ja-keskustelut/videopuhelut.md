@@ -30,7 +30,8 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
 
 ## Videopuhelun ottaminen
 
-Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemmille.
+Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemmille.  
+Varmista, että asiakasjonoosi on kytketty videopuhelu-ominaisuus käyttöön.
 
 ### Videopuhelun aloitus
 

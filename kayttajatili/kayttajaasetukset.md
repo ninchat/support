@@ -122,7 +122,7 @@ Internet Eplorer -selain \(IE\) ei tue työpöytäilmoituksia.
 
 Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa, että työpöytäilmoituksille \(sekä äänille, kameralle ja mikrofonille\) on annettu lupa klikkaamalla lukkoikonia osoiterivillä, ollessasi ninchat.comissa. Alla ohjeet eri selaimille.
 
-**Goole Chrome**
+**Goole Chrome ja Microsoft Edge \(uusi\)**
 
 ![Sivustoasetukset Google Chrome -selaimessa](../.gitbook/assets/browser-permissions-chrome.png)
 
@@ -138,7 +138,7 @@ Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.
 
 Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences\#privacy_
 
-**Microsoft Edge**
+**Microsoft Edge \(vanha versio\)**
 
 ![Sivustoasetukset Microsoft Edge -selaimessa](../.gitbook/assets/browser-permissions-edge.png)
 
@@ -200,14 +200,26 @@ Valmisviestit ovat kätevä tapa virtaviivaistaa kirjoitusta tavallisimpien tai 
 
 ### Uuden valmisviestin luominen
 
-1. Klikkaa käyttäjäasetusten Valmisviestit-välilehdellä "Luo uusi viesti"
-2. Listaan ilmestyy uusi "avainsana: viesti" -pari.
-3. Klikkaa Muokkaus-ikonia 
-4. Kirjoita haluttu avainsana - saa sisältää pieniä kirjaimia \(a-z\) ja numeroita
-5. Kirjoita valmisviestin teksti
-6. Tallenna
+Valmisviesti koostuu itse viestistä ja avainsanasta jolla viesti yksilöidään. Esim. "tervehdys1" \(avainsana\), "Hei. Miten voisin auttaa sinua?" \(viesti\).
 
+1. Klikkaa käyttäjäasetusten Valmisviestit-välilehdellä "Luo uusi viesti"  
+2. Listaan ilmestyy uusi "avain viesti" -pari.
+
+![](../.gitbook/assets/add-tag-fi1.PNG)
+
+3. Klikkaa Muokkaus-ikonia 
+
+![](../.gitbook/assets/add-tag-fi2.PNG)
+
+4. Kirjoita haluttu avainsana - saa sisältää pieniä kirjaimia \(a-z\) ja numeroita, sekä valmisviestin teksti
+
+![](../.gitbook/assets/add-tag-fi3.PNG)
+
+5.  Tallenna
+
+{% hint style="info" %}
 **Huom!** Voit luoda yhden valmisviestirivin kerrallaan. Luo uusi rivi kun olet muokannut lisäämäsi rivin avainsana-kentän.
+{% endhint %}
 
 ### Valmisviestin käyttäminen
 
