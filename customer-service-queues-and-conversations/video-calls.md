@@ -160,3 +160,15 @@ You can try our Video call test tool to check whether your hardware, web browser
 
 \*\*\*\*[**Ninchat - Video test tool**](https://ninchat.com/videotest)
 
+### **Instructions for problems**
+
+**I cannot see videocall start button \(video camera icon\).**  
+Make sure you are using Google Chrome, or Mozilla Firefox web browser. Internet Explorer does not support video calls.  
+You can only start a video call in 1-on-1 conversations; video camera icon does not show up in group channels.
+
+**Voice echoes during video call**  
+Preferably use a microphone headset. In addition, use Chrome browser, as it has the best available echo cancellation.  
+You can try and lower you microphone volume, or ask the customer to do the same.  
+If neither party is using a headset, there's a greater chance the voice echoes.  
+Restarting your web browser may help.
+
