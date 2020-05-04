@@ -207,13 +207,23 @@ Canned messages are handy to streamline your writing with the most frequently us
 ### Create a new canned message
 
 1. In the "Canned messages" tab, click the "Create new message" button.
-2. A new set of keyword and message will appear.
-3. Click the Edit icon \(pencil icon\). 
-4. Enter a keyword in the Keyword field, only lowercase letters \(a-z\) and numbers are allowed.
-5. Enter your desired word or phrase in the Message field.
-6. Save.
 
+![](../.gitbook/assets/add-tag-en1.PNG)
+
+2. A new set of keyword and message will appear.  
+3. Click the Edit icon \(pencil icon\). 
+
+![](../.gitbook/assets/add-tag-en2.PNG)
+
+4. Enter a keyword in the Keyword field, only lowercase letters \(a-z\) and numbers are allowed, and a desired phrase in the Message field.
+
+![](../.gitbook/assets/add-tag-en3.PNG)
+
+5. Save.
+
+{% hint style="info" %}
 **Note!** You can create on canned message row at a time. Create new row after you have edited the keyword and message on the new canned message row.
+{% endhint %}
 
 ### Use a canned message
 

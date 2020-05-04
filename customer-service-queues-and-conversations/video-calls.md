@@ -79,7 +79,8 @@ Once started, video call appears above the conversation. Both the agent and the 
 
 Before having video calls, please test compatibility with our Video test tool. The tool reports whether your hardware, web browser and connection is adequate for video calls. [Open video testing tool](https://ninchat.com/videotest)
 
-Initiating a video call can be allowed for the agent, the customer, or both.
+Initiating a video call can be allowed for the agent, the customer, or both.  
+Make sure video call features has been turned on for your customer queue.
 
 ### Starting a video call
 
