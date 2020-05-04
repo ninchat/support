@@ -43,6 +43,8 @@ Videopuhelun voi käynnistää sen jälkeen kun tekstimuotoinen asiakas-keskuste
 
 Videopuhelua ei voi aloittaa, mikäli asiakkaan laitteisto, selain tai verkkoyhteys ei tue videopuhelua Yhteensopivuutta voi kokeilla videotestityökalulla, ks. kohta _Ongelmatilanteet._
 
+![Videopuhelun aloitus](../.gitbook/assets/admin-videocall-start.png)
+
 ### Videopuhelun asetukset ensimmäisellä kerralla
 
 Kun käynnistät videopuhelun ensimmäistä kertaa, Ninchat pyytää automaattisesti valitsemaan halutun kameran, mikrofonin ja äänentoistolaitteen. Jatkossa valinta muistetaan.
@@ -112,7 +114,7 @@ Voit kokeilla videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sop
 
 **En näe videopuhelun käynnistyskuvaketta \(kamera-ikoni\).**  
   
-Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. Internet Explorer ei tue videopuheluita. Videopuhelu on käynnistettävissä vain kahdenvälisissä keskusteluissa.
+Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. Internet Explorer ei tue videopuheluita. Videopuhelu on käynnistettävissä vain kahdenvälisissä keskusteluissa, eli videokamera-ikoni ei näy ryhmäkeskusteluissa.
 
 **"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. Pääsemme kohtaan 'Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty' mutta sitten ei vain tule yhteyttä."**  
   
