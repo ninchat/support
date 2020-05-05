@@ -206,6 +206,9 @@ Canned messages are handy to streamline your writing with the most frequently us
 
 ### Create a new canned message
 
+A canned message consists of the message itself, and keyword which individualizes it.   
+E.g. "hello1" \(keyword\), "Hi there! How can I assist you?" \(message\).
+
 1. In the "Canned messages" tab, click the "Create new message" button.
 
 ![](../.gitbook/assets/add-tag-en1.PNG)
