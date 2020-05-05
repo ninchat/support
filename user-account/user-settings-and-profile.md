@@ -37,7 +37,9 @@ In the "Authentication" tab, there are some authentication methods where you can
 
 ### Add a new sign-in email
 
-Your user account can have multiple email addresses for signing in. Click the "Add new email" button, type a new email address and create a password for it.
+Your user account can have multiple email addresses for signing in. Your email address might also change and after you may want to change it for sign-in too.
+
+Click the "Add new email" button, type a new email address and create a password for it. Add new sign-in email before you remove the previous.
 
 ### Choose visibility of your emails to others <a id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
 
@@ -55,7 +57,7 @@ If you forgot your password, you can order a password reset link to your email f
 
 You can remove a sign-in option \(email address\) by clicking the trash can icon on the right of that identity row.
 
-Note! If you delete all of your sign-in options, you will no longer have access to your account. So please always keep at least one email.
+Note! If you delete all of your sign-in options, you will no longer have access to your account and it will be removed. So please always keep at least one email.
 
 ### Verifying account or a sign-in option
 
@@ -102,7 +104,9 @@ Allow the browser to display desktop notifications by clicking the "Allow" butto
 
 #### Windows operating system
 
-Desktop notifications are displayed on the screen one by one. The rest can be found in Action Center \(Windows 10\) until you acknowledge them. [Learn more about Action Center](https://support.microsoft.com/en-gb/help/4026791/windows-how-to-open-action-center).
+Desktop notifications are displayed on the screen one by one. The rest can be found in Action center of Windows 10, until you acknowledge them. It's recommendable to clear unseen notification every once in a while from the Action center. ​[Learn more about Action Center](https://support.microsoft.com/en-gb/help/4026791/windows-how-to-open-action-center)
+
+![Open Windows Action center](../.gitbook/assets/windows-actioncenter.png)
 
 ### Confirm desktop notifications
 
