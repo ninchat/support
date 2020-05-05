@@ -4,6 +4,8 @@ description: Profiili ja asetukset
 
 # Käyttäjäasetukset
 
+## Käyttäjäasetusten avaaminen <a id="kayttajaasetusten-avaaminen"></a>
+
 Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavasti:
 
 1. Klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.
@@ -11,7 +13,7 @@ Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavast
 3. Omat asetukset -näkymä on jaettu eri välilehdille, joilta voit valita haluamasi.
 
 {% hint style="info" %}
-Muokattuasi asetuksia, muista painaa "Tallenna / Save" -nappia, jos haluat säilyttää muutokset.
+Muokattuasi asetuksia, muista aina painaa "Tallenna / Save" -nappia.
 {% endhint %}
 
 ![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/user-menu.png)
@@ -37,19 +39,21 @@ Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisä
 
 Voit vaihtaa tilisi salasanan klikkaamalla kirjautumissähköpostiosoitteen rivillä _"Muuta salasana"_. Sinulta tarkistetaan vanha salasanasi ja pyydetään keksimään uusi salasana.
 
-Tapauksessa, että olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salasanan vaihtolinkin sähköpostiisi. 
+Jos olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salasanan vaihtolinkin sähköpostiisi. Kirjaudu ulos tilataksesi salasanan palautuslinkki.
 
 {% page-ref page="../yleisia-vinkkeja/unohtunut-salasana.md" %}
 
 ### Uuden kirjautumissähköpostin lisääminen <a id="uuden-kirjautumissahkopostin-lisaaminen"></a>
 
-Käyttäjätililläsi voi olla useita sähköpostiosoitteita, joilla pääset kirjautumaan. Klikkaamalla _"Lisää uusi sähköposti"_, voit luoda uden kirjautumissähköpostiosoitteen ja salasanan sille.
+Käyttäjätililläsi voi olla useita sähköpostiosoitteita, joilla pääset kirjautumaan. Käyttämäsi sähköpostiosoite voi myös muuttua, jolloin haluat asettaa uuden myös kirjautumiseen.
+
+Klikkaamalla _"Lisää uusi sähköposti"_, voit luoda uuden kirjautumissähköpostiosoitteen ja salasanan sille. Lisää uusi sähköpostiosoite, ennen kuin poistat vanhan.
 
 ### Kirjautumistavan poistaminen
 
 Voit poistaa kirjautumistavan \(sähköposti, mobiililaite\) klikkaamalla roskakorikuvaketta.
 
-**Huom!** Jos poistat kaikki kirjautumistyypit, et voi enää käyttää tiliäsi. Säilytä siis aina esim. yksi kirjautumissähköposti asetuksissa.
+**Huom!** Jos poistat kaikki kirjautumistyypit, et voi enää käyttää tiliäsi ja tilisi poistetaan. Säilytä siis aina yksi kirjautumissähköposti asetuksissa.
 
 ### Tilin ja sähköpostin näkyvyys muille <a id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
 
@@ -102,7 +106,9 @@ Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / S
 
 #### Windows-käyttöjärjestelmä
 
-Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät Toimintokeskuksen ilmoituksista \(Windows 10\), kunnes kuittaat ne. [Lue lisää Windowsin Toimintokeskuksesta](https://support.microsoft.com/fi-fi/help/4026791/windows-how-to-open-action-center)
+Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät Toimintokeskuksen ilmoituksista \(Windows 10\), kunnes kuittaat ne. Muista välillä tyhjätä kuittaamattomat ilmoitukset toimintokeskuksesta. [Lue lisää Windowsin Toimintokeskuksesta](https://support.microsoft.com/fi-fi/help/4026791/windows-how-to-open-action-center)
+
+![Windowsin Toimintokeskuksen avaaminen](../.gitbook/assets/windows-actioncenter.png)
 
 ### Työpöytäilmoitusten kuittaaminen
 
