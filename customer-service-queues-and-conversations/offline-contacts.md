@@ -4,17 +4,9 @@ description: Registered customer contacts from offline hours
 
 # Offline contacts
 
-## Common about offline situations
-
-When customer queue is closed, you can handle offline situation in various ways:
-
-* Offline message which tells opening hours and additional contact info
-* Contact form, so customer can leave you a message
-* Let chatbot or Nincht Lightbot help visitor in common issues. Also Lightbot can pick a message like a contact form.
-
-![Offline views: Ninchat Light-bot, Contact form, Offline message](../.gitbook/assets/offline-views.png)
-
 ## Contact form
+
+You can show a contact form in the chat window, so visitors can contact you even if the customer queue is closed. Registered contacts are saved in queue statistics and can be also seen in Queue activity log.
 
 ### Notification settings
 
@@ -50,4 +42,14 @@ Registered contact contents open up.
 Registered contacts can be also found via queue statistics, in _Questionnaire answers._
 
 {% page-ref page="queue-statistics.md" %}
+
+## General info about offline situations
+
+When customer queue is closed, you can handle offline situation in various ways:
+
+* Offline message which tells opening hours and additional contact info
+* Contact form, so customer can leave you a message
+* Let chatbot or Nincht Lightbot help visitor in common issues. Also Lightbot can pick a message like a contact form.
+
+![Offline views: Ninchat Light-bot, Contact form, Offline message](../.gitbook/assets/offline-views.png)
 
