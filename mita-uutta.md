@@ -4,6 +4,14 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 # Mitä uutta
 
+## 20.4.2020
+
+### Monipuolisemmat yhteydenottolomakkeet
+
+* Yhteydenottolomakkeet offline-tilanteisiin ovat nyt paremmin muokattavissa tarpeitanne varten.Tuki tekstikentille, laajoille tekstikentille, nappivalinnoille ja pudotusvalikoille.
+
+![Yhteydenottolomake-esimerkki](.gitbook/assets/registered-asiakas.PNG)
+
 ## 15.4.2020
 
 ### Asiakkaan jonotusajan näyttäminen 
