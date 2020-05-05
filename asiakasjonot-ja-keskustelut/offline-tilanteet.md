@@ -4,17 +4,9 @@ description: Yhteydenottoviestit asiakasjonon ollessa suljettu
 
 # Offline-yhteydenotot
 
-## Yleistä offline-tilanteista
-
-Kun asiakasjono on suljettu, voit hoitaa offline-ajan eri tavoin:
-
-* Näytä offline-viesti, jossa kerrotaan aukioloajat ja vaihtoehtoiset yhteydenottotavat
-* Näytä yhteydenottolomake, jolla asiakkaat voivat jättää sinulle viestin
-* Käytä chat-bottia, tai Ninchatin kevytbottia ohjeistamaan käyttäjää yleisissä tilanteissa. Myös kevytbotti voi kerätä yhteydenottoviestin.
-
-![Offline-n&#xE4;kymi&#xE4;: Ninchat-kevytbotti, yhteydenottolomake, suljettu-viesti](../.gitbook/assets/offline-views.png)
-
 ## Yhteydenottolomake
+
+Chat-ikkunassa on mahdollista näyttää yhteydenottolomake, jolla asiakkaat voivat jättää sinulle viestin, kun asiakasjono on suljettu. Yhteydenotot tallentuvat jonon tilastoihin ja näkyvät jonon tapahtumaloki -sivulla.
 
 ### Ilmoitusasetukset
 
@@ -51,4 +43,14 @@ Yhteydenottoviestin sisältö avautuu näkymään:
 Yhteydenottoviestit löytyvät myös jonon tilastoista _Kyselyvastaukset_-kohdasta.
 
 {% page-ref page="jonon-tilastot.md" %}
+
+## Yleistä offline-tilanteista
+
+Kun asiakasjono on suljettu, voit hoitaa offline-ajan eri tavoin:
+
+* Näytä offline-viesti, jossa kerrotaan aukioloajat ja vaihtoehtoiset yhteydenottotavat
+* Näytä yhteydenottolomake, jolla asiakkaat voivat jättää sinulle viestin
+* Käytä chat-bottia, tai Ninchatin kevytbottia ohjeistamaan käyttäjää yleisissä tilanteissa. Myös kevytbotti voi kerätä yhteydenottoviestin.
+
+![Offline-n&#xE4;kymi&#xE4;: Ninchat-kevytbotti, yhteydenottolomake, suljettu-viesti](../.gitbook/assets/offline-views.png)
 
