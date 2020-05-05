@@ -34,6 +34,7 @@
   * [Queue schedule](customer-service-queues-and-conversations/queue-schedule.md)
   * [Queue statistics](customer-service-queues-and-conversations/queue-statistics.md)
   * [Embedding chat on website](customer-service-queues-and-conversations/embedding-chat.md)
+  * [Offline contacts](customer-service-queues-and-conversations/offline-contacts.md)
   * [Customer service tips](customer-service-queues-and-conversations/customer-service-tips.md)
 * [Public group discussions](public-group-discussions/README.md)
   * [Embedding group chat on website](public-group-discussions/embedding-group-chat.md)
