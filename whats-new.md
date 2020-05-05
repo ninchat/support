@@ -6,7 +6,15 @@ description: >-
 
 # What's new
 
-## 15/3/2020
+## 20/4/2020
+
+### More versatile contact forms
+
+* Contact forms for offline contact requests are now more advanced and can be better modified to your need. Text areas and inputs, button selections and dropdowns supported.
+
+![Contact form example](.gitbook/assets/registered-customer-contact.PNG)
+
+## 15/4/2020
 
 ### **Show queueing time within each queue in sidebar** 
 
