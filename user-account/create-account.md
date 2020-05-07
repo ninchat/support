@@ -2,7 +2,7 @@
 description: Here you can find instructions on how to create a Ninchat account.
 ---
 
-# Create account
+# Create new account
 
 
 

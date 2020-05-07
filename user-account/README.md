@@ -8,6 +8,14 @@
 
 {% page-ref page="../general-tips/forgotten-password.md" %}
 
+{% page-ref page="../general-tips/problems-signing-in.md" %}
+
+{% page-ref page="../general-tips/interface-problems.md" %}
+
+{% page-ref page="../general-tips/remove-user-account.md" %}
+
+
+
 
 
 

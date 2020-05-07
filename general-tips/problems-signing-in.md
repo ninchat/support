@@ -4,7 +4,7 @@ description: >-
   in other related situations.
 ---
 
-# Problems signing in
+# Problems with sign-in
 
 ## Forgot your password?
 

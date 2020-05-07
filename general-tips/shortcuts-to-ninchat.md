@@ -14,6 +14,10 @@ If you want to use Ninchat in Finnish, please add the language configuration "?l
 
 ## Google Chrome <a id="google-chrome-selain"></a>
 
+{% hint style="info" %}
+These tips work also with the new Microsoft Edge Chromium browser.
+{% endhint %}
+
 You can make launching and opening Ninchat faster by creating a bookmark on the top row of your Chrome browser, or by creating a custom launch shortcut to Ninchat on your desktop.
 
 ![Add a bookmark and application shortcut in Chrome](../.gitbook/assets/chrome-app.png)
@@ -51,9 +55,13 @@ You can pin the Ninchat tab on the top row of the browser, so that it is always 
 
 ![](../.gitbook/assets/firefox.png)
 
-## Microsoft Edge <a id="microsoft-edge-selain"></a>
+## Microsoft Edge \(old version\) <a id="microsoft-edge-selain"></a>
 
-Edge allows you to bookmark websites, as well as to create shortcuts on the Windows taskbar and Start menu.
+{% hint style="info" %}
+New Microsoft Edge Chromium work similarly as Google Chrome. See tips for Chrome.
+{% endhint %}
+
+Edge \(old version\) allows you to bookmark websites, as well as to create shortcuts on the Windows taskbar and Start menu.
 
 #### Bookmark <a id="kirjanmerkin-lisaeaeminen-1"></a>
 
@@ -79,6 +87,11 @@ You can pin the Ninchat tab on the top row of the browser, so that it is always 
 ![Pin Ninchat tab on Edge](../.gitbook/assets/edge%20%281%29.png)
 
 ## Internet Explorer \(IE\) <a id="internet-explorer-ie-selain"></a>
+
+{% hint style="warning" %}
+We strongly advice using a more modern browser: Chrome, Firefox or Edge.  
+IE is not secure and doesn't support all features, including video calls.
+{% endhint %}
 
 IE allows you to bookmark websites, as well as to create shortcuts on the Windows taskbar.
 

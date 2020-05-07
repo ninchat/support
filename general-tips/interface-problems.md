@@ -1,4 +1,4 @@
-# Interface problems
+# Problems with interface
 
 ## Channel member list not shown
 
