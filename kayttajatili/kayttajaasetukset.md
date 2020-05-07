@@ -9,11 +9,13 @@ description: Profiili ja asetukset
 Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavasti:
 
 1. Klikkaa nuoli-ikonia nimesi vieressä vasemmassa alakulmassa.
-2. Valitse "Asetukset ja profiili / Settings and profile"
+2. Valitse _Asetukset ja profiili / Settings and profile_.
 3. Omat asetukset -näkymä on jaettu eri välilehdille, joilta voit valita haluamasi.
 
+Ninchatin käyttöliittymä näkyy joko suomeksi tai englanniksi sen mukaan, mikä kieli web-selaimessasi on käytössä.
+
 {% hint style="info" %}
-Muokattuasi asetuksia, muista aina painaa "Tallenna / Save" -nappia.
+Muokattuasi asetuksia, muista aina painaa _Tallenna / Save_ -nappia.
 {% endhint %}
 
 ![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/user-menu.png)
@@ -25,6 +27,7 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 1. Kirjoita haluamasi näyttönimi kohtaan Lempinimi / Screen name
 2. Kirjoita oikea nimesi kohtaan Koko nimi / Real name
    * Tätä ei näytetä esim. asiakkaille asiakaspalvelukeskusteluissa
+   * Koko nimi -tieto on hyödyllinen tukitilanteissa, jolloin voimme paremmin erottaa sinut.
 3. Lisää itsellesi käyttäjäkuva \(jpg- tai png-kuvatiedosto\)
    * Kuva helpottaa tunnistamista tiimiläisten kesken
 4. Tallenna
@@ -33,7 +36,7 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 
 ## Kirjautumisvalinnat <a id="kirjautumisvalinnat"></a>
 
-Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen sähköpostiosoitteen kirjautumiseen. 
+Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen kirjautumissähköpostiosoitteen. 
 
 ### Salasanan vaihtaminen
 
