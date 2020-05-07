@@ -41,7 +41,9 @@ The invitation link is valid for 14 days from the time it is created. It will th
 
 ## 3. Add an agent to a queue
 
-Once the agent is added to the organization, go to the Organization settings.
+Once the agent is added to the organization, go to the Organization settings. You can access it by clicking channel name or organization,  select _Organization settings_ from the dropdown menu.
+
+![Open organization settings](../.gitbook/assets/org-settings-menu.jpg)
 
 In the "Organization" tab, click the agent row in the member list to see the agent's details and his/her rights in a new view.
 
