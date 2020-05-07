@@ -18,7 +18,7 @@ description: Usein kysyttyä
 
 {% page-ref page="ninchatin-kayttaminen-suomen-kielella.md" %}
 
-{% page-ref page="tunnuksen-poistaminen.md" %}
+{% page-ref page="../kayttajatili/tunnuksen-poistaminen.md" %}
 
 
 

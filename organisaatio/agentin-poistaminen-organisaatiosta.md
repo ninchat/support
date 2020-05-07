@@ -28,5 +28,5 @@ Agentin poistaminen kanavalta vaatii kyseisen kanavan moderaattorioikeutta. Agen
 
 Mikäli käyttäjätili halutaan kokonaan poistaa, agentin tulee tehdä se itse. Ohjeet linkin takana.
 
-{% page-ref page="../yleisia-vinkkeja/tunnuksen-poistaminen.md" %}
+{% page-ref page="../kayttajatili/tunnuksen-poistaminen.md" %}
 
