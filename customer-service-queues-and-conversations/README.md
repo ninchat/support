@@ -22,7 +22,7 @@ In the sidebar, next to queue's name is a timer, which tells you how long \(the 
 
 ![Queueing time in sidebar](../.gitbook/assets/queueing-time.png)
 
-## Open and close a queue
+## Opening and closing a queue
 
 The queue can be opened and closed manually, or automatically by scheduling. An open queue is marked with a green circle in the Sidebar and queue view, while a closed queue is markded with a red circle.
 
@@ -42,7 +42,7 @@ Read more about opening and closing a queue automatically by scheduling:
 
 {% page-ref page="queue-schedule.md" %}
 
-## Pick a customer from a queue
+## Picking customers from queue
 
 {% hint style="info" %}
 Notifications of customers in a queue are displayed in the queue bar as well as in the Activity bar. The Activity bar notifies you of new events by turning blue, and you will see it even when you have another organization view.
@@ -50,17 +50,17 @@ Notifications of customers in a queue are displayed in the queue bar as well as 
 
 A customer can be picked from either the Sidebar or the larger queue view. Below are the instructions for both options.
 
-### A\) Pick a customer through the queue view 
+### A\) Pick a customer via the Queue Activity log 
 
-1. In the Sidebar, click the name of the queue \(in the picture - Customer service queue\) rather than the arrow.
-2. In the queue view, click the button "Pick person from queue".
+1. In the Sidebar, click the name of the queue \("Customer service queue" in the picture\) rather than the arrow next to it. 
+2. In the Queue Activity log, click the button "Pick person from queue".
 3. The customer conversation begins.
 
 ![](../.gitbook/assets/queue-answer1%20%281%29.png)
 
-### B\) Pick a customer through the drop-down menu
+### B\) Pick a customer via queue dropdown menu
 
-1. Click the arrow icon next to the queue name in the Sidebar \(in the picture - Customer service queue\).
+1. Click the arrow icon next to the queue name in the Sidebar \("Customer service queue" in the picture\).
 2. Select "Pick person from queue" from the drop-down menu that opens.
 3. The customer conversation begins.
 
@@ -68,9 +68,10 @@ A customer can be picked from either the Sidebar or the larger queue view. Below
 
 ### **Queue menu functions**
 
+* Open Queue activity log _\(click queue name\)_
 * Pick person from queue
-* Queue settings \(requires organization operator rights\)
-* Queue statistics \(requires organization operator rights\)
+* Queue settings _\(requires organization operator rights\)_
+* Queue statistics _\(requires organization operator rights\)_
 * Open/Close queue
 
 {% page-ref page="../general-tips/user-interface.md" %}
@@ -231,11 +232,13 @@ Transfer queues can be enabled in the queue settings. Once a queue is allowed fo
 
 Customer service agents can tag customer conversations with tags according to the topic or nature of the conversations, for example, "sales", "new customer", "problem", "bug", etc. Adding tags makes it easier to record and later review the conversations.
 
-#### Tag a conversation
+### Tag a conversation
 
 An agent can add a tag by choosing from the list of tags in the chat features. Added tags appear and are stored in the conversation metadata in the beginning of the conversation.
 
-#### Create and edit tags
+![Adding tags view](../.gitbook/assets/agent-tags.PNG)
+
+### Create and edit tags
 
 Tags are organization specific and can be created and edited by your organization operators. To create and edit tags, see[ Organization &gt; How to manage queues and queue members? &gt; Tags](https://ninchat.gitbook.io/ninchat-support/organisaatio/asiakasjonojen-hallinta#keskustelumerkintojen-hallinta-tagit)
 
