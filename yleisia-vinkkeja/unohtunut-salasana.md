@@ -34,7 +34,7 @@ _**Ongelma:** Salasanan vaihto ilmoittaa: "Virhe salasanan vaihdossa"._
 
 ## Muut ongelmat sisäänkirjautumisessa
 
-{% page-ref page="ongelmatilanteet-sisaankirjautumisessa.md" %}
+{% page-ref page="ongelmat-kirjautumisessa.md" %}
 
 
 

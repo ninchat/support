@@ -10,7 +10,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 ## Käyttöliittymä rikki? <a id="kayttoliittyma-rikki"></a>
 
-{% page-ref page="ongelmatilanteet-kayttoliittymassa.md" %}
+{% page-ref page="ongelmat-kayttoliittymassa.md" %}
 
 ## Mistä pääsen kirjautumaan palveluun?
 

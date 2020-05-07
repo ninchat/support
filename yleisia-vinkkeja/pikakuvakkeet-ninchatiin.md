@@ -16,6 +16,10 @@ Mikäli haluat käyttää Ninchatia suomeksi, lisää osoitteeseen ​_?lang=fi_
 
 ## Google Chrome -selain <a id="google-chrome-selain"></a>
 
+{% hint style="info" %}
+Ohjeet toimivat myös Microsoft Edge -selaimen uudella versiolla.
+{% endhint %}
+
 Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläriville kirjanmerkin, tai tekemällä Ninchatille oman käynnistyspikakuvakkeen Windowsin työpöydälle.
 
 ![Kirjanmerkin ja sovelluspikakuvakkeen lis&#xE4;&#xE4;minen Chromessa](../.gitbook/assets/chrome-app.png)
@@ -53,9 +57,13 @@ Voit kiinnittää Ninchat-välilehden \(tabin\) yläriville, jolloin se pysyy ai
 
 ![](../.gitbook/assets/firefox.png)
 
-## Microsoft Edge -selain <a id="microsoft-edge-selain"></a>
+## Microsoft Edge -selain \(vanha versio\) <a id="microsoft-edge-selain"></a>
 
-Edge sallii sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin ja Käynnistä-valikkoon.
+{% hint style="info" %}
+Uusi Microsoft Edge Chromium toimii samoin kuin Google Chrome. Katso ohjeet Chromelle.
+{% endhint %}
+
+Edge \(vanha versio\) sallii sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin ja Käynnistä-valikkoon.
 
 #### Kirjanmerkin lisääminen <a id="kirjanmerkin-lisaeaeminen-1"></a>
 
@@ -81,6 +89,11 @@ Voit kiinnittää Ninchat-välilehden \(tabin\) yläriville, jolloin se pysyy ai
 ![Ninchat-v&#xE4;lilehden kiinnitt&#xE4;minen Edgess&#xE4;](../.gitbook/assets/edge%20%281%29.png)
 
 ## Internet Explorer \(IE\) -selain <a id="internet-explorer-ie-selain"></a>
+
+{% hint style="warning" %}
+Suosittelemme käyttämään uudempaa selainta, kuten: Chrome, Firefox or Edge.   
+IE on vanhentunut selain jonka tietoturva on puutteellinen, eikä se tue kaikki ominaisuuksia, kuten videopuhelut.
+{% endhint %}
 
  IE mahdollistaa sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin.
 

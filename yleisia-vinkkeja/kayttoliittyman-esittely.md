@@ -196,5 +196,5 @@ Asiakasjononäkymään pääset klikkaamalla jonon nimeä. Näkymästä voit poi
 
 ## Ongelmatilanteet
 
-{% page-ref page="ongelmatilanteet-kayttoliittymassa.md" %}
+{% page-ref page="ongelmat-kayttoliittymassa.md" %}
 

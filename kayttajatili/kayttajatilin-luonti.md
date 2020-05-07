@@ -60,7 +60,7 @@ Mikäli et vahvista tunnusta ajoissa, toimitettu vahvistuslinkki vanhenee eikä 
 
 Kirjautuessasi sinun tulisi päätyä organisaatiosi tiimikanavalle tai viimeksi avoinna olleeseen keskusteluun.
 
-{% page-ref page="../yleisia-vinkkeja/ongelmatilanteet-sisaankirjautumisessa.md" %}
+{% page-ref page="../yleisia-vinkkeja/ongelmat-kirjautumisessa.md" %}
 
 ## Käyttäjätilin asetukset
 

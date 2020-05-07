@@ -10,9 +10,9 @@ description: Usein kysyttyä
 
 {% page-ref page="unohtunut-salasana.md" %}
 
-{% page-ref page="ongelmatilanteet-sisaankirjautumisessa.md" %}
+{% page-ref page="ongelmat-kirjautumisessa.md" %}
 
-{% page-ref page="ongelmatilanteet-kayttoliittymassa.md" %}
+{% page-ref page="ongelmat-kayttoliittymassa.md" %}
 
 {% page-ref page="pikakuvakkeet-ninchatiin.md" %}
 
