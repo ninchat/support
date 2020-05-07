@@ -1,4 +1,4 @@
-# Ninchat Support: Getting started
+# Welcome
 
 **Welcome to Ninchat Support portal!**   
 You can find answers to frequently asked questions \(FAQs\) below or browse through the articles on the left by topic. If you still cannot find what you are looking for, contact us [here](https://ninchat.com/contact).

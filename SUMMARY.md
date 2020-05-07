@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ninchat Support: Getting started](README.md)
+* [Welcome](README.md)
 * [What's new](whats-new.md)
 * [General tips](general-tips/README.md)
   * [Terminology](general-tips/terminology.md)
