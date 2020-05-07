@@ -3,7 +3,7 @@
 * [Tervetuloa](README.md)
 * [Mitä uutta](mita-uutta.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
-  * [Näin pääset alkuun](yleisia-vinkkeja/naein-paeaeset-alkuun.md)
+  * [Näin pääset alkuun](yleisia-vinkkeja/nain-paaset-alkuun.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Käyttöliittymän esittely](yleisia-vinkkeja/kayttoliittyman-esittely.md)
   * [Salasana unohtunut](yleisia-vinkkeja/unohtunut-salasana.md)
