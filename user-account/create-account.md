@@ -4,25 +4,28 @@ description: Here you can find instructions on how to create a Ninchat account.
 
 # Create new account
 
-
-
 {% hint style="info" %}
 We recommend using [Google Chrome](https://www.google.com/chrome/) or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser for Ninchat.
 {% endhint %}
 
 ## **Create an account**
 
-Go to [https://ninchat.com/app/](https://ninchat.com//app/), choose the tab "Create account" and enter the following information:
+You can create a new account on [https://ninchat.com/app/](https://ninchat.com//app/)   
+Choose the tab "Create account" and enter the following information:
 
-* **Name: Your real name or nickname**
-* **Email: Email address of the company/organization you are using e.g. matti.mainio@yritys.com**
-* **Password: A strong password for the account**
+* **Name:** Your real name or desired screen name
+* **Email:** Email address of the company/organization you are using e.g. matti.mainio@yritys.com
+* **Password:** A strong password for the account
 
-To continue, click the **"Create account"** button.
+{% hint style="info" %}
+Be careful how you type your email address. When you later use it to sign-in, you must type it exactly the same, minding small and capital letters.
+{% endhint %}
 
 {% hint style="info" %}
 A strong password is a combination of at least 13 characters which cannot be directly found in dictionary. Always use a different password for each service.
 {% endhint %}
+
+To continue, click _Create account._
 
 ![](../.gitbook/assets/invite-accept-signup.png)
 
@@ -30,16 +33,17 @@ A strong password is a combination of at least 13 characters which cannot be dir
 
 ## Verify your account
 
+After you have created your account, you will receive a confirmation email with a verification request.
+
+To verify the email to be used for your account, please click the button "Click to verify".
+
 {% hint style="info" %}
 **The verification link is for one-time use** - you need to click it only once. After that, you can sign in at [https://ninchat.com/app](https://ninchat.com/app).
 {% endhint %}
 
-1. **After you have created your account, you will receive a confirmation email with a verification request.**
-2. **To verify the email to be used for your account, please click the button "Click to verify".**
-
 ![](../.gitbook/assets/verify.png)
 
-Great! Now you have succesfully created and verified your Ninchat account.
+Great! Now you have successfully created and verified your Ninchat account and can sign in to your account.
 
 ### Verification mail not found <a id="verification-mail-not-found"></a>
 
@@ -56,15 +60,15 @@ If you haven't verified your account on time, the verification link goes out of 
 
 ## Sign in to your account
 
-#### Sign in with your email address and password at:
+#### Sign in with your email address and password at: [https://ninchat.com/app](https://ninchat.com/app)​
 
-#### [https://ninchat.com/app](https://ninchat.com/app)​
-
-After siging in, you will reach your organization's team channel or the most recent chat.
+Use the verification link only once.
 
 {% page-ref page="../general-tips/problems-signing-in.md" %}
 
 ## Account settings
+
+Next, set your profile info and account settings.
 
 {% page-ref page="user-settings-and-profile.md" %}
 

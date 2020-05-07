@@ -25,6 +25,7 @@ In your profile settings \("Profile" tab\), tell more about yourself so your col
 1. Enter the name you want it to be shown to everyone in the "Screen name" field.
 2. Enter your real name in the "Real name" field.
    * This is not shown e.g. to customers in customer service discussions.
+   * Real name information is helpful in support situations, so we can identify you more easily. 
 3. Add your profile image \(JPG or PNG file format\).
    * The image helps to identify yourself among team members.
 4. Save.
