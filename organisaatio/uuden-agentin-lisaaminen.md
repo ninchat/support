@@ -41,7 +41,9 @@ Kanavakutsulinkki ovat voimassa 14 vuorokautta sen luomishetkestä. Tämän jäl
 
 ## 3. Agentin lisäminen jonoon
 
-Kun agentti on lisätty organisaation jäseneksi, mene organisaation asetuksiin.
+Kun agentti on lisätty organisaation jäseneksi, mene organisaation asetuksiin. Pääset organisaatioasetuksiin Kanavan tai organisaation nimeä klikkaamalla, ja klikkaa pudotusvalikosta _Organisaatioasetukset_.
+
+![Avaa organisaatioasetukset](../.gitbook/assets/org-settings-menu.jpg)
 
 Organisaatio/Organization -välilehdellä, klikkaa agentin riviä käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
 
