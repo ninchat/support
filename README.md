@@ -13,6 +13,8 @@ You can keep track of updates and improvements on Ninchat in the _What's new_ se
 
 ## FAQs
 
+{% page-ref page="organization/add-new-agent.md" %}
+
 {% page-ref page="user-account/create-account.md" %}
 
 {% page-ref page="user-account/user-settings-and-profile.md" %}
