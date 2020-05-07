@@ -2,7 +2,7 @@
 description: You can find different settings for queues through the Organization settings.
 ---
 
-# Manage queues and queue agents?
+# Manage queues and queue agents
 
 ## Queues tab <a id="jonot-valilehti"></a>
 

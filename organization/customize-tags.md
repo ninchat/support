@@ -2,7 +2,7 @@
 description: Here you can find instructions on how to customize tags in your organization.
 ---
 
-# How to customize tags?
+# Customize tags
 
 ## Overview <a id="yleista"></a>
 
