@@ -1,18 +1,20 @@
-# Shortcuts to Ninchat
+---
+description: Create bookmarks and shortcuts for Ninchat
+---
+
+# Bookmarks & shortcuts
 
 You can make launching and using Ninchat easier with shortcuts and bookmarks. Below is a guide to how you can do it in different browsers.
 
-{% hint style="info" %}
-#### Create a bookmark or shortcut directly to a specific channel
+## Create a bookmark or shortcut directly to a specific channel
 
-You can directly launch a specific channel on Ninchat, by creating a bookmark in your browser when you are on the desired channel. The address is in the format:  
-[https://ninchat.com/app/\#/c/1p255nth008](https://ninchat.com/app/#/c/1p255nth008)
+You can either create a general shortcut/bookmark to [https://ninchat.com/app](https://ninchat.com/app)  
+or   
+you can directly launch a specific channel on Ninchat, by creating a bookmark in your browser when you are on the desired channel. The address looks like this: [https://ninchat.com/app/\#/c/1p255nth008](https://ninchat.com/app/#/c/1p255nth008) 
 
-If you want to use Ninchat in Finnish, please add the language configuration "?lang=fi". For example:  
-[https://ninchat.com/app/?lang=fi\#/c/1p255nth008](https://ninchat.com/app/?lang=fi#/c/1p255nth008)
-{% endhint %}
+## Guides for different web browsers
 
-## Google Chrome <a id="google-chrome-selain"></a>
+### Google Chrome
 
 {% hint style="info" %}
 These tips work also with the new Microsoft Edge Chromium browser.
@@ -39,7 +41,7 @@ You can also run Ninchat as a standalone application from your normal browser, w
 
 ![Ninchat in its own window and the icon on the taskbar](../.gitbook/assets/taskbar.PNG)
 
-## Mozilla Firefox <a id="mozilla-firefox-selain"></a>
+### Mozilla Firefox
 
 #### Bookmark <a id="kirjanmerkin-lisaeaeminen"></a>
 
@@ -55,7 +57,7 @@ You can pin the Ninchat tab on the top row of the browser, so that it is always 
 
 ![](../.gitbook/assets/firefox.png)
 
-## Microsoft Edge \(old version\) <a id="microsoft-edge-selain"></a>
+### Microsoft Edge \(old version\)
 
 {% hint style="info" %}
 New Microsoft Edge Chromium work similarly as Google Chrome. See tips for Chrome.
@@ -86,7 +88,7 @@ You can pin the Ninchat tab on the top row of the browser, so that it is always 
 
 ![Pin Ninchat tab on Edge](../.gitbook/assets/edge%20%281%29.png)
 
-## Internet Explorer \(IE\) <a id="internet-explorer-ie-selain"></a>
+### Internet Explorer \(IE\)
 
 {% hint style="warning" %}
 We strongly advice using a more modern browser: Chrome, Firefox or Edge.  
@@ -107,10 +109,4 @@ Internet Explorer allows you to add a website to the Windows taskbar where you c
 2. Right click on the icon and select "Pin to taskbar".
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNV26ZBWc4tpGlvMlCe%2F-LNnhgBvz6Dxy2fsuoId%2F-LNneVbYqo3GctIZnALh%2FIE.png?alt=media&token=87e0523c-852f-4858-990a-a0c34941c391)
-
-
-
-{% hint style="info" %}
-If you want a bookmark or shortcut that directs you to a team channel, first go to that channel and then create a bookmark/shortcut.
-{% endhint %}
 

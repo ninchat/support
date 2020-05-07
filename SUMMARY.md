@@ -9,7 +9,7 @@
   * [Forgotten password](general-tips/forgotten-password.md)
   * [Problems with sign-in](general-tips/problems-signing-in.md)
   * [Problems with interface](general-tips/interface-problems.md)
-  * [Shortcuts to Ninchat](general-tips/shortcuts-to-ninchat.md)
+  * [Bookmarks & shortcuts](general-tips/shortcuts-to-ninchat.md)
   * [Ninchat language](general-tips/ninchat-language.md)
 * [User account](user-account/README.md)
   * [Ninchat invitation](user-account/ninchat-invitation.md)

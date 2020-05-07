@@ -6,7 +6,7 @@ description: >-
 
 # Ninchat language
 
-**Ninchat uses the selected language as default language of your browser \(Suomi/English\).**
+**Ninchat uses the language set in your web browser \(Finnish/English\).**
 
 If you want to change the language, please change it in the language settings of your browser. You can access the settings directly from the links provided below:
 

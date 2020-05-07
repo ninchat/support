@@ -22,5 +22,7 @@ In the "View" tab, select "Use new interface" and save. The view should now be c
 
 ![Old user interface - View settings](../.gitbook/assets/nin-old-ui-2.png)
 
-## 
+## Wrong language <a id="kayttoliittyma-on-vaarankielinen"></a>
+
+{% page-ref page="ninchat-language.md" %}
 
