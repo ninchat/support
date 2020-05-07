@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ninchat-tuki: aloitus](README.md)
+* [Tervetuloa](README.md)
 * [Mitä uutta](mita-uutta.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)

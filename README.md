@@ -1,4 +1,4 @@
-# Ninchat-tuki: aloitus
+# Tervetuloa
 
 ## **Tervetuloa Ninchatin tukisivustolle!** 
 
