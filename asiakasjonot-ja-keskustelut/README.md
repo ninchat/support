@@ -50,10 +50,10 @@ Ilmoitus asiakkaasta jonossa näkyy aina Jono-palkin lisäksi myös _Tapahtumat/
 
 Asiakas voidaan poimia joko sivupalkista tai isommasta jononäkymästä. Alla ohjeet molempiin tapoihin.
 
-### A\) Jono-näkymän kautta asiakkaan nappaaminen 
+### A\) Jonon Tapahtumalokin kautta asiakkaan nappaaminen 
 
-1. Klikkaa sivupalkissa jonon nimeä \(kuvassa Customer service queue\) muusta kuin nuoli-kohdasta.
-2. Jono-näkymässä klikkaa nappia "Nappaa asiakas jonosta".
+1. Klikkaa sivupalkissa jonon nimeä \(kuvassa Customer service queue\) muualta kuin nuoli-ikonin kohdalta.
+2. Jonon Tapahtumaloki-näkymässä klikkaa nappia "Nappaa asiakas jonosta".
 3. Asiakaskeskustelu alkaa.
 
 ![](../.gitbook/assets/queue-answer1%20%281%29.png)
@@ -68,10 +68,11 @@ Asiakas voidaan poimia joko sivupalkista tai isommasta jononäkymästä. Alla oh
 
 ### **Jono-valikon toiminnot**
 
+* Avaa Tapahtumaloki _\(klikkaa jonon nimeä\)_
 * Poimi asiakas jonosta
 * Avaa / sulje jono
-* Siirry jonon asetuksiin \(vaatii organisaation operaattorioikeudet\)
-* Siirry jonon tilastoihin \(vaatii organisaation operaattorioikeudet\)
+* Siirry jonon asetuksiin _\(vaatii organisaation operaattorioikeudet\)_
+* Siirry jonon tilastoihin _\(vaatii organisaation operaattorioikeudet\)_
 
 {% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 
@@ -232,14 +233,18 @@ Siirtojonot määritellään jonon asetuksissa. Kun siirtojonoja on määritelty
 
 Asiakaspalvelija voi merkata asiakaskeskusteluita tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esin. "myynti", "uusi asiakas", "ongelma", "bugi", ... Tägäys helpottaa myöhemmin keskutelujen tilastointia sekä tarkastelua.
 
-#### Keskustelun merkitseminen
+### Keskustelun merkitseminen
 
 Agentti voi lisätä merkinnän klikkaamalla tägejä keskustelun sivupalkissa. Lisätyt tägit ilmestyvät ja tallentuvat keskustelun metatietoihin keskustelun alkuun.
 
-#### Tagien luonti ja muokkaus
+![Tunnisteiden lis&#xE4;ysn&#xE4;kym&#xE4;](../.gitbook/assets/agent-tags-fi.PNG)
+
+### Tagien luonti ja muokkaus
 
 Tunnisteet ovat organisaatiokohtaisia ja niitä voivat lisätä ja muokata organisaation operaattorit.  
-Tunnisteiden luonnista ja muokkauksesta kerrotaan kohdassa [Asiakasjonot ja -keskutelut &gt; Jonon asetukset &gt; Tagit](https://ninchat.gitbook.io/ninchat-support/organisaatio/asiakasjonojen-hallinta#keskustelumerkintojen-hallinta-tagit)
+Tunnisteiden luonnista ja muokkauksesta kerrotaan kohdassa _Tunnisteet_.
+
+{% page-ref page="../organisaatio/tunnisteet-tagit.md" %}
 
 ## Muistiinpanot \(merkinnät\)
 
