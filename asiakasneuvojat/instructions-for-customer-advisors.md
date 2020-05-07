@@ -18,3 +18,13 @@ description: Here is a collection of common topics for  customer agents.
 
 {% page-ref page="../customer-service-queues-and-conversations/customer-chat-interface.md" %}
 
+{% page-ref page="../general-tips/problems-signing-in.md" %}
+
+{% page-ref page="../general-tips/interface-problems.md" %}
+
+{% page-ref page="../general-tips/forgotten-password.md" %}
+
+{% page-ref page="../user-account/remove-user-account.md" %}
+
+
+

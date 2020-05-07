@@ -16,7 +16,7 @@
 
 {% page-ref page="ninchat-language.md" %}
 
-{% page-ref page="remove-user-account.md" %}
+{% page-ref page="../user-account/remove-user-account.md" %}
 
 
 

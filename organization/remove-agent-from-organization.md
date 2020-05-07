@@ -30,7 +30,7 @@ Removing an agent from a channel requires moderator rights of that channel. An a
 
 A user account can be completely deleted only if the user do it by him/herself. See detailed instructions from the link below.
 
-{% page-ref page="../general-tips/remove-user-account.md" %}
+{% page-ref page="../user-account/remove-user-account.md" %}
 
 
 
