@@ -6,7 +6,9 @@ description: Ninchat.com-näkymän esittely
 
 ## Yleisnäkymä ja tiimikanava <a id="yleisnakyma-ja-tiimikanava"></a>
 
-Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskustelun toiminnot
+Ninchatin käyttöliittymä näkyy joko suomeksi tai englanniksi sen mukaan, mikä kieli web-selaimessasi on käytössä.
+
+Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskustelun toiminnot.
 
 ![](../.gitbook/assets/team-channel.png)
 

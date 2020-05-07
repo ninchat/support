@@ -9,7 +9,7 @@
   * [Salasana unohtunut](yleisia-vinkkeja/unohtunut-salasana.md)
   * [Ongelmatilanteet sisäänkirjautumisessa](yleisia-vinkkeja/ongelmat-kirjautumisessa.md)
   * [Ongelmatilanteet käyttöliittymässä](yleisia-vinkkeja/ongelmat-kayttoliittymassa.md)
-  * [Pikakuvakkeet Ninchatiin](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
+  * [Pikakuvakkeet ja kirjanmerkit](yleisia-vinkkeja/pikakuvakkeet-ninchatiin.md)
   * [Ninchat-käyttöliittymän kieli](yleisia-vinkkeja/ninchatin-kayttaminen-suomen-kielella.md)
 * [Käyttäjätili](kayttajatili/README.md)
   * [Ninchat-kutsun hyväksyminen](kayttajatili/ninchat-kutsun-hyvaksyminen.md)

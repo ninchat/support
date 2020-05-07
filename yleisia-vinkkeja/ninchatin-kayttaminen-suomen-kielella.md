@@ -4,7 +4,7 @@ description: Millä kielellä Ninchat näytetään
 
 # Ninchat-käyttöliittymän kieli
 
-**Ninchat käyttää vakiokielenään web-selaimeen valittua kieltä \(suomi/englanti\).**
+**Ninchat käyttää kielenään web-selaimeen valittua kieltä \(suomi/englanti\).**
 
 Mikäli haluat vaihtaa kielen, muuta selaimen kieliasetuksia. Asetuksiin pääset suoraan alla kerrotuilla linkeillä:
 

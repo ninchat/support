@@ -1,20 +1,20 @@
 ---
-description: Kirjanmerkit ja pikakuvakkeet
+description: Luo kirjanmerkkejä ja pikakuvakkeita Ninchatia varten
 ---
 
-# Pikakuvakkeet Ninchatiin
+# Pikakuvakkeet ja kirjanmerkit
 
 Voit helpottaa Nincatin käynnistämistä ja käyttöä pikakuvakkeilla ja kirjanmerkeillä. Alla opastus eri selainten sallimiin toimintoihin.
 
-{% hint style="info" %}
-#### Luo kirjanmerkki/pikakuvake suoraan tietylle kanavalle
+## Luo kirjanmerkki/pikakuvake suoraan tietylle kanavalle
 
-Voit käynnistää Ninchatin aina halumallesi kanavalle luomalla selaimessa kirjanmerkin, kun sinulla on ko. kanava avoinna. Osoite on muotoa: [https://ninchat.com/app/\#/c/1p255nth008](https://ninchat.com/app/#/c/1p255nth008)
+Voit luoda kirjanmerkin tai pikakuvakkeen joko yleisesti Ninchatiin osoitteella [https://ninchat.com/app](https://ninchat.com/app)  
+tai   
+voit käynnistää Ninchatin aina suoraan halumallesi kanavalle luomalla selaimessa kirjanmerkin, kun sinulla on ko. kanava avoinna. Osoite on muotoa: [https://ninchat.com/app/\#/c/1p255nth008](https://ninchat.com/app/#/c/1p255nth008)
 
-Mikäli haluat käyttää Ninchatia suomeksi, lisää osoitteeseen ​_?lang=fi_ -määritys, esim. [https://ninchat.com/app/?lang=fi\#/c/1p255nth008](https://ninchat.com/app/?lang=fi#/c/1p255nth008)
-{% endhint %}
+## Ohjeet web-selaimille
 
-## Google Chrome -selain <a id="google-chrome-selain"></a>
+### Google Chrome
 
 {% hint style="info" %}
 Ohjeet toimivat myös Microsoft Edge -selaimen uudella versiolla.
@@ -41,7 +41,7 @@ Voit myös ajaa Ninchatin normaalista selaimesta erillisenä sovelluksena, jonka
 
 ![Ninchat omassa ikkunassaan ja kuvakkeen kiinnitt&#xE4;minen teht&#xE4;v&#xE4;palkkiin](../.gitbook/assets/taskbar.PNG)
 
-## Mozilla Firefox -selain <a id="mozilla-firefox-selain"></a>
+### Mozilla Firefox
 
 #### Kirjanmerkin lisääminen  <a id="kirjanmerkin-lisaeaeminen"></a>
 
@@ -57,7 +57,7 @@ Voit kiinnittää Ninchat-välilehden \(tabin\) yläriville, jolloin se pysyy ai
 
 ![](../.gitbook/assets/firefox.png)
 
-## Microsoft Edge -selain \(vanha versio\) <a id="microsoft-edge-selain"></a>
+### Microsoft Edge \(vanha versio\)
 
 {% hint style="info" %}
 Uusi Microsoft Edge Chromium toimii samoin kuin Google Chrome. Katso ohjeet Chromelle.
@@ -88,7 +88,7 @@ Voit kiinnittää Ninchat-välilehden \(tabin\) yläriville, jolloin se pysyy ai
 
 ![Ninchat-v&#xE4;lilehden kiinnitt&#xE4;minen Edgess&#xE4;](../.gitbook/assets/edge%20%281%29.png)
 
-## Internet Explorer \(IE\) -selain <a id="internet-explorer-ie-selain"></a>
+### Internet Explorer \(IE\)
 
 {% hint style="warning" %}
 Suosittelemme käyttämään uudempaa selainta, kuten: Chrome, Firefox or Edge.   
@@ -109,10 +109,4 @@ Internet Explorer sallii sivuston lisäämisen Windowsin tehtäväpalkkiin, jost
 2. Klikkaa kuvaketta hiiren oikealla napilla ja valitse Kiinnitä tehtäväpalkkiin / Pin to taskbar
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNV26ZBWc4tpGlvMlCe%2F-LNnhgBvz6Dxy2fsuoId%2F-LNneVbYqo3GctIZnALh%2FIE.png?alt=media&token=87e0523c-852f-4858-990a-a0c34941c391)
-
-
-
-{% hint style="info" %}
-Jos haluat, että kirjanmerkki tai pikakuvake ohjaa sinut suoraan tiimikanavalle, mene ensin kyseiselle kanavalle, ja luo sitten kirjamerkki/pikakuvake.
-{% endhint %}
 

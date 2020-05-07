@@ -23,5 +23,7 @@ Näkymä pitäisi nyt korjaantua.
 
 ![Vanha k&#xE4;ytt&#xF6;liitym&#xE4; - n&#xE4;kym&#xE4;asetukset](../.gitbook/assets/nin-old-ui-2.png)
 
-## 
+## Käyttöliittymä on vääränkielinen <a id="kayttoliittyma-on-vaarankielinen"></a>
+
+{% page-ref page="ninchatin-kayttaminen-suomen-kielella.md" %}
 
