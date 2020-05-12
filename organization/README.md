@@ -29,6 +29,10 @@ More about adding and managing agents below.
 | **Channel operator** | A channel operator can control a team channel or public discussion channel. He/she can change the channel settings and invite new agents to the channel. |
 | **Channel moderator** | A channel moderator can moderate discussions and posts on a team channel or public discussion channel, and remove users from that channel, but cannot edit the channel settings. |
 
+## Creating a new organization
+
+One can create freely one new channel to Ninchat's public realm. Creating a private organization with private channels and customer queues requires a Ninchat subcscription. We create your organization for you after that.
+
 ## Managing organization members
 
 {% page-ref page="managing-organization-members.md" %}
