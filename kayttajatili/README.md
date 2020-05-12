@@ -10,7 +10,7 @@ description: Käyttäjätiliä koskevat sivut
 
 {% page-ref page="kayttajaasetukset.md" %}
 
-{% page-ref page="../asiakasneuvojat/ohjeita-asiakasneuvojille.md" %}
+{% page-ref page="../asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md" %}
 
 
 

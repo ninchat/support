@@ -4,6 +4,12 @@ description: Usein kysyttyä
 
 # Yleisiä vinkkejä
 
+## Lue aluksi
+
+{% page-ref page="../asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md" %}
+
+## Yleisiä vinkkejä <a id="yleisia-vinkkeja"></a>
+
 {% page-ref page="sanasto.md" %}
 
 {% page-ref page="kayttoliittyman-esittely.md" %}

@@ -4,10 +4,6 @@ description: Kootusti yleisimmät ohjeaiheet organisaation operaattoreille
 
 # Ohjeet operaattoreille
 
-
-
-{% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
-
 {% page-ref page="../tiimikanavat/" %}
 
 {% page-ref page="../tiimikanavat/kayttajan-lisaaminen-kanavalle.md" %}

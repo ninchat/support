@@ -31,6 +31,10 @@ Jäsenten lisäämisestä ja hallinnoinnista lisää alempana.
 | **Kanavan operaattori** | Hallitsee yksittäistä tiimikanavaa tai julkista keskustelukanavaa. Pääsee muuttamaan kanavan asetuksia. Voi kutsua kanavalle uusia agentteja. |
 | **Kanavan moderaattori** | Voi moderoida yksittäisen kanavan keskustelua ja viestejä sekä poistaa käyttäjiä ko. kanavalta. Ei näe kanavan asetuksia. |
 
+## Uuden organisaation luominen
+
+Ninchatiin on mahdollista luoda itsenäisesti keskustelukanavan ns. julkiselle alueelle. Yksityisen organisaation \(ja yksityisten kanavien sekä asiakasjonojen\) luominen vaatii Ninchat-tilauksen, jonka yhteydessä luomme teille oman organisaation.
+
 ## Jäsenten hallinta organisaatiossa <a id="jasenten-hallinta-organisaatiossa"></a>
 
 {% page-ref page="organisaation-jasenten-hallinta.md" %}

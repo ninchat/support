@@ -3,7 +3,6 @@
 * [Tervetuloa](README.md)
 * [Mitä uutta](mita-uutta.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
-  * [Näin pääset alkuun](yleisia-vinkkeja/nain-paaset-alkuun.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
   * [Käyttöliittymän esittely](yleisia-vinkkeja/kayttoliittyman-esittely.md)
   * [Salasana unohtunut](yleisia-vinkkeja/unohtunut-salasana.md)
@@ -45,13 +44,13 @@
   * [Keskustelun moderointi](julkiset-ryhmakeskustelut/keskustelun-moderointi.md)
   * [Keskusteluhistorian tallentaminen](julkiset-ryhmakeskustelut/keskusteluhistorian-tallentaminen.md)
 
+## Asiakasneuvojat
+
+* [Näin pääset alkuun - asiakasneuvojat](asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md)
+
 ## Operaattorit
 
 * [Ohjeet operaattoreille](operaattorit/ohjeita-operaattoreille.md)
-
-## Asiakasneuvojat
-
-* [Ohjeet asiakasneuvojille](asiakasneuvojat/ohjeita-asiakasneuvojille.md)
 
 ## Kehittäjät
 

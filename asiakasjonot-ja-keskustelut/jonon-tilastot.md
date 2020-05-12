@@ -62,6 +62,7 @@ Graafeista saat nopeasti yleissilmäyksen tapahtumiin. Voit tarkastella:
 
 * Keskustelujen määrää
 * Poimittujen ja hylättyjen keskustelijoiden määrää
+* Tallennettujen yhteydenottojen määrää
 * Keskustelujen, jonotuksen ja poistumisaikojen keskimääräisiä  aikoja
 * Palautteita ja niiden määrää
 
