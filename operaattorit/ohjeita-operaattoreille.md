@@ -4,13 +4,13 @@ description: Kootusti yleisimmät ohjeaiheet organisaation operaattoreille
 
 # Ohjeet operaattoreille
 
-{% page-ref page="../tiimikanavat/" %}
+{% page-ref page="../organisaatio/uuden-agentin-lisaaminen.md" %}
 
 {% page-ref page="../tiimikanavat/kayttajan-lisaaminen-kanavalle.md" %}
 
 {% page-ref page="../organisaatio/" %}
 
-{% page-ref page="../organisaatio/uuden-agentin-lisaaminen.md" %}
+{% page-ref page="../tiimikanavat/" %}
 
 {% page-ref page="../organisaatio/asiakasjonojen-hallinta.md" %}
 

@@ -14,6 +14,8 @@ Voit seurata Ninchatiin tulleita muutoksia ja parannuksia Mitä uutta -osiossa.
 
 ## Usein kysyttyä
 
+{% page-ref page="asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md" %}
+
 {% page-ref page="organisaatio/uuden-agentin-lisaaminen.md" %}
 
 {% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
