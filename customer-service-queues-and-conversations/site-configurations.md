@@ -6,7 +6,7 @@ description: Customer chat configurations
 
 ## Overview <a id="yleista"></a>
 
-The Organization settings, "Sites" tab, is where the settings, texts, translations, and styles, for the customer service chats and public group chats, are defined. To access the configuration, go to your organization settings and select the "Sites" tab.
+The Organization settings, _Sites_ tab, is where the settings, texts, translations, and styles, for the customer service chats and public group chats, are defined. To access the configuration, go to your organization settings and select the _Sites_ tab.
 
 {% hint style="info" %}
 Site configuration is an advanced user feature. Ask Ninchat staff to help or make changes for you if you find it difficult.
@@ -40,4 +40,8 @@ Make sure to save your changes.
 ## Disable chat <a id="chatin-ottaminen-pois-kaeytosta"></a>
 
 You can disable the customer service chat completely by disabling the site configuration. In the edit view, click the "Disable" button. The configuration will then appear in the list with the status - Disabled. You can enable the chat again by clicking the "Enable" button in the edit view.
+
+{% hint style="warning" %}
+Do not disable configurations if you're unsure what you are doing.
+{% endhint %}
 

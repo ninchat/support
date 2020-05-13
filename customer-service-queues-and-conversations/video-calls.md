@@ -6,7 +6,9 @@ description: Video calls in sustomer chats
 
 ## General <a id="general"></a>
 
-Video call can be used in customer conversations when text messages and attachments are not enough. Ask more about the feature.
+Video call can be used in customer conversations when text messages and attachments are not enough. 
+
+The feature must be enabled for your customer queue by Ninchat admin. Ask us more.
 
 Before you start taking video calls, test your equipment \(camera & audio devices, web browser, connection\) compatibility and functionality with Ninchat Video Call Test Tool. [Open Video Call Test tool](https://ninchat.com/videotest)
 

@@ -10,7 +10,7 @@ Instructions on how to add and manage queue members are described in the Organiz
 
 {% page-ref page="../organization/" %}
 
-## Queue bar and view <a id="asiakasjonopalkki-ja-nakyma"></a>
+## Queue bar and Queue event log <a id="asiakasjonopalkki-ja-nakyma"></a>
 
 ![Customer care queues in the Sidebar and queue view](../.gitbook/assets/queue-view.png)
 
@@ -20,7 +20,9 @@ Clicking the arrow icon next to a queue name in the Sidebar will open a drop-dow
 
 In the sidebar, next to queue's name is a timer, which tells you how long \(the first\) customer has waited in the queue. If queueing time has been more than one hour, ∞ -symbol \(infinity\) is shown instead of time.
 
-![Queueing time in sidebar](../.gitbook/assets/queueing-time.png)
+![Two customer queues, first one is open \(green\) and the second closed \(red\).](../.gitbook/assets/sidebar-queue-bar-empty-en.png)
+
+![Customer in queue. You can see the queueing time and pick customer from menu](../.gitbook/assets/sidebar-queue-bar-customer-en.png)
 
 ## Opening and closing a queue
 

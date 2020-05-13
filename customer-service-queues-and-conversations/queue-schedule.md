@@ -6,7 +6,7 @@ description: Here you can learn about customer queue schedule and how to manage 
 
 ## Overview
 
-You can schedule a queue to open and close automatically. You can also add exeptions that occur annually or just once.
+You can schedule a queue to open and close automatically, so agents do not have to manually change the queue state. You can also add exceptions that occur annually or just once.
 
 ![](../.gitbook/assets/schedule-overall.png)
 
@@ -21,7 +21,7 @@ Remember to set a desired closed message for holidays and preferably in advance.
 ![Schedule on/off](../.gitbook/assets/schedule-disable.png)
 
 {% hint style="info" %}
-Note! Schedule operates based on current time. Thus, your customer queue will not open/close if the schudeled time is set ahead of the current time.  
+Note! Schedule operates based on current time. Thus, your customer queue will not open/close if the scheduled time is set ahead of the current time.  
 You can always open/close a queue manually from the Sidebar queue menu.
 {% endhint %}
 
@@ -35,10 +35,10 @@ Remember to always save your changes.
 
 ![Weekly schedule example](../.gitbook/assets/schedule-weekly.png)
 
-Below is the Wednesday schedule edit view. You can create mutiple opening and closing times for each day:
+Below is the Wednesday schedule edit view. You can create multiple opening and closing times for each day:
 
 * Click the plus \(+\) icon to add an action. Select either it is an opening or closing time and then select the time.
-* For example, in the image below, on Wednesday the chat opens at 10:00 and closes at 17:00 and then opens again at 19:00 and closes at 22:00.
+* For example, in the image below, on Wednesday the chat opens at 10:00 \(10 am\) and closes at 17:00 \(5 pm\) and then opens again at 19:00 \(7 pm\) and closes at 22:00 \(10 pm\).
 * Click the left arrow or calendar icon to return to the weekly schedule view.
 
 ![Edit daily schedule](../.gitbook/assets/schedule-weekly-set.png)
@@ -48,7 +48,7 @@ Below is the Wednesday schedule edit view. You can create mutiple opening and cl
 * Click the "Add new annual date" button.
 * An annual exception requires both opening and closing times.
 * If you do not want the chat to open at all on a particular day, choose the date without adding opening or closing times.
-* E.g. the image below shows a recurring schedule for Valentine's Day \(14.02\) that the chat opens at 12:00 and closes at 18:00 every year. Also, on Christmas Eve \(24.12\) and Christmas Day \(25.12\) the chat is completely closed yearly.
+* E.g. the image below shows a recurring schedule for Valentine's Day \(February 14th\) that the chat opens at 12:00 \(12 pm\) and closes at 18:00 \(6 pm\) every year. Also, on Christmas Eve \(December 24th\) and Christmas Day \(December 25th\) the chat is completely closed yearly.
 
 ![](../.gitbook/assets/schedule-annual.png)
 
@@ -57,7 +57,7 @@ Below is the Wednesday schedule edit view. You can create mutiple opening and cl
 * Click the "Add new exception" button.
 * Creating a one-time exception will override the schedules and annual exceptions. This exception occurs only once on a given day without repeating annually.
 * You can add a date without opening and closing times which will keep the chat closed for the whole day.
-* The example in the image below shows that on September 19, 2019, the chat exceptionally opens at 11:00 and closes at 15:00.
+* The example in the image below shows that on September 19, 2019, the chat exceptionally opens at 11:00 \(11 am\) and closes at 15:00 \(3 pm\).
 
 ![](../.gitbook/assets/schedule-exception.png)
 
