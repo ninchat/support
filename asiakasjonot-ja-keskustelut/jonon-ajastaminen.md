@@ -6,7 +6,7 @@ description: Asiakasjonon aikataulut
 
 ## Yleistä
 
-Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti. Lisäksi voit asettaa poikkeuskäytäntöjä.
+Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti, jolloin jonon tilaa ei tarvitse muuttaa käsin. Lisäksi voit asettaa poikkeuskäytäntöjä halutuille päiville.
 
 ![](../.gitbook/assets/schedule-overall.png)
 
@@ -14,7 +14,7 @@ Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti. Lisäksi v
 
 "Ota aikataulu käyttöön" -kohdasta voit nopeasti asettaa ajastukset käyttöön tai pois.
 
-Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajann, voi olla helpompaa laittaa ajastukset pois, poikkusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle.
+Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajan, voi olla helpompaa laittaa ajastukset pois, poikkusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle.
 
 Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
 
@@ -47,7 +47,7 @@ Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
 
 * Vuosittainen poikkeusaikataulu \(Annual exception\) vaatii sekä avaamis- että sulkemisajan asettamisen
 * Jos haluat ettei chat avaudu tiettynä päivänä lainkaan, lisää päivämäärä tyhjänä ilman avaamis- tai sulkemistietoja
-* Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2. Lisäksi jouluaattona ja -päivänä chat on kokonaan suljettuna.
+* Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2.  Lisäksi jouluaattona ja -päivänä chat on kokonaan suljettuna.
 
 ![](../.gitbook/assets/schedule-annual.png)
 

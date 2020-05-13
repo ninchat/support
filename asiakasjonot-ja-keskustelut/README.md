@@ -20,7 +20,11 @@ Sivupalkin jonon nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata pud
 
 Sivupalkissa, jono nimen vieressä näet kellon, joka kertoo miten kauan \(ensimmäinen\) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞-kuvakkeeksi \(ääretön\).
 
-![Jonotusaika sivupalkissa](../.gitbook/assets/queueing-time.png)
+![Kaksi jonoa joista ensimm&#xE4;inen on auki \(vihre&#xE4;\) ja toinen suljettu \(punainen\)](../.gitbook/assets/sidebar-queue-bar-empty-fi.png)
+
+![Asiakas jonossa. N&#xE4;et jonotusajan ja voit napata asiakkaan valikosta](../.gitbook/assets/sidebar-queue-bar-customer-fi%20%281%29.png)
+
+## Opening and closing 
 
 ## Asiakasjonon avaaminen ja sulkeminen
 
