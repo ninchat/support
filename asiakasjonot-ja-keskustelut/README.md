@@ -16,6 +16,8 @@ Sivupalkissa, jono nimen vieressä näet kellon, joka kertoo miten kauan \(ensim
 
 ![Asiakasjono sivupalkissa: Suljettu \(punainen\), avattu \(vihre&#xE4;\), asiakas jonossa \(sininen\)](../.gitbook/assets/queue-status-activity-fi.png)
 
+![Asiakasjonon valikko. Avaa valikko klikkaamalla nuoli-ikonia.](../.gitbook/assets/sidebar-queue-bar-menus-fi.png)
+
 ## Asiakkaan nappaaminen jonosta
 
 {% hint style="info" %}
