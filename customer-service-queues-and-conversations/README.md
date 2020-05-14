@@ -4,12 +4,6 @@ description: Here you can learn about customer care queues and conversations.
 
 # Customer service queues and conversations
 
-## Customer queue members
-
-Instructions on how to add and manage queue members are described in the Organization section.
-
-{% page-ref page="../organization/" %}
-
 ## Queue bar and Queue event log <a id="asiakasjonopalkki-ja-nakyma"></a>
 
 ![Customer care queues in the Sidebar and queue view](../.gitbook/assets/queue-view.png)
@@ -20,27 +14,7 @@ Clicking the arrow icon next to a queue name in the Sidebar will open a drop-dow
 
 In the sidebar, next to queue's name is a timer, which tells you how long \(the first\) customer has waited in the queue. If queueing time has been more than one hour, ∞ -symbol \(infinity\) is shown instead of time.
 
-![Two customer queues, first one is open \(green\) and the second closed \(red\).](../.gitbook/assets/sidebar-queue-bar-empty-en.png)
-
-![Customer in queue. You can see the queueing time and pick customer from menu](../.gitbook/assets/sidebar-queue-bar-customer-en.png)
-
-## Opening and closing a queue
-
-The queue can be opened and closed manually, or automatically by scheduling. An open queue is marked with a green circle in the Sidebar and queue view, while a closed queue is markded with a red circle.
-
-#### Open queue
-
-Click the arrow icon next to the queue name and select "Open queue" from the menu.   
-Customers can now join the queue.
-
-#### Close queue
-
-Click the arrow icon next to the queue name and select "Close queue" from the menu.   
-After that, customers cannot start a chat. Customers in the queue at the time of closing will remain in the queue until they are picked or they decide to close the chat/window.
-
-#### Schedule a customer care queue
-
-Read more about opening and closing a queue automatically by scheduling:
+![Customer queue in Sidebar: Closed \(red\), Open \(green\) and customer waiting \(blue\)](../.gitbook/assets/queue-status-activity-en.png)
 
 {% page-ref page="queue-schedule.md" %}
 
@@ -232,19 +206,61 @@ Transfer queues can be enabled in the queue settings. Once a queue is allowed fo
 
 ## Tags
 
-Customer service agents can tag customer conversations with tags according to the topic or nature of the conversations, for example, "sales", "new customer", "problem", "bug", etc. Adding tags makes it easier to record and later review the conversations.
+Customer service agents can tag customer conversations with tags according to the topic or nature of the conversations, for example, "sales", "customership", "technical problem", etc. Adding tags makes it easier to record and later review the conversations.
+
+Conversations can also be tagged automatically e.g. based on questionnaire answers. So it is possible the conversation has added tags right in the beginning.
+
+Used tags are defined by your organization operator.
 
 ### Tag a conversation
 
-An agent can add a tag by choosing from the list of tags in the chat features. Added tags appear and are stored in the conversation metadata in the beginning of the conversation.
+An agent can add a tag by choosing from the list of tags in the chat features. Added tags appear and are stored in the metadata in the beginning of the conversation.
 
-![Adding tags view](../.gitbook/assets/agent-tags.PNG)
+![Add tags view and added tags above conversation](../.gitbook/assets/tags-agent-en.png)
 
 ### Create and edit tags
 
-Tags are organization specific and can be created and edited by your organization operators. To create and edit tags, see[ Organization &gt; How to manage queues and queue members? &gt; Tags](https://ninchat.gitbook.io/ninchat-support/organisaatio/asiakasjonojen-hallinta#keskustelumerkintojen-hallinta-tagit)
+Tags are organization specific and can be created and edited by your organization operators. To create and edit tags, see page _Customize tags_:
+
+{% page-ref page="../organization/customize-tags.md" %}
+
+
 
 ## Notes
 
-Notes is an advanced option that allows you to create different options of notes for a customer conversation. Notes made by a customer service representative are stored in the conversation history. Notes can also be used to export data to the customer's own information system. Contact Ninchat staff for more information.
+Notes is an advanced option that allows you to create notes and entries about a customer conversation. Notes made by a customer service representative are stored in the conversation history. Notes can also be used to export data to the customer's own information system. 
+
+Notes can added via customer conversation sidebar \(if notes are enabled\). Saved notes are added into metadata in the beginning of conversation.
+
+![Notes addition on the right. Saved notes in conversation backlog](../.gitbook/assets/notes-agent-saved-en.PNG)
+
+## Opening and closing a queue
+
+The queue can be opened and closed manually, or automatically by scheduling. An open queue is marked with a green circle in the Sidebar and queue view, while a closed queue is markded with a red circle.
+
+### Open queue
+
+Click the arrow icon next to the queue name and select "Open queue" from the menu.   
+Customers can now join the queue.
+
+![Opening a closed customer queue](../.gitbook/assets/sidebar-queue-bar-agent-open-en.png)
+
+### Close queue
+
+Click the arrow icon next to the queue name and select "Close queue" from the menu.   
+After that, customers cannot start a chat. Customers in the queue at the time of closing will remain in the queue until they are picked or they decide to close the chat/window.
+
+![Closing a customer queue](../.gitbook/assets/sidebar-queue-bar-agent-close-en.png)
+
+### Schedule a customer care queue
+
+Read more about opening and closing a queue automatically by scheduling:
+
+{% page-ref page="queue-schedule.md" %}
+
+## Managing customer queue agents
+
+Instructions on how to add and manage queue members are described in the _Organization_ section:
+
+{% page-ref page="../organization/manage-queues-and-queue-agents.md" %}
 
