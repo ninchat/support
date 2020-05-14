@@ -16,7 +16,7 @@ In the sidebar, next to queue's name is a timer, which tells you how long \(the 
 
 ![Customer queue in Sidebar: Closed \(red\), Open \(green\) and customer waiting \(blue\)](../.gitbook/assets/queue-status-activity-en.png)
 
-{% page-ref page="queue-schedule.md" %}
+![Customer queue menu. Open the menu by click caret icon](../.gitbook/assets/sidebar-queue-bar-menus-en.png)
 
 ## Picking customers from queue
 
