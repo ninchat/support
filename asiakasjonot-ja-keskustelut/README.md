@@ -4,12 +4,6 @@ description: Jonot ja asiakaskeskustelun työkalut
 
 # Asiakasjonot ja -keskustelut
 
-## Jonon käsittelijät
-
-Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaatio-osiossa.
-
-{% page-ref page="../organisaatio/" %}
-
 ## Asiakasjonopalkki ja -näkymä <a id="asiakasjonopalkki-ja-nakyma"></a>
 
 ![Asiakasjono sivupalkissa sek&#xE4; jonon&#xE4;kym&#xE4;](../.gitbook/assets/queue-view.png)
@@ -20,31 +14,7 @@ Sivupalkin jonon nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata pud
 
 Sivupalkissa, jono nimen vieressä näet kellon, joka kertoo miten kauan \(ensimmäinen\) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞-kuvakkeeksi \(ääretön\).
 
-![Kaksi jonoa joista ensimm&#xE4;inen on auki \(vihre&#xE4;\) ja toinen suljettu \(punainen\)](../.gitbook/assets/sidebar-queue-bar-empty-fi.png)
-
-![Asiakas jonossa. N&#xE4;et jonotusajan ja voit napata asiakkaan valikosta](../.gitbook/assets/sidebar-queue-bar-customer-fi%20%281%29.png)
-
-## Opening and closing 
-
-## Asiakasjonon avaaminen ja sulkeminen
-
-Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti. Avattu jono on merkattu sivupalkissa ja jononäkymässä vihreällä pallolla, suljettu jono punaisella.
-
-#### Jonon avaaminen
-
-Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Avaa jono / Open queue".  
-Asiakkaat voivat liittyä nyt jonoon.
-
-#### Jonon sulkeminen
-
-Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Sulje jono / Close queue".  
-Asiakkaat eivät tämän jälkeen voi aloittaa chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai he päättävät sulkea chatin/ikkunan.
-
-#### Asiakasjonon ajastaminen
-
-Lue automaattisesta ajastamisesta:
-
-{% page-ref page="jonon-ajastaminen.md" %}
+![Asiakasjono sivupalkissa: Suljettu \(punainen\), avattu \(vihre&#xE4;\), asiakas jonossa \(sininen\)](../.gitbook/assets/queue-status-activity-fi.png)
 
 ## Asiakkaan nappaaminen jonosta
 
@@ -235,13 +205,17 @@ Siirtojonot määritellään jonon asetuksissa. Kun siirtojonoja on määritelty
 
 ## Tunnisteet \(tägit\)
 
-Asiakaspalvelija voi merkata asiakaskeskusteluita tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esin. "myynti", "uusi asiakas", "ongelma", "bugi", ... Tägäys helpottaa myöhemmin keskutelujen tilastointia sekä tarkastelua.
+Asiakaskeskustelut on mahdollista merkitä tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esim. "myynti", "asiakkuudet", "tekninen ongelma", ... Tägäys helpottaa myöhemmin keskustelujen tilastointia sekä tarkastelua.
+
+Keskusteluja on voidaan myös merkitä automaattisesti esim. alkukyselyvastausten perusteella, joten on mahdollista, että heti keskustelun alettua siinä on jo lisättyjä tunnisteita.
+
+Käytettävät tunnisteet määritellään organisaation operaattorien toimesta. 
 
 ### Keskustelun merkitseminen
 
-Agentti voi lisätä merkinnän klikkaamalla tägejä keskustelun sivupalkissa. Lisätyt tägit ilmestyvät ja tallentuvat keskustelun metatietoihin keskustelun alkuun.
+Agentti voi lisätä merkinnän klikkaamalla tunnisteita keskustelun sivupalkissa. Lisätyt tunnisteet ilmestyvät ja tallentuvat keskustelun metatietoihin keskustelun alkuun.
 
-![Tunnisteiden lis&#xE4;ysn&#xE4;kym&#xE4;](../.gitbook/assets/agent-tags-fi.PNG)
+![Tunnisteiden lis&#xE4;ysn&#xE4;kym&#xE4; ja lis&#xE4;tyt t&#xE4;git keskustelun yll&#xE4;](../.gitbook/assets/tags-agent-fi.png)
 
 ### Tagien luonti ja muokkaus
 
@@ -252,6 +226,40 @@ Tunnisteiden luonnista ja muokkauksesta kerrotaan kohdassa _Tunnisteet_.
 
 ## Muistiinpanot \(merkinnät\)
 
-Merkinnät \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.  
-Merkintöjä voidaan hyödyntää myös tietojen viennissä asiakkaan omaan tietojärjestelmään. Pyydä lisätietoa Ninchatin henkilöstöltä.
+Merkinnät \(Notes\) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Merkintöjä voidaan hyödyntää myös tietojen viennissä asiakkaan omaan tietojärjestelmään. 
+
+Merkintöjen lisäysnäkymä löytyy asiakaskeskustelun sivupalkista \(mikäli merkinnät on otettu käyttöön\). Tallennetut muistiinpanot näkyvät metatietojen lomassa keskustelun alussa.
+
+![Merkint&#xF6;jen lis&#xE4;&#xE4;minen oikealla ja tallennetut merkinn&#xE4;t metadatassa keskustelun alussa](../.gitbook/assets/notes-agent-saved-fi.PNG)
+
+## Asiakasjonon avaaminen ja sulkeminen
+
+Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti. Avattu jono on merkattu sivupalkissa vihreällä pallolla, suljettu jono punaisella.
+
+### Jonon avaaminen
+
+Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Avaa jono / Open queue".  
+Asiakkaat voivat liittyä nyt jonoon.
+
+![](../.gitbook/assets/sidebar-queue-bar-agent-open-fi.png)
+
+### Jonon sulkeminen
+
+Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Sulje jono / Close queue". Hyväksy vielä varmistus sulkemisesta ponnahdusikkunassa.
+
+Asiakkaat eivät sulkemisen jälkeen pääse jonoon, eivätkä aloittamaan chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai he päättävät sulkea chatin/ikkunan.
+
+![](../.gitbook/assets/sidebar-queue-bar-agent-close-fi.png)
+
+### Asiakasjonon ajastaminen
+
+Lue jonon automaattisesta ajastamisesta:
+
+{% page-ref page="jonon-ajastaminen.md" %}
+
+## Jonon käsittelijöiden hallinta <a id="jonon-kasittelijoiden-hallinta"></a>
+
+Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaatio-osiossa.
+
+{% page-ref page="../organisaatio/" %}
 
