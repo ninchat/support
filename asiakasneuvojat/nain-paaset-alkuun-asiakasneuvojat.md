@@ -116,9 +116,9 @@ Kun sinut on lisätty asiakasjonojen käsittelijäksi, omat jonosi näkyvät vas
 
 Mikäli olet saanut _organisaation operaattori_ -oikeudet, voit myös avata ja sulkea jonon, sekä muuttaa sen asetuksia ja katsoa tilastoja. Se miten oikeuksia jaetaan ja määritellään, riippuu omasta yhteisöstäsi. 
 
-![Kaksi jonoa joista ensimm&#xE4;inen on auki \(vihre&#xE4;\) ja toinen suljettu \(punainen\)](../.gitbook/assets/sidebar-queue-bar-empty-fi.png)
+![Asiakasjono sivupalkissa: Suljettu \(punainen\), avattu \(vihre&#xE4;\), asiakas jonossa \(sininen\)](../.gitbook/assets/queue-status-activity-fi.png)
 
-![Asiakas jonossa. N&#xE4;et jonotusajan ja voit napata asiakkaan valikosta](../.gitbook/assets/sidebar-queue-bar-customer-fi%20%281%29.png)
+![Nappaa asiakas jonossa. N&#xE4;et jonotusajan ja voit valikosta napata asiakkaan ](../.gitbook/assets/sidebar-queue-bar-customer-fi%20%281%29.png)
 
 ### Asiakaskeskustelunäkymä <a id="asiakaskeskustelunakyma"></a>
 
