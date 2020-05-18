@@ -176,7 +176,7 @@ Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksist
 
 ## Asiakasjononäkymä
 
-![Asiakasjono-n&#xE4;kym&#xE4;](../.gitbook/assets/queue-answer1%20%281%29.png)
+![](../.gitbook/assets/customerchat-start-queue-log.png)
 
 Asiakasjononäkymään pääset klikkaamalla jonon nimeä. Näkymästä voit poimia asiakkaat sekä näet tapahtumalokin: kuka on poiminut asiakkaita, milloin jono on avattu ja suljettu.
 

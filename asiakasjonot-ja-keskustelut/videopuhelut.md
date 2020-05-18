@@ -48,6 +48,10 @@ Videopuhelua ei voi aloittaa, mikäli asiakkaan laitteisto, selain tai verkkoyht
 
 ### Videopuhelun asetukset ensimmäisellä kerralla
 
+Jos selain pyytää lupaa käyttää kameraa ja/tai mikrofonia, hyväksy pyyntö.
+
+![Videolaitteiston k&#xE4;yt&#xF6;n salliminen selaimessa](../.gitbook/assets/video-browser-allow-agent-chrome.png)
+
 Kun käynnistät videopuhelun ensimmäistä kertaa, Ninchat pyytää automaattisesti valitsemaan halutun kameran, mikrofonin ja äänentoistolaitteen. Jatkossa valinta muistetaan.
 
 Asetussivulla valitaan videokamera, mikrofoni ja äänentoistolaite. Näet esikatselukuvan valitusta videolähteestä sekä mikrofonin äänenvoimakkuuden visualisoituna kuvan alla palkissa.
