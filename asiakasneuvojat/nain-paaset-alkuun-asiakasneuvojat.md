@@ -165,9 +165,15 @@ Mikäli olet saanut _organisaation operaattori_ -oikeudet, voit myös avata ja s
   </tbody>
 </table>Lue lisää asiakaskeskusteluita:
 
-{% page-ref page="../asiakasjonot-ja-keskustelut/" %}
+{% page-ref page="../asiakasjonot-ja-keskustelut/asiakkaan-nappaaminen-jonosta.md" %}
 
-{% page-ref page="../asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md" %}
+{% page-ref page="../asiakasjonot-ja-keskustelut/asiakaskeskustelun-kayminen.md" %}
+
+{% page-ref page="../asiakasjonot-ja-keskustelut/asiakaskeskustelun-lopettaminen.md" %}
+
+{% page-ref page="../asiakasjonot-ja-keskustelut/jonon-avaaminen-ja-sulkeminen.md" %}
+
+{% page-ref page="../asiakasjonot-ja-keskustelut/" %}
 
 ### Videopuhelut
 
