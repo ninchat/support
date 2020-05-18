@@ -1,12 +1,10 @@
 # Asiakaskeskustelun lopettaminen
 
-## Asiakaskeskustelun lopettaminen
-
 Asiakaskeskustelu päättyy joko asiakkaan tai agentin toimesta. Asiakas voi sulkea chatin, jolloin agentti saa ilmoituksen keskustelun päättymisestä, tai päinvastoin. Keskustelun päättymisen jälkeen toinen osapuoli ei voi enää kirjoittaa viestejä.
 
 Agentti voi päättää keskustelun joko keskustelunäkymän ylävalikon kautta tai sivupalkista.
 
-#### Sulkeminen keskusteluvalikon kautta
+### Sulkeminen keskusteluvalikon kautta
 
 Klikkaa käyttäjän nimeä ylävalikossa. Valitse sulkemistapa:
 
@@ -17,9 +15,9 @@ Klikkaa käyttäjän nimeä ylävalikossa. Valitse sulkemistapa:
 
 ![](../.gitbook/assets/customer-chat-end1.png)
 
-#### Sulkeminen sivupalkin kautta
+### Sulkeminen sivupalkin kautta
 
-Voit lopettaa keskustelun myös sivupalkin kautta, klikkaamalla nuoli-kuvaketta asiaskeskustelun vieressä. Täältä käsin sulkiessa kyseinen keskustelu piilotetaan samalla, etkä voi sen jälkeen lisätä keskusteluun tunnisteita tai muistiinpanoja.
+Voit lopettaa keskustelun myös sivupalkin kautta, klikkaamalla nuoli-kuvaketta asiaskeskustelun vieressä. Täältä käsin sulkiessa \("Päätä ja piilota"\) kyseinen keskustelu piilotetaan samalla, etkä voi sen jälkeen lisätä keskusteluun tunnisteita tai muistiinpanoja.
 
 ![](../.gitbook/assets/customer-chat-end2.png)
 

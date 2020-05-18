@@ -26,7 +26,7 @@ Ilmoitus asiakkaasta näkyy aina Jono-palkin lisäksi myös _Tapahtumat/Activity
 ### Nappaaminen Jono-näkymän kautta 
 
 1. Klikkaa sivupalkissa jonon nimeä muualta kuin nuoli-ikonin kohdalta.
-2. Jonon Tapahtumaloki-näkymässä klikkaa nappia "Nappaa asiakas jonosta".
+2. Jono-sivulla klikkaa nappia "Nappaa asiakas jonosta".
 3. Asiakaskeskustelu alkaa.
 
 ![](../.gitbook/assets/customerchat-start-queue-log.png)

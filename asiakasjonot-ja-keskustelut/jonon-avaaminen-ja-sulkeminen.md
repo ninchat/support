@@ -4,10 +4,7 @@ description: Näin avaat ja suljet asiakasjonon
 
 # Jonon avaaminen ja sulkeminen
 
-Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti.
-
-Avattu jono on merkattu sivupalkissa vihreällä pallolla.  
-Suljettu jono on merkattu punaisella.
+Jono voidaan avata ja sulkea manuaalisesti tai ajastaa toimimaan automaattisesti. Avattu jono on merkattu sivupalkissa vihreällä pallolla. Suljettu jono on merkattu punaisella.
 
 ## Asiakasjonon tilat
 
@@ -17,11 +14,11 @@ Asiakasjono näkyy sivupalkissa joko:
 * Vihreä pallo - jono on avattu 
 * Sininen huomioväri - jonossa on asiakas odottamassa
 
-Sivupalkissa, jono nimen vieressä näet kellon, joka kertoo miten kauan \(ensimmäinen\) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞ ääretön-kuvakkeeksi.
-
 ![Asiakasjono sivupalkissa: Suljettu \(punainen\), avattu \(vihre&#xE4;\), asiakas jonossa \(sininen\)](../.gitbook/assets/queue-status-activity-fi.png)
 
+### Jonotusaika
 
+Kun jonossa on asiakkaita, näet jonon nimen vierssä ajastimen, joka kertoo miten kauan \(ensimmäinen\) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞ ääretön-kuvakkeeksi.
 
 ## Jonon avaaminen
 

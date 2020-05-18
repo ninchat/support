@@ -4,7 +4,7 @@
 
 Poimittuasi asiakkaan jonosta keskustelu alkaa. 
 
-Asiakkaalle näytetään "Keskustelu aloitettu" -viesti, mutta on hyvä lähettää asiakkaalle heti tervehdys tai muu vastaava kommentti. Tämä viesti ei näy agentin keskustelunäkymässä.
+Asiakkaalle näytetään "Keskustelu aloitettu" -viesti. Tämä viesti ei näy agentin keskustelunäkymässä. On hyvä joka tapauksessa lähettää asiakkaalle heti tervehdys tai muu vastaava kommentti.
 
 Näet keskustelun yläpuolella teknisiä tietoja asiakkaasta, kuten käytetyn selaimen, sivun jolla chat on aloitettu, sekä muita tietoja, mikäli ne on organisaatiossanne päätetty ottaa käyttöön.
 
@@ -14,11 +14,17 @@ Mahdollinen esikyselyn aloitusviesti \(message\) näkyy suoraan myös keskustelu
 
 ![Asiakaskeskustelu-n&#xE4;kym&#xE4;](../.gitbook/assets/customer-chat-start.png)
 
-### Viestin kirjoittaminen
+## Viestin kirjoittaminen
 
 Kirjoita viestisi viestikenttään. Lähettäminen tapahtuu joko painamalla \[ENTER\]-näppäintä tai klikkaamalla ![](../.gitbook/assets/icon-submit.PNG)lähetä-kuvaketta.
 
 Jos haluat tehdä rivinvaihdon viestiisi, se onnistuu painamalla yhtä aikaa \[SHIFT\]+\[ENTER\] -näppäimiä. Viestinkirjoituslaatikko venyy automaattisesti isommaksi kirjoittaessasi pidempiä viestejä.
+
+## Videopuhelut
+
+Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua ja ruudunjakoa tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Lue lisää sivulla _Videopuhelut_ ja kysy meiltä lisää ominaisuudesta.
+
+{% page-ref page="videopuhelut.md" %}
 
 ## Kuvat ja tiedostot
 
@@ -27,12 +33,6 @@ Asiakasneuvoja voi lähettää asiakkaalle kuvia ja tiedostoja, ja hän neuvojal
 Lähetettävien tiedostojen kokoa tai formaattia ei ole rajattu.
 
 ![Liitetiedoston lis&#xE4;&#xE4;minen ja n&#xE4;kyminen keskustelussa](../.gitbook/assets/customer-chat-attachment.png)
-
-## Videopuhelut
-
-Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua ja ruudunjakoa tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Lue lisää sivulla _Videopuhelut_ ja kysy meiltä lisää ominaisuudesta.
-
-{% page-ref page="videopuhelut.md" %}
 
 ## Asiakas-metatiedot
 
@@ -82,7 +82,7 @@ Keskustelua edeltävän alkukyselyn tiedot välitetään asiakaspalvelijan kesku
 
 Myös keskustelun jälkeen esitettävän loppukyselyn vastaukset ilmestyvät metatietoihin asiakkaan suljettua chatin.
 
-Alkukyselyssä voidaan kysyä asiakkaan nimi ja viesti, jotka tulevat mukaan myös itse keskusteluun.
+Alkukyselyssä voidaan kysyä asiakkaan nimi \(userName\) ja viesti \(message\), jotka tulevat mukaan myös itse keskusteluun sivupalkin vastausnäkymän lisäksi. 
 
 ![Alkukyselytiedot keskustelussa](../.gitbook/assets/customer-chat-questionnaire-data%20%281%29.png)
 
@@ -117,6 +117,8 @@ Esimerkki: Olet asettanut valmisviestin: _avoinna_ \(avain\): _Palvelemme arkip�
 ### Valmisviestin luominen ja muokkaus
 
 Valmisviestit ovat henkilökohtaisia ja ne luodaan omissa käyttäjäasetuksissa. Katso ohjeet linkin takaa:
+
+{% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
 ## Tunnisteet \(tägit\)
 
