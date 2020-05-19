@@ -66,19 +66,26 @@ Videopuhelun asetuksia voi jälkikäteen muuttaa ratas-ikonin kautta videon olle
 
 ## Ruudunjako
 
-![Ruudunjako asiakkaan suunnasta](../.gitbook/assets/videocall-screenshare.jpg)
-
 Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolelle. Ruudunjako voi olla apuna, kun asiakkaalle pitää näyttää miten web-sovellus toimii, tai neuvoessa tätä esim. lomakkeen täyttämisessä.
+
+![Ruudunjako asiakkaan suunnasta](../.gitbook/assets/videocall-screenshare.jpg)
 
 ### Ruudunjaon valinta
 
-Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. Klikkkaa videopuhelun aikana ruudunjako-kuvaketta ja valitse, mitä haluat näytöltäsi jakaa. 
+Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. 
 
-Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten web-selaimen tai tietyn selaimen välilehden.
+1. Klikkaa ruudunjako-kuvaketta ![](../.gitbook/assets/icon-screenshare.png) 
+2. Valitse haluamasi välilehti: Koko näyttö / Ohjelma-ikkuna / Selain-välilehti \(Koko näyttö on helpoin vaihtoehto, jos olet epävarma\)
+3. Klikkaa välilehden alta näkymä jonka haluat jakaa.
+4. Tämän jälkeen "Jaa/Share" -nappi aktivoituu, klikkaa sitä
+5. Ruudunjako alkaa
+6. Lopeta ruuudunjako ja palaa videokameran kuvaan klikkaamalla ruudunjako-kuvaketta uudestaan.
+
+Riippuu selaimesta, voitko jakaa koko ruudun, yksittäisen sovelluksen, kuten web-selaimen tai tietyn selaimen välilehden.
 
 ![Ruudunjakovalinta](../.gitbook/assets/video-call-settings-screenshare-settings.jpg)
 
-## Videotuki eri selaimilla ja alustoilla
+## Videopuhelutuki eri selaimilla ja alustoilla
 
 <table>
   <thead>
@@ -114,7 +121,11 @@ Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
-</table>## Ongelmatilanteet
+</table>{% hint style="warning" %}
+Videopuhelut eivät toimi Internet Explorer -selaimella!
+{% endhint %}
+
+## Ongelmatilanteet
 
 ### Testaa: [**Videopuhelu-testi**](https://ninchat.com/videotest)
 
