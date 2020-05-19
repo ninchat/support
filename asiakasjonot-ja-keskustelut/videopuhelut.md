@@ -89,23 +89,28 @@ Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <p>Windows</p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Microsoft Edge (2020 Chromium-pohjainen
-        versio)</td>
+      <td style="text-align:left">Windows</td>
+      <td style="text-align:left">Google Chrome
+        <br />Mozilla Firefox
+        <br />Microsoft Edge (2020 Chromium-pohjainen versio)</td>
     </tr>
     <tr>
-      <td style="text-align:left">Mac OS</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Apple Safari</td>
+      <td style="text-align:left">
+        <p>Mac OS</p>
+        <p>(Apple-tietokoneet)</p>
+      </td>
+      <td style="text-align:left">Google Chrome
+        <br />Mozilla Firefox
+        <br />Apple Safari</td>
     </tr>
     <tr>
       <td style="text-align:left">Android</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Microsoft Edge</td>
+      <td style="text-align:left">Google Chrome
+        <br />Mozilla Firefox
+        <br />Microsoft Edge</td>
     </tr>
     <tr>
-      <td style="text-align:left">iOS</td>
+      <td style="text-align:left">iOS (iPhone &amp; iPad)</td>
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
@@ -113,27 +118,49 @@ Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten
 
 ### Testaa toiminta: [**Videopuhelu-testityökalu**](https://ninchat.com/videotest)
 
-Voit kokeilla videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sopiva videopuhelujen käymiseen. Testi kertoo, mikäli jokin osa-alue ei ole kunnossa.
+Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sopiva videopuhelujen käymiseen. Testi kertoo, mikäli jokin osa-alue ei ole kunnossa.
 
 ### **Ohjeita ongelmatilanteisiin**
 
-**En näe videopuhelun käynnistyskuvaketta \(kamera-ikoni\).**  
-  
-Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. Internet Explorer ei tue videopuheluita. Videopuhelu on käynnistettävissä vain kahdenvälisissä keskusteluissa, eli videokamera-ikoni ei näy ryhmäkeskusteluissa.
+#### **En näe videopuhelun käynnistyskuvaketta \(kamera-ikoni\).**
 
-**"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. Pääsemme kohtaan 'Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty' mutta sitten ei vain tule yhteyttä."**  
-  
-Tämän kaltaiseen ongelmaan tavallinen syy on, että jommassa kummassa \(tai kummassakin\) päässä palomuuri tai jokin muu tietoturvaohjelma estää videoyhteyden. Jos olet aiemmin saanut onnistuneesti videoyhteyden samalla koneella, on ongelma todennäköisemmin asiakkaan yhteydessä. 
+> Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. Internet Explorer -selain \(IE\) ei tue videopuheluita. Huom! Jos avaat Ninchat-linkin esim. sähköpostista, se voi avautua vakiona IE-selaimeen. Kopioi linkki ja liitä se Chrome-selaimeen.
+>
+> Videopuhelu on käynnistettävissä vain kahdenvälisissä keskusteluissa, eli videokamera-ikoni ei näy ryhmäkeskusteluissa.
+>
+> Lisäksi on varmistettava, että asiakasjonossasi on asetettu videopuhelut käyttöön.
 
-**"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
+#### **"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia.**  **Chat-viestit asiakas kutienkin edelleen näkee. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
 
-Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.  
-Jos videon kanssa on säätöä kannattaa agentin ladata selainikkuna-uusiksi \(kaiken varalta\).  
-Jossain tilanteissa myös palomuuri tai anti-virusohjelma voi estää kameran käytön.
+> Videoyhteys muodostuu suoraan agentin ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa. Asiakasta voi pyytää esim. siirtymään lähemmäs wifi-tukiasemaa. Lisäksi mobiilisovellus voi mennä "nukkumaan" jolloin yhteys katkeaa, tähänonn tulossa parannusta lähitulevaisuudessa.
 
-**Ääni kiertää tai kaikuu pahasti.**  
-  
-Käytä mieluusti kuulokemikrofonia. Käytä lisäksi Chrome-selainta, jossa on paras kaiunpoisto. Voit yrittää vähentää oman mikrofonin volyymiä \(jos olet kuulokkeissa itse\) tai asiakasta voi pyytää laskemaan omaa volyymiä \(jos asiakkaan päässä kiertää eikä asiakkaalla ole kuulokkeita\).  
-Ääni voi kiertää, jos kummallakaan osapuolella ei ole kuulokkeita käytössä.  
-Jotkut kuulokemikrofonit voivat aiheuttaa äänen kiertämistä. Esim. joissain Bluetooth-kuulokemikrofoneissa oma ääni kuuluu kuulokkeista kun valitsee saman laitteen mikrofoniksi. Joskus selaimen uudelleenkäynnistys voi auttaa.
+> Videoyhteys muodostuu suoraan ammattilaisen ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa. 
+>
+> Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.
+>
+> Jos videon kanssa on ongelmia, kannattaa agentin ladata selainikkuna uusiksi.
+>
+> Jossain tilanteissa myös palomuuri tai anti-virusohjelma voi estää kameran käytön.
+
+####  **"Lupaa kameran tai mikrofonin käyttöön ei saatu: Olet mahdollisesti estänyt selaimelta kameran tai mikrofonin käytön, tai laitteessasi on estetty kameran tai mikrofonin käyttö yleisesti."**
+
+> Selaimelle tulee antaa lupa kameran ja mikrofonin käyttöön. Ensimmäisellä kerralla selain kysyy automaattisesti luvan sallimisesta. Myöhemmin luvan voi antaa osoiterivin lukko-kuvaketta klikkaamalla.
+>
+> Lisäksi Skype, Teams ja muut ohjelmat viestintäohjelmat kannattaa sulkea ennen video-chattia jotteivat ne varaa kameraa omaan käyttöönsä.
+
+#### **"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. Pääsemme kohtaan 'Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty' mutta sitten ei vain tule yhteyttä."**
+
+> Tämän kaltaiseen ongelmaan tavallinen syy on, että jommassa kummassa \(tai kummassakin\) päässä palomuuri tai jokin muu tietoturvaohjelma estää videoyhteyden. Jos olet aiemmin saanut onnistuneesti videoyhteyden samalla koneella, on ongelma todennäköisemmin asiakkaan yhteydessä.
+
+#### **Ääni kiertää tai kaikuu.** <a id="aani-kiertaa-tai-kaikuu"></a>
+
+> Käytä mieluusti kuulokemikrofonia. Ääni voi kiertää, jos kummallakaan osapuolella ei ole kuulokkeita käytössä.
+
+> Chrome-selaimessa on paras kaiunpoisto, joten käytä mieluusti sitä. 
+>
+> Voit yrittää vähentää oman mikrofonin volyymiä \(jos olet kuulokkeissa itse\) tai asiakasta voi pyytää laskemaan omaa volyymiä \(jos asiakkaan päässä kiertää, eikä asiakkaalla ole kuulokkeita\).
+>
+> Tietyt kuulokemikrofonit voivat silti aiheuttaa äänen kiertämistä. Esim. joissain Bluetooth-kuulokemikrofoneissa oma ääni kuuluu kuulokkeista kun valitsee saman laitteen mikrofoniksi.
+>
+> Joskus selaimen uudelleenkäynnistys voi auttaa.
 
