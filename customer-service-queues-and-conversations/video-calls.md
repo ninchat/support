@@ -119,7 +119,14 @@ In addition to video call, it is also possible to share the view of your screen 
 
 ### Start screen sharing
 
-Screen sharing can be selected after you have started a video call. During the video call, click the screen sharing icon and choose what you want to share from your screen. 
+Screen sharing can be selected after you have started a video call. 
+
+1. Click screen sharing icon ![](../.gitbook/assets/icon-screenshare.png) 
+2. Select tab based on what you want to show: Full screen / Application window / Certain browser tab \(Full screen is the easiest choice, if you don't know what to select.\)
+3. Under the selected tab, click a view you want to share
+4. Afer this, "Share" button activates. Click it.
+5. Screen sharing starts.
+6. End screen sharing and continue with webcam video by clicking screen sharing icon again.
 
 Depending on your browser, you can either share your entire screen, or a single application such as a web browser view, or certain web browser tab.
 
