@@ -124,8 +124,9 @@ Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme,
 
 #### **En näe videopuhelun käynnistyskuvaketta \(kamera-ikoni\).**
 
-> Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. Internet Explorer -selain \(IE\) ei tue videopuheluita. Huom! Jos avaat Ninchat-linkin esim. sähköpostista, se voi avautua vakiona IE-selaimeen. Kopioi linkki ja liitä se Chrome-selaimeen.
->
+> Yleensä syynä on Internet Explorer -selaimen \(IE\) käyttö vaikka pitäisi olla Chrome. Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. IE ei tue videopuheluita.   
+> Huom! Jos avaat Ninchat-linkin esim. sähköpostista, se voi avautua vakiona IE-selaimeen. Kopioi linkki ja liitä se Chrome-selaimeen.
+
 > Videopuhelu on käynnistettävissä vain kahdenvälisissä keskusteluissa, eli videokamera-ikoni ei näy ryhmäkeskusteluissa.
 >
 > Lisäksi on varmistettava, että asiakasjonossasi on asetettu videopuhelut käyttöön.
