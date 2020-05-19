@@ -116,7 +116,7 @@ Selaimesta riippuen voit joko jakaa koko ruudun, yksittäisen sovelluksen, kuten
   </tbody>
 </table>## Ongelmatilanteet
 
-### Testaa toiminta: [**Videopuhelu-testityökalu**](https://ninchat.com/videotest)
+### Testaa: [**Videopuhelu-testi**](https://ninchat.com/videotest)
 
 Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sopiva videopuhelujen käymiseen. Testi kertoo, mikäli jokin osa-alue ei ole kunnossa.
 
