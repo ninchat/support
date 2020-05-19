@@ -143,11 +143,18 @@ Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme,
 >
 > Jossain tilanteissa myös palomuuri tai viruksentorjunta-ohjelma voi estää kameran käytön.
 
-####  **"Lupaa kameran tai mikrofonin käyttöön ei saatu: Olet mahdollisesti estänyt selaimelta kameran tai mikrofonin käytön, tai laitteessasi on estetty kameran tai mikrofonin käyttö yleisesti."**
+####  "**Camera or microphone use prevented: Although permission for device is granted, an error occured at the system, browser or web page which prevented access to the device."**
+
+> Virheilmoitus johtuu yleensä siitä, että jokin toinen ohjelma \(kuten Skype\) varaa kameran tai mikrofonin. Voit kokeilla sulkea muut ohjelmat ja käynnistää sen jälkeen selaimen uudelleen.  
+> Myös jokin tietoturvaohjelma saattaa estää kameran tai mikrofonin käytön.
+>
+> Lisäksi kannattaa kokeilla mennä videopuhelun aikana videoasetuksiin ![](../.gitbook/assets/icon-video-setting.png) ja tarkistaa mitä kameraa tai mikrofonia yritetään käyttää.
+>
+> Jotkin USB-laitteet kuten Jabra saattavat vaatia USB-portin vaihdon.
+
+#### **"Lupaa kameran tai mikrofonin käyttöön ei saatu: Olet mahdollisesti estänyt selaimelta kameran tai mikrofonin käytön, tai laitteessasi on estetty kameran tai mikrofonin käyttö yleisesti."** 
 
 > Selaimelle tulee antaa lupa kameran ja mikrofonin käyttöön. Ensimmäisellä kerralla selain kysyy automaattisesti luvan sallimisesta. Myöhemmin luvan voi antaa osoiterivin lukko-kuvaketta klikkaamalla.
->
-> Lisäksi Skype, Teams ja muut ohjelmat viestintäohjelmat kannattaa sulkea ennen video-chattia jotteivat ne varaa kameraa omaan käyttöönsä.
 
 #### **"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. Pääsemme kohtaan 'Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty' mutta sitten ei vain tule yhteyttä."**
 
