@@ -132,15 +132,15 @@ Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme,
 
 #### **"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia.**  **Chat-viestit asiakas kutienkin edelleen näkee. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
 
-> Videoyhteys muodostuu suoraan agentin ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa. Asiakasta voi pyytää esim. siirtymään lähemmäs wifi-tukiasemaa. Lisäksi mobiilisovellus voi mennä "nukkumaan" jolloin yhteys katkeaa, tähänonn tulossa parannusta lähitulevaisuudessa.
+> Videoyhteys muodostuu suoraan agentin ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa. Tilannetta voi parantaa seuraavasti: Kotona: a\) läppäri piuhalla kiinni wifi-reitittimeen tai b\) jos olet kännykän hotspotin kautta niin kännykkä ikkunan lähelle tai c\) ole samassa huoneessa wifi-reitittimen kanssa.
 
-> Videoyhteys muodostuu suoraan ammattilaisen ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa. 
->
+> Lisäksi mobiilisovellus voi mennä "nukkumaan" jolloin yhteys katkeaa.
+
 > Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.
 >
-> Jos videon kanssa on ongelmia, kannattaa agentin ladata selainikkuna uusiksi.
+> Jos videon kanssa on ongelmia, kannattaa agentin ladata selain-ikkuna uusiksi \(päivitä/refresh/F5\).
 >
-> Jossain tilanteissa myös palomuuri tai anti-virusohjelma voi estää kameran käytön.
+> Jossain tilanteissa myös palomuuri tai viruksentorjunta-ohjelma voi estää kameran käytön.
 
 ####  **"Lupaa kameran tai mikrofonin käyttöön ei saatu: Olet mahdollisesti estänyt selaimelta kameran tai mikrofonin käytön, tai laitteessasi on estetty kameran tai mikrofonin käyttö yleisesti."**
 
