@@ -173,10 +173,10 @@ Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme,
 
 #### **Ääni kiertää tai kaikuu.** <a id="aani-kiertaa-tai-kaikuu"></a>
 
-> Käytä mieluusti kuulokemikrofonia. Ääni voi kiertää, jos kummallakaan osapuolella ei ole kuulokkeita käytössä.
-
 > Chrome-selaimessa on paras kaiunpoisto, joten käytä mieluusti sitä. 
 >
+> Käytä mieluusti kuulokemikrofonia. Ääni voi kiertää, jos kummallakaan osapuolella ei ole kuulokkeita käytössä.
+
 > Voit yrittää vähentää oman mikrofonin volyymiä \(jos olet kuulokkeissa itse\) tai asiakasta voi pyytää laskemaan omaa volyymiä \(jos asiakkaan päässä kiertää, eikä asiakkaalla ole kuulokkeita\).
 >
 > Tietyt kuulokemikrofonit voivat silti aiheuttaa äänen kiertämistä. Esim. joissain Bluetooth-kuulokemikrofoneissa oma ääni kuuluu kuulokkeista kun valitsee saman laitteen mikrofoniksi.
