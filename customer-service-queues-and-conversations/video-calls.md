@@ -136,22 +136,27 @@ Depending on your browser, you can either share your entire screen, or a single 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <p>Windows</p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Microsoft Edge (2020 Chromium-based version)</td>
+      <td style="text-align:left">Windows</td>
+      <td style="text-align:left">Google Chrome
+        <br />Mozilla Firefox
+        <br />Microsoft Edge (2020 Chromium-based version)</td>
     </tr>
     <tr>
-      <td style="text-align:left">Mac OS</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox, Apple Safari</td>
+      <td style="text-align:left">
+        <p>Mac OS</p>
+        <p>(Apple desktops)</p>
+      </td>
+      <td style="text-align:left">Google Chrome
+        <br />Mozilla Firefox
+        <br />Apple Safari</td>
     </tr>
     <tr>
       <td style="text-align:left">Android</td>
-      <td style="text-align:left">Google Chrome, Mozilla Firefox</td>
+      <td style="text-align:left">Google Chrome
+        <br />Mozilla Firefox</td>
     </tr>
     <tr>
-      <td style="text-align:left">iOS</td>
+      <td style="text-align:left">iOS (iPhone &amp; iPad)</td>
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
