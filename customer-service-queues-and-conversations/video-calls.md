@@ -173,17 +173,58 @@ Depending on your browser, you can either share your entire screen, or a single 
 
 You can try our Video call test tool to check whether your hardware, web browser and connection is adequate for video calls. Test tool reports if something is wrong.
 
-\*\*\*\*[**Ninchat - Video test tool**](https://ninchat.com/videotest)
+#### \*\*\*\*[**Ninchat - Video test tool**](https://ninchat.com/videotest)
 
 ### **Instructions for problems**
 
-**I cannot see videocall start button \(video camera icon\).**  
-Make sure you are using Google Chrome, or Mozilla Firefox web browser. Internet Explorer does not support video calls.  
-You can only start a video call in 1-on-1 conversations; video camera icon does not show up in group channels.
+**I cannot see video call start button \(video camera icon\).**
 
-**Voice echoes during video call**  
-Preferably use a microphone headset. In addition, use Chrome browser, as it has the best available echo cancellation.  
-You can try and lower you microphone volume, or ask the customer to do the same.  
-If neither party is using a headset, there's a greater chance the voice echoes.  
-Restarting your web browser may help.
+> Usually the reason is you are using Internet Explorer web-browser \(IE\). Make sure you are using Google Chrome or Mozilla Firefox browser. IE does not support video calls.  
+> Note! If you open Ninchat from e.g. a link in email, it might open up in Internet Explorer by default. Copy-paste the link into Chrome.
+
+> Video call can be started only in 1-on-1 conversations. Video cam icon will not show up in team channels. 
+>
+> Additionally make sure video calls are enabled in your customer queue.
+
+#### **"Video call starts but cuts out immediately, and will not restart. Connection cut off without errors or warnings. We can still use text chat. I have had video calls successfully before."**
+
+> Video connection is established straight between agent and customer, so if connection is lost , the problem might be with network connection quality or load on either end.  
+> The situation can be improved at home as follows: a\) connect the laptop to the wifi router with a cable, or b\) if the connection is made via a mobile hotspot, place the mobile phone near a window, or c\) be in the same room as the wifi router.
+
+> Mobile app can also go to "sleep" after which the connection cuts off.
+
+> For some reason video connection doesn't "get through". Usually this doesn't happen with mobile network, unless there is some privacy/security application in customer's device or other apps that block connection. This can also occur if they are using workplace network with a strict firewall.
+
+> If you encounter a problem with a video call, refresh page for good measure \(arrow circle icon next to address bar / F5 key\).
+
+> A firewall or anti-virus program can block webcam usage in some cases.
+
+####  "**Camera or microphone use prevented: Although permission for device is granted, an error occured at the system, browser or web page which prevented access to the device."**
+
+> This error message is often caused by another messaging program \(like Skype\) reserving webcam or microphone. Try to close other progrmas/apps and restart your web browser after that.  
+> A security application might also disable webcam or microphone.
+>
+> Open video settings during a video call clicking ![](../.gitbook/assets/icon-video-setting.png)icon and check which camera and microphone device is used.
+
+> Some USB devices like Jabra may require changing USB port.
+
+#### **"Camera or microphone use prevented: You may have denied usage of webcam or microphone from the web browser, or y**our device has prevented using the camera or microphone overall**."** 
+
+> One must allow webcam and microphone in your web browser for every site. During first video call browser automatically asks for permission. If you have denied the permission, you can later allow it by clicking lock icon in the browser address bar.
+
+#### **"In video call neither party can see other's image or hear sound. My webcam works as I can see my own image. Ninchat tells '**Video chat answered' **but there is no connection."**
+
+> In this kind of situation the reason is often that in either end \(or both\) there is a firewall or security application blocking the video connection. If you have successfully had video calls earlier, the problem lies most likely in customer's connection.
+
+**Voice echoes during video call**
+
+> Google Chrome browser has the best available echo cancellation. Preferably use this browser.
+>
+> Preferably use a headset. The sound can echo if neither party has headphones on.
+
+> Try to lower your microphone volume. You can also ask the customer to  lower their microphone volume if they have echoing problem and they can't use a headset.
+>
+> Some headsets with microphone can cause sound echoing. For instance some with Bluetooth headsets you hear you own voice when you select the same device as both microphone and speaker. In this case you can try and set the computer's own mic as microphone device, in video call settings.
+>
+> Restarting web browser may also help.
 

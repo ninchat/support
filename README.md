@@ -1,13 +1,10 @@
+---
+description: Welcome to Ninchat Support portal!
+---
+
 # Welcome
 
-**Welcome to Ninchat Support portal!**   
-You can find answers to frequently asked questions \(FAQs\) below or browse through the articles on the left by topic. If you still cannot find what you are looking for, contact us [here](https://ninchat.com/contact).
-
-## Updates
-
-You can keep track of updates and improvements on Ninchat in the _What's new_ section.
-
-{% page-ref page="whats-new.md" %}
+Browse through the articles on the left by topic. You can find answers to frequently asked questions below. If you still cannot find what you are looking for, [chat with us here](https://ninchat.com/contact).
 
 ## Common topics
 
@@ -21,7 +18,7 @@ You can keep track of updates and improvements on Ninchat in the _What's new_ se
 
 {% page-ref page="public-group-discussions/organize-group-discussion.md" %}
 
- 
+ You can keep track of updates and improvements on Ninchat in the _What's new_ section:
 
-
+{% page-ref page="whats-new.md" %}
 
