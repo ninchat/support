@@ -121,7 +121,7 @@ In addition to video call, it is also possible to share the view of your screen 
 
 Screen sharing can be selected after you have started a video call. 
 
-1. Click screen sharing icon ![](../.gitbook/assets/icon-screenshare.png) 
+1. Click screen sharing icon![](../.gitbook/assets/video-screenshare.png) 
 2. Select tab based on what you want to show: Full screen / Application window / Certain browser tab \(Full screen is the easiest choice, if you don't know what to select.\)
 3. Under the selected tab, click a view you want to share
 4. Afer this, "Share" button activates. Click it.
@@ -203,12 +203,12 @@ Internet Explorer does not support video calls. Please use Chrome or Firefox bro
 
 > A firewall or anti-virus program can block webcam usage in some cases.
 
-####  "**Camera or microphone use prevented: Although permission for device is granted, an error occured at the system, browser or web page which prevented access to the device."**
+####  "**Camera or microphone use prevented: Although permission for device is granted, an error occurred at the system, browser or web page which prevented access to the device."**
 
-> This error message is often caused by another messaging program \(like Skype\) reserving webcam or microphone. Try to close other progrmas/apps and restart your web browser after that.  
+> This error message is often caused by another messaging program \(like Skype\) reserving webcam or microphone. Try to close other programs/apps and restart your web browser after that.  
 > A security application might also disable webcam or microphone.
 >
-> Open video settings during a video call clicking ![](../.gitbook/assets/icon-video-setting.png)icon and check which camera and microphone device is used.
+> Open video settings during a video call clicking ![](../.gitbook/assets/video-settings.png)icon and check which camera and microphone device is used.
 
 > Some USB devices like Jabra may require changing USB port.
 
