@@ -74,7 +74,7 @@ Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolel
 
 Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. 
 
-1. Klikkaa ruudunjako-kuvaketta ![](../.gitbook/assets/icon-screenshare.png) 
+1. Klikkaa ruudunjako-kuvaketta ![](../.gitbook/assets/video-screenshare.png) 
 2. Valitse haluamasi välilehti: Koko näyttö / Ohjelma-ikkuna / Selain-välilehti \(Koko näyttö on helpoin vaihtoehto, jos olet epävarma\)
 3. Klikkaa välilehden alta näkymä jonka haluat jakaa.
 4. Tämän jälkeen "Jaa/Share" -nappi aktivoituu, klikkaa sitä
@@ -162,7 +162,7 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 > Virheilmoitus johtuu yleensä siitä, että jokin toinen ohjelma \(kuten Skype\) varaa kameran tai mikrofonin. Voit kokeilla sulkea muut ohjelmat ja käynnistää sen jälkeen selaimen uudelleen.  
 > Myös jokin tietoturvaohjelma saattaa estää kameran tai mikrofonin käytön.
 >
-> Lisäksi kannattaa kokeilla mennä videopuhelun aikana videoasetuksiin ![](../.gitbook/assets/icon-video-setting.png) ja tarkistaa mitä kameraa tai mikrofonia yritetään käyttää.
+> Lisäksi kannattaa kokeilla mennä videopuhelun aikana videoasetuksiin![](../.gitbook/assets/video-settings.png)ja tarkistaa mitä kameraa tai mikrofonia yritetään käyttää.
 >
 > Jotkin USB-laitteet kuten Jabra saattavat vaatia USB-portin vaihdon.
 
