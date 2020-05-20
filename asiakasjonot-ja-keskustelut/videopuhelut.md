@@ -127,9 +127,11 @@ Videopuhelut eivät toimi Internet Explorer -selaimella!
 
 ## Ongelmatilanteet
 
-### Testaa: [**Videopuhelu-testi**](https://ninchat.com/videotest)
+### Videopuhelutesti
 
 Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sopiva videopuhelujen käymiseen. Testi kertoo, mikäli jokin osa-alue ei ole kunnossa.
+
+#### [**Ninchat videopuhelu-testityökalu**](https://ninchat.com/videotest)\*\*\*\*
 
 ### **Ohjeita ongelmatilanteisiin**
 
@@ -144,13 +146,14 @@ Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme,
 
 #### **"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia.**  **Chat-viestit asiakas kutienkin edelleen näkee. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
 
-> Videoyhteys muodostuu suoraan agentin ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa. Tilannetta voi parantaa seuraavasti: Kotona: a\) läppäri piuhalla kiinni wifi-reitittimeen tai b\) jos olet kännykän hotspotin kautta niin kännykkä ikkunan lähelle tai c\) ole samassa huoneessa wifi-reitittimen kanssa.
+> Videoyhteys muodostuu suoraan agentin ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa.   
+> Tilannetta voi parantaa seuraavasti kotona: a\) yhdistä kannettava tietokone verkkopiuhalla wifi-reitittimeen tai b\) jos yhteys muodostuu kännykän hotspotin kautta niin aseta kännykkä ikkunan lähelle tai c\) ole samassa huoneessa wifi-reitittimen kanssa.
 
 > Lisäksi mobiilisovellus voi mennä "nukkumaan" jolloin yhteys katkeaa.
 
 > Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.
 >
-> Jos videon kanssa on ongelmia, kannattaa agentin ladata selain-ikkuna uusiksi \(päivitä/refresh/F5\).
+> Jos videon kanssa on ongelmia, kannattaa agentin ladata oma web-selain-ikkuna uusiksi \(päivitä/refresh/F5/ympyränuoli selaimen osoiterivillä\).
 >
 > Jossain tilanteissa myös palomuuri tai viruksentorjunta-ohjelma voi estää kameran käytön.
 
@@ -179,7 +182,7 @@ Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme,
 
 > Voit yrittää vähentää oman mikrofonin volyymiä \(jos olet kuulokkeissa itse\) tai asiakasta voi pyytää laskemaan omaa volyymiä \(jos asiakkaan päässä kiertää, eikä asiakkaalla ole kuulokkeita\).
 >
-> Tietyt kuulokemikrofonit voivat silti aiheuttaa äänen kiertämistä. Esim. joissain Bluetooth-kuulokemikrofoneissa oma ääni kuuluu kuulokkeista kun valitsee saman laitteen mikrofoniksi.
+> Tietyt kuulokemikrofonit voivat silti aiheuttaa äänen kiertämistä, esimerkiksi joissain Bluetooth-kuulokemikrofoneissa oma ääni kuuluu kuulokkeista kun valitsee saman laitteen mikrofoniksi ja kaiuttimiksi, tässä tilanteessa voi kokeilla vaihtaa mikrofoniksi oman kannettavan tietokoneen mikrofonin.
 >
 > Joskus selaimen uudelleenkäynnistys voi auttaa.
 
