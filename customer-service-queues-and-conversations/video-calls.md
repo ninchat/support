@@ -177,6 +177,10 @@ You can try our Video call test tool to check whether your hardware, web browser
 
 ### **Instructions for problems**
 
+{% hint style="warning" %}
+Internet Explorer does not support video calls. Please use Chrome or Firefox browsers.
+{% endhint %}
+
 **I cannot see video call start button \(video camera icon\).**
 
 > Usually the reason is you are using Internet Explorer web-browser \(IE\). Make sure you are using Google Chrome or Mozilla Firefox browser. IE does not support video calls.  
