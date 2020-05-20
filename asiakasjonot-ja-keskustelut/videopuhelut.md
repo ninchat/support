@@ -121,11 +121,7 @@ Riippuu selaimesta, voitko jakaa koko ruudun, yksittäisen sovelluksen, kuten we
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
-</table>{% hint style="warning" %}
-Videopuhelut eivät toimi Internet Explorer -selaimella!
-{% endhint %}
-
-## Ongelmatilanteet
+</table>## Ongelmatilanteet
 
 ### Videopuhelutesti
 
@@ -134,6 +130,10 @@ Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme,
 #### [**Ninchat videopuhelu-testityökalu**](https://ninchat.com/videotest)\*\*\*\*
 
 ### **Ohjeita ongelmatilanteisiin**
+
+{% hint style="warning" %}
+Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
+{% endhint %}
 
 #### **En näe videopuhelun käynnistyskuvaketta \(kamera-ikoni\).**
 
