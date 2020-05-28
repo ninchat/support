@@ -4,19 +4,33 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 # Ongelmatilanteet sisäänkirjautumisessa
 
-## Unohtunut salasana
+## Sisäänkirjautumisongelmat <a id="sisaankirjautumisongelmat"></a>
+
+### Mistä pääsen kirjautumaan palveluun?
+
+> Mikäli Ninchat-pikakuvake on hävinnyt tai osoite on unohtunut, pääset Ninchatiin aina siirtymällä web-selaimella osoitteeseen [**https://ninchat.com/app**](https://ninchat.com/app).
+
+### Unohtunut salasana
 
 {% page-ref page="unohtunut-salasana.md" %}
 
-## Käyttöliittymä rikki? <a id="kayttoliittyma-rikki"></a>
+### Käyttöliittymä rikki?
+
+### Identiteetinvarmistuskoodi on vanhentunut
+
+> Jos saat kirjautuessasi tämän ilmoituksen, se tarkoittaa, että yrität kirjautua tunnuksen vahvistuslinkillä toiseen kertaan. Vahvistuslinkkiä \(verification\) tulee käyttää vain kerran. Tämän jälkeen kirjaudu aina menemällä osoitteeseen [**https://ninchat.com/app**](https://ninchat.com/app).
+
+### Kutsulinkki ei toimi?
+
+> Kutsulinkki ei toimi ja saat virheilmoituksen yrittäessäsi hyväksyä kutsun? Kutsu on todennäköisesti vanhentunut. Kutsulinkit ovat voimassa 14 vuorokautta. Pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
+
+## Ongelmat kirjautumisen jälkeen
+
+### Käyttöliittymä rikki?
 
 {% page-ref page="ongelmat-kayttoliittymassa.md" %}
 
-## Mistä pääsen kirjautumaan palveluun?
-
-Mikäli pikakuvake hävinnyt tai osoite on unohtunut, pääset Ninchatiin aina siirtymällä web-selaimella osoitteeseen [**https://ninchat.com/app**](https://ninchat.com/app).
-
-## Tiimikanavia ei näy? <a id="tiimikanavia-ei-nay"></a>
+### Tiimikanavia ei näy?
 
 Alla selitetty pari tilannetta, joissa tiimikanavia ei näy.
 
@@ -37,12 +51,6 @@ Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 Olet todennäköisesti tullut Ninchatiin ilman kutsulinkkiä ja olet tilanteessa, jossa et kuulu mihinkään organisaatioon tai tiimikanavalle.
 
 Etsi sähköpostistasi Ninchat Invite -viesti ja klikkaa sieltä kutsulinkkiä \(ks. ohje ylempänä\), tai pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
-
-## Kutsulinkki ei toimi?
-
-Kutsulinkki ei toimi ja saat virheilmoituksen yrittäessäsi hyväksyä kutsun?
-
-Kutsu on todennäköisesti vanhentunut. Kutsulinkit ovat voimassa 14 vuorokautta. Pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
 
 ## Pyydä apua chatissa <a id="pyyda-apua-chatissa"></a>
 
