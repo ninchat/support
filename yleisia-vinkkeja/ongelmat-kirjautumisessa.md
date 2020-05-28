@@ -18,7 +18,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 ### Identiteetinvarmistuskoodi on vanhentunut
 
-> Jos saat kirjautuessasi tämän ilmoituksen, se tarkoittaa, että yrität kirjautua tunnuksen vahvistuslinkillä toiseen kertaan. Vahvistuslinkkiä \(verification\) tulee käyttää vain kerran. Tämän jälkeen kirjaudu aina menemällä osoitteeseen [**https://ninchat.com/app**](https://ninchat.com/app).
+> Jos saat kirjautuessasi tämän ilmoituksen, se tarkoittaa, että yrität kirjautua tunnuksen vahvistuslinkillä toiseen kertaan. Vahvistuslinkkiä \(verification\) tulee käyttää vain kerran. Tämän jälkeen kirjaudu aina menemällä osoitteeseen [**https://ninchat.com/app**](https://ninchat.com/app). Tallenna tämä osoite kirjanmerkkeihin \(ks. ohjesivu _Pikakuvakkeet ja kirjanmerkit_\)
 
 ### Kutsulinkki ei toimi?
 
@@ -34,7 +34,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 Alla selitetty pari tilannetta, joissa tiimikanavia ei näy.
 
-### Väärä organisaatio valittuna <a id="vaara-organisaatio-valittuna"></a>
+#### Väärä organisaatio valittuna
 
 Mikäli sivupalkissa ei näy tuttuja kanavia ja asiakasjonoja, olet saattanut vahingossa siirtyä toiseen organisaatioon tai julkiseen tilaan.
 
@@ -42,7 +42,7 @@ Siirry takaisin omaan organisaatioon klikkaamalla nuolta organisaation nimen vie
 
 ![Vaihda organisaatio organisaatiovalikosta](../.gitbook/assets/problem-wrong-organization.png)
 
-### Rekisteröidyit palveluun ilman kutsulinkkiä <a id="rekisteroidyit-palveluun-ilman-kutsulinkkia"></a>
+#### Rekisteröidyit palveluun ilman kutsulinkkiä
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 
