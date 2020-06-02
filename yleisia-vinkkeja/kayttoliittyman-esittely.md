@@ -34,7 +34,9 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
         <br />Kanavan j&#xE4;senet ja keskustelutoiminnot</td>
     </tr>
   </tbody>
-</table>### Tiimikanavan tunnisteet
+</table>
+
+### Tiimikanavan tunnisteet
 
 <table>
   <thead>
@@ -82,7 +84,9 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
       <td style="text-align:left">Kutsu uusia henkil&#xF6;it&#xE4; kanavalle (Kanavan operaattori)</td>
     </tr>
   </tbody>
-</table>## Sidebar \(keskustelulista\)
+</table>
+
+## Sidebar \(keskustelulista\)
 
 Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoitukset uusista tapahtumissa eri keskusteluissa.
 

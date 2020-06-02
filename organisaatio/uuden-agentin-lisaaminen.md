@@ -11,26 +11,29 @@ description: >-
 Henkilön lisääminen organisaatioon ja asiakasjonoihin tapahtuu seuraavasti:
 
 1. Henkilö kutsutaan tiimikanavalle.
-2. Liittymisen jälkeen agentti lisätään organisaation jäseneksi.
+   * Anna kutsuttavalle kutsunäkymässä myös jäsenyys organisaatioon.
+2. Ellei kutsussa ole annettu organisaatiojäsenyyttä, agentti voidaan liittymisen jälkeen lisätä organisaation jäseneksi. 
 3. Agentille annetaan oikeudet vastata jonoon.
 
-## 1. Uuden henkilön kutsuminen tiimikanavalle <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+## 1. Uuden henkilön kutsuminen <a id="henkilon-kutsuminen-tiimikanavalle"></a>
 
-Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
+Käyttäjien kutsumiseen vaaditaan kyseisen kanavan operaattorioikeudet. Käyttäjä tulee kutsua erikseen kaikille halutuille kanaville. Organisaatioon hänet tarvii kutsulla lisätä vain kerran.
 
-![Kutsuminen tiimikanavalle](../.gitbook/assets/invite%20%281%29.png)
+![K&#xE4;ytt&#xE4;j&#xE4;n kutsuminen](../.gitbook/assets/invite-people-channel-fi.png)
 
-1. Klikkaa jäsenlistan lopussa "Kutsu väkeä / Invite people" -linkkiä.
+1. Klikkaa jäsenlistan lopussa "_Kutsu väkeä / Invite people_" -linkkiä.
 2. Kirjoita kutsuttavan henkilön sähköpostiosoite kenttään ja paina Enter.
-3. Lisää tarvittaessa muiden kutsuttavien osoitteet.
-4. Paina "Lähetä kutsu / Send invite"
-5. Voit myös kopioida kutsulinkin osoitteen ja lähettää/jakaa sen itse!
+3. Lisää tarvittaessa muiden kutsuttavien osoitteet tai käyttäjänimet.
+4. Ruksaa kohta: _Anna samalla jäsenyys organisaatioon_. Jos haluat lisätä käyttäjän vain kanavalle, jätä tämä kohta väliin.
+5. Paina "Lähetä kutsu / Send invite". Voit myös kopioida kutsulinkin ja lähettää/jakaa sen itse!
 
 {% hint style="info" %}
 Kanavakutsulinkki ovat voimassa 14 vuorokautta sen luomishetkestä. Tämän jälkeen se ei enää toimi, ja sinun tulee tarvittaessa luoda uusi linkki.
 {% endhint %}
 
 ## 2. Agentin lisääminen organisaatioon
+
+Käyttäjä voidaan lisätä organisaatioon suoraan kutsun yhteydessä. Mikäli tätä ei ole tehty, käyttäjän voi lisätä organisaatioon hänen liityttyään kanavalle.
 
 1. Uusi jäsen seuraa Käyttäjätilin luominen -ohjeen vaiheet ja liittyy tiimikanavalle.
 2. Näet uuden käyttäjän jäsenlistalla sekä ilmoituksen liittymisestä keskustelussa.

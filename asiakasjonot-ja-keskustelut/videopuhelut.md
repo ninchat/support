@@ -121,7 +121,9 @@ Riippuu selaimesta, voitko jakaa koko ruudun, yksittäisen sovelluksen, kuten we
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
-</table>## Ongelmatilanteet
+</table>
+
+## Ongelmatilanteet
 
 ### Videopuhelutesti
 

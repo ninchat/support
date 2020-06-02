@@ -61,7 +61,9 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
         viestit my&#xF6;hemmin</td>
     </tr>
   </tbody>
-</table>## Käyttäjän lisääminen kanavalle
+</table>
+
+## Käyttäjän lisääminen kanavalle
 
 Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Katso tarkemmat ohjeet kohdassa Käyttäjän lisääminen kanavalle:
 

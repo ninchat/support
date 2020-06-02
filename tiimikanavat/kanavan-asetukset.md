@@ -65,7 +65,9 @@ Kanavan kuvausteksti, jolla voit määritellä tarkemmin kanavan tarkoitusta.
         kun h&#xE4;n on varmentanut k&#xE4;ytt&#xE4;j&#xE4;tunnuksensa.</td>
     </tr>
   </tbody>
-</table>#### Kenelle viestit näkyvät
+</table>
+
+#### Kenelle viestit näkyvät
 
 <table>
   <thead>
@@ -102,7 +104,9 @@ Kanavan kuvausteksti, jolla voit määritellä tarkemmin kanavan tarkoitusta.
         ilmoitusta keskustelussa.</td>
     </tr>
   </tbody>
-</table>#### **Kuka voi kirjoittaa kanavalle**
+</table>
+
+#### **Kuka voi kirjoittaa kanavalle**
 
 | Valinta | Selite |
 | :--- | :--- |

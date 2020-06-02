@@ -85,7 +85,9 @@ Sivupalkissa, jonon nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata 
       </td>
     </tr>
   </tbody>
-</table>Osa kerrotuista toiminnoista näkyy vain jos ne otettu käyttöön.
+</table>
+
+Osa kerrotuista toiminnoista näkyy vain jos ne otettu käyttöön.
 
 {% page-ref page="asiakaskeskustelun-kayminen.md" %}
 

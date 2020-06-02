@@ -48,7 +48,9 @@ Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä 
       </td>
     </tr>
   </tbody>
-</table>#### Kanavan operaattorioikeudet päälle
+</table>
+
+#### Kanavan operaattorioikeudet päälle
 
 Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Give operator rights / Anna operaattorioikeudet".  
 Kanavan moderointioikeudet laitetaan päälle asiantuntijoille ym vierailijoille sekä heille jotka moderoivat keskustelua.

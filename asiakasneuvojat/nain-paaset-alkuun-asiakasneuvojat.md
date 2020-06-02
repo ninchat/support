@@ -163,7 +163,9 @@ Mikäli olet saanut _organisaation operaattori_ -oikeudet, voit myös avata ja s
       </td>
     </tr>
   </tbody>
-</table>Lue lisää asiakaskeskusteluita:
+</table>
+
+Lue lisää asiakaskeskusteluita:
 
 {% page-ref page="../asiakasjonot-ja-keskustelut/asiakkaan-nappaaminen-jonosta.md" %}
 

@@ -54,7 +54,9 @@ Tilastosivu koostuu osioista:
       </td>
     </tr>
   </tbody>
-</table>## Graafiset kuvaajat
+</table>
+
+## Graafiset kuvaajat
 
 ![Tilastokuvaajat](../.gitbook/assets/stats3%20%283%29.png)
 

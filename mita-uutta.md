@@ -4,6 +4,18 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 # Mitä uutta
 
+## 26.5.2020
+
+### Käyttäjän lisääminen organisaatioon suoraan kutsussa
+
+* Käyttäjän kutsuun kanavalle on mahdollista lisätä kutsuttavan lisääminen suoraan organisation jäseneksi. Näin yksi välivaihe jää pois ja liittymisen jälkeen käyttäjän voi lisätä suoraan jonoihin käsittelijäksi.
+
+![](.gitbook/assets/invite-people-fi.png)
+
+### Offline-yhteydenotot -parannuksi
+
+* Offline-yhteydenotoista ja kyselyvastauksista on mahdollista asettaa näkymään ilmoitukset Ninchatissa.Yhteydenotot ovat luettavissa jonon tapahtumaloki-sivun ja tilastojen kautta.
+
 ## 20.4.2020
 
 ### Monipuolisemmat yhteydenottolomakkeet

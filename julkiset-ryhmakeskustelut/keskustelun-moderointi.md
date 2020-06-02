@@ -97,7 +97,9 @@ Moderointityökalut tulevat esille kun hiiren osoittimen vie kommentin päälle.
       </td>
     </tr>
   </tbody>
-</table>### Käyttäjävalikko
+</table>
+
+### Käyttäjävalikko
 
 Klikkaa haluttua käyttäjää jäsenlistalla nähdäksesi käyttäjävalikko. 
 
@@ -135,7 +137,9 @@ Klikkaa haluttua käyttäjää jäsenlistalla nähdäksesi käyttäjävalikko.
       <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; poistetaan kokonaan keskustelusta.</td>
     </tr>
   </tbody>
-</table>### Kanavavalikko
+</table>
+
+### Kanavavalikko
 
 Klikkaa kanavan nimeä yläpalkissa nähdäksesi kanavavalikko.
 
