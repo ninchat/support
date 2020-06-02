@@ -68,7 +68,9 @@ Channel description to further define the purpose of the channel.
         verified the user account.</td>
     </tr>
   </tbody>
-</table>#### Who can read messages
+</table>
+
+#### Who can read messages
 
 <table>
   <thead>
@@ -104,7 +106,9 @@ Channel description to further define the purpose of the channel.
         channel is shown in the conversation.</td>
     </tr>
   </tbody>
-</table>#### **Who can write messages**
+</table>
+
+#### **Who can write messages**
 
 | Selection | Function |
 | :--- | :--- |

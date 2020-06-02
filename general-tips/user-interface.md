@@ -42,7 +42,9 @@ Ninchat basic view consists of three sections, from left to right respectively: 
       </td>
     </tr>
   </tbody>
-</table>### Team channel - member list symbols
+</table>
+
+### Team channel - member list symbols
 
 | Symbol | Meaning |
 | :--- | :--- |

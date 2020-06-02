@@ -88,7 +88,9 @@ Clicking the arrow icon next to a queue name in the Sidebar will open a drop-dow
       </td>
     </tr>
   </tbody>
-</table>Some actions are shown only if they are enabled for the queue.
+</table>
+
+Some actions are shown only if they are enabled for the queue.
 
 {% page-ref page="having-a-customer-audience.md" %}
 

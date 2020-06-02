@@ -11,26 +11,29 @@ description: >-
 These are the main steps how a new agent can be invited to your organization and customer care queues:
 
 1. The person is invited to a team channel.
-2. After the person accepts the invitation, he/she can be added to the organization.
-3. The agent is then given the rights to answer queues.
+   * Grant also membership to organization for the invitee
+2. If user wasn't granted organization membership alongside invitation, he/she can be added to the organization after accepting the invitation.
+3. The agent is then added to customer queues.
 
-## 1. Invite people to a team channel <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+## 1. Invite people <a id="henkilon-kutsuminen-tiimikanavalle"></a>
 
-A channel operator can invite new people to join the channel.
+Inviting people requires channel operator rights on the channel in question. User must be invited to all necessary channel separately. Organization membership is given only once.
 
-![](../.gitbook/assets/invite%20%281%29.png)
+![Sending invitation](../.gitbook/assets/invite-people-channel-en.png)
 
 1. Click "Invite people" at the bottom of the member list.
 2. Type email address of the person you want to invite in Search field and press Enter.
-3. Add email addresses of other invitees as needed.
-4. Click the "Send invite" button.
-5. You can also copy the invitation link and send to each person.
+3. Add email addresses or usernames of other invitees as needed.
+4. Tick "Grant membership to organization". If you want to invite people only to the channel, leave this out.
+5. Click the "Send invite" button. You can also copy the invitation link and send to each person.
 
 {% hint style="info" %}
 The invitation link is valid for 14 days from the time it is created. It will then expire and you will have to create a new link if needed.
 {% endhint %}
 
 ## 2. Add an agent to your organization
+
+User can be granted organization membership along with invitation. If this wasn't done, you can add them to organization after they have accepted invitation.
 
 1. A new user can follow the steps in the article "How to create account?", and join the team channel.
 2. You will see the new member in the member list and a notification that he/she has joined the channel.

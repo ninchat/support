@@ -6,6 +6,28 @@ description: >-
 
 # What's new
 
+## 
+
+## 26.5.2020
+
+### Grant organization membership along with channel invitation
+
+* When invitation people to channel, you can also add grant membership to your organization along with it. This way you don't need to separately add the to the organization after joining. 
+
+![](.gitbook/assets/invite-people-en.png)
+
+### Offline contacts improvements
+
+* You can now set notifications about registered contacts from offline times and other questionnaire contacts. Registered contacts can be seen in Queue Log page and statistics.
+
+## 20.4.2020
+
+### Monipuolisemmat yhteydenottolomakkeet
+
+* Yhteydenottolomakkeet offline-tilanteisiin ovat nyt paremmin muokattavissa tarpeitanne varten.Tuki tekstikentille, laajoille tekstikentille, nappivalinnoille ja pudotusvalikoille.
+
+![Yhteydenottolomake-esimerkki](.gitbook/assets/registered-asiakas.PNG)
+
 ## 20/4/2020
 
 ### More versatile contact forms

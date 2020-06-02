@@ -77,7 +77,9 @@ Once started, video call appears above the conversation. Both the agent and the 
       <td style="text-align:left">End the video call. (This does not end the chat.)</td>
     </tr>
   </tbody>
-</table>## Having video calls
+</table>
+
+## Having video calls
 
 Before having video calls, please test compatibility with our Video test tool. The tool reports whether your hardware, web browser and connection is adequate for video calls. [Open video testing tool](https://ninchat.com/videotest)
 
@@ -167,7 +169,9 @@ Depending on your browser, you can either share your entire screen, or a single 
       <td style="text-align:left">Apple Safari</td>
     </tr>
   </tbody>
-</table>## Problems regarding video calls
+</table>
+
+## Problems regarding video calls
 
 ### Video call test
 
