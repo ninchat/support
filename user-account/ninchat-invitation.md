@@ -22,7 +22,7 @@ Get started with an invitation link you receive from your Ninchat organization a
 
 ![](../.gitbook/assets/invite-accept.png)
 
-### Signing  up without an invitation
+### Signing up without an invitation
 
 Did you create a Ninchat account without an invitation? In this case your organization channel and contents will not show up to you yet.
 

@@ -6,8 +6,6 @@
 
 {% page-ref page="user-settings-and-profile.md" %}
 
-{% page-ref page="../asiakasneuvojat/instructions-for-customer-advisors.md" %}
-
 
 
 

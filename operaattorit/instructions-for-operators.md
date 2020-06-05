@@ -4,15 +4,15 @@ description: Here is a collection of common topics for operators in your organiz
 
 # Instructions for operators
 
-{% page-ref page="../user-account/create-account.md" %}
-
-{% page-ref page="../team-channels/" %}
+{% page-ref page="../organization/add-new-agent.md" %}
 
 {% page-ref page="../team-channels/invite-people-to-channel.md" %}
 
-{% page-ref page="../organization/" %}
+{% page-ref page="../team-channels/" %}
 
-{% page-ref page="../organization/add-new-agent.md" %}
+{% page-ref page="../user-account/create-account.md" %}
+
+{% page-ref page="../organization/" %}
 
 {% page-ref page="../organization/manage-queues-and-queue-agents.md" %}
 

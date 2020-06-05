@@ -2,7 +2,7 @@
 description: Organization member rights settings
 ---
 
-# Managing organization members
+# Manage organization members
 
 ## Managing agents in organization
 

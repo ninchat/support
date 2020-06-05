@@ -15,7 +15,7 @@ An organization is a private and closed space in Ninchat for your company or com
 
 Organization is managed by organization operators. They add and administer members and permit rights for customer queues, and their statistics and configurations.
 
-Channels in organizations are mainly private, invite-only so only users how are invited, can join them. Channel operators can send channel invites to existing users and via email to new ones. You can create channels for different topics or departments: General, Coders, Sales,... - or for projects and invite your affiliates solely to those channels. 
+Channels in organizations are mainly private, invite-only so only users who are invited, can join them. Channel operators can send channel invites to existing users and via email to new ones. You can create channels for different topics or departments: General, Coders, Sales,... - or for projects and invite your affiliates solely to those channels. 
 
 More about adding and managing agents below.
 

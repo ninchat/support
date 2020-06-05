@@ -17,7 +17,7 @@
   * [User settings and profile](user-account/user-settings-and-profile.md)
   * [Remove user account](user-account/remove-user-account.md)
 * [Organization](organization/README.md)
-  * [Managing organization members](organization/managing-organization-members.md)
+  * [Manage organization members](organization/managing-organization-members.md)
   * [Add a new agent](organization/add-new-agent.md)
   * [Manage queues and queue agents](organization/manage-queues-and-queue-agents.md)
   * [Customize tags](organization/customize-tags.md)
@@ -56,7 +56,7 @@
 
 ## Customer advisor <a id="asiakasneuvojat"></a>
 
-* [Instructions for customer advisors](asiakasneuvojat/instructions-for-customer-advisors.md)
+* [Getting started - Agents](asiakasneuvojat/getting-started-agents.md)
 
 ## Developers
 
