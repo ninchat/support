@@ -8,13 +8,11 @@ Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta
 
 ### [![](.gitbook/assets/en.png) See Support site in English](https://support.ninchat.com/ninchat-support/v/english/)
 
-## Usein kysyttyä
-
-### Ohjeistus uuden agentin alkuunpääsyy
+## Ohjeistus uuden agentin alkuunpääsyyn:
 
 {% page-ref page="asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md" %}
 
-### Muuta:
+## Usein kysyttyä:
 
 {% page-ref page="organisaatio/uuden-agentin-lisaaminen.md" %}
 
@@ -26,7 +24,7 @@ Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta
 
 {% page-ref page="julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md" %}
 
-### Voit seurata Ninchatiin tulleita muutoksia ja parannuksia Mitä uutta -osiossa:
+## Seuraa Ninchatiin tulleita muutoksia ja parannuksia
 
 {% page-ref page="mita-uutta.md" %}
 
