@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to learn Ninchat!](README.md)
 * [What's new](whats-new.md)
 * [General tips](general-tips/README.md)
   * [How to get started](general-tips/how-to-get-started.md)
