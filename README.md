@@ -6,7 +6,11 @@ description: Ninchat Support site
 
 Welcome to Ninchat Supprot site! You can browse through the articles on the left by topic. You can find answers to frequently asked questions below. If you still cannot find what you are looking for, [chat with us here](https://ninchat.com/contact).
 
-## Common topics
+## Getting started guide for new agents:
+
+{% page-ref page="asiakasneuvojat/getting-started-agents.md" %}
+
+## Common topics:
 
 {% page-ref page="organization/add-new-agent.md" %}
 
@@ -18,7 +22,7 @@ Welcome to Ninchat Supprot site! You can browse through the articles on the left
 
 {% page-ref page="public-group-discussions/organize-group-discussion.md" %}
 
-###  Keep track of Ninchat updates and improvements in _What's new_ section:
+##  Keep track of Ninchat updates and improvements:
 
 {% page-ref page="whats-new.md" %}
 
