@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Tervetuloa](README.md)
+* [Tervetuloa käyttämään Ninchatia!](README.md)
 * [Mitä uutta](mita-uutta.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
