@@ -59,5 +59,5 @@
 
 ## Kehittäjät
 
-* [Ohjeet kehittäjille](kehittaejaet/ohjeet-kehittaejille.md)
+* [Ohjeet kehittäjille](kehittaejaet/ohjeet-kehittajille.md)
 
