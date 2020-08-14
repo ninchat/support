@@ -57,7 +57,7 @@
 
 * [Ohjeet operaattoreille](operaattorit/ohjeita-operaattoreille.md)
 
-## Kehittäjät
+## Kehittäjät <a id="kehittajat"></a>
 
-* [Ohjeet kehittäjille](kehittaejaet/ohjeet-kehittajille.md)
+* [Ohjeet kehittäjille](kehittajat/ohjeet-kehittajille.md)
 
