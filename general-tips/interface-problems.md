@@ -8,7 +8,7 @@ It is possible to show or hide the channel member list on the right, in your use
 
 ## Chat functions bar has disappeared
 
-You can show or hide the chat functions \(notes, canned messages, tags, etc.\) on the right of the conversation section by clicking the![](../.gitbook/assets/menu-ikoni%20%281%29.png)-hamburger icon next to the message entering field. The icon is only visible during customer chat.
+You can show or hide the chat functions \(notes, canned messages, tags, etc.\) on the right of the conversation section by clicking the![](../.gitbook/assets/icon-hamburger-menu.png) -hamburger icon next to the message entering field. The icon is only visible during customer chat.
 
 ![Toggle chat functions ](../.gitbook/assets/gif-ninchat-toggle-chat-functions.gif)
 
