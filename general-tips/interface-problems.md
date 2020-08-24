@@ -6,9 +6,11 @@ It is possible to show or hide the channel member list on the right, in your use
 
 ![User account menu](../.gitbook/assets/sidebar-menus-2.png)
 
-## Chat features \(canned messages, tags\) disappear
+## Chat functions bar has disappeared
 
-You can show or hide the chat features \(notes, canned messages, tags, etc.\) on the right of the conversation section by clicking the![](../.gitbook/assets/menu-ikoni%20%281%29.png)-hamburger icon next to the message entering field. The icon is only visible during customer chat.
+You can show or hide the chat functions \(notes, canned messages, tags, etc.\) on the right of the conversation section by clicking the![](../.gitbook/assets/menu-ikoni%20%281%29.png)-hamburger icon next to the message entering field. The icon is only visible during customer chat.
+
+![Toggle chat functions ](../.gitbook/assets/toimintopalkin-piilotus-ikoni.png)
 
 ## Interface broken? <a id="kayttoliittyma-rikki"></a>
 
