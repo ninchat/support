@@ -6,9 +6,11 @@ Kanavan jäsenlista \(oikean puoleisin sivupalkki\) on mahdollista pitää näky
 
 ![K&#xE4;ytt&#xE4;j&#xE4;valikko](../.gitbook/assets/sidebar-menus-2.png)
 
-## Toimintopalsta \(valmisviestit, tägit\) ei näy asiakaskeskusteluissa
+## Toimintopalsta ei näy asiakaskeskusteluissa
 
-Asiakaskeskustelun oikean laidan työkalut \(muistiinpanot, valmisviestit, tägit, ...\) on mahdollista näyttää tai piilottaa klikkaamalla viestinlähetyskentän vieressä olevaa ![](../.gitbook/assets/menu-ikoni%20%281%29.png)-ikonia. Ikoni näkyy vain asikaskeskusteluissa.
+Asiakaskeskustelun oikean laidan työkalut \(muistiinpanot, valmisviestit, tägit, ...\) on mahdollista näyttää tai piilottaa klikkaamalla viestinlähetyskentän vieressä olevaa ![](../.gitbook/assets/menu-ikoni%20%281%29.png)-kuvaketta. Kuvake näkyy vain asiakaskeskusteluissa.
+
+![Toimintopalkin piilotus/avaaminen](../.gitbook/assets/toimintopalkin-piilotus-ikoni.png)
 
 ## Käyttöliittymä rikki? <a id="kayttoliittyma-rikki"></a>
 
