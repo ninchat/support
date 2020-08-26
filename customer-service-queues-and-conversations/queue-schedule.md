@@ -10,11 +10,11 @@ You can schedule a queue to open and close automatically, so agents do not have 
 
 ![](../.gitbook/assets/schedule-overall.png)
 
-### Schedule on/off <a id="ajastukset-paalle-pois"></a>
+### Schedule on/off - Vacations <a id="ajastukset-paalle-pois"></a>
 
 The function "Enable schedule" allows you to quickly turn the queue schedule on or off.
 
-If you keep the chat closed, for example during summer holidays or Christmas holidays, it may be easier to set the schedule off instead of creating exceptions. When the agents return from holidays, the schedule can be quickly switched back on.
+If you keep the chat closed, for example during summer or Christmas holidays, it's easier to set the schedule off instead of creating exceptions. When the agents return from holidays, the schedule can be quickly switched back on by ticking the "Enable schedule"  box again.
 
 Remember to set a desired closed message for holidays and preferably in advance.
 
