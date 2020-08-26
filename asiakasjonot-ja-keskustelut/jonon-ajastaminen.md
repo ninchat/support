@@ -8,17 +8,17 @@ description: Asiakasjonon aikataulut
 
 Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti, jolloin jonon tilaa ei tarvitse muuttaa käsin. Lisäksi voit asettaa poikkeuskäytäntöjä halutuille päiville.
 
-![](../.gitbook/assets/schedule-overall.png)
+![Jonon aikatauluasetukset](../.gitbook/assets/jonon-aikataulu-schedule.png)
 
-### Ajastukset päälle/pois <a id="ajastukset-paalle-pois"></a>
+### Ajastukset päälle/pois - lomatauko <a id="ajastukset-paalle-pois"></a>
 
 "Ota aikataulu käyttöön" -kohdasta voit nopeasti asettaa ajastukset käyttöön tai pois.
 
-Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajan, voi olla helpompaa laittaa ajastukset pois, poikkusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle.
+Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajan, on helpompi kytkeä ajastukset pois, poikkeusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle ruksaamalla "Ota aikataulu käyttöön" -kohta uudestaan.
 
 Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
 
-![Ajastukset k&#xE4;yt&#xF6;ss&#xE4;/pois k&#xE4;yt&#xF6;st&#xE4;](../.gitbook/assets/schedule-disable.png)
+![Ajastukset k&#xE4;yt&#xF6;ss&#xE4;/pois k&#xE4;yt&#xF6;st&#xE4;](../.gitbook/assets/ajastus-ota-aikataulu-kaeyttoeoen.png)
 
 {% hint style="info" %}
 Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle on asetetaan nykyhetkeä aikaisemmin.   
