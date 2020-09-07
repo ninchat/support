@@ -12,18 +12,6 @@ You can show or hide the chat functions \(notes, canned messages, tags, etc.\) o
 
 ![Toggle chat functions ](../.gitbook/assets/gif-ninchat-toggle-chat-functions.gif)
 
-## Interface broken? <a id="kayttoliittyma-rikki"></a>
-
-Do you see the following view after logging in - the Sidebar on the right?
-
-![Old user interface](../.gitbook/assets/nin-old-ui-1.png)
-
-You have an accidentally outdated interface that is no longer working properly and is being disabled. Go to your personal settings with the following link: [https://ninchat.com/app/?lang=fi\#/x/settings/view](https://ninchat.com/app/?lang=fi#/x/settings/view)
-
-In the "View" tab, select "Use new interface" and save. The view should now be corrected.
-
-![Old user interface - View settings](../.gitbook/assets/nin-old-ui-2.png)
-
 ## Wrong language <a id="kayttoliittyma-on-vaarankielinen"></a>
 
 {% page-ref page="ninchat-language.md" %}
