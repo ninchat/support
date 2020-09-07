@@ -120,7 +120,7 @@ Valmisviestit ovat henkilökohtaisia ja ne luodaan omissa käyttäjäasetuksissa
 
 {% page-ref page="../kayttajatili/kayttajaasetukset.md" %}
 
-## Tunnisteet \(tägit\)
+## Tunnisteet \(tägit\) <a id="tunnisteet-tagit"></a>
 
 Asiakaskeskustelut on mahdollista merkitä tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esim. "myynti", "asiakkuudet", "tekninen ongelma", ... Tägäys helpottaa myöhemmin keskustelujen tilastointia sekä tarkastelua.
 
