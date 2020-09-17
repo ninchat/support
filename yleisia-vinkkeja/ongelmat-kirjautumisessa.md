@@ -14,7 +14,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 {% page-ref page="unohtunut-salasana.md" %}
 
-### Kirjautumissähköpostin muutos
+### Kirjautumissähköpostin muutos <a id="kirjautumissahkopostin-muutos"></a>
 
 Sähköpostiosoite voi muuttua esim. nimenvaihdoksen jälkeen. Älä luo uutta tunnusta; voit liittää uuden sähköpostiosoitteen vanhaan tunnukseesi. [Katso ohje uuden sähköpostiosoitteen lisäämisestä](https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset#uuden-kirjautumissahkopostin-lisaaminen)
 
