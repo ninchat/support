@@ -24,6 +24,10 @@ description: >-
 
 > The invitation link does not work and you get an error message when trying to accept the invitation? The invitation link to the team channel is likely to be expired. Invitation links are valid only for 14 days. Ask for a new one from a colleague or Ninchat staff.
 
+### Change in sign-in email addess
+
+Login email address may change e.g. due to name change. Do not create a new account but add the new email to your existing account. [See article about adding a new sign-in email](https://support.ninchat.com/ninchat-support/v/english/user-account/user-settings-and-profile#add-a-new-sign-in-email)
+
 ## Problems after sign-in <a id="kayttoliittyma-rikki"></a>
 
 ### Something wrong with the user interface?
