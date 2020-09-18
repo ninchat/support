@@ -4,86 +4,120 @@ description: Asiakaskeskustelujen videopuhelut
 
 # Videopuhelut
 
+{% hint style="info" %}
+Videopuhelutoiminto on päivitetty uuteen versioon 15.9.2020. Päivitys näkyy mm. ulkoasun muutoksena. Katso muutokset alta.
+{% endhint %}
+
 ## Yleistä <a id="yleista"></a>
 
-Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Kysy lisää ominaisuudesta.
+Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemmille.
 
-Ennen kuin alat järjestää videopuheluita, testaa toimivuus ja yhteensopivuus Ninchatin Videotestityökalulla, joka kertoo, onko laitteisto, selain ja verkkoyhteys kuunnossa videopuheluita varten. [Avaa Videotestityökalu](https://ninchat.com/videotest)
+Ennen kuin alat järjestää videopuheluita, testaa toimivuus ja yhteensopivuus Ninchatin Videotestityökalulla, joka kertoo, onko laitteisto, selain ja verkkoyhteys kunnossa videopuheluita varten.   
+  
+[Avaa Videotestityökalu](https://ninchat.com/videotest)
 
 ## Videopuhelunäkymä <a id="videpuhelunakyma"></a>
 
 Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas voi halutessaan laajentaa videon koko ruudun kokoiseksi, jolloin tekstikeskustelu näkyy videon oikealla puolella. \(Anna selaimelle lupa näyttää Ninchatin video koko ruudussa.\)
 
-![Agentin videopuhelun&#xE4;kym&#xE4;](../.gitbook/assets/video-call-screen.jpg)
+![Ninchat - videopuhelu](../.gitbook/assets/videocall-call.jpg)
+
+## Videopuhelun ottaminen
+
+### Videopuhelun aloitus
+
+Videopuhelun voi käynnistää kun tekstimuotoinen asiakas-keskustelu on aloitettu.
+
+Kutsuaksesi keskustelukumppanin videopuheluun, klikkaa videokamera-kuvaketta kommenttikentässä.
+
+![Videopuhelun aloittaminen](../.gitbook/assets/videocall-invite-small.jpg)
+
+### Medialaitteiden käyttölupa
+
+Jos selain pyytää lupaa käyttää kameraa ja/tai mikrofonia, hyväksy pyyntö.
+
+![Anna sivustolle lupa k&#xE4;ytt&#xE4;&#xE4; kameraa ja mikrofonia](../.gitbook/assets/videocall-permission%20%281%29.jpg)
+
+### Videopuhelun asetukset
+
+![Videopuhelu-asetukset](../.gitbook/assets/videocall-setup.jpg)
+
+Videopuhelun aluksi näytetään aina agentin oma videokuva ja äänitaso. Agentti voi myös ruudun valinnoilla piilottaa oman videokuvansa tai mykistää mikrofonin. Tarkista että sekä videokuva että ääni toimii. 
+
+**Aloittaaksesi videopuhelu, klikkaa** _**Tallenna**_. Tällöin vastapuolelle lähtee kutsu videopuheluun.
+
+Mikäli haluat vaihtaa käytettäviä laitteita, klikkaa linkkiä: "Laitteet"
+
+![Videopuhelun laitevalinnat](../.gitbook/assets/videocall-devices.jpg)
+
+Valitse laitelistalta oikea kamera, mikrofoni ja äänentoistolaite. Sulje laitevalinta tämän jälkeen napista. Aloita videopuhelu klikkaamalla asetussivulla _Tallenna_-nappia
+
+### Videopuhelu
+
+Kun kutsut vastapuolen videopuheluun, ruutu näkyy ensin mustana. Teksti-chatissa näkyy ilmoitus "Kutsutaan videopuheluun". Odota kunnes vastapuoli on hyväksynyt kutsun ja tallentanut omat videoasetuksensa.
+
+Mikäli vastapuoli hylkää kutsun, videopuheluikkuna sulkeutuu.
+
+Videopuhelua ei voi aloittaa, mikäli asiakkaan laitteisto, selain tai verkkoyhteys ei tue videopuhelua. Yhteensopivuutta voi kokeilla videotestityökalulla, ks. kohta _Ongelmatilanteet._
+
+![Odotetaan vastapuolen saapumista videopuheluun](../.gitbook/assets/videocall-waiting.jpg)
+
+Kun vastapuoli on hyväksynyt kutsun, hänen kuvansa ilmestyy näkyviin.
+
+![Videokeskustelu aloitettu](../.gitbook/assets/videocall-call.jpg)
+
+Voit videopuhelun aikana tarvittaessa piilottaa oman videokuvasi tai mykistää mikrofonisi. Voit myös mykistää vastapuolen äänen. Katso kaikki toiminnot alta.
+
+Tekstikeskustelu näkyy videopuhelun lomassa. Voit myös siirtyä koko näytön videopuheluun, katso ohje alempaa.
 
 ### Videotoiminnot
 
 | Valinta | Toiminta |
 | :--- | :--- |
-| ![](../.gitbook/assets/video-toggle.png)  | Näytä videokeskustelu koko ruudun kokoisena / pienennä kuva normaaliin ikkunaan. |
-| ![](../.gitbook/assets/video-soundonoff.png)  | Äänet päällä / pois - mykistää keskustelukumppanin äänet |
-| ![](../.gitbook/assets/video-miconoff.png)  | Mikrofoni päällä / pois - mykistää oman mikrofonisi, jolloin vastapuoli ei kuule sinua. |
-| ![](../.gitbook/assets/video-cameraonoff.png)  | Video päällä / pois - Piilottaa oman videokuvasi, jolloin vastapuoli ei näe sinua. |
-| ![](../.gitbook/assets/video-screenshare.png)  | Ruudunjako päälle / pois - Kameran sijaan jaa näytön, ohjelmaikkunan tai -välilehden sisältö |
-| ![](../.gitbook/assets/video-settings.png)  | Avaa video- ja äänilaiteasetukset |
-| ![](../.gitbook/assets/video-hangup.png)  | Lopeta videopuhelu. \(Ei lopeta chat-keskustelua\) |
+| ![](../.gitbook/assets/video-btn-fullscreen-inv.png)  | Näytä videokeskustelu koko ruudun kokoisena / pienennä kuva normaaliin ikkunaan. |
+| ![](../.gitbook/assets/video-btn-sound-inv.png)  | Äänet päälle / pois - mykistää keskustelukumppanin äänet |
+| ![](../.gitbook/assets/video-btn-microphone-inv.png)  | Mikrofoni päälle / pois - mykistää oman mikrofonisi, jolloin vastapuoli ei kuule sinua. |
+| ![](../.gitbook/assets/video-btn-camera-inv2.png)  | Video päälle / pois - Piilottaa oman videokuvasi, jolloin vastapuoli ei näe sinua. |
+| ![](../.gitbook/assets/video-btn-screenshare-inv.png)  | Ruudunjako päälle / pois - Kameran sijaan jaa näytön, ohjelmaikkunan tai -välilehden sisältö |
+| ![](../.gitbook/assets/video-btn-settings-inv.png)  | Avaa video- ja äänilaiteasetukset |
+| ![](../.gitbook/assets/video-btn-end-inv2%20%281%29.png)  | Lopeta videopuhelu. \(Ei lopeta chat-keskustelua\) |
 
-## Videopuhelun ottaminen
+### Koko ruudun video
 
-Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemmille.  
-Varmista, että asiakasjonoosi on kytketty videopuhelu-ominaisuus käyttöön.
+Videopuhelu näkyy vakiona vasemmassa laidassa teksti-chatin vieressa. Voit laajentaa video koko näytön kokoiseksi klikkaamalla ![](../.gitbook/assets/video-btn-fullscreen-inv.png) -laajennuskuvaketta.
 
-### Videopuhelun aloitus
+![Koko n&#xE4;yt&#xF6;n videopuhelu](../.gitbook/assets/videocall-fullscreen.jpg)
 
-Videopuhelun voi käynnistää sen jälkeen kun tekstimuotoinen asiakas-keskustelu on aloitettu.
+Pienennä videopuhelunäkymä klikkaamalla ![](../.gitbook/assets/video-btn-toggle-normalsize.png) -pienennyskuvaketta.
 
-1. Klikkaa videokamera-kuvaketta kommenttikentässä.
-2. Jos selain kysyy aloittaessa lupaa käyttää kameraa ja mikrofonia, hyväksy pyyntö.
-3. Valitse ensimmäisellä kerralla halutut asetukset.
-4. Videopuhelu alkaa, kun asiakas hyväksyy videpuhelupyynnön.
+### Videopuhelun lopettaminen
 
-Videopuhelua ei voi aloittaa, mikäli asiakkaan laitteisto, selain tai verkkoyhteys ei tue videopuhelua Yhteensopivuutta voi kokeilla videotestityökalulla, ks. kohta _Ongelmatilanteet._
+Lopeta videokeskustelu klikkaamalla ![](../.gitbook/assets/video-btn-end-inv2%20%281%29.png) punaista puhelin-kuvaketta. Tämä ei päätä chat-istuntoa, vaan ainoastaan videopuhelun. 
 
-![Videopuhelun aloitus](../.gitbook/assets/admin-videocall-start.png)
+### Videoasetusten muuttaminen puhelun aikana
 
-### Videopuhelun asetukset ensimmäisellä kerralla
-
-Jos selain pyytää lupaa käyttää kameraa ja/tai mikrofonia, hyväksy pyyntö.
-
-![Videolaitteiston k&#xE4;yt&#xF6;n salliminen selaimessa](../.gitbook/assets/video-browser-allow-agent-chrome.png)
-
-Kun käynnistät videopuhelun ensimmäistä kertaa, Ninchat pyytää automaattisesti valitsemaan halutun kameran, mikrofonin ja äänentoistolaitteen. Jatkossa valinta muistetaan.
-
-Asetussivulla valitaan videokamera, mikrofoni ja äänentoistolaite. Näet esikatselukuvan valitusta videolähteestä sekä mikrofonin äänenvoimakkuuden visualisoituna kuvan alla palkissa.
-
-![Videopuheluasetukset](../.gitbook/assets/video-call-settings2.jpg)
-
-### Asetusten muuttaminen jälkikäteen
-
-Videopuhelun asetuksia voi jälkikäteen muuttaa ratas-ikonin kautta videon ollessa päällä.
-
-![](../.gitbook/assets/video-call-settings-button.jpg)
+Videopuhelun asetuksia voi jälkikäteen muuttaa asetuksista. Pääset asetuksiin klikkaamalla ![](../.gitbook/assets/video-btn-settings-inv.png)ratas-kuvaketta.
 
 ## Ruudunjako
 
-Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolelle. Ruudunjako voi olla apuna, kun asiakkaalle pitää näyttää miten web-sovellus toimii, tai neuvoessa tätä esim. lomakkeen täyttämisessä.
+Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolelle, tai pyytää asiakasta jakamaan oma ruutunsa sinulle. Ruudunjako voi olla apuna, kun asiakkaalle pitää näyttää miten web-sovellus toimii, tai neuvoessa tätä esim. lomakkeen täyttämisessä.
 
-![Ruudunjako asiakkaan suunnasta](../.gitbook/assets/videocall-screenshare.jpg)
+![Agentti jakaa oman sovellusikkunansa n&#xE4;kym&#xE4;n asiakkaalle](../.gitbook/assets/videocall-screensharing.jpg)
 
 ### Ruudunjaon valinta
 
 Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. 
 
-1. Klikkaa ruudunjako-kuvaketta ![](../.gitbook/assets/video-screenshare.png) 
+1. Klikkaa ruudunjako-kuvaketta ![](../.gitbook/assets/video-btn-screenshare-inv.png)
 2. Valitse haluamasi välilehti: Koko näyttö / Ohjelma-ikkuna / Selain-välilehti \(Koko näyttö on helpoin vaihtoehto, jos olet epävarma\)
 3. Klikkaa välilehden alta näkymä jonka haluat jakaa.
 4. Tämän jälkeen "Jaa/Share" -nappi aktivoituu, klikkaa sitä
 5. Ruudunjako alkaa
-6. Lopeta ruuudunjako ja palaa videokameran kuvaan klikkaamalla ruudunjako-kuvaketta uudestaan.
+6. Lopeta ruuudunjako ja palaa videokameran kuvaan klikkaamalla![](../.gitbook/assets/video-btn-screenshare-inv.png)ruudunjako-kuvaketta uudestaan.
 
 Riippuu selaimesta, voitko jakaa koko ruudun, yksittäisen sovelluksen, kuten web-selaimen tai tietyn selaimen välilehden.
 
-![Ruudunjakovalinta](../.gitbook/assets/video-call-settings-screenshare-settings.jpg)
+![Ruudunjaon valintan&#xE4;kym&#xE4;](../.gitbook/assets/videocall-screensharing-setup.jpg)
 
 ## Videopuhelutuki eri selaimilla ja alustoilla
 
