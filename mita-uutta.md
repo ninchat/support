@@ -4,6 +4,20 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 # Mitä uutta
 
+## 15.9.2020
+
+### Videopuhelu-parannuksia
+
+* Videopuheluun saatiin useita parannuksia käyttöliittymään ja yhteydenhallintaan, joten video-keskustelut onnistuvat entistäkin sujuvammin - sekä tietokoneella että kännykällä.
+
+![](.gitbook/assets/videocall-call.jpg)
+
+![](.gitbook/assets/videocall-customer-screens.jpg)
+
+Lue lisää videopuheluista ja ruudunjaosta:
+
+{% page-ref page="asiakasjonot-ja-keskustelut/videopuhelut.md" %}
+
 ## 26.5.2020
 
 ### Käyttäjän lisääminen organisaatioon suoraan kutsussa
@@ -12,7 +26,7 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 ![](.gitbook/assets/invite-people-fi.png)
 
-### Offline-yhteydenotot -parannuksi
+### Offline-yhteydenotot -parannuksia
 
 * Offline-yhteydenotoista ja kyselyvastauksista on mahdollista asettaa näkymään ilmoitukset Ninchatissa.Yhteydenotot ovat luettavissa jonon tapahtumaloki-sivun ja tilastojen kautta.
 
