@@ -38,13 +38,13 @@ Jos selain pyytää lupaa käyttää kameraa ja/tai mikrofonia, hyväksy pyyntö
 
 ![Anna sivustolle lupa k&#xE4;ytt&#xE4;&#xE4; kameraa ja mikrofonia](../.gitbook/assets/videocall-permission%20%281%29.jpg)
 
-### Videopuhelun asetukset
-
-![Videopuhelu-asetukset](../.gitbook/assets/videocall-setup.jpg)
+### Videopuhelun asetukset ja laitevalinta
 
 Videopuhelun aluksi näytetään aina agentin oma videokuva ja äänitaso. Agentti voi myös ruudun valinnoilla piilottaa oman videokuvansa tai mykistää mikrofonin. Tarkista että sekä videokuva että ääni toimii. 
 
 **Aloittaaksesi videopuhelu, klikkaa** _**Tallenna**_. Tällöin vastapuolelle lähtee kutsu videopuheluun.
+
+![Videopuhelu-asetukset](../.gitbook/assets/videocall-setup.jpg)
 
 Mikäli haluat vaihtaa käytettäviä laitteita, klikkaa linkkiä: "Laitteet"
 
