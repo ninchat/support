@@ -40,17 +40,19 @@ Jos selain pyytää lupaa käyttää kameraa ja/tai mikrofonia, hyväksy pyyntö
 
 ### Videopuhelun asetukset ja laitevalinta
 
-Videopuhelun aluksi näytetään aina agentin oma videokuva ja äänitaso. Agentti voi myös ruudun valinnoilla piilottaa oman videokuvansa tai mykistää mikrofonin. Tarkista että sekä videokuva että ääni toimii. 
-
-**Aloittaaksesi videopuhelu, klikkaa** _**Tallenna**_. Tällöin vastapuolelle lähtee kutsu videopuheluun.
+Videopuhelun aluksi näytetään aina agentin oma videokuva ja äänitaso. Agentti voi myös ruudun valinnoilla piilottaa oman videokuvansa tai mykistää mikrofonin. Tarkista että sekä videokuva että ääni toimii ja klikkaa _Tallenna_. 
 
 ![Videopuhelu-asetukset](../.gitbook/assets/videocall-setup.jpg)
+
+{% hint style="info" %}
+Aloittaaksesi videopuhelu, klikkaa asetusruudussa _Tallenna_. Kutsu videopuheluun lähtee tällöin vastapuolelle. 
+{% endhint %}
 
 Mikäli haluat vaihtaa käytettäviä laitteita, klikkaa linkkiä: "Laitteet"
 
 ![Videopuhelun laitevalinnat](../.gitbook/assets/videocall-devices.jpg)
 
-Valitse laitelistalta oikea kamera, mikrofoni ja äänentoistolaite. Sulje laitevalinta tämän jälkeen napista. Aloita videopuhelu klikkaamalla asetussivulla _Tallenna_-nappia
+Laiteasetuksissa voit määrittää käytettävän kameran, mikrofonin ja äänentoistolaitteen. Sulje laitevalinta tämän jälkeen napista. Aloita videopuhelu klikkaamalla asetussivulla _Tallenna_-nappia
 
 ### Videopuhelu
 
@@ -118,6 +120,12 @@ Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun.
 Riippuu selaimesta, voitko jakaa koko ruudun, yksittäisen sovelluksen, kuten web-selaimen tai tietyn selaimen välilehden.
 
 ![Ruudunjaon valintan&#xE4;kym&#xE4;](../.gitbook/assets/videocall-screensharing-setup.jpg)
+
+## Asiakkaan videopuhelunäkymät <a id="asiakkaan-videopuhelunakymat"></a>
+
+Oheisesta kuvasta näet, miltä videopuhelu näyttää asiakkaan näkymässä.
+
+![Videopuhelu asiakkaan n&#xE4;kym&#xE4;ss&#xE4;](../.gitbook/assets/videocall-customer-screens.jpg)
 
 ## Videopuhelutuki eri selaimilla ja alustoilla
 
