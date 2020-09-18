@@ -6,7 +6,19 @@ description: >-
 
 # What's new
 
-## 
+## 15.9.2020
+
+### Video calls improvements
+
+* Video calls received various updates to user interface and connectivity, so video chat works even better than before - both on desktop and mobile.
+
+![Video calling](.gitbook/assets/videocall-call.jpg)
+
+![Video call customer views](.gitbook/assets/videocall-customer-screens.jpg)
+
+Read more about video calls and screen sharing:
+
+{% page-ref page="customer-service-queues-and-conversations/video-calls.md" %}
 
 ## 26.5.2020
 
