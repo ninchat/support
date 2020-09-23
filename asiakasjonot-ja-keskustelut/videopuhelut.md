@@ -230,3 +230,7 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 >
 > Joskus selaimen uudelleenkäynnistys voi auttaa.
 
+#### Virheilmoitus: "Videokeskustelu hylätty. Vastaanottaja on varattu" videopuhelun aloituksessa. <a id="aani-kiertaa-tai-kaikuu"></a>
+
+> Virheilmoitus näytetään jos asiakkaalla on jo videokeskustelu päällä, tai tällä on aikaisempi videopuhelukutsu auki, jota ei ole hyväksytty. Pyydä asiakas sulkemaan videopuhelunäkymä, jotta voit kutsua hänet uudestaan.
+
