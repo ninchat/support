@@ -236,3 +236,7 @@ Internet Explorer does not support video calls. Please use Chrome or Firefox bro
 >
 > Restarting web browser may also help.
 
+#### Error message: "Video chat declined, they are busy" when trying to start a video call. <a id="aani-kiertaa-tai-kaikuu"></a>
+
+> This error message is displayed if the recipient is already in a video call, or they have an earlier video call invite open and un-accepted. Ask recipient to close video call view, and invite them again to a video call.
+
