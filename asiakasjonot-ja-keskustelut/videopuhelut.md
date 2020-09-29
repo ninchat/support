@@ -24,11 +24,16 @@ Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas v
 
 ## Videopuhelun ottaminen
 
+Aloitus lyhyesti, lue tarkemmat ohjeet alta.
+
+1. Klikkaa videokamera-kuvaketta kirjoituskentän vieressä
+2. Tarkista käytettävien laitteiden toiminta ja klikkaa _Tallenna_-painiketta.
+3. Odota, että asiakas hyväksyy videopuhelukutsun ja tallentaa omat laiteasetuksensa.
+4. Videopuhelu alkaa.
+
 ### Videopuhelun aloitus
 
-Videopuhelun voi käynnistää kun tekstimuotoinen asiakas-keskustelu on aloitettu.
-
-Kutsuaksesi keskustelukumppanin videopuheluun, klikkaa videokamera-kuvaketta kommenttikentässä.
+Videopuhelun voi käynnistää kun tekstimuotoinen asiakas-keskustelu on aloitettu. Kutsuaksesi keskustelukumppanin videopuheluun, klikkaa videokamera-kuvaketta kommenttikentässä.
 
 ![Videopuhelun aloittaminen](../.gitbook/assets/videocall-invite-small.jpg)
 
