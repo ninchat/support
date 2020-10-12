@@ -8,7 +8,8 @@ description: >-
 
 ## Statics view
 
-Go to queue statistics by clicking the arrow icon next to the queue name in the Sidebar and selecting "Queue statistics". \(Requires organization operator rights.\)
+Go to queue statistics by clicking the arrow icon next to the queue name in the Sidebar and selecting _Queue statistics_. \(Requires organization operator rights.\)  
+You can access statistics also from Organization settings, on _Queues_ tab.
 
 In statistics you can view chat histories, tags, user satisfaction, questionnaire responses, and metadata. Statistics run almost in real time, updated within an hour or so. Customer agents are able to add tags for six hours after conversation has ended, and statistics will update during this time period.
 
