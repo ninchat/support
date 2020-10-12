@@ -6,8 +6,8 @@ description: Asiakasjonon statistiikat (Organisaation operaattori)
 
 ## Tilasto-näkymä <a id="tilasto-nakyma"></a>
 
-Siirry asiakasjonon tilastoihin klikkaamalla jonon nimeä ja valitse Jonon tilastot / Queue statistics.   
-\(Vaatii organisaation operaattori -oikeudet.\)
+Siirry asiakasjonon tilastoihin klikkaamalla jonon nimeä vasemmassa sivupalkissa ja valitse _Jonon tilastot / Queue statistics_. \(Vaatii organisaation operaattori -oikeudet.\)  
+Organisaation jonojen tilastoihin pääsee käsiksi myös organisaatioasetuksista, _Jonot_-välilehdeltä.
 
 Voit tarkastella keskusteluhistoriaa, tunnisteita \(tägit\), käyttäjätyytyväisyyttä, kyselyvastauksia ja metatietoja. Tilastot toimivat miltei reaaliajassa, ne päivittyvät viimeistään tunnin sisällä. Asiakaspalvelijoiden on mahdollista lisätä tunnisteita kuuden tunnin ajan keskustelun päättymisestä, joten ne päivittyvät tämän ajan sisällä.
 
