@@ -23,5 +23,9 @@ Close the conversation by clicking cret icon next to audience name in the Sideba
 
 ![](../.gitbook/assets/customer-chat-end2.png)
 
-## 
+### Ended audience <a id="paattynyt-asiakaskeskustelu"></a>
+
+If you haven't hidden ended audience and later open it from the sidebar, you may see a "Channel is suspended" notification on top of the conversation. This is just to tell the audience in question has ended. 
+
+"Channel is suspended" notification does not mean the customer queue is closed.
 
