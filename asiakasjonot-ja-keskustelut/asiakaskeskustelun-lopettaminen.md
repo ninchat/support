@@ -27,3 +27,5 @@ Jos olet jättänyt käydyn asiakaskeskustelun piilottamatta, ja avaat sen myöh
 
 "Kanava suljettu" -ilmoitus ei tarkoita, että asiakasjono olisi suljettu.
 
+![Kanava suljettu -ilmoitus](../.gitbook/assets/channel-suspended.png)
+
