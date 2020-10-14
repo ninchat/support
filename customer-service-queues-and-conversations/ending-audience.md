@@ -29,3 +29,5 @@ If you haven't hidden ended audience and later open it from the sidebar, you may
 
 "Channel is suspended" notification does not mean the customer queue is closed.
 
+![Channel suspended notification](../.gitbook/assets/channel-suspended.png)
+
