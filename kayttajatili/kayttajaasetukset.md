@@ -193,10 +193,6 @@ Ruksaa, ellet halua nähdä Käyttäjä liittyi/poistui -viestejä kanavan kesku
 
 Kanavan moderaattorityökaluilla tehdyt toimenpiteet, kuten viestin piilottaminen tai käyttäjän hiljentäminen vaativat vahvistuksen. Ruksaa, jos haluat vahvistukset pois käytöstä. \(Etenkin julkiset ryhmäkeskustelut\)
 
-#### Käytä uutta käyttöliittymää
-
- Huom! Älä poista valintaa! Tärkeää, jotta Ninchat toimii oikein. \(Valinta on poistumassa.\)
-
 Muista tallentaa muutokset.
 
 ![N&#xE4;kym&#xE4;valinnat](../.gitbook/assets/user-view.png)
@@ -216,11 +212,9 @@ Valmisviesti koostuu itse viestistä ja avainsanasta jolla viesti yksilöidään
 
 ![](../.gitbook/assets/add-tag-fi1.PNG)
 
-3. Klikkaa Muokkaus-ikonia 
+3. Klikkaa muokkaus-ikonia \(kynä\), ja pääset muokkaamaan avainsanaa ja viestiä.
 
-![](../.gitbook/assets/add-tag-fi2.PNG)
-
-4. Kirjoita haluttu avainsana - saa sisältää pieniä kirjaimia \(a-z\) ja numeroita, sekä valmisviestin teksti
+4. Kirjoita haluttu avainsana - saa sisältää pieniä kirjaimia \(a-z\) ja numeroita, sekä valmisviestin teksti. \(Korvaa vakiona näkyvät "avain" ja ja "viesti".\)
 
 ![](../.gitbook/assets/add-tag-fi3.PNG)
 
