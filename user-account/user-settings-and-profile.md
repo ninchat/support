@@ -195,10 +195,6 @@ Check this box if you do not want to see messages telling that someone has chang
 
 Actions taken by channel moderation tools, such as hiding a message or silencing a user, normally require confirmations. Check this box if you want to disable the confirmations. \(Especially for public group discussions.\)
 
-#### Use new interface
-
-Note! Do not uncheck this box! Important for Ninchat to work properly. \(The selection is going away.\) 
-
 Be sure to save your changes.
 
 ![View options](../.gitbook/assets/user-view.png)
@@ -219,11 +215,9 @@ E.g. "hello1" \(keyword\), "Hi there! How can I assist you?" \(message\).
 ![](../.gitbook/assets/add-tag-en1.PNG)
 
 2. A new set of keyword and message will appear.  
-3. Click the Edit icon \(pencil icon\). 
+3. Click the Edit icon \(pencil icon\), and message editor will open.
 
-![](../.gitbook/assets/add-tag-en2.PNG)
-
-4. Enter a keyword in the Keyword field, only lowercase letters \(a-z\) and numbers are allowed, and a desired phrase in the Message field.
+4. Enter a keyword in the Keyword field, only lowercase letters \(a-z\) and numbers are allowed, and a desired phrase in the Message field. \(Replace "key" and "message" placeholder texts.\)
 
 ![](../.gitbook/assets/add-tag-en3.PNG)
 
