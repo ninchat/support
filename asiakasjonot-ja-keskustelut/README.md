@@ -28,6 +28,8 @@ Asiakasjono näkyy sivupalkissa joko:
 
 Sivupalkissa, jono nimen vieressä näet kellon, joka kertoo miten kauan \(ensimmäinen\) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞ ääretön-kuvakkeeksi.
 
+Jos tietokoneen kello jää siirtämättä oikein kesä/talviaikaan siirryttäessä, jonotusaika voi näkyä väärin \(∞\). 
+
 ![Asiakasjono sivupalkissa: Suljettu \(punainen\), avattu \(vihre&#xE4;\), asiakas jonossa \(sininen\)](../.gitbook/assets/queue-status-activity-fi.png)
 
 ## Asiakasjonon valikko
