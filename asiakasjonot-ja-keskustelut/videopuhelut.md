@@ -239,3 +239,9 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 
 > Virheilmoitus näytetään jos asiakkaalla on jo videokeskustelu päällä, tai tällä on aikaisempi videopuhelukutsu auki, jota ei ole hyväksytty. Pyydä asiakas sulkemaan videopuhelunäkymä, jotta voit kutsua hänet uudestaan.
 
+#### **Videopuhelu katkeaa ja sulkeutuu** 
+
+> Videopuhelu voi katketa, mikäli verkkoyhteyden laatu on huono tai yhteys katkeaa. Videopuhelun voi tällöin käynnistää uudelleen klikkaamalla uudelleen kamera-kuvaketta. Voit ohjeistaa asiakasta tilanteesta ja pyytää hyväksymään uusi videopuhelukutsu.
+>
+> Mikäli videopuhelun kanssa on esiintynyt ongelmia, voit varoiksi päivittää sivun ennen kuin otat uutta videopuhelua.
+
