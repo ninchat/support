@@ -6,7 +6,7 @@ The agent can end audiences either from top menubar or from the Sidebar.
 
 ### Ending audience via menubar
 
-Klikkaa käyttäjän nimeä ylävalikossa. Valitse sulkemistapa:
+Click username in the navbar. Choose how you end the audience:
 
 * _End and hide conversation_
   * Audience ends and is also hidden from you. You can no longer add tags or notes to the conversation. 
