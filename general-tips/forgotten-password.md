@@ -24,15 +24,17 @@ Please make sure you typed the username \(email address\) correctly!
 
 ### Common problems
 
-{% hint style="info" %}
-_**Problem:** When I click the "Reset password" link in the mail, the "Change password" -form flashes in the screen but the system logs me in Ninchat and I can't use the form._  
-**Solution:** Log out from Ninchat before requesting a password reset link or clicking the reset link.
-{% endhint %}
+#### When I click the "Reset password" link in the mail, the "Change password" -form flashes in the screen but the system logs me in Ninchat and I can't use the form.
 
-{% hint style="info" %}
-_**Problem:** "Change password" form says: "Error changing password"._  
-**Answer:** You have already used the reset link once. If you still don't know your password, order a new reset link to you email.
-{% endhint %}
+> Log out from Ninchat before requesting a password reset link or clicking the reset link.
+
+#### "Change password" form says: "Error changing password". 
+
+> You have already used the reset link once. If you still don't know your password, order a new reset link to you email.
+
+#### "Change password" form says: "Just requested".
+
+> You cannot request password reset multiple times in a row. If you e.g. made a typo while setting a new password, wait 15 minutes to request a new reset link, and set your password again.
 
 ## Other sign-in problems
 
