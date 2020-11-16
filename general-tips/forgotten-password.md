@@ -4,8 +4,6 @@ description: Here you can find instructions on how to reset your password if you
 
 # Forgotten password
 
-
-
 {% hint style="info" %}
 Please make sure you typed the username \(email address\) correctly!
 {% endhint %}
