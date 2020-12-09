@@ -146,7 +146,7 @@ Oheisesta kuvasta näet, miltä videopuhelu näyttää asiakkaan näkymässä.
       <td style="text-align:left">Windows</td>
       <td style="text-align:left">Google Chrome
         <br />Mozilla Firefox
-        <br />Microsoft Edge (2020 Chromium-pohjainen versio)</td>
+        <br />Microsoft Edge (2020 Chromium-versio)</td>
     </tr>
     <tr>
       <td style="text-align:left">
