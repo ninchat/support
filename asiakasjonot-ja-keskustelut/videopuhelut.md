@@ -223,6 +223,14 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 
 > Tämän kaltaiseen ongelmaan tavallinen syy on, että jommassa kummassa \(tai kummassakin\) päässä palomuuri tai jokin muu tietoturvaohjelma estää videoyhteyden. Jos olet aiemmin saanut onnistuneesti videoyhteyden samalla koneella, on ongelma todennäköisemmin asiakkaan yhteydessä.
 
+**Virheilmoitus: Videokeskustelu hylätty. Puutteellinen selaintuki.**
+
+Tarkoittaa yleensä että asiakas on iOS-laitteella \(iPhone/iPad\) ja käyttää Chrome- tai Firefox-selainta. Applen rajoituksesta johtuen video ei toimi iOSilla kuin Safarilla \(sekä natiiveissa aplikaatioissa\). Tietokoneella, myös Mac, video toimii myös muilla selaimilla. 
+
+Tai mahdollisesti asiakas Windows-laittella Internet Explorer \(IE\) -selain. 
+
+Ks. kohta _Videopuhelutuki eri selaimilla ja alustoilla._
+
 #### **Ääni kiertää tai kaikuu.** <a id="aani-kiertaa-tai-kaikuu"></a>
 
 > Chrome-selaimessa on paras kaiunpoisto, joten käytä mieluusti sitä. 
