@@ -62,6 +62,17 @@ Click the name of the person you want to grant the rights in the member list and
 The public group chat channel can be scheduled to open and close automatically.  
 See more in [Team channels &gt; How to edit channel settings? &gt; Channel schedule](https://ninchat.gitbook.io/ninchat-support/tiimikanavat/kanavan-asetukset#kanavan-aikataulu).
 
+## How visitors show up on the channel <a id="keskustelijoiden-nakyminen-kanavalla"></a>
+
+Visitors don't show up in the channel's member list until they have participated in the conversation and written a comment and simultaneously given themselves a name/nickname. This applies when _Who can read messages_ setting is _Everybody may follow anonymously, history available since \[date & time\]_.
+
+If you want silent participants to show up on the channel right away after they arrive, change _Who can read messages_ setting to _Channel members, history available since \[date & time\]_. This way visitors show up nameless in the member list, and are given a name after they write a comment.
+
+| Who can read messages |  |
+| :--- | :--- |
+| Everybody may follow anonymously, history available since \[date & time\] | Visitors don't show up in the member list until they have participated in the conversation and written a comment |
+| Channel members, history available since \[date & time\] | Visitors show up on the member list after join nameless, and with name after their first comment |
+
 ## Close a group chat <a id="ryhmachatin-sulkeminen"></a>
 
 You can close a group chat by selecting "Close channel" in the channel menu. After that, writing new messages will be blocked and the text filed will show a Channel closed text. You can change the Channel closed text if you want. See: How to edit channel settings? &gt; Channel closed text.
