@@ -78,6 +78,18 @@ Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Gi
 * Klikkaa sivun alareunasta "Save" 
 * Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\)
 
+## Keskustelijoiden näkyminen kanavalla <a id="keskustelijoiden-nakyminen-kanavalla"></a>
+
+Vieraat eivät näy kanavan jäsenlistassa ennen kuin he osallistuvat keskusteluun, eli kirjoittavat ensimmäisen viestin ja antavat itselleen samalla nimen/nimimerkin.  
+Näin tapahtuu mikäli kanavan _Kenelle viestit näkyvät_ -asetus on _Kaikki voivat seurata keskustelua anonyymisti_.
+
+Mikäli haluatte, että hiljaiset seuraajatkin näkyvät jäsenlistassa heti keskusteluun tultuaan, asettakaa _Kenelle viestit näkyvät_ -kohtaan _Kanavan jäsenille, historia näytetään \[pvm ja aika\]_. Tällöin vieraat näkyvät heti nimettöminä jäsenlistassa ja saavat nimen kun ovat kirjoittaneet ensimmäisen kommentin.
+
+| Kenelle viestit näkyvät -asetus |  |
+| :--- | :--- |
+| Kaikki voivat seurata keskustelua anonyymisti \[pvm ja aika\] alkaen | Vieraat näkyvät jäsenlistalla vasta kun ovat kirjoittaneet ensimmäisen kommentin |
+| Kanavan jäsenille, historia näytetään \[pvm ja aika\] | Vieraat näkyvät jäsenlistalla heti tultuaan nimettöminä, ja nimen kanssa ensimmäisen kommentin jälkeen |
+
 ## Ryhmächat-kanavan ajastaminen <a id="ryhmachat-kanavan-ajastaminen"></a>
 
 Julkisen ryhmäkeskusteluanavan voi asettaa avautumaan ja sulkeutumaan automaattisesti.  
