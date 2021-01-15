@@ -16,6 +16,14 @@ description: >-
 
 {% page-ref page="forgotten-password.md" %}
 
+### Invalid email
+
+> If you get an error in sign-in saying "Invalid email", the email address you are trying to sign in with is either miss-spelled or there is no Ninchat account with that email. Check that you have written the sign-in email correctly.
+>
+> When you first created your Ninchat account, you received a verification email from us. You can check if you have that mail in your inbox to see the correct form of your sign-in email address.
+>
+> Sign-in error "Identity name is not a valid email address" means the given email address is not valid. Your Ninchat account is the email address you used to register in the service.
+
 ### Identity verification code is expired
 
 > If you see this error when you're trying to sign in, it means you are trying to you the account verification link twice. It can be used only once, and after that you can sign-in normally by going to [**https://ninchat.com/app**](https://ninchat.com/app). Bookmark this address \(See section _Bookmarks & shortcuts_\).
