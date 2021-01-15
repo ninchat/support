@@ -31,6 +31,10 @@ Käyttäjien kutsumiseen vaaditaan kyseisen kanavan operaattorioikeudet. Käytt�
 Kanavakutsulinkki ovat voimassa 14 vuorokautta sen luomishetkestä. Tämän jälkeen se ei enää toimi, ja sinun tulee tarvittaessa luoda uusi linkki.
 {% endhint %}
 
+## Uudelta käyttäjältä vaaditut toimet <a id="uudelta-kayttajalta-vaaditut-toimet"></a>
+
+{% page-ref page="../kayttajatili/ninchat-kutsun-hyvaksyminen.md" %}
+
 ## 2. Agentin lisääminen organisaatioon
 
 Käyttäjä voidaan lisätä organisaatioon suoraan kutsun yhteydessä. Mikäli tätä ei ole tehty, käyttäjän voi lisätä organisaatioon hänen liityttyään kanavalle.
