@@ -31,6 +31,10 @@ Inviting people requires channel operator rights on the channel in question. Use
 The invitation link is valid for 14 days from the time it is created. It will then expire and you will have to create a new link if needed.
 {% endhint %}
 
+## Actions needed from the invitee
+
+{% page-ref page="../user-account/ninchat-invitation.md" %}
+
 ## 2. Add an agent to your organization
 
 User can be granted organization membership along with invitation. If this wasn't done, you can add them to organization after they have accepted invitation.
