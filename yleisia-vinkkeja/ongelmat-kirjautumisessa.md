@@ -14,6 +14,14 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 {% page-ref page="unohtunut-salasana.md" %}
 
+### Virheellinen sähköposti <a id="virheellinen-sahkoposti"></a>
+
+> Jos sisäänkirjautumisessa saat virheilmoituksen: "Virheellinen sähköposti / Invalid email", kirjoitit sähköpostitunnuksesi väärin, tai kyseisellä sähköpostilla ei ole olemassa Ninchat-tunnusta. Tarkista, että kirjoitit kirjautumissähköpostin oikein.
+>
+> Kun alunperin loit tunnuksen Ninchatiin, lähetimme sinulle vahvistus-sähköpostin \(verification\). Voit tarkistaa tunnuksesi oikean kirjoitusasun esim. tuosta sähköpostiviestistäsi, mikäli se vielä löytyy sinulta.
+>
+> Kirjautumisen virheilmoitus "Identity name is not a valid email address" tarkoittaa, että kirjoitettu tunnus ei ole oikeamuotoinen sähköpostiosoite. Ninchat-tunnuksesi on siis sähköpostiosoite, jolla olet alunperin rekisteröitynyt palveluun.
+
 ### Kirjautumissähköpostin muutos <a id="kirjautumissahkopostin-muutos"></a>
 
 Sähköpostiosoite voi muuttua esim. nimenvaihdoksen jälkeen. Älä luo uutta tunnusta; voit liittää uuden sähköpostiosoitteen vanhaan tunnukseesi. [Katso ohje uuden sähköpostiosoitteen lisäämisestä](https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset#uuden-kirjautumissahkopostin-lisaaminen)
