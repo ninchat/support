@@ -52,12 +52,12 @@ Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä 
 
 #### Kanavan operaattorioikeudet päälle
 
-Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Give operator rights / Anna operaattorioikeudet".  
+Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta _"Give operator rights / Anna operaattorioikeudet"_.  
 Kanavan moderointioikeudet laitetaan päälle asiantuntijoille ym vierailijoille sekä heille jotka moderoivat keskustelua.
 
 #### Moderointioikeudet päälle
 
-Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Give moderator rights / Anna moderaattorioikeudet".
+Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta _"Give moderator rights / Anna moderaattorioikeudet"_.
 
 ### Moderaattorin käyttäjäasetukset <a id="moderaattorin-kayttajaasetukset"></a>
 
@@ -71,10 +71,10 @@ Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta "Gi
 ## Ryhmächatin avaaminen
 
 * Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa
-* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Channel settings" 
+* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Kanavan asetukset \(Channel settings\)" 
 * Tee kaksi muutosta: 
-  * "Who can read messages" - kohdasta valitse "Everybody may follow anonymously, history available since this moment"
-  * "Who can write messages" -kohdasta valitse "Channel members" 
+  * "Kenelle viestit näkyvät \(Who can read messages\)" - kohdasta valitse "Kaikki voivat seurata keskustelua anonyymisti, tästä hetkestä alkaen \(Everybody may follow anonymously, history available since this moment\)"
+  * "Kuka voi kirjoittaa kanavalle \(Who can write messages\)" -kohdasta valitse "Kanavan jäsenet \(Channel members\)" 
 * Klikkaa sivun alareunasta "Save" 
 * Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\)
 
