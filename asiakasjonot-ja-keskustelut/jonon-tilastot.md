@@ -109,7 +109,9 @@ Keskusteluhistorian tarkastelu
 3. Viestin lähetysaika
 4. Viestin sisältö
 
-Keskusteluhistoriat sisältävät myös asiakasarvion sekä kyselyvastaukset mikäli nämä ova
+Keskusteluhistoriat sisältävät myös asiakasarvion sekä kyselyvastaukset mikäli ominaisuus on käytössä ja asiakas on antanut arvion.
+
+Voit tallentaa keskustelun koneellesi painamalla "Lataa CSV"-nappia. Ladatun tiedoston voit avata esim. Excelissä. Huomioi tietojen viennissä tietoturva.
 
 ## Kyselyvastaukset
 
