@@ -43,7 +43,7 @@ Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
 
 ![P&#xE4;iv&#xE4;kohtaisten ajastusten muokkaus](../.gitbook/assets/schedule-weekly-set.png)
 
-### Luo vuosittaisia poikkeusaikatauluja esim. juhlapyhille ja muille vapaapäiville:
+### Luo vuosittaisia poikkeusaikatauluja esim. juhlapyhille ja muille vapaapäiville: <a id="luo-vuosittaisia-poikkeusaikatauluja-esim-juhlapyhille-ja-muille-vapaapaiville"></a>
 
 * Vuosittainen poikkeusaikataulu \(Annual exception\) vaatii sekä avaamis- että sulkemisajan asettamisen
 * Jos haluat ettei chat avaudu tiettynä päivänä lainkaan, lisää päivämäärä tyhjänä ilman avaamis- tai sulkemistietoja
@@ -51,7 +51,7 @@ Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
 
 ![](../.gitbook/assets/schedule-annual.png)
 
-### Luo yksittäisiä, kerran tapahtuvia poikkeuspäiviä:
+### Luo yksittäisiä, kerran tapahtuvia poikkeuspäiviä: <a id="luo-yksittaisia-kerran-tapahtuvia-poikkeuspaivia"></a>
 
 * Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä.
 * Tyhjän päivämäärän luominen ilman avaamis- tai sulkemistietoja pitää chatin suljettuna koko päivän.
