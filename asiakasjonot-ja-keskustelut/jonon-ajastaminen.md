@@ -53,7 +53,7 @@ Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
 
 ### Luo yksittäisiä, kerran tapahtuvia poikkeuspäiviä: <a id="luo-yksittaisia-kerran-tapahtuvia-poikkeuspaivia"></a>
 
-* Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä.
+* Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä. 
 * Tyhjän päivämäärän luominen ilman avaamis- tai sulkemistietoja pitää chatin suljettuna koko päivän.
 * Ao. kuvan esimerkissä on 19.9.2019 tapahtuva poikkeusajastus.
 
