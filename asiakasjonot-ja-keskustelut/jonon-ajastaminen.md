@@ -25,11 +25,15 @@ Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itse
 Voit avata jonon aina manuaalisesti sivupalkin jono-valikosta.
 {% endhint %}
 
+{% hint style="info" %}
+Muista tallentaa muutokset.
+{% endhint %}
+
 ## Luo aikataulu jonolle
 
 Luo toistuva viikkoaikataulu chat-jonollesi. Viikonpäivää klikkaamalla pääset luomaan ja muokkaamaan jonon avaamis- ja sulkemisaikoja. Alla keskiviikon \(Wednesday\) ajastusten muokkausnäkymä.
 
-Muista aina tallentaa muutokset.
+Muista aina tallentaa muutokset!
 
 ### Toistuva viikkoajastus
 
@@ -43,23 +47,39 @@ Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
 
 ![P&#xE4;iv&#xE4;kohtaisten ajastusten muokkaus](../.gitbook/assets/schedule-weekly-set.png)
 
-### Luo vuosittaisia poikkeusaikatauluja esim. juhlapyhille ja muille vapaapäiville: <a id="luo-vuosittaisia-poikkeusaikatauluja-esim-juhlapyhille-ja-muille-vapaapaiville"></a>
+### Luo vuosittaisia poikkeusaikatauluja \(Annual exceptions\) <a id="luo-vuosittaisia-poikkeusaikatauluja"></a>
 
-* Vuosittainen poikkeusaikataulu \(Annual exception\) vaatii sekä avaamis- että sulkemisajan asettamisen
-* Jos haluat ettei chat avaudu tiettynä päivänä lainkaan, lisää päivämäärä tyhjänä ilman avaamis- tai sulkemistietoja
-* Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2.  Lisäksi jouluaattona ja -päivänä chat on kokonaan suljettuna.
+Voit luoda chat-jonolle vuosittain \(annual\) samoilla päivämäärillä tapahtuvia poikkeuksia esim. juhlapyhille ja muille vapaapäiville.
+
+1. Vuosittainen poikkeusaikataulu vaatii sekä avaamis- että sulkemisajan asettamisen
+2. Jos haluat, ettei chat avaudu tiettynä päivänä lainkaan, lisää poikkeuspäivä ilman avaamis- tai sulkemistietoja, eli tyhjä päivä.
+
+Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2.  Lisäksi jouluaattona ja -päivänä chat on kokonaan suljettuna. Nämä korvaavat normaalit viikkoajastukset.
 
 ![](../.gitbook/assets/schedule-annual.png)
 
-### Luo yksittäisiä, kerran tapahtuvia poikkeuspäiviä: <a id="luo-yksittaisia-kerran-tapahtuvia-poikkeuspaivia"></a>
+### Luo yksittäisiä, kerran tapahtuvia poikkeuksia \(Exceptions\) <a id="luo-yksittaisia-kerran-tapahtuvia-poikkeuksia"></a>
 
-* Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä. 
-* Tyhjän päivämäärän luominen ilman avaamis- tai sulkemistietoja pitää chatin suljettuna koko päivän.
-* Ao. kuvan esimerkissä on 19.9.2019 tapahtuva poikkeusajastus.
+Voit luoda yksittäisen, kerran tapahtuvan poikkeuksen \(exception\) chat-jonolle.
+
+1. Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä, eikä toistu tulevina vuosina. 
+2. Jos haluat, ettei chat avaudu tiettynä päivänä lainkaan, lisää poikkeuspäivä ilman avaamis- tai sulkemistietoja, eli tyhjä päivä.
+
+Ao. kuvan esimerkissä on 19.9.2019 tapahtuva poikkeusajastus, joka ohittaa normaalin viikkoajastuksen.
 
 ![](../.gitbook/assets/schedule-exception.png)
 
-{% hint style="info" %}
-Muista tallentaa muutokset.
-{% endhint %}
+## Ongelmatilanteita
+
+#### Asetetut aikataulut eivät tulleet käyttöön
+
+> Muista tallentaa muutokset ennen kuin poistut asetuksista.
+
+#### Asetetut aikataulut tai poikkeukset eivät suostu tallentumaan tai näkyvät väärin
+
+> Käytä ajastuksia tehdessä Chrome- tai Edge-selainta. Mozilla Firexilla ajastusten tallentamisessa voi esiintyä virheitä.
+
+#### Muutin aikataulua samalle päivälle mutta chat ei siitä huolimatta avaudu/sulkeudu
+
+> Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle on asetetaan nykyhetkeä aikaisemmin. Voit avata jonon aina manuaalisesti sivupalkin jono-valikosta.
 
