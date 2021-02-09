@@ -19,8 +19,7 @@ Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuus. Pyydä Ninchatin h
 
 Avaa konfiguraatio klikkaamalla ![](../.gitbook/assets/pen-edit-icon.png)kynä-ikonia oikeassa laidassa.
 
-Konfiguraatioeditorissa näet chatin asetukset, tekstit ja käännökset. Niitä voi muuttaa siitä haluamakseen. Tekstien seassa saattaa näkyä HTML-elementtejä, kuten _&lt;p&gt;&lt;/p&gt;_ \(kappale\), _&lt;br&gt;_ \(rivinvaihto\).  
-Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
+Konfiguraatioeditorissa näet chatin asetukset, tekstit ja käännökset. Niitä voi muuttaa siitä haluamakseen. Tekstien seassa saattaa näkyä HTML-elementtejä. Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
 
 #### Yleisimpiä muutettavia tekstejä
 
@@ -36,7 +35,24 @@ Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
 | postAudienceQuestionnaire | Chatin loppukysely |
 | window - titlebar - title | Chat-ikkunan otsikko |
 
-Muista tallentaa muutokset.
+#### Yleisiä käytettyjä HTML-elementtejä
+
+| HTML-tagi | kuvaus |
+| :--- | :--- |
+| &lt;br&gt; | Rivinvaihto |
+| &lt;p&gt;tekstiä&lt;/p&gt; | Kappale |
+| &lt;h2&gt;Otsikko&lt;/h2&gt; | Otsikko \( h1, h2, h3, h4 \) |
+|  &lt;a href="https://osoite.fi" target="\_blank" title="kuvaus"&gt;Linkkiteksti&lt;/a&gt; | Linkki |
+
+Esimerkki: Kappale jossa tekstiä, rivinvaihto ja linkki
+
+```markup
+<p>Täältä löydät ohjeet:<br><a href="https://osoite.com" target="_blank" title="Linkki ohjeisiin">Ohjeisivusto</a></p>
+```
+
+{% hint style="info" %}
+Muista tallentaa muutokset. 
+{% endhint %}
 
 ![](../.gitbook/assets/organization-sites-1.png)
 
