@@ -26,11 +26,11 @@ In the edit view, you will see the chat settings, texts, and translations. You c
 | :--- | :--- |
 | welcome | Content at the top of the chat initial view. |
 | motd | Content at the bottom of the chat initial view |
-| noQueuesText | Guidance text when the chat is closed. \(Contact form replaces the text if it is set.\) |
-| inQueueText | Guidance text in the queue view. |
+| noQueuesText | Content when chat is closed.  \(Unless e.g. contact form is in use\) |
+| inQueueText | Queuing view text. |
 | userName | Customer's username in the conversation. |
 | translations | Common text definitions, i.e. translated into the language used. |
-| preAudienceQuestionnaire | Initial chat request. |
+| preAudienceQuestionnaire | Initial chat request. \(Or offline contact form\) |
 | postAudienceQuestionnaire | End chat request. |
 
 
