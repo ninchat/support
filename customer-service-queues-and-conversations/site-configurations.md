@@ -33,7 +33,26 @@ In the edit view, you will see the chat settings, texts, and translations. You c
 | preAudienceQuestionnaire | Initial chat request. |
 | postAudienceQuestionnaire | End chat request. |
 
-Make sure to save your changes.
+
+
+#### Yleisiä käytettyjä HTML-elementtejä
+
+| HTML-tag | Description |
+| :--- | :--- |
+| &lt;br&gt; | Line break |
+| &lt;p&gt;text&lt;/p&gt; | Paragraph |
+| &lt;h2&gt;text&lt;/h2&gt; | Title \( h1, h2, h3, h4 \) |
+|  &lt;a href="https://address.com" target="\_blank" title="description"&gt;Link text&lt;/a&gt; | Hyperlink |
+
+Example: a Paragrap with text, line break and a link
+
+```markup
+<p>Here you'll find support docs<br><a href="https://address.com" target="_blank" title="Open Support site">Support site</a></p>
+```
+
+{% hint style="info" %}
+Remember to save the changes
+{% endhint %}
 
 ![](../.gitbook/assets/organization-sites-1.png)
 
