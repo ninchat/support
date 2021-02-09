@@ -23,17 +23,56 @@ Konfiguraatioeditorissa näet chatin asetukset, tekstit ja käännökset. Niitä
 
 #### Yleisimpiä muutettavia tekstejä
 
-| Elementti | Kuvaus |
-| :--- | :--- |
-| welcome | Chatin alkunäkymän yläosan sisältö |
-| motd | Chatin alkunäkymän alaosan sisältö |
-| noQueuesText | Opasteteksti chatin ollessa suljettuna \(Yhteydenottolomake korvaa tekstin, mikäli se on asetettu käyttön.\) |
-| inQueueText | Opasteteksti jonotusnäkymässä |
-| userName | Asiakkaan vakionimi keskutelussa |
-| translations | Yleiset tekstimääritykset eli käännökset käytetylle kielelle |
-| preAudienceQuestionnaire | Chatin alkukysely |
-| postAudienceQuestionnaire | Chatin loppukysely |
-| window - titlebar - title | Chat-ikkunan otsikko |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Elementti</th>
+      <th style="text-align:left">Kuvaus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">welcome</td>
+      <td style="text-align:left">Chatin alkun&#xE4;kym&#xE4;n yl&#xE4;osan sis&#xE4;lt&#xF6;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">motd</td>
+      <td style="text-align:left">Chatin alkun&#xE4;kym&#xE4;n alaosan sis&#xE4;lt&#xF6;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">noQueuesText</td>
+      <td style="text-align:left">
+        <p>N&#xE4;ytett&#xE4;v&#xE4; sis&#xE4;lt&#xF6; chatin ollessa suljettuna.</p>
+        <p>(Mik&#xE4;li k&#xE4;yt&#xF6;ss&#xE4; ei ole yhteydenottolomaketta, tms)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">inQueueText</td>
+      <td style="text-align:left">Jonotusn&#xE4;kym&#xE4;n opasteteksti</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">userName</td>
+      <td style="text-align:left">Asiakkaan vakionimi keskutelussa</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">translations</td>
+      <td style="text-align:left">Yleiset tekstim&#xE4;&#xE4;ritykset eli k&#xE4;&#xE4;nn&#xF6;kset k&#xE4;ytetylle
+        kielelle</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">preAudienceQuestionnaire</td>
+      <td style="text-align:left">Chatin alkukysely (tai offline-yhteydenottolomake)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">postAudienceQuestionnaire</td>
+      <td style="text-align:left">Chatin loppukysely</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">window - titlebar - title</td>
+      <td style="text-align:left">Chat-ikkunan otsikko</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Yleisiä käytettyjä HTML-elementtejä
 
