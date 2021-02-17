@@ -97,11 +97,11 @@ Tallenna muutokset.
 Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
 {% endhint %}
 
-### Näytä ilmoitukset aina
+### Näytä ilmoitukset aina <a id="nayta-ilmoitukset-aina"></a>
 
 Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset vaikka olisit paikalla"_ -valinta ja tallenna. Tämä helpottaa tapahtumien havainnointia.
 
-### Työpöytäilmoitukset
+### Työpöytäilmoitukset <a id="tyopoytailmoitukset"></a>
 
 Työpöytäilmoitukset tarvitsevat luvan web-selaimelta, jotta ne näkyvät sinulle. 
 
@@ -113,7 +113,7 @@ Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät T
 
 ![Windowsin Toimintokeskuksen avaaminen](../.gitbook/assets/windows-actioncenter.png)
 
-### Työpöytäilmoitusten kuittaaminen
+### Työpöytäilmoitusten kuittaaminen <a id="tyopoytailmoitusten-kuittaaminen"></a>
 
 Työpöytäilmoitukset saa näkymään ruudulla pysyvästi, kunnes klikkaat sitä, tai suljet sen. Tällöin ilmoitus ei mene sinulta ohi.   
 Ilmoitusasetusten kohdassa _"Lisäasetukset"_, ruksaa _"Sulje työpöytäilmoitus vasta käyttäjän vuorovaikutuksesta, kuten hiiren klikkauksesta"_.
