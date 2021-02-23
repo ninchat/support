@@ -68,7 +68,7 @@ Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkk
 
 ![](../.gitbook/assets/organization-queue-shown.png)
 
-## 4. Agentin lisääminen organisaation operaattoriksi <a id="4-agentin-lisaaminen-organisaation-operaattoriksi"></a>
+## 4. Agentti organisaation operaattoriksi <a id="4-agentin-lisaaminen-organisaation-operaattoriksi"></a>
 
 Anna agentille organisaation operaattorioikeudet, jos haluat, että hän pääsee katsomaan \(kaikkien\) jonojen tilastoja ja keskusteluhistoriaa, sekä hallinnoimaan organisaation jäseniä - klikkaa nappia: _Anna operaattorioikedet / Give operator status_.
 
