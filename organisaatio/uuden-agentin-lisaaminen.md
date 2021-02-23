@@ -31,7 +31,7 @@ Käyttäjien kutsumiseen vaaditaan kyseisen kanavan operaattorioikeudet. Käytt�
 Kanavakutsulinkki ovat voimassa 14 vuorokautta sen luomishetkestä. Tämän jälkeen se ei enää toimi, ja sinun tulee tarvittaessa luoda uusi linkki.
 {% endhint %}
 
-## Uudelta käyttäjältä vaaditut toimet <a id="uudelta-kayttajalta-vaaditut-toimet"></a>
+### Uudelta käyttäjältä vaaditut toimet
 
 {% page-ref page="../kayttajatili/ninchat-kutsun-hyvaksyminen.md" %}
 
@@ -62,19 +62,21 @@ Voit palata jäsenlistaan klikkaamalla Takaisin / Back -nappia.
 
 ![Organisaation j&#xE4;senen oikeudet](../.gitbook/assets/organization-user.png)
 
-## Agentin lisääminen organisaation operaattoriksi
+### Lisätty jono agentin näkymässä <a id="lisatty-jono-agentin-naekymassa"></a>
+
+Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkkiin.
+
+![](../.gitbook/assets/organization-queue-shown.png)
+
+## 4. Agentin lisääminen organisaation operaattoriksi <a id="4-agentin-lisaaminen-organisaation-operaattoriksi"></a>
 
 Anna agentille organisaation operaattorioikeudet, jos haluat, että hän pääsee katsomaan \(kaikkien\) jonojen tilastoja ja keskusteluhistoriaa, sekä hallinnoimaan organisaation jäseniä - klikkaa nappia: _Anna operaattorioikedet / Give operator status_.
 
 Saat lisätty ja poistettua operaattorioikeudet samasta näkymästä kuin jononkäsittelyoikeudet. Klikkaa agentin riviä organisaatio/Organization -välilehden käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
 
+![Organisaation j&#xE4;senen oikeudet](../.gitbook/assets/organization-user.png)
+
 Voit myös poistaa agentin organisaatiosta ja jonoista klikkaamalla Poista organisaatiojäsenyys / _Remove membership_. Huomioi, että käyttäjä tulee erikseen poistaa tiimi- ja muilta ryhmäkeskustelukanavilta.
-
-## Lisätty jono agentin näkymässä <a id="lisatty-jono-agentin-naekymassa"></a>
-
-Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkkiin.
-
-![](../.gitbook/assets/organization-queue-shown.png)
 
 ## Usean agentin lisääminen tiettyyn jonoon <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
 
