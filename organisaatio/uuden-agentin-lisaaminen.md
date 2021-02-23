@@ -35,7 +35,7 @@ Kanavakutsulinkki ovat voimassa 14 vuorokautta sen luomishetkestä. Tämän jäl
 
 {% page-ref page="../kayttajatili/ninchat-kutsun-hyvaksyminen.md" %}
 
-## 2. Agentin lisääminen organisaatioon
+## 2. Agentin lisääminen organisaatioon <a id="2-agentin-lisaaminen-organisaatioon"></a>
 
 Käyttäjä voidaan lisätä organisaatioon suoraan kutsun yhteydessä. Mikäli tätä ei ole tehty, käyttäjän voi lisätä organisaatioon hänen liityttyään kanavalle.
 
@@ -46,7 +46,7 @@ Käyttäjä voidaan lisätä organisaatioon suoraan kutsun yhteydessä. Mikäli 
 
 ![Lis&#xE4;&#xE4; agentti organisaatioon](../.gitbook/assets/add-to-organization.png)
 
-## 3. Agentin lisäminen jonoon
+## 3. Agentin lisääminen jonoon <a id="3-agentin-lisaaminen-jonoon"></a>
 
 Kun agentti on lisätty organisaation jäseneksi, mene organisaation asetuksiin. Pääset organisaatioasetuksiin Kanavan tai organisaation nimeä klikkaamalla, ja klikkaa pudotusvalikosta _Organisaatioasetukset_.
 
@@ -58,13 +58,19 @@ Organisaatio/Organization -välilehdellä, klikkaa agentin riviä käyttäjälis
 
 Näet listassa organisaation asiakaspalvelujonot. Ruksaa kyseiselle agentille näkyviin halutut jonot. Jononkäsittelyoikeuksia voidaan jakaa tietämyksen tai alan mukaan, esim. kielitaito, tiedot, työtehtävä, sijainti, jne.
 
-Anna agentille organisaation operaattorioikeudet, jos haluat, että hän pääsee katsomaan \(kaikkien\) jonojen tilastoja ja keskusteluhistoriaa, sekä hallinnoimaan organisaation jäseniä - Klikkaa Anna operaattorioikedet / Give operator status.
-
-Voit myös poistaa agentin organisaatiosta ja jonoista klikkaamalla Poista organisaatiojäsenyys / Remove membership. Huomioi, että käyttäjä tulee erikseen poistaa tiimi- ja muilta keskustelukanavilta.
-
 Voit palata jäsenlistaan klikkaamalla Takaisin / Back -nappia.
 
 ![Organisaation j&#xE4;senen oikeudet](../.gitbook/assets/organization-user.png)
+
+## Agentin lisääminen organisaation operaattoriksi
+
+Anna agentille organisaation operaattorioikeudet, jos haluat, että hän pääsee katsomaan \(kaikkien\) jonojen tilastoja ja keskusteluhistoriaa, sekä hallinnoimaan organisaation jäseniä - klikkaa nappia: _Anna operaattorioikedet / Give operator status_.
+
+Saat lisätty ja poistettua operaattorioikeudet samasta näkymästä kuin jononkäsittelyoikeudet. Klikkaa agentin riviä organisaatio/Organization -välilehden käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
+
+Voit myös poistaa agentin organisaatiosta ja jonoista klikkaamalla Poista organisaatiojäsenyys / _Remove membership_. Huomioi, että käyttäjä tulee erikseen poistaa tiimi- ja muilta ryhmäkeskustelukanavilta.
+
+## Lisätty jono agentin näkymässä <a id="lisatty-jono-agentin-naekymassa"></a>
 
 Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkkiin.
 
@@ -72,7 +78,7 @@ Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkk
 
 ## Usean agentin lisääminen tiettyyn jonoon <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
 
-Organisaation jäseniä on mahdollista lisätä ja poistaa tietyn jonon käsittelijöistä kerralla useita.
+Organisaation jäseniä on mahdollista lisätä ja poistaa tietyn jonon käsittelijöistä kerralla useita, Jonot-välilehden kautta. Lue lisää:
 
 {% page-ref page="asiakasjonojen-hallinta.md" %}
 
