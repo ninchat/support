@@ -79,6 +79,11 @@ You can close a group chat by selecting "Close channel" in the channel menu. Aft
 
 {% page-ref page="../team-channels/channel-settings.md" %}
 
+#### Channel closed message showing <a id="kanava-suljettu-viestin-nakyminen"></a>
+
+For the Channel closed message to show for everybody, channel setting _Who can read messages_ must be set to: _"Everybody may follow anonymously..."_.  
+Keep in mind the showing and hiding the message history, see following section.
+
 ## Hide message history
 
 To hide a discussion from new visitors after a group chat session, follow these steps: \(Follow the instructions carefully.😉\)
