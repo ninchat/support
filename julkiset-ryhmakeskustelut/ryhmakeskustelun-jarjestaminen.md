@@ -101,6 +101,11 @@ Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel
 
 {% page-ref page="../tiimikanavat/kanavan-asetukset.md" %}
 
+#### Kanava suljettu-viestin näkyminen <a id="kanava-suljettu-viestin-nakyminen"></a>
+
+Offline-viestin näkymiseksi kaikille, kanavan _Kenelle viestit näkyvät_ -asetus tulee olla: _"Kaikki voivat seurata keskustelua anonyymisti, \[pvm/klo\] alkaen"_.  
+Huomioi viestihistorian näkyminen ja piilottaminen, ks. seuraava kohta.
+
 ## Viestihistorian piilottaminen
 
 Jos haluat piilottaa käydyn keskustelun ryhmäkeskustelutuokion jälkeen uusilta vierailijoilta, toimi seuraavasti: \(Noudata ohjeita tarkasti 😉\)
