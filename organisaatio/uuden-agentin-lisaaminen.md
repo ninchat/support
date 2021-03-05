@@ -28,7 +28,7 @@ Käyttäjien kutsumiseen vaaditaan kyseisen kanavan operaattorioikeudet. Käytt�
 5. Paina "Lähetä kutsu / Send invite". Voit myös kopioida kutsulinkin ja lähettää/jakaa sen itse!
 
 {% hint style="info" %}
-Kanavakutsulinkki ovat voimassa 14 vuorokautta sen luomishetkestä. Tämän jälkeen se ei enää toimi, ja sinun tulee tarvittaessa luoda uusi linkki.
+Kanavakutsulinkki on voimassa 14 vuorokautta sen luomishetkestä. Tämän jälkeen se ei enää toimi, ja sinun tulee tarvittaessa luoda uusi linkki.
 {% endhint %}
 
 ### Uudelta käyttäjältä vaaditut toimet
