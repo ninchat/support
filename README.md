@@ -4,7 +4,7 @@ description: Ninchat-tukisivusto
 
 # Tervetuloa käyttämään Ninchatia!
 
-Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta, tai valitse alta usein kysyttyjä aiheita. Voit myös kysyä apua [chatissa](https://ninchat.com/contact). 
+Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta, tai valitse alta usein kysyttyjä aiheita. Voit myös kysyä apua [chatissa](https://ninchat.com/contact).
 
 ### [![](.gitbook/assets/en.png) See Support site in English](https://support.ninchat.com/ninchat-support/v/english/)
 
