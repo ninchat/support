@@ -16,3 +16,9 @@ Asiakaskeskustelun oikean laidan työkalut \(muistiinpanot, valmisviestit, tägi
 
 {% page-ref page="ninchatin-kayttaminen-suomen-kielella.md" %}
 
+## Windowsin työpöytäilmoitukset eivät näy
+
+Ongelmatilanteet
+
+
+
