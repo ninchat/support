@@ -72,7 +72,7 @@ Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkk
 
 Anna agentille organisaation operaattorioikeudet, jos haluat, että hän pääsee katsomaan \(kaikkien\) jonojen tilastoja ja keskusteluhistoriaa, sekä hallinnoimaan organisaation jäseniä - klikkaa nappia: _Anna operaattorioikedet / Give operator status_.
 
-Saat lisätty ja poistettua operaattorioikeudet samasta näkymästä kuin jononkäsittelyoikeudet. Klikkaa agentin riviä organisaatio/Organization -välilehden käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
+Saat lisättyä ja poistettua operaattorioikeudet samasta näkymästä kuin jononkäsittelyoikeudet. Klikkaa agentin riviä organisaatio/Organization -välilehden käyttäjälistalla ja näet agentin tiedot ja oikeudet uudessa näkymässä.
 
 ![Organisaation j&#xE4;senen oikeudet](../.gitbook/assets/organization-user.png)
 
