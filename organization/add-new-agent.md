@@ -56,19 +56,27 @@ In the "Organization" tab, click the agent row in the member list to see the age
 
 ![Organization members](../.gitbook/assets/organization-organization%20%281%29.png)
 
-In the new view, you will see the list that shows all of your organization's queues. Check the box \(under "Member"\) of an appropriate queue\(s\) for that agent. Queue agent status can be granted according to knowledge or field e.g. language skills, information, job, location, etc.
-
-You can give organization operator rights to an agent if you want he/she to view statistics and message history of \(all\) queues, and manage other users in the organization, by clicking the button "Give operator status".
-
-You can also remove an agent from the organization and queues by clicking the button "Remove membership". Please note that the user must be removed separately from the team channel and other chat channels.
+In the new view, you will see the list that shows all your organization's queues. Check the box \(under "Member"\) of an appropriate queue\(s\) for the agent. Queue agent status can be granted according to knowledge or field e.g. language skills, information, job, location, etc.
 
 You can return to the user list by clicking the "Back" button.
 
 ![Rights of an organization member](../.gitbook/assets/organization-user.png)
 
+### Added queue in an agent's view
+
 Once you have added an agent to a queue, the queue will appear to him/her in the Sidebar under the organization's customer care queues.
 
 ![](../.gitbook/assets/organization-queue-shown.png)
+
+## 4. Add agent as an organization operator <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
+
+You can give organization operator rights to an agent if you want him/her to view statistics and message history of \(all\) queues, and manage other users in the organization, by clicking the button "Give operator status".
+
+You can add and remove the organization operator rights in the same view as the queue agent status rights. Go to the “Organization” tab and click the agent’s row. Now you will see the agent’s user information and permissions in a new window.
+
+![Rights of an organization member](../.gitbook/assets/image%20%285%29.png)
+
+You can also remove an agent from the organization and queues by clicking the button "Remove membership". Please note that the user must be removed separately from the team channel and other chat channels.
 
 ## Add multiple agents to a particular queue <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
 
