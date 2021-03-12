@@ -154,7 +154,7 @@ Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuks
 Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
 Ilmoitusluvat voit säätää myös Edge-selaimen asetuksissa, joihin pääset selaimen menu-valikon kautta.
 
-### Ongelmatilanteet <a id="ongelmatilanteet"></a>
+### Ongelmatilanteet <a id="ilmoitukset-ongelmatilanteet"></a>
 
 Jos Windowsin työpöytäilmoitukset eivät näy, tarkista, ettei sinulla ole Keskittymisavustaja \(Focus assist\) käytössä. Tarkista asia Windowsin Toimintokeskuksesta \(Action center\), jonka voit avata näytön oikeasta alanurkasta.‌
 

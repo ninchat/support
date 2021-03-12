@@ -18,7 +18,5 @@ Asiakaskeskustelun oikean laidan työkalut \(muistiinpanot, valmisviestit, tägi
 
 ## Windowsin työpöytäilmoitukset eivät näy
 
-Ongelmatilanteet
-
-
+[Ohje Käyttäjäasetukset-ohjesivulla](https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset#ilmoitukset-ongelmatilanteet)
 
