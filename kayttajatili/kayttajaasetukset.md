@@ -111,7 +111,7 @@ Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / S
 
 Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät Toimintokeskuksen ilmoituksista \(Windows 10\), kunnes kuittaat ne. Muista välillä tyhjätä kuittaamattomat ilmoitukset toimintokeskuksesta. [Lue lisää Windowsin Toimintokeskuksesta](https://support.microsoft.com/fi-fi/help/4026791/windows-how-to-open-action-center)
 
-![Windowsin Toimintokeskuksen avaaminen](../.gitbook/assets/windows-actioncenter.png)
+### 
 
 ### Työpöytäilmoitusten kuittaaminen <a id="tyopoytailmoitusten-kuittaaminen"></a>
 
@@ -153,6 +153,16 @@ Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuks
 
 Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.  
 Ilmoitusluvat voit säätää myös Edge-selaimen asetuksissa, joihin pääset selaimen menu-valikon kautta.
+
+### Ongelmatilanteet <a id="ongelmatilanteet"></a>
+
+Jos Windowsin työpöytäilmoitukset eivät näy, tarkista, ettei sinulla ole Keskittymisavustaja \(Focus assist\) käytössä. Tarkista asia Windowsin Toimintokeskuksesta \(Action center\), jonka voit avata näytön oikeasta alanurkasta.‌
+
+Tarkista myös, ettei Toimintokeskuksessa ole suurta määrää kuittaamattomia ilmoituksia. Voit varmuudeksi poistaa kaikki ilmoitukset, sillä kuittaamattomat ilmoitukset saattavat estää uusien ilmoitusten näkymisen.‌
+
+Lisäksi tarkista, että käyttäjäasetuksissa on ruksattu kohta "Näytä ilmoitukset vaikka olisit paikalla".
+
+![Windows Toimintokeskus: Keskittymisavustaja ja ilmoitukset](../.gitbook/assets/toimintokeskus-keskittymisavustaja.png)
 
 ## Korostukset
 
