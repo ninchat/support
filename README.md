@@ -4,7 +4,7 @@ description: Ninchat Support site
 
 # Welcome to learn Ninchat!
 
-Welcome to Ninchat Supprot site! You can browse through the articles on the left by topic. You can find answers to frequently asked questions below. If you still cannot find what you are looking for, [chat with us here](https://ninchat.com/contact).
+Welcome to Ninchat Support site! You can browse through the articles on the left by topic. You can find answers to frequently asked questions below. If you still cannot find what you are looking for, [chat with us here](https://ninchat.com/contact).
 
 ## Getting started guide for new agents:
 
