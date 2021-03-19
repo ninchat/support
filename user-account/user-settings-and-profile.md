@@ -224,7 +224,7 @@ E.g. "hello1" \(keyword\), "Hi there! How can I assist you?" \(message\).
 5. Save.
 
 {% hint style="info" %}
-**Note!** You can create on canned message row at a time. Create new row after you have edited the keyword and message on the new canned message row.
+**Note!** You can create one canned message row at a time. Create new row after you have edited the keyword and message on the new canned message row.
 {% endhint %}
 
 ### Use a canned message

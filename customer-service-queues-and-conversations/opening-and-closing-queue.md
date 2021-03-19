@@ -18,7 +18,7 @@ Customer queue is shown in Sidebar with
 
 When there are customers in queue, you can see a timer next to the queue name telling how long \(the first\) queueing customer has been waiting.
 
-If queueing time has prolonged for more than one hours, ∞ infinity symbol is shown instead of time.
+If queueing time has prolonged for more than one hour, the ∞ infinity symbol is shown instead of time.
 
 ## Opening a queue
 

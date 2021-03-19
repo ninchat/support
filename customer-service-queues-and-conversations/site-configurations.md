@@ -44,7 +44,7 @@ In the edit view, you will see the chat settings, texts, and translations. You c
 | &lt;h2&gt;text&lt;/h2&gt; | Title \( h1, h2, h3, h4 \) |
 |  &lt;a href="https://address.com" target="\_blank" title="description"&gt;Link text&lt;/a&gt; | Hyperlink |
 
-Example: a Paragrap with text, line break and a link
+Example: a Paragraph with text, line break and a link
 
 ```markup
 <p>Here you'll find support docs<br><a href="https://address.com" target="_blank" title="Open Support site">Support site</a></p>

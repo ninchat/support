@@ -47,7 +47,7 @@ Great! Now you have successfully created and verified your Ninchat account and c
 
 ### Verification mail not found <a id="verification-mail-not-found"></a>
 
-Sometimes in can take a moment for the verification mail to arrive. Wait a minute and try to refresh your mail inbox view.  
+Sometimes it can take a moment for the verification mail to arrive. Wait a minute and try to refresh your mail inbox view.  
 If you can't find the verification mail in your inbox, check your spam folder. If it's not there either, you can order a new verification link mail from your Ninchat user settings.
 
 {% page-ref page="user-settings-and-profile.md" %}

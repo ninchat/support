@@ -89,7 +89,7 @@ Channel description to further define the purpose of the channel.
       <td style="text-align:left">
         <p>Message history is only visible to channel members, starting from the
           date that the channel was created or a later date according to the settings.</p>
-        <p>Messages earlier than that momont are hidden from new users.</p>
+        <p>Messages earlier than that moment are hidden from new users.</p>
       </td>
     </tr>
     <tr>

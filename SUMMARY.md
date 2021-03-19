@@ -21,7 +21,7 @@
   * [Add a new agent](organization/add-new-agent.md)
   * [Manage queues and queue agents](organization/manage-queues-and-queue-agents.md)
   * [Customize tags](organization/customize-tags.md)
-  * [How to remove agent from organization?](organization/remove-agent-from-organization.md)
+  * [How to remove an agent from organization?](organization/remove-agent-from-organization.md)
 * [Team channels](team-channels/README.md)
   * [How to invite people to channel?](team-channels/invite-people-to-channel.md)
   * [Channel settings](team-channels/channel-settings.md)

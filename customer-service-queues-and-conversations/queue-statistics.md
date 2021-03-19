@@ -109,12 +109,12 @@ It's a quick and easy way to find problems in your service, and intervene and de
 
 ### Daily statistics
 
-Do you wish to examine daily statics on hourly basis? Here's how to do it:
+Do you wish to examine daily statics on a hourly basis? Here's how to do it:
 
 1. Select one day as examination period \(E.g. 15.9. - 15.9.\)
 2. Select _hourly_ review interval
 
-You can view the chart on hourly basis and swiftly find out at what times are traffic-heavy, when visitors haven't been answered, and when they have left contact requests. Easily solve problem hours and utilze the information improve your service.
+You can view the chart on hourly basis and swiftly find out at what times are traffic-heavy, when visitors haven't been answered, and when they have left contact requests. Easily solve problem hours and utilize the information improve your service.
 
 In addition to daily stats and agent specific stats you can view the audiences sorted by the hour: amounts, lengths and ratings. Based on bar chart info, expand an hour to list conversations from that time and find out which audiences received negative ratings and find out the issue.
 

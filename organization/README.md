@@ -31,7 +31,7 @@ More about adding and managing agents below.
 
 ## Creating a new organization
 
-One can create freely one new channel to Ninchat's public realm. Creating a private organization with private channels and customer queues requires a Ninchat subcscription. We create your organization for you after that.
+One can create freely one new channel to Ninchat's public realm. Creating a private organization with private channels and customer queues requires a Ninchat subscription. We create your organization for you after that.
 
 ## Managing organization members
 

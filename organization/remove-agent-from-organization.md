@@ -4,7 +4,7 @@ description: >-
   organization.
 ---
 
-# How to remove agent from organization?
+# How to remove an agent from organization?
 
 If an employee is retired or transferred to another position, he/she is likely to be removed from the organization, queues, and team channels on Ninchat.
 
@@ -28,7 +28,7 @@ Removing an agent from a channel requires moderator rights of that channel. An a
 
 ## Remove a user account from Ninchat <a id="kayttajatilin-poistaminen-ninchatista"></a>
 
-A user account can be completely deleted only if the user do it by him/herself. See detailed instructions from the link below.
+A user account can be completely deleted only if the user does it by him/herself. See detailed instructions from the link below.
 
 {% page-ref page="../user-account/remove-user-account.md" %}
 

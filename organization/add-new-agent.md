@@ -12,7 +12,7 @@ These are the main steps how a new agent can be invited to your organization and
 
 1. The person is invited to a team channel.
    * Grant also membership to organization for the invitee
-2. If user wasn't granted organization membership alongside invitation, he/she can be added to the organization after accepting the invitation.
+2. If the user wasn't granted organization membership alongside the invitation, he/she can be added to the organization after accepting the invitation.
 3. The agent is then added to customer queues.
 
 ## 1. Invite people <a id="henkilon-kutsuminen-tiimikanavalle"></a>
