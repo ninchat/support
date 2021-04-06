@@ -74,7 +74,7 @@ Konfiguraatioeditorissa näet chatin asetukset, tekstit ja käännökset. Niitä
   </tbody>
 </table>
 
-#### Yleisiä käytettyjä HTML-elementtejä
+#### Yleisiä käytettyjä HTML-elementtejä <a id="yleisia-kaytettyja-html-elementteja"></a>
 
 | HTML-tagi | kuvaus |
 | :--- | :--- |
