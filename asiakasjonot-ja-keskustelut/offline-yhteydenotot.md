@@ -1,16 +1,18 @@
 ---
-description: Yhteydenottoviestit asiakasjonon ollessa suljettu
+description: Yhteydenottoviestit asiakasjonosta ilman chat-keskustelua
 ---
 
-# Offline-yhteydenotot
+# Tallennetut yhteydenotot
 
 ## Yhteydenottolomake
 
-Chat-ikkunassa on mahdollista näyttää yhteydenottolomake, jolla asiakkaat voivat jättää sinulle viestin, kun asiakasjono on suljettu. Yhteydenotot tallentuvat jonon tilastoihin ja näkyvät jonon tapahtumaloki -sivulla.
+Chat-ikkunassa on mahdollista näyttää yhteydenottolomake, jolla asiakkaat voivat jättää sinulle viestin, esim. asiakasjonon ollessa suljettu. 
+
+Yhteydenotot tallentuvat jonon tilastoihin ja näkyvät jonon tapahtumaloki-sivulla.
 
 ### Ilmoitusasetukset
 
-Agenttien, jotka haluavat vastaanottaa ja hoitaa offline-yhteydenottoja, tulee asettaa käyttäjäasetuksissaan päälle ilmoitukset _Tallennetuista yhteydenotoista_.
+Agenttien, jotka haluavat vastaanottaa ja hoitaa yhteydenottoja, tulee asettaa käyttäjäasetuksissaan päälle ilmoitukset _Tallennetuista yhteydenotoista_.
 
 Ilmoitukset yhteydenotoista voi asettaa näkymään itse Ninchatissa \(ääni ja työpöytä -ilmoitukset\), sekä sähköpostiin sen varalta ettet itse ole kirjautuneena.
 
@@ -24,7 +26,9 @@ Esimerkkitilanne: Asiakas täyttää ja lähettää seuraavanlaisen viestin chat
 
 ![Offline-yhteydenotto](../.gitbook/assets/registered-asiakas.PNG)
 
-Ninchatissa paikalla oleva agentti saa tästä ilmoituksen Ninchatissa ja esim. työpöytäilmoituksena. Ilmoitus tulee myös halutessasi sähköpostiin.
+Ninchatissa paikalla oleva agentti saa tästä ilmoituksen Ninchatissa ja esim. työpöytäilmoituksena. Ilmoitus tulee myös halutessasi sähköpostiin. Saat avattua viestin sähköpostin linkistä. 
+
+Viestit luetaan sähköpostin sijaan Ninchatissa turvallisuussyistä; sähköpostit eivät ole salattuja.
 
 ![Ty&#xF6;p&#xF6;yt&#xE4;ilmoitus yhteydenotosta](../.gitbook/assets/registered-notification-fi.png)
 
@@ -32,7 +36,9 @@ Ninchatissa paikalla oleva agentti saa tästä ilmoituksen Ninchatissa ja esim. 
 
 ### Yhteydenottoviestin lukeminen
 
-Ilmoituksen klikkaaminen avaa kyseisen asiakasjonon tapahtumalokin. Näkymästä voit avata itse yhteydenottoviestin.
+Ilmoituksen klikkaaminen avaa kyseisen asiakasjonon tapahtumalokin. Näkymästä voit avata itse yhteydenottoviestin. 
+
+Voit myös jättää kommentin kertoaksesi, onko asia hoidettu tai kuka sitä käsittelee.
 
 ![Jonon tapahtumaloki - uusi yhteydenotto](../.gitbook/assets/registered-log.png)
 
