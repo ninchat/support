@@ -1,16 +1,16 @@
 ---
-description: Registered customer contacts from offline hours
+description: Registered customer contacts without a chat
 ---
 
-# Offline contacts
+# Registered contacts
 
 ## Contact form
 
-You can show a contact form in the chat window, so visitors can contact you even if the customer queue is closed. Registered contacts are saved in queue statistics and can be also seen in Queue activity log.
+You can show a contact form in the chat window, so visitors can leave you a message e.g. if the customer queue is closed. Registered contacts are saved in queue statistics and can be also seen in _Queue activity log_.
 
 ### Notification settings
 
-Agents who want to receive and handle offline contacts, need to enable notifications about _Registered contacts_ in their _user settings_.  
+Agents who want to receive and handle registered contacts, need to enable notifications about _Registered contacts_ in their _user settings_.  
 Set notifications for online use \(sound and desktop\). If you want to receive email notifications about contacts, tick email also on.
 
 {% page-ref page="../user-account/user-settings-and-profile.md" %}
@@ -23,7 +23,9 @@ Example case: Customer fills and send the following contact request in the chat 
 
 ![Customer contact request](../.gitbook/assets/registered-customer-contact.PNG)
 
-Online agent receives a notification in Ninchat and on the desktop. The notification can be also subscribed to email.
+Online agent receives a notification in Ninchat and on the desktop. The notification can be also subscribed to email. Open the contact message by clicking the link in the email.
+
+Registered contacts are read in Ninchat instead of email for security; emails are not secure.
 
 ![](../.gitbook/assets/registered-notification-en.png)
 
@@ -32,6 +34,8 @@ Online agent receives a notification in Ninchat and on the desktop. The notifica
 ### Reading registered contact
 
 When you click the notification, or the link in email, it takes you to the queue activity log. Click _View content_ link to see the registered contact contents.
+
+You can also write a comment and tell what the status on the matter is, or who is handling it. 
 
 ![Queue log: new registered contact](../.gitbook/assets/registered-log-en.png)
 
