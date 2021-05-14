@@ -36,17 +36,19 @@ Viestit luetaan sähköpostin sijaan Ninchatissa turvallisuussyistä; sähköpos
 
 ### Yhteydenottoviestin lukeminen
 
-Ilmoituksen klikkaaminen avaa kyseisen asiakasjonon tapahtumalokin. Näkymästä voit avata itse yhteydenottoviestin. 
+Ilmoituksen klikkaaminen avaa kyseisen asiakasjonon tapahtumalokin. Näkymästä voit avata itse yhteydenottoviestin, jonka saat auki klikkaamalla _Näytä sisältö_. 
 
-Voit myös jättää kommentin kertoaksesi, onko asia hoidettu tai kuka sitä käsittelee.
+Yhteydenottoviestit löytyvät myös jonon tilastoista _Kyselyvastaukset_-kohdasta.
 
 ![Jonon tapahtumaloki - uusi yhteydenotto](../.gitbook/assets/registered-log.png)
 
-Yhteydenottoviestin sisältö avautuu näkymään: 
+### Yhteydenottoviestin kommentointi
 
-![](../.gitbook/assets/registered-transcript.png)
+Tapahtumaloki-sivulla voit jättää kommentin yhteydenottoviestiin kertoaksesi, onko asia hoidettu tai kuka sitä käsittelee.
 
-Yhteydenottoviestit löytyvät myös jonon tilastoista _Kyselyvastaukset_-kohdasta.
+Kommenttia voidaan päivittää. Viimeisin kommentti jää aina näkyviin lokisivulle.
+
+![](../.gitbook/assets/capture.png)
 
 {% page-ref page="jonon-tilastot.md" %}
 
