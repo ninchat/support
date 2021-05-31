@@ -88,13 +88,12 @@ Keep in mind the showing and hiding the message history, see following section.
 
 To hide a discussion from new visitors after a group chat session, follow these steps: \(Follow the instructions carefully.😉\)
 
-1. Make sure you are on the group chat channel of your choice on Ninchat.
-2. Go to the channel settings \(click the channel name at the top left of the conversation section and select "Channel settings"\).
-3. Under "Who can read messages", select "Channel members, history available since join only".
-4. Save.
-5. Again, under "Who can read messages", select "Everybody may follow anonymously, history available since this moment".
-6. Save.
-7. Close the menu from the same place where you opened it \(click the channel name settings and select "Close"\).
+1. Make sure you are on the correct group chat channel, and open channel settings \(click the channel name at the top left of the conversation section and select "Channel settings"\).
+2. Under "Who can read messages", select "Channel members, history available since join only".
+3. Save.
+4. Again, under "Who can read messages", change selection back to "Everybody may follow anonymously, history available since this moment".
+5. Save.
+6. Close the settings.
 
 The message history will not show to guests who visit the page after these settings.
 
