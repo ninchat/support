@@ -110,13 +110,12 @@ Huomioi viestihistorian näkyminen ja piilottaminen, ks. seuraava kohta.
 
 Jos haluat piilottaa käydyn keskustelun ryhmäkeskustelutuokion jälkeen uusilta vierailijoilta, toimi seuraavasti: \(Noudata ohjeita tarkasti 😉\)
 
-1. Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa.
-2. Mene kanavan asetuksiin \(klikkaa kanavan nimeä ja valitse "Kanavan asetukset / Channel settings".
-3. Kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kanavan jäsenille, historia näytetään kanavalle liittymisestä alkaen \(Channel members, history available since join only\)".
-4. Tallenna
-5. Uudelleen kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kaikki voivat seurata keskustelua anonyymisti \(Everybody may follow anonymously\)".
-6. Tallenna
-7. Sulje valikko samaa reittiä kun avasitkin sen \(vasemmasta yläkulmasta kanavan nimen kohdalta "Close"\) 
+1. Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa ja avaa kanavan asetukset\(klikkaa kanavan nimeä ja valitse "Kanavan asetukset / Channel settings".
+2. Kohdassa "Kenelle viestit näkyvät / Who can read messages", valitse "Kanavan jäsenille, historia näytetään kanavalle liittymisestä alkaen \(Channel members, history available since join only\)".
+3. Tallenna
+4. Uudelleen kohdassa "Kenelle viestit näkyvät / Who can read messages", vaihda valinta kohtaan "Kaikki voivat seurata keskustelua anonyymisti \(Everybody may follow anonymously\)".
+5. Tallenna
+6. Sulje asetukset
 
 Kanavan keskusteluhistoriaa ei näytetä vieraille, jotka tulevat sivulle tämän jälkeen.
 
