@@ -225,7 +225,7 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 
 **Virheilmoitus: Videokeskustelu hylätty. Puutteellinen selaintuki.**
 
-Tarkoittaa yleensä että asiakas on iOS-laitteella \(iPhone/iPad\) ja käyttää Chrome- tai Firefox-selainta. Applen rajoituksesta johtuen video ei toimi iOSilla kuin Safarilla \(sekä natiiveissa aplikaatioissa\). Tietokoneella, myös Mac, video toimii myös muilla selaimilla. 
+Tarkoittaa yleensä että asiakas on iOS-laitteella \(iPhone/iPad\) ja käyttää Chrome- tai Firefox-selainta. Applen rajoituksesta johtuen videopuhelut ei toimi iOSilla muilla selaimilla kuin Safari \(sekä natiiveissa aplikaatioissa\). Tietokoneella, myös Mac, video toimii muillakin selaimilla. 
 
 Tai mahdollisesti asiakas Windows-laittella Internet Explorer \(IE\) -selain. 
 
