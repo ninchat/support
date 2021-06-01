@@ -17,6 +17,8 @@ Suosittelemme käyttämään Ninchatia Chrome-web-selaimella, niin tietokoneella
 
 Tämän jälkeen web-linkit esim. sähköpostista avautuvat aina Chrome-selaimeen.
 
+![Oletusselaimen vaihto Androidissa](../.gitbook/assets/support-android-settings.jpg)
+
 ## Videopuhelut mobiililaitteilla
 
 ### Videopuhelutuki eri selaimilla ja alustoilla
