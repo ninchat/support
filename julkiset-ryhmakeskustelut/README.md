@@ -12,7 +12,7 @@ Julkiset ryhmäkeskustelut ovat tiimikanavan tapaisia, yleensä asiakkaan web-si
 
 {% page-ref page="ryhmakeskustelun-jarjestaminen.md" %}
 
-{% page-ref page="keskustelun-moderointi.md" %}
+{% page-ref page="kanavan-moderointi.md" %}
 
 {% page-ref page="keskusteluhistorian-tallentaminen.md" %}
 

@@ -99,6 +99,10 @@ Asiakaspalvelun valmisviestejä \(canned messages\) voi käyttää myös kanavil
 /avoinna[VÄLILYÖNTI]  --> Palvelemme arkipäivisin klo 9 - 17.
 ```
 
+## Kanavan moderointi
+
+{% page-ref page="../julkiset-ryhmakeskustelut/kanavan-moderointi.md" %}
+
 ## Kanavalta poistuminen
 
 {% hint style="info" %}

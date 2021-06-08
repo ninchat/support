@@ -198,7 +198,7 @@ Lue lisää:
 
 {% page-ref page="../julkiset-ryhmakeskustelut/" %}
 
-{% page-ref page="../julkiset-ryhmakeskustelut/keskustelun-moderointi.md" %}
+{% page-ref page="../julkiset-ryhmakeskustelut/kanavan-moderointi.md" %}
 
 ## Vinkkejä <a id="vinkkeja"></a>
 

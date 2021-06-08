@@ -1,22 +1,24 @@
 ---
-description: Kanavien moderointityökalut
+description: Ryhmäkanavien moderointityökalut
 ---
 
-# Keskustelun moderointi
+# Kanavan moderointi
 
 ## Yleistä
 
-Julkista keskustelua voidaan ohjata ja moderoida seuraavista paikoista: Keskustelutyökalut, Kanavavalikko, Jäsenlistan käyttäjävalikko, Kanavan asetukset.
+Kanavaa voidaan ohjata ja moderoida seuraavista paikoista: Keskustelutyökalut, Kanavavalikko, Jäsenlistan käyttäjävalikko, Kanavan asetukset.
 
-Moderointitykalut näkyvät kun agentille on kyseisellä kanavalla annettu moderointioikeudet ![](../.gitbook/assets/moderator.png). Kanavan operaattoriagentti voi jakaa muille agenteille moderointioikeuksia.
+Moderointityökalut näkyvät kun agentille on kyseisellä kanavalla annettu moderointioikeudet ![](../.gitbook/assets/moderator.png). Kanavan operaattoriagentti voi jakaa muille agenteille moderointioikeuksia. Oikeudet ovat kanavakohtaisia.
 
 {% hint style="info" %}
 Kun sinulle on annettu moderointioikeudet, päivitä sivu, jotta muutos astuu voimaan.
 {% endhint %}
 
+{% hint style="info" %}
 ### Älä pidä moderaattorioikeuksia turhaan käytössä <a id="ala-pida-moderaattorioikeuksia-turhaan-kaytossa"></a>
 
 Moderaattorioikeuksia ei kannata pitää turhaan päällä, varsinkaan yksityisillä tiimikanavilla. Näin moderaattori ei esim. vahingossa piilota viestejä tai poista käyttäjiä kanavalta.
+{% endhint %}
 
 ## Moderointityökalut
 

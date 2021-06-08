@@ -47,7 +47,7 @@
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
   * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelut/ryhmakeskustelun-asiakasnakyma.md)
   * [Ryhmäkeskustelun järjestäminen](julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md)
-  * [Keskustelun moderointi](julkiset-ryhmakeskustelut/keskustelun-moderointi.md)
+  * [Kanavan moderointi](julkiset-ryhmakeskustelut/kanavan-moderointi.md)
   * [Keskusteluhistorian tallentaminen](julkiset-ryhmakeskustelut/keskusteluhistorian-tallentaminen.md)
 
 ## Asiakasneuvojat
