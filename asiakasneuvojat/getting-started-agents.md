@@ -193,7 +193,7 @@ Read more:
 
 {% page-ref page="../public-group-discussions/" %}
 
-{% page-ref page="../public-group-discussions/moderate-discussion.md" %}
+{% page-ref page="../public-group-discussions/moderating-channel.md" %}
 
 ## Tips <a id="vinkkeja"></a>
 

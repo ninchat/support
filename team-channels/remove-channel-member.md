@@ -12,5 +12,7 @@ A user must be removed from each channel separately. The user will not automatic
 2. Click the name of the user to be removed and select _Remove from channel_ in the drop-down menu. The user will be removed from the channel.
 3. Repeat for other channels as needed.
 
+{% page-ref page="../public-group-discussions/moderating-channel.md" %}
+
 {% page-ref page="../organization/remove-agent-from-organization.md" %}
 

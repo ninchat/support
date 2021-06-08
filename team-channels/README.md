@@ -66,6 +66,10 @@ Canned messages can also be used on channels, even though they do not appear as 
 /open[Spacebar] --> We are open on weekdays from 9 am to 5 pm.
 ```
 
+## Moderating channel
+
+{% page-ref page="../public-group-discussions/moderating-channel.md" %}
+
 ## Leave a channel
 
 {% hint style="info" %}

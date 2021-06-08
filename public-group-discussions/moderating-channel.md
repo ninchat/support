@@ -1,14 +1,12 @@
 ---
-description: >-
-  Here you can learn how to moderate a discussion with different moderation
-  tools.
+description: Here you can learn about group channel moderation tools.
 ---
 
-# Moderate discussion
+# Moderating a channel
 
 ## Overview
 
-Public group discussions can be controlled and moderated in the following places: Channel settings, Conversation tools, User menu \(through the member list\), and Channel menu.
+Group discussions can be controlled and moderated in the following places: Channel settings, Conversation tools, User menu \(through the member list\), and Channel menu.
 
 Moderation tools appear when the agent has been granted moderator rights![](../.gitbook/assets/moderator.png)of that channel. Channel operators can give moderator rights to other agents.
 
@@ -16,9 +14,11 @@ Moderation tools appear when the agent has been granted moderator rights![](../.
 Once you have been granted moderator rights, please refresh the page for the change to take effect.
 {% endhint %}
 
+{% hint style="warning" %}
 ### Do not use moderator rights unnecessarily <a id="ala-pida-moderaattorioikeuksia-turhaan-kaytossa"></a>
 
-Moderator rights should not be held to no purpose, especially on private team channels. So that, for example, a moderator will not accidentally hide messages or delete users from the channel.
+Moderator rights should not be held to no purpose, especially on private team channels. So that e.g. moderator will not accidentally hide messages or delete users from the channel.
+{% endhint %}
 
 ## Moderation tools
 

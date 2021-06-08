@@ -8,7 +8,7 @@ Public group discussions are similar to team channels, usually embedded on websi
 
 {% page-ref page="organize-group-discussion.md" %}
 
-{% page-ref page="moderate-discussion.md" %}
+{% page-ref page="moderating-channel.md" %}
 
 {% page-ref page="save-chat-history.md" %}
 

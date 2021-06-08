@@ -47,7 +47,7 @@
   * [Embedding group chat on website](public-group-discussions/embedding-group-chat.md)
   * [Group chat customer view](public-group-discussions/group-chat-customer-view.md)
   * [How to organize group discussion?](public-group-discussions/organize-group-discussion.md)
-  * [Moderate discussion](public-group-discussions/moderate-discussion.md)
+  * [Moderating a channel](public-group-discussions/moderating-channel.md)
   * [Save chat history](public-group-discussions/save-chat-history.md)
 
 ## Operator <a id="operaattorit"></a>
