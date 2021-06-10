@@ -152,6 +152,18 @@ Click the lock icon in the address bar to check permissions for the current site
 
 You can also adjust all notification permissions in Edge browser settings, in which you can access through the browser menu.
 
+### Trouble shooting 
+
+If you cannot see the Windows desktop notifications, make sure that the Focus assist is turned off. You can check this in the Windows Action center. It opens in the down right corner of your screen.
+
+Make sure that there are no big amount of unchecked notifications in the Action center. You can delete all messages because they may prevent you from seeing new messages. 
+
+Also, make sure that the ”Display notifications also when not idle” box is checked.
+
+![Windows Action center: Focus assist and notifications](../.gitbook/assets/action-center-focus-assist.png)
+
+
+
 ## Highlights
 
 In the "Highlights" tab, check the box "Highlight your name" so that you will be notified when someone mentions you in a conversation. You can also set your own highlighting words to get notified whenever they are mentioned.
