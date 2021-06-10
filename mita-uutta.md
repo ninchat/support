@@ -4,6 +4,44 @@ description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
 
 # Mitä uutta
 
+## 9.6.2021
+
+### Suomi.fi-tunnistautuminen
+
+Ninchat on kytkettävissä suomi.fi-tunnistautumiseen, jonka avulla organisaatiot voivat hoitaa tunnistautumisen chattiin ja videovastaanotolle tietoturvallisesti ja tehokkaasti. Suomi.fi on hyvä tapa saada tunnistautumispalvelut käyttöön helposti ja nopeasti sellaisille organisaatioille, joilla ei ole mahdollisuutta tehdä tunnistautumista omalla sivustollaan.
+
+#### Ennen asiointia tehtävä tunnistautuminen
+
+Ennen chatin tai vastaanoton ailla verloittamista asiakasta pyydetään tunnistautumaan suomi.fi-palvelussa. Asiakas kirjautuu palveluun omkkopankkitunnuksillaan tai mobiilivarmenteella. Onnistuneen tunnistautumisen jälkeen asiakas ohjataan chattiin tai vastaanotolle.
+
+![](.gitbook/assets/tunnistautuminen-ennen-asiointia-final.jpg)
+
+#### Asioinnin aikana tehtävä tunnistautuminen
+
+Chat tai vastaanotto voidaan aloittaa anonyymina, jolloin asiantuntija ei tiedä, kuka asiakas on. Asioinnin kuluessa voi tulla tarve tunnistaa asiakas esimerkiksi terveystietojen tarkastelua varten.
+
+Asiantuntija pyytää asiakasta tunnistautumaan suomi.fi-palvelussa, ja tämän jälkeen prosessi toimii samalla tavalla kuin ennen asiointia tunnistauduttaessa. Nyt asiakas on tunnistettu ja chat tai vastaanotto voi jatkua.
+
+Asiantuntija voi seurata tunnistautumisen edistymistä tai keskeytymistä, eli hän saa tiedon tunnistautumisen aloittamisesta ja siitä, että se on suoritettu loppuun \(tai keskeytynyt\).
+
+![](.gitbook/assets/tunnistautuminen-asioinnin-aikana-final.jpg)
+
+## 28.5.2021
+
+### Yhteydenottoviestin kommentointi
+
+Tapahtumaloki-sivulla voit jättää kommentin yhteydenottoviestiin kertoaksesi, onko asia hoidettu tai kuka sitä käsittelee.
+
+Kommenttia voidaan päivittää. Viimeisin kommentti jää aina näkyviin lokisivulle.
+
+![Kommentin kirjoittaminen ja tallentaminen](.gitbook/assets/yhtotto_kommentointi1.png)
+
+![Lis&#xE4;tty kommentti](.gitbook/assets/yhtotto_kommentointi2.png)
+
+### Keskusteluhistorian avaamisen syyn kysely
+
+Asiakaskeskusteluhistorian tarkasteluun voidaan asettaa syyn ilmoittaminen seurantaa varten. Näin keskusteluhistorian voi avata ainoastaan lisäämällä tallennettava viesti.
+
 ## 15.9.2020
 
 ### Videopuhelu-parannuksia

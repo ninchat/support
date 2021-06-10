@@ -113,6 +113,18 @@ Keskusteluhistoriat sisältävät myös asiakasarvion sekä kyselyvastaukset mik
 
 Voit tallentaa keskustelun koneellesi painamalla "Lataa CSV"-nappia. Ladatun tiedoston voit avata esim. Excelissä. Huomioi tietojen viennissä tietoturva.
 
+### Keskusteluhistorian tarkastelun syyn kirjaaminen
+
+Keskusteluhistorian tarkasteluun voidaan asettaa syyn ilmoittaminen seurantaa varten. Näin keskusteluhistorian voi avata ainoastaan lisäämällä tallennettava viesti.
+
+Ominaisuus voidaan ottaa käyttöön organisaatioasetuksissa. 
+
+1. Valitse ensin “Organisaation asetukset” \(Organization settings\), ja sen jälkeen välilehti “Edistyneet” \(Advanced\). 
+2. Klikkaa ruutua “vaadi syytä keskusteluhistorian katseluun” \(Require reason for viewing transcript\).
+3. Tallenna.
+
+![](../.gitbook/assets/syy-transkriptien-avaamiseen-fin-final%20%282%29.jpg)
+
 ## Kyselyvastaukset
 
 Kyselyvastauksia \(chatin alku- ja loppukyselyt, sekä Ninchat-kevytbottikyselyt\) voidaan tarkastella erikseen klikkaamalla linkkiä valintariviltä halutun tarkistelujakson valittuasi.

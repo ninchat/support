@@ -48,7 +48,9 @@ Tapahtumaloki-sivulla voit jättää kommentin yhteydenottoviestiin kertoaksesi,
 
 Kommenttia voidaan päivittää. Viimeisin kommentti jää aina näkyviin lokisivulle.
 
-![](../.gitbook/assets/capture.png)
+![Kommentin kirjoittaminen ja tallentaminen](../.gitbook/assets/yhtotto_kommentointi1.png)
+
+![Lis&#xE4;tty kommentti](../.gitbook/assets/yhtotto_kommentointi2.png)
 
 {% page-ref page="jonon-tilastot.md" %}
 
