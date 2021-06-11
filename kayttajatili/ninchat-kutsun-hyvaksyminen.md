@@ -1,6 +1,6 @@
 # Ninchat-kutsun hyväksyminen
 
-## Kutsun hyväksyminen
+## Kutsun hyväksyminen <a id="kutsun-hyvaksyminen"></a>
 
 {% hint style="info" %}
 Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.
