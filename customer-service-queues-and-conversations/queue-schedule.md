@@ -10,16 +10,6 @@ You can schedule a queue to open and close automatically, so agents do not have 
 
 ![](../.gitbook/assets/schedule-overall.png)
 
-### Schedule on/off - Vacations <a id="ajastukset-paalle-pois"></a>
-
-The function "Enable schedule" allows you to quickly turn the queue schedule on or off.
-
-If you keep the chat closed, for example during summer or Christmas holidays, it's easier to set the schedule off instead of creating exceptions. When the agents return from holidays, the schedule can be quickly switched back on by ticking the "Enable schedule"  box again.
-
-Remember to set a desired closed message for holidays and preferably in advance.
-
-![Schedule on/off](../.gitbook/assets/schedule-disable.png)
-
 {% hint style="info" %}
 Note! Schedule operates based on current time. Thus, your customer queue will not open/close if the scheduled time is set ahead of the current time.  
 You can always open/close a queue manually from the Sidebar queue menu.
@@ -64,4 +54,14 @@ Below is the Wednesday schedule edit view. You can create multiple opening and c
 {% hint style="info" %}
 Make sure to save your changes.
 {% endhint %}
+
+### Vacation break - Schedule on/off <a id="schedule-on-off"></a>
+
+The function "Enable schedule" allows you to quickly turn the queue schedule on or off.
+
+If you keep the chat closed, for example during summer or Christmas holidays, it's easier to set the schedule off instead of creating exceptions. When the agents return from holidays, the schedule can be quickly switched back on by ticking the "Enable schedule"  box again.
+
+Remember to set a desired closed message for holidays and preferably in advance.
+
+![Schedule on/off](../.gitbook/assets/schedule-disable.png)
 
