@@ -10,18 +10,8 @@ Voit ajastaa asiakasjonon avautumaan ja sulkeutumaan automaattisesti, jolloin jo
 
 ![Jonon aikatauluasetukset](../.gitbook/assets/jonon-aikataulu-schedule.png)
 
-### Ajastukset päälle/pois - lomatauko <a id="ajastukset-paalle-pois"></a>
-
-"Ota aikataulu käyttöön" -kohdasta voit nopeasti asettaa ajastukset käyttöön tai pois.
-
-Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajan, on helpompi kytkeä ajastukset pois, poikkeusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle ruksaamalla "Ota aikataulu käyttöön" -kohta uudestaan.
-
-Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
-
-![Ajastukset k&#xE4;yt&#xF6;ss&#xE4;/pois k&#xE4;yt&#xF6;st&#xE4;](../.gitbook/assets/ajastus-ota-aikataulu-kaeyttoeoen.png)
-
 {% hint style="info" %}
-Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle on asetetaan nykyhetkeä aikaisemmin.   
+Huom. Ajastustoiminnot tapahtuvat asetettuina hetkinä. Asiakasjono ei siis itsestään avaudu jos ajastus avautumiselle asetetaan nykyhetkeä aikaisemmin.   
 Voit avata jonon aina manuaalisesti sivupalkin jono-valikosta.
 {% endhint %}
 
@@ -68,6 +58,16 @@ Voit luoda yksittäisen, kerran tapahtuvan poikkeuksen \(exception\) chat-jonoll
 Ao. kuvan esimerkissä on 19.9.2019 tapahtuva poikkeusajastus, joka ohittaa normaalin viikkoajastuksen.
 
 ![](../.gitbook/assets/schedule-exception.png)
+
+### Lomatauko - Ajastukset päälle/pois <a id="ajastukset-paalle-pois"></a>
+
+"Ota aikataulu käyttöön" -kohdasta voit nopeasti asettaa ajastukset käyttöön tai pois.
+
+Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajan, on helpompi kytkeä ajastukset pois, poikkeusten luomisen sijaan. Kun henkilöstö palaa lomalta, voidaan ajastus kytkeä nopeasti takaisin päälle ruksaamalla "Ota aikataulu käyttöön" -kohta uudestaan.
+
+Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
+
+![Ajastukset k&#xE4;yt&#xF6;ss&#xE4;/pois k&#xE4;yt&#xF6;st&#xE4;](../.gitbook/assets/ajastus-ota-aikataulu-kaeyttoeoen.png)
 
 ## Ongelmatilanteita
 
