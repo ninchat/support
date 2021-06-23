@@ -10,6 +10,8 @@ Chat-ikkunassa on mahdollista näyttää yhteydenottolomake, jolla asiakkaat voi
 
 Yhteydenotot tallentuvat jonon tilastoihin ja näkyvät jonon tapahtumaloki-sivulla.
 
+![Esimerkki yhteydenottolomake](../.gitbook/assets/registered-customer-contact.PNG)
+
 ### Ilmoitusasetukset
 
 Agenttien, jotka haluavat vastaanottaa ja hoitaa yhteydenottoja, tulee asettaa käyttäjäasetuksissaan päälle ilmoitukset _Tallennetuista yhteydenotoista_.
