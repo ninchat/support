@@ -20,7 +20,7 @@ description: Ohjeita sovelluskehittäjille
 ## Ninchat Mobile SDK
 
 [Mobile Ninchat SDK for Android](https://github.com/somia/ninchat-sdk-android)  
-[Ninchat iOS SDK Integrator's Guide](https://github.com/somia/ninchat-sdk-ios)
+[Ninchat iOS SDK Swift Integrator's Guide](https://github.com/somia/ninchat-sdk-ios-swift)
 
 ## Ninchat Embed
 
