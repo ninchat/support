@@ -86,7 +86,7 @@ Huom. Hälytysvalinta koskee vain Notifier-sovellusten ilmoituksia. Valinta ei v
 
 Notifier-hälytykseen vastataan samalla tavalla kuin normaaliin puheluun. Poimi asiakas jonosta klikkaamalla vihreää puhelinpainiketta. Voit hiljentää ilmoituksen klikkaamalla punaista puhelinpainiketta. Asiakas jää tällöin jonottamaan ja toinen ammattilainen voi vastata hänelle. Punainen painike ei siis poista asiakasta jonosta, vaan hiljentää ilmoituksen itseltäsi.
 
-Vastaamisen asiakkaalle chat avautuu selainnäkymään.
+Vastaamisen jälkeen chat avautuu selainnäkymään.
 
 Keskustelua on mahdollista jatkaa tietokoneella. Voit siis aloittaa chatin puhelimella Notifierin hälyttäessä ja avata sitten Ninchatin tietokoneen selaimessa ja jatkaa keskustelua siellä.
 
