@@ -1,6 +1,6 @@
 # Ninchat-kutsun hyväksyminen
 
-## Kutsun hyväksyminen <a id="kutsun-hyvaksyminen"></a>
+## Kutsun hyväksyminen <a href="kutsun-hyvaksyminen" id="kutsun-hyvaksyminen"></a>
 
 {% hint style="info" %}
 Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainohjelmia.
@@ -8,13 +8,13 @@ Suosittelemme Ninchatin käyttöön Google Chrome- tai Mozilla Firefox -selainoh
 
 Saat alkuun organisaatiosi ylläpitäjältä tai Ninchatin henkilöstöltä kutsun omaan organisaatioonne. Kutsun hyväksyessäsi pääset luomaan itsellesi Ninchat-tunnuksen. 
 
-1. **Saat sähköpostiisi kutsulinkin.** 
-2. **Avaa linkki klikkaamalla "Accept invitation" -nappia \(Hyväksy kutsu\)**
+1. **Saat sähköpostiisi kutsulinkin. **
+2. **Avaa linkki klikkaamalla "Accept invitation" -nappia (Hyväksy kutsu)**
 3. **Web-sivulla avautuvassa ponnahdusikkunassa valitse "Accept invite".**
 
-![Klikkaa Ninchat-kutsulinkki&#xE4; s&#xE4;hk&#xF6;postissa](../.gitbook/assets/invite-gmail.png)
+![Klikkaa Ninchat-kutsulinkkiä sähköpostissa](<../.gitbook/assets/Invite gmail.png>)
 
-![Hyv&#xE4;ksy kutsu ja jatka tunnuksen luontiin](../.gitbook/assets/invite-accept.png)
+![Hyväksy kutsu ja jatka tunnuksen luontiin](<../.gitbook/assets/Invite accept (1).png>)
 
 ### Tunnuksen luominen ilman kutsua
 
@@ -26,9 +26,10 @@ Jos sinulla on kuitenkin kutsu, voit edelleen klikata sitä, jolloin tunnuksesi 
 
 Kutsulinkit vanhenevat 14 vuorokauden jälkeen. Mikäli kutsulinkki ei toimi, tai et saanut kutsua, pyydä uusi linkki organisaationne ylläpitäjältä.
 
-## **Käyttäjätunnuksen luonti** <a id="kayttajatunnuksen-luonti"></a>
+## **Käyttäjätunnuksen luonti** <a href="kayttajatunnuksen-luonti" id="kayttajatunnuksen-luonti"></a>
 
 Kutsun hyväksyessäsi pääset luomaan itsellesi Ninchat-tunnuksen Jatka seuraavalle sivulle lukeaksesi tilin luontiin liittyvä ohjeistus.
 
-{% page-ref page="kayttajatilin-luonti.md" %}
-
+{% content-ref url="kayttajatilin-luonti.md" %}
+[kayttajatilin-luonti.md](kayttajatilin-luonti.md)
+{% endcontent-ref %}

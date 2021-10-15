@@ -16,70 +16,41 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
 * Projekti X - tiettyyn asiakkaaseen tai projektiin liittyvä keskustelu
 * Julkinen - web-sivustolle upotettava kaikille avoin asiakaskeskustelu
 
-![Tiimikanavan&#xE4;kym&#xE4;: Keskustelu ja j&#xE4;senlista](https://lh4.googleusercontent.com/vF6Ck5-WasKyMg03jHp1T9-QcfBnb9b4BqueuGcYwzpVG2N5pRN2akPJDBwHDN8QRVAnidbXVJtmtSbTANMrUyEm8d2FL12C8Fwx0x65bQ3NbBAGm8JVprJtYlgrGYxFbrnUz85RhU8)
+![Tiimikanavanäkymä: Keskustelu ja jäsenlista](https://lh4.googleusercontent.com/vF6Ck5-WasKyMg03jHp1T9-QcfBnb9b4BqueuGcYwzpVG2N5pRN2akPJDBwHDN8QRVAnidbXVJtmtSbTANMrUyEm8d2FL12C8Fwx0x65bQ3NbBAGm8JVprJtYlgrGYxFbrnUz85RhU8)
 
 ## Tiimikanavan oikeudet
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">J&#xE4;senlistan merkint&#xE4;</th>
-      <th style="text-align:left">Merkitys</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/operator.png" alt/>T&#xE4;hti, umpinainen</td>
-      <td style="text-align:left">
-        <p>Kanavan operaattorik&#xE4;ytt&#xE4;j&#xE4; (eri kuin organisaation operaattori):</p>
-        <p>voi hallita kanavan asetuksia ja kutsua j&#xE4;seni&#xE4;</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/moderator.png" alt/>T&#xE4;hti, reunustettu</td>
-      <td style="text-align:left">
-        <p>Kanavan moderaattorik&#xE4;ytt&#xE4;j&#xE4;:</p>
-        <p>voi moderoida viestej&#xE4; ja poistaa j&#xE4;seni&#xE4;</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/online (1).png" alt/>Vihre&#xE4; pallo</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut ja aktiivinen</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/idle.png" alt/>Oranssi pallo</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; on kirjautunut mutta ei aktiivinen</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/offline-avatar.png" alt/>Ei palloa</td>
-      <td style="text-align:left">K&#xE4;ytt&#xE4;j&#xE4; ei ole paikalla; n&#xE4;kee h&#xE4;nelle tulleet
-        viestit my&#xF6;hemmin</td>
-    </tr>
-  </tbody>
-</table>
+| Jäsenlistan merkintä                                     | Merkitys                                                                                                                       |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ![](../.gitbook/assets/operator.png) Tähti, umpinainen   | <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p><p>voi hallita kanavan asetuksia ja kutsua jäseniä</p> |
+| ![](../.gitbook/assets/moderator.png) Tähti, reunustettu | <p>Kanavan moderaattorikäyttäjä:</p><p>voi moderoida viestejä ja poistaa jäseniä</p>                                           |
+| ![](<../.gitbook/assets/online (1).png>) Vihreä pallo    | Käyttäjä on kirjautunut ja aktiivinen                                                                                          |
+| ![](../.gitbook/assets/idle.png) Oranssi pallo           | Käyttäjä on kirjautunut mutta ei aktiivinen                                                                                    |
+| ![](../.gitbook/assets/offline-avatar.png) Ei palloa     | Käyttäjä ei ole paikalla; näkee hänelle tulleet viestit myöhemmin                                                              |
 
 ## Käyttäjän lisääminen kanavalle
 
 Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -linkkiä jäsenlistan lopussa. Katso tarkemmat ohjeet kohdassa Käyttäjän lisääminen kanavalle:
 
-{% page-ref page="kayttajan-lisaaminen-kanavalle.md" %}
+{% content-ref url="kayttajan-lisaaminen-kanavalle.md" %}
+[kayttajan-lisaaminen-kanavalle.md](kayttajan-lisaaminen-kanavalle.md)
+{% endcontent-ref %}
 
-{% page-ref page="kayttajan-poistaminen-kanavalta.md" %}
+{% content-ref url="kayttajan-poistaminen-kanavalta.md" %}
+[kayttajan-poistaminen-kanavalta.md](kayttajan-poistaminen-kanavalta.md)
+{% endcontent-ref %}
 
-![](../.gitbook/assets/invite%20%281%29.png)
+![](../.gitbook/assets/Invite.png)
 
-## Yksityiskeskustelut tiimiläisten kesken <a id="yksityiskeskustelut-tiimilaisten-kesken"></a>
+## Yksityiskeskustelut tiimiläisten kesken <a href="yksityiskeskustelut-tiimilaisten-kesken" id="yksityiskeskustelut-tiimilaisten-kesken"></a>
 
-{% page-ref page="yksityiskeskustelut.md" %}
+{% content-ref url="yksityiskeskustelut.md" %}
+[yksityiskeskustelut.md](yksityiskeskustelut.md)
+{% endcontent-ref %}
 
-## Viestien ja tiedostojen lähettäminen <a id="viestien-ja-tiedostojen-lahettaminen"></a>
+## Viestien ja tiedostojen lähettäminen <a href="viestien-ja-tiedostojen-lahettaminen" id="viestien-ja-tiedostojen-lahettaminen"></a>
 
-Kirjoita viestit tekstikenttään keskustelun alla. Tekstikenttä kasvaa pidempää viestiä kirjoitettaessa. Lähetä viesti klikkaamalla nuoli-kuvaketta tai näppäimistön \[Enter\]-painiketta. Mikäli haluat tehdä viestiin rivinvaihdon, klikkaa näppäimistöltä \[Shift\] + \[Enter\].
+Kirjoita viestit tekstikenttään keskustelun alla. Tekstikenttä kasvaa pidempää viestiä kirjoitettaessa. Lähetä viesti klikkaamalla nuoli-kuvaketta tai näppäimistön \[Enter]-painiketta. Mikäli haluat tehdä viestiin rivinvaihdon, klikkaa näppäimistöltä \[Shift] + \[Enter].
 
 Voit lisätä viestiin hymiöitä klikkaamalla hymynaama-kuvaketta.
 
@@ -89,25 +60,27 @@ Mikäli tiedostojen lisääminen on sallittu, klemmari-kuvaketta klikkaamalla vo
 
 #### Valmisviestit
 
-Asiakaspalvelun valmisviestejä \(canned messages\) voi käyttää myös kanavilla vaikka niitä ei listana näytetäkään. Kirjoittamalla vinoviivan \[ / \] ja valmisviestin avainsanan ja klikkaamalla \[VÄLILYÖNTI\]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. Esim:
+Asiakaspalvelun valmisviestejä (canned messages) voi käyttää myös kanavilla vaikka niitä ei listana näytetäkään. Kirjoittamalla vinoviivan \[ / ] ja valmisviestin avainsanan ja klikkaamalla \[VÄLILYÖNTI]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. Esim:
 
-| Avainsana | Valmisviesti |
-| :--- | :--- |
-| avoinna | Palvelemme arkipäivisin klo 9 - 17. |
+| Avainsana | Valmisviesti                        |
+| --------- | ----------------------------------- |
+| avoinna   | Palvelemme arkipäivisin klo 9 - 17. |
 
-```text
+```
 /avoinna[VÄLILYÖNTI]  --> Palvelemme arkipäivisin klo 9 - 17.
 ```
 
 ## Kanavan moderointi
 
-{% page-ref page="../julkiset-ryhmakeskustelut/kanavan-moderointi.md" %}
+{% content-ref url="../julkiset-ryhmakeskustelut/kanavan-moderointi.md" %}
+[kanavan-moderointi.md](../julkiset-ryhmakeskustelut/kanavan-moderointi.md)
+{% endcontent-ref %}
 
 ## Kanavalta poistuminen
 
 {% hint style="info" %}
-Huom! Kanavalta poistuminen poistaa sinut kanavalta kokonaan. Kanavan asetuksista riippuen aiempi keskusteluhistoria saatetaan piilottaa sinulta, mikäli liityt kanavalle uudestaan.   
-Voit vaihdella keskustelujen välillä keskustelulistan \(Sidebar\) kautta, poistumatta kanavilta.
+Huom! Kanavalta poistuminen poistaa sinut kanavalta kokonaan. Kanavan asetuksista riippuen aiempi keskusteluhistoria saatetaan piilottaa sinulta, mikäli liityt kanavalle uudestaan. \
+Voit vaihdella keskustelujen välillä keskustelulistan (Sidebar) kautta, poistumatta kanavilta.
 {% endhint %}
 
 Poistu kanavalta klikkaamalla kanavan nimeä ylävalikosta ja valitse valikosta "Poistu kanavalta / Part channel".
@@ -120,7 +93,14 @@ Kanava on olemassa niin kauan kuin sillä on jäseniä. Mikäli viimeinen / aino
 
 ## Katso lisää
 
-{% page-ref page="kanavan-asetukset.md" %}
+{% content-ref url="kanavan-asetukset.md" %}
+[kanavan-asetukset.md](kanavan-asetukset.md)
+{% endcontent-ref %}
 
-{% page-ref page="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
+{% content-ref url="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
+[kayttoliittyman-esittely.md](../yleisia-vinkkeja/kayttoliittyman-esittely.md)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

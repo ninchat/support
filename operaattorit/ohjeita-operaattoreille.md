@@ -4,19 +4,38 @@ description: Kootusti yleisimmät ohjeaiheet organisaation operaattoreille
 
 # Ohjeet operaattoreille
 
-{% page-ref page="../organisaatio/uuden-agentin-lisaaminen.md" %}
+{% content-ref url="../organisaatio/uuden-agentin-lisaaminen.md" %}
+[uuden-agentin-lisaaminen.md](../organisaatio/uuden-agentin-lisaaminen.md)
+{% endcontent-ref %}
 
-{% page-ref page="../tiimikanavat/kayttajan-lisaaminen-kanavalle.md" %}
+{% content-ref url="../tiimikanavat/kayttajan-lisaaminen-kanavalle.md" %}
+[kayttajan-lisaaminen-kanavalle.md](../tiimikanavat/kayttajan-lisaaminen-kanavalle.md)
+{% endcontent-ref %}
 
-{% page-ref page="../organisaatio/" %}
+{% content-ref url="../organisaatio/" %}
+[organisaatio](../organisaatio/)
+{% endcontent-ref %}
 
-{% page-ref page="../tiimikanavat/" %}
+{% content-ref url="../tiimikanavat/" %}
+[tiimikanavat](../tiimikanavat/)
+{% endcontent-ref %}
 
-{% page-ref page="../organisaatio/asiakasjonojen-hallinta.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="../asiakasjonot-ja-keskustelut/" %}
+{% content-ref url="../organisaatio/asiakasjonojen-hallinta.md" %}
+[asiakasjonojen-hallinta.md](../organisaatio/asiakasjonojen-hallinta.md)
+{% endcontent-ref %}
 
-{% page-ref page="../organisaatio/agentin-poistaminen-organisaatiosta.md" %}
+{% content-ref url="../asiakasjonot-ja-keskustelut/" %}
+[asiakasjonot-ja-keskustelut](../asiakasjonot-ja-keskustelut/)
+{% endcontent-ref %}
 
-{% page-ref page="../tiimikanavat/kayttajan-poistaminen-kanavalta.md" %}
+{% content-ref url="../organisaatio/agentin-poistaminen-organisaatiosta.md" %}
+[agentin-poistaminen-organisaatiosta.md](../organisaatio/agentin-poistaminen-organisaatiosta.md)
+{% endcontent-ref %}
 
+{% content-ref url="../tiimikanavat/kayttajan-poistaminen-kanavalta.md" %}
+[kayttajan-poistaminen-kanavalta.md](../tiimikanavat/kayttajan-poistaminen-kanavalta.md)
+{% endcontent-ref %}

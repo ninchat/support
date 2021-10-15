@@ -1,5 +1,5 @@
 ---
-description: 'Ninchatin uudet ominaisuudet, muutokset ja parannukset'
+description: Ninchatin uudet ominaisuudet, muutokset ja parannukset
 ---
 
 # Mitä uutta
@@ -14,7 +14,7 @@ Ninchat on kytkettävissä suomi.fi-tunnistautumiseen, jonka avulla organisaatio
 
 Ennen chatin tai vastaanoton ailla verloittamista asiakasta pyydetään tunnistautumaan suomi.fi-palvelussa. Asiakas kirjautuu palveluun omkkopankkitunnuksillaan tai mobiilivarmenteella. Onnistuneen tunnistautumisen jälkeen asiakas ohjataan chattiin tai vastaanotolle.
 
-![](.gitbook/assets/tunnistautuminen-ennen-asiointia-final.jpg)
+![](<.gitbook/assets/Tunnistautuminen-ennen-asiointia-Final (1).jpg>)
 
 #### Asioinnin aikana tehtävä tunnistautuminen
 
@@ -22,9 +22,9 @@ Chat tai vastaanotto voidaan aloittaa anonyymina, jolloin asiantuntija ei tiedä
 
 Asiantuntija pyytää asiakasta tunnistautumaan suomi.fi-palvelussa, ja tämän jälkeen prosessi toimii samalla tavalla kuin ennen asiointia tunnistauduttaessa. Nyt asiakas on tunnistettu ja chat tai vastaanotto voi jatkua.
 
-Asiantuntija voi seurata tunnistautumisen edistymistä tai keskeytymistä, eli hän saa tiedon tunnistautumisen aloittamisesta ja siitä, että se on suoritettu loppuun \(tai keskeytynyt\).
+Asiantuntija voi seurata tunnistautumisen edistymistä tai keskeytymistä, eli hän saa tiedon tunnistautumisen aloittamisesta ja siitä, että se on suoritettu loppuun (tai keskeytynyt).
 
-![](.gitbook/assets/tunnistautuminen-asioinnin-aikana-final.jpg)
+![](.gitbook/assets/Tunnistautuminen-asioinnin-aikana-Final.jpg)
 
 ## 28.5.2021
 
@@ -36,7 +36,7 @@ Kommenttia voidaan päivittää. Viimeisin kommentti jää aina näkyviin lokisi
 
 ![Kommentin kirjoittaminen ja tallentaminen](.gitbook/assets/yhtotto_kommentointi1.png)
 
-![Lis&#xE4;tty kommentti](.gitbook/assets/yhtotto_kommentointi2.png)
+![Lisätty kommentti](.gitbook/assets/yhtotto_kommentointi2.png)
 
 ### Keskusteluhistorian avaamisen syyn kysely
 
@@ -54,7 +54,9 @@ Asiakaskeskusteluhistorian tarkasteluun voidaan asettaa syyn ilmoittaminen seura
 
 Lue lisää videopuheluista ja ruudunjaosta:
 
-{% page-ref page="asiakasjonot-ja-keskustelut/videopuhelut.md" %}
+{% content-ref url="asiakasjonot-ja-keskustelut/videopuhelut.md" %}
+[videopuhelut.md](asiakasjonot-ja-keskustelut/videopuhelut.md)
+{% endcontent-ref %}
 
 ## 26.5.2020
 
@@ -80,15 +82,15 @@ Lue lisää videopuheluista ja ruudunjaosta:
 
 ### Asiakkaan jonotusajan näyttäminen 
 
-* Jonotusaika näytetään sivupalkissa kunkin jonon osalta. Mikäli jonotusaika on yli tunnin, ajan sijaan näytetään ∞ \(ääretön\) -symboli.
+* Jonotusaika näytetään sivupalkissa kunkin jonon osalta. Mikäli jonotusaika on yli tunnin, ajan sijaan näytetään ∞ (ääretön) -symboli.
 
-![Jonotusaika](.gitbook/assets/queueing-time.png)
+![Jonotusaika](<.gitbook/assets/queueing time.png>)
 
 ### Kanavan otsikko/aihe jäsenlistan yläpuolella
 
 * Ryhmäkanaville asetettava otsikko/aihe-teksti näytetään jäsenlistan yläpuolella. Muokkaa aihetta kanavan asetuksissa. Voit näyttää jäsenille tässä esim. usein kysyttyjä ohjeita ja linkkejä.
 
-![Kanavan aihe](.gitbook/assets/channel-topic-example.PNG)
+![Kanavan aihe](<.gitbook/assets/channel topic example.PNG>)
 
 ## 29.10.2019
 
@@ -96,7 +98,7 @@ Lue lisää videopuheluista ja ruudunjaosta:
 
 * Chatin alkukyselyn kenttiä on mahdollista täyttää valmiiksi asiakasjärjestelmän tietojen pohjalta. Valmiiksi täytetyt kentät voivat myös olla loppuaiakkaalta piilotettuja.
 
-### Keskustelun automaattinen tägäys \(merkitseminen\) esitietojen pohjalta 
+### Keskustelun automaattinen tägäys (merkitseminen) esitietojen pohjalta 
 
 * Keskustelu voidaan tägätä automaattisesti loppuasiakkaan alkukyselyvalintojen ja -vastausten perusteella, tai valmiiksi täytettyjen kenttien perusteella.
 
@@ -138,7 +140,5 @@ Lue lisää videopuheluista ja ruudunjaosta:
 
 * Asiakas on mahdollista siirtää keskutelusta toiseen jonoon, jolloin toinen ammattilainen voi jatkaa keskustelua hänen kanssaan. Kun siirtomahdollisuus on asetettu käyttöön, keskustelunäkymän oikealla palstalla näytetään siirtomahdollisuus
 
-## 
-
-
+##
 

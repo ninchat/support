@@ -4,11 +4,11 @@ description: Uuden agentin kutsuminen kanavalle
 
 # Käyttäjän lisääminen kanavalle
 
-## Kutsun lähettäminen <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+## Kutsun lähettäminen <a href="henkilon-kutsuminen-tiimikanavalle" id="henkilon-kutsuminen-tiimikanavalle"></a>
 
 Kanavan operaattoriagentti voi kutsu uusia jäseniä kanavalle.
 
-![Kanavakutsun l&#xE4;hett&#xE4;minen](../.gitbook/assets/invite%20%281%29.png)
+![Kanavakutsun lähettäminen](../.gitbook/assets/Invite.png)
 
 1. Klikkaa jäsenlistan lopussa "Kutsu väkeä / Invite people" -linkkiä.
 2. Kirjoita kutsuttavan henkilön sähköpostiosoite tai Ninchat-käyttäjänimi kenttään ja paina Enter.
@@ -24,13 +24,16 @@ Kanavakutsulinkit ovat voimassa 14 vuorokautta niiden luomishetkestä. Tämän j
 
 Mikäli kutsuttavalla ei ole vielä Ninchat-tunnusta, kutsu lähetetään hänelle sähköpostiin. Käyttäjä seuraa ohjeita, jotka kerrotaan kohdassa Käyttäjätilin luonti
 
-{% page-ref page="../kayttajatili/kayttajatilin-luonti.md" %}
+{% content-ref url="../kayttajatili/kayttajatilin-luonti.md" %}
+[kayttajatilin-luonti.md](../kayttajatili/kayttajatilin-luonti.md)
+{% endcontent-ref %}
 
 #### Kutsu olemassa olevalle käyttäjälle
 
 Mikäli kutsuttava on jo Ninchat-käyttäjä eli agentti, kutsulinkin voi lähettää/kopioida hänelle yksityisviestinä. Sähköpostiosoitteen sijaan kutsukenttään voi tällöin kirjoittaa agentin käyttäjätunnuksen.
 
-## Käyttäjän poistaminen kanavalta <a id="kayttajan-poistaminen-kanavalta"></a>
+## Käyttäjän poistaminen kanavalta <a href="kayttajan-poistaminen-kanavalta" id="kayttajan-poistaminen-kanavalta"></a>
 
-{% page-ref page="kayttajan-poistaminen-kanavalta.md" %}
-
+{% content-ref url="kayttajan-poistaminen-kanavalta.md" %}
+[kayttajan-poistaminen-kanavalta.md](kayttajan-poistaminen-kanavalta.md)
+{% endcontent-ref %}

@@ -10,12 +10,12 @@ Suosittelemme Ninchatin käyttöön [Google Chrome](https://www.google.com/chrom
 
 ## **Tunnuksen luominen**
 
-Luo uusi Ninchat tunnus kirjautumisnäkymässä [https://ninchat.com/app/](https://ninchat.com//app/)  
+Luo uusi Ninchat tunnus kirjautumisnäkymässä [https://ninchat.com/app/](https://ninchat.com/app/)\
 Anna tiedot tunnustasi varten:
 
-* **Name:** Oma nimi tai niminerkki
-* **Email:** Käyttämäsi työpaikan/organisaation sähköpostiosoite, esim. matti.mainio@yritys.com
-* **Password:** Keksi tunnukselle vahva salasana
+* **Name: **Oma nimi tai niminerkki
+* **Email: **Käyttämäsi työpaikan/organisaation sähköpostiosoite, esim. matti.mainio@yritys.com
+* **Password: **Keksi tunnukselle vahva salasana
 
 {% hint style="info" %}
 Ole tarkka kirjoittaessasi sähköpostiosoitteesi. Sinun tulee jatkossa kirjautuessasi kirjoittaa se täsmälleen samoin, isot ja pienet kirjaimet huomioiden.
@@ -25,11 +25,11 @@ Ole tarkka kirjoittaessasi sähköpostiosoitteesi. Sinun tulee jatkossa kirjautu
 Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan löydy sanakirjasta. Käytä aina eri salanaa jokaisessa palvelussa.
 {% endhint %}
 
-Jatka klikkaamalla ****_Create account_ -nappia.
+Jatka klikkaamalla** **_Create account_ -nappia.
 
-![](../.gitbook/assets/invite-accept-signup.png)
+![](<../.gitbook/assets/Invite accept signup (2).png>)
 
-###  <a id="verifying-account"></a>
+###  <a href="verifying-account" id="verifying-account"></a>
 
 ## Tunnuksen vahvistaminen
 
@@ -43,32 +43,38 @@ Luotuasi tunnuksen, saat sähköpostiisi vahvistusviestin Ninchat-tunnuksen luom
 
 Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi ja voit kirjautua sisään! 
 
-### Vahvistussähköpostia ei löydy <a id="vahvistussahkopostia-ei-loydy"></a>
+### Vahvistussähköpostia ei löydy <a href="vahvistussahkopostia-ei-loydy" id="vahvistussahkopostia-ei-loydy"></a>
 
-Vahvistusmailin lähettämisessä voi toisinaan kulua pikku tovi. Odota siis hetki ja päivitä postilaatikkonäkymä.   
+Vahvistusmailin lähettämisessä voi toisinaan kulua pikku tovi. Odota siis hetki ja päivitä postilaatikkonäkymä. \
 Ellei vahvistusmaili löydy postilaatikostasi, tarkista onko se mennyt roskapostiin. Ellei maili löydy sieltäkään, voit tilata uuden Ninchatin käyttäjäasetuksistasi.
 
-{% page-ref page="kayttajaasetukset.md" %}
+{% content-ref url="kayttajaasetukset.md" %}
+[kayttajaasetukset.md](kayttajaasetukset.md)
+{% endcontent-ref %}
 
 ### Vanhentunut vahvistuslinkki
 
 Mikäli et vahvista tunnusta ajoissa, toimitettu vahvistuslinkki vanhenee eikä enää toimi. Tilaa tällöin uusi vahvistuslinkki Ninchatin käyttäjäasetuksista. Lisätietoa _Käyttäjäasetukset_-sivulla.
 
-{% page-ref page="kayttajaasetukset.md" %}
+{% content-ref url="kayttajaasetukset.md" %}
+[kayttajaasetukset.md](kayttajaasetukset.md)
+{% endcontent-ref %}
 
 ## Sisäänkirjautuminen
 
 #### Kirjaudu sisään sähköpostiosoitteellasi ja salasanalla osoitteessa: [https://ninchat.com/app](https://ninchat.com/app)​
 
-\(Käytä vahvistuslinkkiä vain kerran.\)
+(Käytä vahvistuslinkkiä vain kerran.)
 
-{% page-ref page="../yleisia-vinkkeja/ongelmat-kirjautumisessa.md" %}
+{% content-ref url="../yleisia-vinkkeja/ongelmat-kirjautumisessa.md" %}
+[ongelmat-kirjautumisessa.md](../yleisia-vinkkeja/ongelmat-kirjautumisessa.md)
+{% endcontent-ref %}
 
 ## Käyttäjätilin asetukset
 
 Aseta seuraavaksi käyttäjäprofiilisi tiedot ja -asetukset.
 
-{% page-ref page="kayttajaasetukset.md" %}
-
-
+{% content-ref url="kayttajaasetukset.md" %}
+[kayttajaasetukset.md](kayttajaasetukset.md)
+{% endcontent-ref %}
 

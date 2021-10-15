@@ -20,7 +20,7 @@
   * [Organisaation jäsenten hallinta](organisaatio/organisaation-jasenten-hallinta.md)
   * [Uuden agentin lisääminen](organisaatio/uuden-agentin-lisaaminen.md)
   * [Jonojen hallinta](organisaatio/asiakasjonojen-hallinta.md)
-  * [Tunnisteet \(Tägit\)](organisaatio/tunnisteet-tagit.md)
+  * [Tunnisteet (Tägit)](organisaatio/tunnisteet-tagit.md)
   * [Agentin poistaminen organisaatiosta](organisaatio/agentin-poistaminen-organisaatiosta.md)
 * [Tiimikanavat](tiimikanavat/README.md)
   * [Käyttäjän lisääminen kanavalle](tiimikanavat/kayttajan-lisaaminen-kanavalle.md)
@@ -42,6 +42,7 @@
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
   * [Tallennetut yhteydenotot](asiakasjonot-ja-keskustelut/offline-yhteydenotot.md)
+  * [Notifier-hälytyssovellus](asiakasjonot-ja-keskustelut/notifierin-asennus-ja-kaeyttoe.md)
   * [Hyödyllisiä vinkkejä](asiakasjonot-ja-keskustelut/hyodyllisia-vinkkeja.md)
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
@@ -58,7 +59,6 @@
 
 * [Ohjeet operaattoreille](operaattorit/ohjeita-operaattoreille.md)
 
-## Kehittäjät <a id="kehittajat"></a>
+## Kehittäjät <a href="kehittajat" id="kehittajat"></a>
 
 * [Ohjeet kehittäjille](kehittajat/ohjeet-kehittajille.md)
-

@@ -11,8 +11,8 @@ Mikäli työntekijä poistuu palveluksesta tai siirtyy muihin tehtäviin, hänet
 Organisaation jäsenten hallinta vaatii orgnisaation operaattori-oikeustasoa. 
 
 1. Avaa organisaatioasetukset klikkaamalla yläpalkista organisaation tai kanavan nimeä ja valitse pudotusvalikosta _Organisaatioasetukset / Organization settings_.
-2. Klikkaa listalla poistettavan organisaation jäsenen nimeä \(käytä tarvittaessa hakua, filter\).
-3. Jäsenen muokkausnäkymässä klikkaa _Poista jäsenyys / Remove membership_ -painiketta.
+2. Klikkaa listalla poistettavan organisaation jäsenen nimeä (käytä tarvittaessa hakua, filter).
+3. Jäsenen muokkausnäkymässä klikkaa _Poista jäsenyys / Remove membership _-painiketta.
 
 Asiakas poistetaan organisaatiosta sekä jonoista.
 
@@ -24,9 +24,10 @@ Agentin poistaminen kanavalta vaatii kyseisen kanavan moderaattorioikeutta. Agen
 2. Klikkaa poistettavan agentin nimeä ja valitse pudotusvalikosta _Poista kanavalta / Remove from channel_. Käyttäjä poistetaan kanavalta.
 3. Toista tarvittaessa muilla kanavilla.
 
-## Käyttäjätilin poistaminen Ninchatista <a id="kayttajatilin-poistaminen-ninchatista"></a>
+## Käyttäjätilin poistaminen Ninchatista <a href="kayttajatilin-poistaminen-ninchatista" id="kayttajatilin-poistaminen-ninchatista"></a>
 
 Mikäli käyttäjätili halutaan kokonaan poistaa, agentin tulee tehdä se itse. Ohjeet linkin takana.
 
-{% page-ref page="../kayttajatili/tunnuksen-poistaminen.md" %}
-
+{% content-ref url="../kayttajatili/tunnuksen-poistaminen.md" %}
+[tunnuksen-poistaminen.md](../kayttajatili/tunnuksen-poistaminen.md)
+{% endcontent-ref %}

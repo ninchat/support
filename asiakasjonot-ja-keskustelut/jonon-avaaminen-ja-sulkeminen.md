@@ -14,18 +14,18 @@ Asiakasjono näkyy sivupalkissa joko:
 * Vihreä pallo - jono on avattu 
 * Sininen huomioväri - jonossa on asiakas odottamassa
 
-![Asiakasjono sivupalkissa: Suljettu \(punainen\), avattu \(vihre&#xE4;\), asiakas jonossa \(sininen\)](../.gitbook/assets/queue-status-activity-fi.png)
+![Asiakasjono sivupalkissa: Suljettu (punainen), avattu (vihreä), asiakas jonossa (sininen)](../.gitbook/assets/queue-status-activity-fi.png)
 
 ### Jonotusaika
 
-Kun jonossa on asiakkaita, näet jonon nimen vierssä ajastimen, joka kertoo miten kauan \(ensimmäinen\) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞ ääretön-kuvakkeeksi.
+Kun jonossa on asiakkaita, näet jonon nimen vierssä ajastimen, joka kertoo miten kauan (ensimmäinen) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞ ääretön-kuvakkeeksi.
 
 ## Jonon avaaminen
 
-Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Avaa jono / Open queue".  
+Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Avaa jono / Open queue".\
 Asiakkaat voivat liittyä nyt jonoon.
 
-![](../.gitbook/assets/sidebar-queue-bar-agent-open-fi.png)
+![](<../.gitbook/assets/sidebar-queue-bar-agent-open-fi (1).png>)
 
 ## Jonon sulkeminen
 
@@ -33,11 +33,12 @@ Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Sulje jono / C
 
 Asiakkaat eivät sulkemisen jälkeen pääse jonoon, eivätkä aloittamaan chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai he päättävät sulkea chatin/ikkunan.
 
-![](../.gitbook/assets/sidebar-queue-bar-agent-close-fi.png)
+![](<../.gitbook/assets/sidebar-queue-bar-agent-close-fi (1).png>)
 
 ## Asiakasjonon ajastaminen
 
 Lue jonon automaattisesta ajastamisesta:
 
-{% page-ref page="jonon-ajastaminen.md" %}
-
+{% content-ref url="jonon-ajastaminen.md" %}
+[jonon-ajastaminen.md](jonon-ajastaminen.md)
+{% endcontent-ref %}
