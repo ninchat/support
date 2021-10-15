@@ -63,7 +63,7 @@ Keskimääräinen arvosana liikkuu välillä 0,0 - 1,0.
 
 ## Päiväkohtaiset tilastot
 
-![Päiväkohtaiset tilastot](<../.gitbook/assets/stats daily.png>)
+![Päiväkohtaiset tilastot](../.gitbook/assets/stats-daily.png)
 
 Päiväkohtaisista tilastoista näet käydyt keskustelut ja voit katsoa keskustelulogeja.
 
@@ -75,7 +75,7 @@ Klikkaa päiväriviä avataksesi näkymään kyseisen päivän keskustelut. Kesk
 
 ##  Keskusteluhistoria
 
-![](<../.gitbook/assets/queue stats 2 – 1 (1).png>)
+![](../.gitbook/assets/queue-stats-2-1.png)
 
 Keskusteluhistorian tarkastelu
 
@@ -98,7 +98,7 @@ Ominaisuus voidaan ottaa käyttöön organisaatioasetuksissa.
 2. Klikkaa ruutua “vaadi syytä keskusteluhistorian katseluun” (Require reason for viewing transcript).
 3. Tallenna.
 
-![](<../.gitbook/assets/Syy transkriptien avaamiseen FIN Final (2).jpg>)
+![](<../.gitbook/assets/syy-transkriptien-avaamiseen-fin-final (2).jpg>)
 
 ## Kyselyvastaukset
 

@@ -9,7 +9,7 @@ Siirry asiakasjonon asetuksiin klikkaamalla jonon nimeä ja valitse Jonon asetuk
 
 ## Yleiset jonon asetukset
 
-![Jonon yleiset asetukset](<../.gitbook/assets/queue settings (3).png>)
+![Jonon yleiset asetukset](../.gitbook/assets/queue-settings.png)
 
 Jonon yleisissä asetuksissa voit muokata seuraavia asioita:
 

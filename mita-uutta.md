@@ -14,7 +14,7 @@ Ninchat on kytkettävissä suomi.fi-tunnistautumiseen, jonka avulla organisaatio
 
 Ennen chatin tai vastaanoton ailla verloittamista asiakasta pyydetään tunnistautumaan suomi.fi-palvelussa. Asiakas kirjautuu palveluun omkkopankkitunnuksillaan tai mobiilivarmenteella. Onnistuneen tunnistautumisen jälkeen asiakas ohjataan chattiin tai vastaanotolle.
 
-![](<.gitbook/assets/Tunnistautuminen-ennen-asiointia-Final (1).jpg>)
+![](.gitbook/assets/tunnistautuminen-ennen-asiointia-final.jpg)
 
 #### Asioinnin aikana tehtävä tunnistautuminen
 
@@ -24,7 +24,7 @@ Asiantuntija pyytää asiakasta tunnistautumaan suomi.fi-palvelussa, ja tämän 
 
 Asiantuntija voi seurata tunnistautumisen edistymistä tai keskeytymistä, eli hän saa tiedon tunnistautumisen aloittamisesta ja siitä, että se on suoritettu loppuun (tai keskeytynyt).
 
-![](.gitbook/assets/Tunnistautuminen-asioinnin-aikana-Final.jpg)
+![](.gitbook/assets/tunnistautuminen-asioinnin-aikana-final.jpg)
 
 ## 28.5.2021
 
@@ -84,13 +84,13 @@ Lue lisää videopuheluista ja ruudunjaosta:
 
 * Jonotusaika näytetään sivupalkissa kunkin jonon osalta. Mikäli jonotusaika on yli tunnin, ajan sijaan näytetään ∞ (ääretön) -symboli.
 
-![Jonotusaika](<.gitbook/assets/queueing time.png>)
+![Jonotusaika](.gitbook/assets/queueing-time.png)
 
 ### Kanavan otsikko/aihe jäsenlistan yläpuolella
 
 * Ryhmäkanaville asetettava otsikko/aihe-teksti näytetään jäsenlistan yläpuolella. Muokkaa aihetta kanavan asetuksissa. Voit näyttää jäsenille tässä esim. usein kysyttyjä ohjeita ja linkkejä.
 
-![Kanavan aihe](<.gitbook/assets/channel topic example.PNG>)
+![Kanavan aihe](.gitbook/assets/channel-topic-example.PNG)
 
 ## 29.10.2019
 

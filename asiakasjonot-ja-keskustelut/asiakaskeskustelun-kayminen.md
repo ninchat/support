@@ -34,7 +34,7 @@ Asiakasneuvoja voi lähettää asiakkaalle kuvia ja tiedostoja, ja hän neuvojal
 
 Lähetettävien tiedostojen kokoa tai formaattia ei ole rajattu.
 
-![Liitetiedoston lisääminen ja näkyminen keskustelussa](<../.gitbook/assets/customer-chat-attachment (1).png>)
+![Liitetiedoston lisääminen ja näkyminen keskustelussa](../.gitbook/assets/customer-chat-attachment.png)
 
 ## Asiakas-metatiedot
 
@@ -47,7 +47,7 @@ Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaa
 
 Keskustelun alkuun voidaan välittää asiakkaasta perustiedot, jotka ovat hyödyllisiä mm. ongelmatilanteita selvitettäessä. Alkutietoihin voi lisätä esim. selaintiedon, ruudun koon, chatin aloitussivun ja sinne linkanneen sivun, sekä IP-osoitteen ja sijaintitiedot.
 
-![Tekniset tiedot asiakkaasta](<../.gitbook/assets/metadata customer.png>)
+![Tekniset tiedot asiakkaasta](../.gitbook/assets/metadata-customer.png)
 
 {% hint style="info" %}
 Kysy metatietojen lähettämisestä lisää Ninchatin henkilöstöltä.
@@ -68,7 +68,7 @@ Kysy meiltä lisää, tai tutustu API-dokumentaatioon:
 
 Asiakkaan toimista sivustolla on mahdollista välittää reaaliaikaista tietoa asiakaspalvelijalle  neuvomisen helpottamiseksi. Esimerkiksi asiakkaan täyttäessä lomaketta, tiedot voidaan kertoa suoraan asiakaspalvelijalle, kuten mm. jos asiakas vaihtaa sivua keskustelun aikana. 
 
-![Live-asiakas-metatieto](<../.gitbook/assets/metadata live (2).png>)
+![Live-asiakas-metatieto](../.gitbook/assets/metadata-live.png)
 
 ### Koottu metatieto
 
@@ -76,7 +76,7 @@ Live-metadataa voidaan välittää asiakaspalvelijalle myös kootusti.
 
 Esim. ostoskorin sisältö ja asiakkaan toimitustiedot voidaan välittää kaikki kerralla (myös salatusti), jolloin ne näytetään kootusti keskustelun sivupalkissa.
 
-![Yhteen koottu asiakas-metatieto](<../.gitbook/assets/metadata live folded.png>)
+![Yhteen koottu asiakas-metatieto](../.gitbook/assets/metadata-live-folded.png)
 
 ## Kyselytiedot
 

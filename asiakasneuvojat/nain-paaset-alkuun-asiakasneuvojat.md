@@ -16,11 +16,11 @@ Olet saanut kutsulinkin sähköpostitse. Käytä Chrome- tai Firefox-selainta.
 
 Avaa kutsulinkki klikkaamalla sähköpostissa _Accept invitation_ -nappia.
 
-![Kutsuviesti sähköpostissa](<../.gitbook/assets/Invite gmail.png>)
+![Kutsuviesti sähköpostissa](../.gitbook/assets/invite-gmail.png)
 
 Linkin avaamalla sivulla, klikkaa näkymässä Accept invite.
 
-![](<../.gitbook/assets/Invite accept.png>)
+![](<../.gitbook/assets/invite-accept (1).png>)
 
 Lisätietoa sivulla _Ninchat-kutsun hyväksyminen_:
 
@@ -40,7 +40,7 @@ Anna tunnusta varten tiedot:
 
 Klikkaa _Kirjaudu _päästäksesi eteenpäin.
 
-![](<../.gitbook/assets/Invite accept signup.png>)
+![](<../.gitbook/assets/invite-accept-signup (2).png>)
 
 Lisätietoa sivulla _Käyttäjätilin luonti_:
 
@@ -130,11 +130,11 @@ Mikäli olet saanut _organisaation operaattori_ -oikeudet, voit myös avata ja s
 
 ![Asiakasjono sivupalkissa: Suljettu (punainen), avattu (vihreä), asiakas jonossa (sininen)](../.gitbook/assets/queue-status-activity-fi.png)
 
-![Nappaa asiakas jonossa. Näet jonotusajan ja voit valikosta napata asiakkaan ](<../.gitbook/assets/sidebar-queue-bar-customer-fi (3).png>)
+![Nappaa asiakas jonossa. Näet jonotusajan ja voit valikosta napata asiakkaan ](<../.gitbook/assets/sidebar-queue-bar-customer-fi (1).png>)
 
 ### Asiakaskeskustelunäkymä <a href="asiakaskeskustelunakyma" id="asiakaskeskustelunakyma"></a>
 
-![](<../.gitbook/assets/Customer Chat Agent View (1).png>)
+![](<../.gitbook/assets/customer-chat-agent-view (1).png>)
 
 | 1) Sidebar                                                                                                                                                   | 2) Keskustelunäkymä                                                                                                                                              | 3) Chat-sivupalkki                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -179,7 +179,7 @@ Lue lisää videopuheluista:
 
 Mikäli järjestätte avoimia ryhmäkeskusteluja, jotka ovat upotettu omalle sivustollenne, tarvitsee kyseinen kanava keskustelulle moderaattorin. Ryhmäkanavan operaattorikäyttäjät voivat jakaa moderointioikeuksia agenteille. 
 
-![Moderointityökalut](<../.gitbook/assets/Channel embed moderation.png>)
+![Moderointityökalut](<../.gitbook/assets/channel-embed-moderation (1).png>)
 
 Lue lisää:
 

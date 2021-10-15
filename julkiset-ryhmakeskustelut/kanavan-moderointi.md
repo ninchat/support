@@ -22,7 +22,7 @@ Moderaattorioikeuksia ei kannata pitää turhaan päällä, varsinkaan yksityisi
 
 ## Moderointityökalut
 
-![Moderaattorin työkalut ja valinnat](<../.gitbook/assets/Channel embed moderation (2).png>)
+![Moderaattorin työkalut ja valinnat](../.gitbook/assets/channel-embed-moderation.png)
 
 ### Piilotetut viestit
 

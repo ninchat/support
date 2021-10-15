@@ -13,7 +13,7 @@ Pääset konfiguraatioihin menemällä organisaatioasetuksiin ja valitsemalla Si
 Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuus. Pyydä Ninchatin henkilöstöä tekemään muutokset, tai kysy apua, mikäli koet sen hankalaksi.
 {% endhint %}
 
-![](<../.gitbook/assets/Organization - sites.png>)
+![](../.gitbook/assets/organization-sites.png)
 
 ## Chatin tekstien muokkaaminen
 
@@ -54,7 +54,7 @@ Esimerkki: Kappale jossa tekstiä, rivinvaihto ja linkki
 Muista tallentaa muutokset. 
 {% endhint %}
 
-![](<../.gitbook/assets/Organization - sites – 1.png>)
+![](../.gitbook/assets/organization-sites-1.png)
 
 ## Chatin ottaminen pois käytöstä <a href="chatin-ottaminen-pois-kaeytosta" id="chatin-ottaminen-pois-kaeytosta"></a>
 

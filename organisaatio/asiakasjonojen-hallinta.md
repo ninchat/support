@@ -23,7 +23,7 @@ Yksittäisen käyttäjän jonoja pääset hallitsemaan Organisaatio-välilehdell
 
 1\. Jonot-välilehdellä, klikkaa riviä halumasi jonon kohdalla.
 
-![Valitse jono, jonka vastaajia haluat muokata](<../.gitbook/assets/organization-queues-select (1).png>)
+![Valitse jono, jonka vastaajia haluat muokata](../.gitbook/assets/organization-queues-select.png)
 
 2\. Näkymään avautuu lista, jossa näet ketkä organisaation jäsenistä kuuluvat kyseiseen jonoon.
 

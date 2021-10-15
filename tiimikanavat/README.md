@@ -40,7 +40,7 @@ Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi
 [kayttajan-poistaminen-kanavalta.md](kayttajan-poistaminen-kanavalta.md)
 {% endcontent-ref %}
 
-![](../.gitbook/assets/Invite.png)
+![](<../.gitbook/assets/invite (1).png>)
 
 ## Yksityiskeskustelut tiimiläisten kesken <a href="yksityiskeskustelut-tiimilaisten-kesken" id="yksityiskeskustelut-tiimilaisten-kesken"></a>
 

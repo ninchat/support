@@ -10,7 +10,7 @@ Kysy lisää ja pyydä demo-toteutusta: [http://ninchat.com/demo](http://ninchat
 
 ## Chatin aloitusnäkymät <a href="chatin-aloitusnakymat" id="chatin-aloitusnakymat"></a>
 
-![](<../.gitbook/assets/embed-welcome (1).png>)
+![](../.gitbook/assets/embed-welcome.png)
 
 ### Minimoitu näkymä
 
@@ -52,7 +52,7 @@ Tekstipohjaisen keskustelun ja kuvien ohella voit jutella asiakkaan kanssa video
 
 ### Asiakasarviointi ja loppykysely
 
-![](<../.gitbook/assets/embed-rating-survey (2).png>)
+![](../.gitbook/assets/embed-rating-survey.png)
 
 Keskustelun päätyttyä asiakkaalle voidaan näyttää arviointinäkymä. Hymiö-palautteenannolla kerätään nopeasti arvokasta palautetta palvelun toimivuudesta.
 
@@ -60,7 +60,7 @@ Hymiöiden ohella voidaan käyttää loppukyselyä, jolla asiakkaalta saadaan ke
 
 ### Chat suljettu
 
-![](<../.gitbook/assets/embed-offline-form (1).png>)
+![](../.gitbook/assets/embed-offline-form.png)
 
 Kun asiakaspalvelu-chattia on suljettu, voidaan chat piilottaa tai näyttää heille suljettu-näkymä. Näkymään voidaan sijoittaa yhteydenottolomake, kertoa palvelusta ja aukioloajoista ja linkata muualle.
 

@@ -34,4 +34,4 @@ Ninchatin embed-koodin lisäminen Wordpress-sivustolle onnistuu muokkaamalla siv
 3. Selaa ja klikkaa "Theme Files" -listalta esim. "Theme footer (footer.php)" -sivu.
 4. Liitä Ninchatin upotuskoodi haluamaasi kohtaan (mielellään lähellä body-elementin loppua, kuitenkin sen sisäpuolelle).
 
-![Ninchatin lisääminen Wordpress-sivustolle](<../.gitbook/assets/Wordpress Ninchat Ohje.png.jpg>)
+![Ninchatin lisääminen Wordpress-sivustolle](../.gitbook/assets/wordpress-ninchat-ohje.png.jpg)

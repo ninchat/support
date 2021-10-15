@@ -60,7 +60,7 @@ Siirry takaisin omaan organisaatioon klikkaamalla nuolta organisaation nimen vie
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 
-![](<../.gitbook/assets/welcome screen (3).png>)
+![](<../.gitbook/assets/welcome-screen (3).png>)
 
 Olet todennäköisesti tullut Ninchatiin ilman kutsulinkkiä ja olet tilanteessa, jossa et kuulu mihinkään organisaatioon tai tiimikanavalle.
 

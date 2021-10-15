@@ -12,7 +12,7 @@ Organisaation operaattorit voivat lisätä, muokata ja poistaa tägejä.
 
 ## Tunnisteiden muokkaaminen
 
-![](<../.gitbook/assets/Organization - tags (1).png>)
+![](../.gitbook/assets/organization-tags.png)
 
 1. Klikkaa tagin nimeä muokatakseen nimeä tai poistaaksesi se.
 2. Klikkaa maalikuvaketta vaihtaaksesi tagin väri. Värit ovat hyvä tapa erottaa eri kategorioiden tagit.

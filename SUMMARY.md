@@ -42,7 +42,7 @@
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
   * [Tallennetut yhteydenotot](asiakasjonot-ja-keskustelut/offline-yhteydenotot.md)
-  * [Notifier-hälytyssovellus](asiakasjonot-ja-keskustelut/notifierin-asennus-ja-kaeyttoe.md)
+  * [Notifier-hälytyssovellus](asiakasjonot-ja-keskustelut/notifier-halytyssovellus.md)
   * [Hyödyllisiä vinkkejä](asiakasjonot-ja-keskustelut/hyodyllisia-vinkkeja.md)
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)

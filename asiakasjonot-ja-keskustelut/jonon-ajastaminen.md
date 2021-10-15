@@ -46,7 +46,7 @@ Voit luoda chat-jonolle vuosittain (annual) samoilla päivämäärillä tapahtuv
 
 Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2.  Lisäksi jouluaattona ja -päivänä chat on kokonaan suljettuna. Nämä korvaavat normaalit viikkoajastukset.
 
-![](<../.gitbook/assets/schedule-annual (1).png>)
+![](../.gitbook/assets/schedule-annual.png)
 
 ### Luo yksittäisiä, kerran tapahtuvia poikkeuksia (Exceptions) <a href="luo-yksittaisia-kerran-tapahtuvia-poikkeuksia" id="luo-yksittaisia-kerran-tapahtuvia-poikkeuksia"></a>
 
@@ -67,7 +67,7 @@ Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajan, on h
 
 Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
 
-![Ajastukset käytössä/pois käytöstä](../.gitbook/assets/ajastus-ota-aikataulu-käyttöön.png)
+![Ajastukset käytössä/pois käytöstä](../.gitbook/assets/ajastus-ota-aikataulu-kaeyttoeoen.png)
 
 ## Ongelmatilanteita
 

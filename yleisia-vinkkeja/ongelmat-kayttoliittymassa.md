@@ -4,11 +4,11 @@
 
 Kanavan jäsenlista (oikean puoleisin sivupalkki) on mahdollista pitää näkyvissä tai piilottaa. Mikäli lista ei näy, voit palauttaa sen avaamalla valikon käyttäjänimesi vieressä olevasta nuoli-kuvakkeesta vasemman palstan (Sidebar) alapäässä. Valitse valikosta "Näytä jäsenet / Show members".
 
-![Käyttäjävalikko](<../.gitbook/assets/Sidebar – menus - 2.png>)
+![Käyttäjävalikko](../.gitbook/assets/sidebar-menus-2.png)
 
 ## Toimintopalsta ei näy asiakaskeskusteluissa
 
-Asiakaskeskustelun oikean laidan työkalut (muistiinpanot, valmisviestit, tägit, ...) on mahdollista näyttää tai piilottaa klikkaamalla viestinlähetyskentän vieressä olevaa![](../.gitbook/assets/icon-hamburger-menu.PNG)-kuvaketta. Kuvake näkyy vain asiakaskeskusteluissa. 
+Asiakaskeskustelun oikean laidan työkalut (muistiinpanot, valmisviestit, tägit, ...) on mahdollista näyttää tai piilottaa klikkaamalla viestinlähetyskentän vieressä olevaa![](../.gitbook/assets/icon-hamburger-menu.png)-kuvaketta. Kuvake näkyy vain asiakaskeskusteluissa. 
 
 ![Toimintopalkin piilotus/avaaminen](../.gitbook/assets/gif-ninchat-toggle-chat-functions.gif)
 

@@ -14,7 +14,7 @@ Voit aloittaa yksityiskeskustelun klikkaamalla käyttäjän nimeä jäsenlistall
 
 Näkymään avautuu kahdenvälinen keskustelu, joka aluksi on tyhjä. Näet kanssakeskustelijan nimen yläpalkissa. Kun lähetät ensimmäisenä viestin, käyttäjä saa yksityiskeskustelusta ilmoituksen.
 
-![Yksityiskeskustelun aloittaminen kanavan jäsenlistalta](<../.gitbook/assets/Team - start private (1).png>)
+![Yksityiskeskustelun aloittaminen kanavan jäsenlistalta](<../.gitbook/assets/team-start-private (1).png>)
 
 ### Käyttäjän etsiminen haku-toiminnolla
 
@@ -25,7 +25,7 @@ Mikäli et ole halutun agentin kanssa samalla tiimikanavalla, voit aloittaa yksi
 3. Valitse oikea käyttäjä listalta
 4. Yksityiskeskustelu alkaa
 
-![Käyttäjän etsiminen hakutoiminnolla](../.gitbook/assets/Search.png)
+![Käyttäjän etsiminen hakutoiminnolla](../.gitbook/assets/search.png)
 
 ## Keskustelu
 

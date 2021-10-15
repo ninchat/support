@@ -164,7 +164,7 @@ Tarkista myös, ettei Toimintokeskuksessa ole suurta määrää kuittaamattomia 
 
 Lisäksi tarkista, että käyttäjäasetuksissa on ruksattu kohta "Näytä ilmoitukset vaikka olisit paikalla".
 
-![Windows Toimintokeskus: Keskittymisavustaja ja ilmoitukset](../.gitbook/assets/toimintokeskus-keskittymisavustaja.png)
+![Windows Toimintokeskus: Keskittymisavustaja ja ilmoitukset](<../.gitbook/assets/toimintokeskus-keskittymisavustaja (1).png>)
 
 ## Korostukset
 

@@ -46,7 +46,7 @@ Käyttäjä voidaan lisätä organisaatioon suoraan kutsun yhteydessä. Mikäli 
 3. Klikkaa agentin nimeä ja valitse listalta "Lisää organisaatioon / Add to organization".
 4. Klikkaa OK ponnahdusikkuna-ilmoituksessa.
 
-![Lisää agentti organisaatioon](<../.gitbook/assets/Add to organization (1).png>)
+![Lisää agentti organisaatioon](../.gitbook/assets/add-to-organization.png)
 
 ## 3. Agentin lisääminen jonoon <a href="3-agentin-lisaaminen-jonoon" id="3-agentin-lisaaminen-jonoon"></a>
 
@@ -68,7 +68,7 @@ Voit palata jäsenlistaan klikkaamalla Takaisin / Back -nappia.
 
 Lisättyäsi agentin jonoihin, ne ilmestyvät hänelle näkyviin keskustelupalkkiin.
 
-![](<../.gitbook/assets/organization-queue-shown (1).png>)
+![](../.gitbook/assets/organization-queue-shown.png)
 
 ## 4. Agentti organisaation operaattoriksi <a href="4-agentin-lisaaminen-organisaation-operaattoriksi" id="4-agentin-lisaaminen-organisaation-operaattoriksi"></a>
 

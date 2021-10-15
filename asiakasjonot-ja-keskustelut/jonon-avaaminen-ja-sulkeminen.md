@@ -25,7 +25,7 @@ Kun jonossa on asiakkaita, näet jonon nimen vierssä ajastimen, joka kertoo mit
 Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Avaa jono / Open queue".\
 Asiakkaat voivat liittyä nyt jonoon.
 
-![](<../.gitbook/assets/sidebar-queue-bar-agent-open-fi (1).png>)
+![](../.gitbook/assets/sidebar-queue-bar-agent-open-fi.png)
 
 ## Jonon sulkeminen
 
@@ -33,7 +33,7 @@ Klikkaa jonon nimen viereistä nuoli-ikonia ja valitse valikosta "Sulje jono / C
 
 Asiakkaat eivät sulkemisen jälkeen pääse jonoon, eivätkä aloittamaan chattia. Sulkemishetkellä jonossa olevat asiakkaat jäävät jonoon, kunnes heidät poimitaan tai he päättävät sulkea chatin/ikkunan.
 
-![](<../.gitbook/assets/sidebar-queue-bar-agent-close-fi (1).png>)
+![](../.gitbook/assets/sidebar-queue-bar-agent-close-fi.png)
 
 ## Asiakasjonon ajastaminen
 
