@@ -20,10 +20,6 @@ description: Kootusti yleisimmät ohjeaiheet organisaation operaattoreille
 [tiimikanavat](../tiimikanavat/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="../organisaatio/asiakasjonojen-hallinta.md" %}
 [asiakasjonojen-hallinta.md](../organisaatio/asiakasjonojen-hallinta.md)
 {% endcontent-ref %}
