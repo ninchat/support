@@ -4,11 +4,11 @@ description: Here you can find instructions on how to invite people to a channel
 
 # How to invite people to channel?
 
-## Send an invitation <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+## Send an invitation <a href="henkilon-kutsuminen-tiimikanavalle" id="henkilon-kutsuminen-tiimikanavalle"></a>
 
 Channel operators can invite new members to the channel.
 
-![Send a channel invitation](../.gitbook/assets/invite%20%281%29.png)
+![Send a channel invitation](../.gitbook/assets/Invite.png)
 
 1. Click the "Invite people" link at the end of the member list.
 2. In the "Search" field, type email address or Ninchat username of the person you want to invite, and press Enter or choose from the shown list.
@@ -24,13 +24,16 @@ The invitation link is valid for 14 days from the time it is created. It will th
 
 If the invitee does not have a user account on Ninchat yet, the invitation will be sent via email. The person can follow the instructions in the section "How to create account?" below.
 
-{% page-ref page="../user-account/create-account.md" %}
+{% content-ref url="../user-account/create-account.md" %}
+[create-account.md](../user-account/create-account.md)
+{% endcontent-ref %}
 
 #### Invite an existing Ninchat user
 
 If the invitee is already a Ninchat user or an agent, the invitation link can be sent/copied to him/her as a private message. Instead of entering the email address, you can enter the agent username in the "Search" field.
 
-## Remove a user from a channel <a id="kayttajan-poistaminen-kanavalta"></a>
+## Remove a user from a channel <a href="kayttajan-poistaminen-kanavalta" id="kayttajan-poistaminen-kanavalta"></a>
 
-{% page-ref page="remove-channel-member.md" %}
-
+{% content-ref url="remove-channel-member.md" %}
+[remove-channel-member.md](remove-channel-member.md)
+{% endcontent-ref %}

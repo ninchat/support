@@ -12,5 +12,4 @@ Transfer queues can be enabled in the queue settings. Once a queue is allowed fo
 
 ![Transfer customer, queue selection](../.gitbook/assets/queue-transfer.png)
 
-## 
-
+##

@@ -15,4 +15,3 @@ Group chat embedded on a client's web page:
 Participant name choosing view:
 
 ![Choose a username](../.gitbook/assets/group-embed-name-modal.png)
-

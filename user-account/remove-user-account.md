@@ -7,8 +7,8 @@ description: Here you can find instructions on how to remove a user account from
 
 
 {% hint style="info" %}
-An organization operator can remove users from the organization and queues.  
-A channel moderator can remove channel members from the channel.  
+An organization operator can remove users from the organization and queues.\
+A channel moderator can remove channel members from the channel.\
 Only the user can delete their entire account from Ninchat by him/herself.
 {% endhint %}
 
@@ -21,6 +21,4 @@ If you wish to delete your Ninchat account entirely, you have to delete all of y
 3. In your personal settings, go to the tab "Authentication".
 4. Click a trash icon to remove an identity, repeat for all identities you have.
 5. Log out.
-
-
 

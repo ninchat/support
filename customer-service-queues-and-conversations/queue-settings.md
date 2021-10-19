@@ -6,18 +6,18 @@ description: >-
 
 # Queue settings
 
-Click the arrow icon next to the queue name and select "Queue settings".  
-\(This requires organization operator rights.\)
+Click the arrow icon next to the queue name and select "Queue settings".\
+(This requires organization operator rights.)
 
 ## General
 
-![Queue settings: General](../.gitbook/assets/queue-settings.png)
+![Queue settings: General](<../.gitbook/assets/queue settings (3).png>)
 
 In the Queue settings, "General" tab, you can edit the following:
 
 * Name of the queue;
 * Metadata, such as IP address and location, whether it is automatically added to the beginning of the conversation. For additional metadata information, please contact Ninchat staff.
-* Secure metadata, whether it is required to be present \(for more information, see the section "Customer care queues and conversations"\).
+* Secure metadata, whether it is required to be present (for more information, see the section "Customer care queues and conversations").
 
 Make sure to save any changes.
 
@@ -29,7 +29,9 @@ If you would like to be able to upload attachments or use video calls and screen
 
 See instructions for queue scheduling in the following page:
 
-{% page-ref page="queue-schedule.md" %}
+{% content-ref url="queue-schedule.md" %}
+[queue-schedule.md](queue-schedule.md)
+{% endcontent-ref %}
 
 ## Notes
 
@@ -47,11 +49,13 @@ In the Queue settings, "Advanced" tab, it is possible to set transfer queues whi
 
 ## Queue statistics
 
-{% page-ref page="queue-statistics.md" %}
+{% content-ref url="queue-statistics.md" %}
+[queue-statistics.md](queue-statistics.md)
+{% endcontent-ref %}
 
 ## Manage queue and queue members
 
-{% page-ref page="../organization/manage-queues-and-queue-agents.md" %}
-
-
+{% content-ref url="../organization/manage-queues-and-queue-agents.md" %}
+[manage-queues-and-queue-agents.md](../organization/manage-queues-and-queue-agents.md)
+{% endcontent-ref %}
 

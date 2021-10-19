@@ -18,13 +18,15 @@ description: >-
 
 Read more about video calls and screen sharing:
 
-{% page-ref page="customer-service-queues-and-conversations/video-calls.md" %}
+{% content-ref url="customer-service-queues-and-conversations/video-calls.md" %}
+[video-calls.md](customer-service-queues-and-conversations/video-calls.md)
+{% endcontent-ref %}
 
 ## 26.5.2020
 
 ### Grant organization membership along with channel invitation
 
-* When invitation people to channel, you can also add grant membership to your organization along with it. This way you don't need to separately add the to the organization after joining. 
+* When invitation people to channel, you can also add grant membership to your organization along with it. This way you don't need to separately add the to the organization after joining.&#x20;
 
 ![](.gitbook/assets/invite-people-en.png)
 
@@ -50,17 +52,17 @@ Read more about video calls and screen sharing:
 
 ## 15/4/2020
 
-### **Show queueing time within each queue in sidebar** 
+### **Show queueing time within each queue in sidebar**&#x20;
 
 * Queueing time is now displayed next to the queue name in sidebar. If queueing time exceeds one hour an infinity symbol ∞ is shown instead of minutes and seconds.
 
-![Jonotusaika](.gitbook/assets/queueing-time.png)
+![Jonotusaika](<.gitbook/assets/queueing time.png>)
 
 ### **Display channel topic within channel member list**
 
 * Team/group channel topic is shown above the member list. Edit topic in channel settings. In the topic you can show channel memers e.g. common tips and links
 
-![Kanavan aihe](.gitbook/assets/channel-topic-example.PNG)
+![Kanavan aihe](<.gitbook/assets/channel topic example.PNG>)
 
 ## 29/10/2019
 
@@ -94,7 +96,8 @@ Read more about video calls and screen sharing:
 
 ### Remember client sessions
 
-* Previously, a client session had been set by default to continue in the situations where the web browser is closed and reopened.  Now, by default, the session ends when the browser is closed, as many customers may expect.
+* Previously, a client session had been set by default to continue in the situations where the web browser is closed and reopened. \
+  Now, by default, the session ends when the browser is closed, as many customers may expect.
 
 ## 13/5/2019
 
@@ -110,7 +113,5 @@ Read more about video calls and screen sharing:
 
 * It is possible for a client to be transferred from the current conversation to another queue, so that another professional can continue the conversation with the client. Once a queue is allowed for transfer, the transfer customer option shows on the right of the conversation section.
 
-## 
-
-
+##
 

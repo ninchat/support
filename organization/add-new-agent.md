@@ -15,7 +15,7 @@ These are the main steps how a new agent can be invited to your organization and
 2. If the user wasn't granted organization membership alongside the invitation, he/she can be added to the organization after accepting the invitation.
 3. The agent is then added to customer queues.
 
-## 1. Invite people <a id="henkilon-kutsuminen-tiimikanavalle"></a>
+## 1. Invite people <a href="henkilon-kutsuminen-tiimikanavalle" id="henkilon-kutsuminen-tiimikanavalle"></a>
 
 Inviting people requires channel operator rights on the channel in question. User must be invited to all necessary channel separately. Organization membership is given only once.
 
@@ -33,7 +33,9 @@ The invitation link is valid for 14 days from the time it is created. It will th
 
 ## Actions needed from the invitee
 
-{% page-ref page="../user-account/ninchat-invitation.md" %}
+{% content-ref url="../user-account/ninchat-invitation.md" %}
+[ninchat-invitation.md](../user-account/ninchat-invitation.md)
+{% endcontent-ref %}
 
 ## 2. Add an agent to your organization
 
@@ -44,7 +46,7 @@ User can be granted organization membership along with invitation. If this wasn'
 3. Click the agent name and select "Add to organization".
 4. Click OK in the pop-up notification.
 
-![Add an agent to the organization](../.gitbook/assets/add-to-organization.png)
+![Add an agent to the organization](<../.gitbook/assets/Add to organization (1).png>)
 
 ## 3. Add an agent to a queue
 
@@ -54,9 +56,9 @@ Once the agent is added to the organization, go to the Organization settings. Yo
 
 In the "Organization" tab, click the agent row in the member list to see the agent's details and his/her rights in a new view.
 
-![Organization members](../.gitbook/assets/organization-organization%20%281%29.png)
+![Organization members](<../.gitbook/assets/organization-organization (1).png>)
 
-In the new view, you will see the list that shows all your organization's queues. Check the box \(under "Member"\) of an appropriate queue\(s\) for the agent. Queue agent status can be granted according to knowledge or field e.g. language skills, information, job, location, etc.
+In the new view, you will see the list that shows all your organization's queues. Check the box (under "Member") of an appropriate queue(s) for the agent. Queue agent status can be granted according to knowledge or field e.g. language skills, information, job, location, etc.
 
 You can return to the user list by clicking the "Back" button.
 
@@ -66,19 +68,20 @@ You can return to the user list by clicking the "Back" button.
 
 Once you have added an agent to a queue, the queue will appear to him/her in the Sidebar under the organization's customer care queues.
 
-![](../.gitbook/assets/organization-queue-shown.png)
+![](<../.gitbook/assets/organization-queue-shown (1).png>)
 
-## 4. Add agent as an organization operator <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
+## 4. Add agent as an organization operator <a href="usean-agentin-lisaaminen-tiettyyn-jonoon" id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
 
-You can give organization operator rights to an agent if you want him/her to view statistics and message history of \(all\) queues, and manage other users in the organization, by clicking the button "Give operator status".
+You can give organization operator rights to an agent if you want him/her to view statistics and message history of (all) queues, and manage other users in the organization, by clicking the button "Give operator status".
 
 You can add and remove the organization operator rights in the same view as the queue agent status rights. Go to the “Organization” tab and click the agent’s row. Now you will see the agent’s user information and permissions in a new window.
 
-![Rights of an organization member](../.gitbook/assets/image%20%285%29.png)
+![Rights of an organization member](<../.gitbook/assets/image (5).png>)
 
 You can also remove an agent from the organization and queues by clicking the button "Remove membership". Please note that the user must be removed separately from the team channel and other chat channels.
 
-## Add multiple agents to a particular queue <a id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
+## Add multiple agents to a particular queue <a href="usean-agentin-lisaaminen-tiettyyn-jonoon" id="usean-agentin-lisaaminen-tiettyyn-jonoon"></a>
 
-{% page-ref page="manage-queues-and-queue-agents.md" %}
-
+{% content-ref url="manage-queues-and-queue-agents.md" %}
+[manage-queues-and-queue-agents.md](manage-queues-and-queue-agents.md)
+{% endcontent-ref %}

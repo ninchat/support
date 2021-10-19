@@ -22,31 +22,37 @@ Team channels can be created to meet the needs of different topics and groups, s
 
 ## Team channel symbols and rights
 
-| Symbol | Meaning |
-| :--- | :--- |
-| ![](../.gitbook/assets/operator.png) Star, filled | Channel operator \(different from organization operator\) - can manage channel settings and invite new people to the channel. |
-| ![](../.gitbook/assets/moderator.png) Star, outline | Channel moderator - can moderate chat and remove people from the channel.  |
-| ![](../.gitbook/assets/online%20%281%29.png) Green circle | User is logged in and active. |
-| ![](../.gitbook/assets/idle.png) Orange circle | User is logged in but not active. |
-| ![](../.gitbook/assets/offline-avatar.png) No circle | User is offline. The user will see messages addressed to him/her later. |
+| Symbol                                                | Meaning                                                                                                                     |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![](../.gitbook/assets/operator.png) Star, filled     | Channel operator (different from organization operator) - can manage channel settings and invite new people to the channel. |
+| ![](../.gitbook/assets/moderator.png) Star, outline   | Channel moderator - can moderate chat and remove people from the channel.                                                   |
+| ![](<../.gitbook/assets/online (1).png>) Green circle | User is logged in and active.                                                                                               |
+| ![](../.gitbook/assets/idle.png) Orange circle        | User is logged in but not active.                                                                                           |
+| ![](../.gitbook/assets/offline-avatar.png) No circle  | User is offline. The user will see messages addressed to him/her later.                                                     |
 
 ## Add a user to a channel
 
 Channel operators can invite new members to the channel. Click "Invite people" at the end of the member list to search for users to be invited or copy an invitation link and send. See "How to invite people to channel?" below for detailed instructions:
 
-{% page-ref page="invite-people-to-channel.md" %}
+{% content-ref url="invite-people-to-channel.md" %}
+[invite-people-to-channel.md](invite-people-to-channel.md)
+{% endcontent-ref %}
 
-{% page-ref page="remove-channel-member.md" %}
+{% content-ref url="remove-channel-member.md" %}
+[remove-channel-member.md](remove-channel-member.md)
+{% endcontent-ref %}
 
-![](../.gitbook/assets/invite%20%281%29.png)
+![](../.gitbook/assets/Invite.png)
 
-## Private conversations with team members <a id="yksityiskeskustelut-tiimilaisten-kesken"></a>
+## Private conversations with team members <a href="yksityiskeskustelut-tiimilaisten-kesken" id="yksityiskeskustelut-tiimilaisten-kesken"></a>
 
-{% page-ref page="private-conversations.md" %}
+{% content-ref url="private-conversations.md" %}
+[private-conversations.md](private-conversations.md)
+{% endcontent-ref %}
 
-## Send messages and files <a id="viestien-ja-tiedostojen-lahettaminen"></a>
+## Send messages and files <a href="viestien-ja-tiedostojen-lahettaminen" id="viestien-ja-tiedostojen-lahettaminen"></a>
 
-Write your messages in the text field \(where it is written "Enter your message"\), at the bottom of the conversation section. The text field grows bigger when you write longer. Click the![](../.gitbook/assets/textarea-5.png)-send button or use the \[Enter\] key on your keyboard to send a message. If you want to make a line break in your messages, use the \[Shift\] + \[Enter\] keys on the keyboard.
+Write your messages in the text field (where it is written "Enter your message"), at the bottom of the conversation section. The text field grows bigger when you write longer. Click the![](../.gitbook/assets/textarea-5.png)-send button or use the \[Enter] key on your keyboard to send a message. If you want to make a line break in your messages, use the \[Shift] + \[Enter] keys on the keyboard.
 
 You can add emojis to your messages by clicking the smiley face icon and choose from the list.
 
@@ -56,24 +62,26 @@ If files are allowed, you can click the![](../.gitbook/assets/textarea-2.png)-pa
 
 #### Canned messages
 
-Canned messages can also be used on channels, even though they do not appear as a list. Type the slash \[/\] and the keyword of a canned message you want to use, and press the \[Spacebar\] key on your keyborad, the canned message will then appear in the text field. For example:
+Canned messages can also be used on channels, even though they do not appear as a list. Type the slash \[/] and the keyword of a canned message you want to use, and press the \[Spacebar] key on your keyborad, the canned message will then appear in the text field. For example:
 
-| Keyword | Canned message |
-| :--- | :--- |
-| open | We are open on weekdays from 9 am to 5 pm. |
+| Keyword | Canned message                             |
+| ------- | ------------------------------------------ |
+| open    | We are open on weekdays from 9 am to 5 pm. |
 
-```text
+```
 /open[Spacebar] --> We are open on weekdays from 9 am to 5 pm.
 ```
 
 ## Moderating channel
 
-{% page-ref page="../public-group-discussions/moderating-channel.md" %}
+{% content-ref url="../public-group-discussions/moderating-channel.md" %}
+[moderating-channel.md](../public-group-discussions/moderating-channel.md)
+{% endcontent-ref %}
 
 ## Leave a channel
 
 {% hint style="info" %}
-Note! Leaving a channel will completely remove you from the channel. Depending on the channel settings, your previous chat history may be hidden from you if you re-join the channel.  
+Note! Leaving a channel will completely remove you from the channel. Depending on the channel settings, your previous chat history may be hidden from you if you re-join the channel.\
 You can always switch between different conversations via the Sidebar without leaving any channels.
 {% endhint %}
 
@@ -87,7 +95,14 @@ A channel exists as long as it has members. If the last/only member agent leaves
 
 ## See more
 
-{% page-ref page="channel-settings.md" %}
+{% content-ref url="channel-settings.md" %}
+[channel-settings.md](channel-settings.md)
+{% endcontent-ref %}
 
-{% page-ref page="../general-tips/user-interface.md" %}
+{% content-ref url="../general-tips/user-interface.md" %}
+[user-interface.md](../general-tips/user-interface.md)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

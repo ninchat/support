@@ -8,9 +8,9 @@ This page describes customer chat activities and prospects of the customer chat 
 
 Ask more and request a demo at: [http://ninchat.com/demo](http://ninchat.com/demo)
 
-## Chat starting view <a id="chatin-aloitusnakymat"></a>
+## Chat starting view <a href="chatin-aloitusnakymat" id="chatin-aloitusnakymat"></a>
 
-![](../.gitbook/assets/embed-welcome.png)
+![](<../.gitbook/assets/embed-welcome (1).png>)
 
 ### Minimized view
 
@@ -34,7 +34,7 @@ The chat window can be minimized, enlarged, closed, or opened in a new window us
 
 Before going to a queue, your customers can be screened with a pre questionnaire. You can ask for name/nickname and other concerned questions, or use it to match the customer needs and display instructions or selections for the right customer service queue.
 
-### Queue view <a id="jonotusnakyma"></a>
+### Queue view <a href="jonotusnakyma" id="jonotusnakyma"></a>
 
 After selecting continue to chat, the customer goes to the queue view. The queue view shows the customer's queue number, whether his/her queue is behind other customers. As an agent picks up the customer from the queue, a conversation view opens.
 
@@ -52,7 +52,7 @@ Apart from text messages and pictures, you can chat with the customer via video.
 
 ### Customer service rating and feedback survey
 
-![](../.gitbook/assets/embed-rating-survey.png)
+![](<../.gitbook/assets/embed-rating-survey (2).png>)
 
 At the end of the conversation, the client may be presented with a customer service rating view. Using smiley icons is a quick way for the customer to rate the service and for you to gain valuable feedback.
 
@@ -60,9 +60,8 @@ In addition to the emoticons, a post questionnaire can be used as a feedback sur
 
 ### Chat closed
 
-![](../.gitbook/assets/embed-offline-form.png)
+![](<../.gitbook/assets/embed-offline-form (1).png>)
 
 When your customer service chat is closed, the chat can be hidden or shown in a view written that it is currently closed. You can place a contact form in this view, tell about the service and opening hours, and provide related links.
 
 You can also help the customers on general issues by providing supports with Ninchat query tool or chat bot.
-

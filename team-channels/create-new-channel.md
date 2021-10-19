@@ -8,5 +8,4 @@ description: >-
 
 
 
-![](../.gitbook/assets/sidebar-menus-1.png)
-
+![](<../.gitbook/assets/Sidebar – menus - 1 (2).png>)

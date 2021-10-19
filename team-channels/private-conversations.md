@@ -16,7 +16,7 @@ You can start a private conversation with a teammate from the member list. Click
 
 A bilateral conversation will open, which is initially empty. You will see the name of the person you are chatting with at the top of the conversation section. The first time you send a message, the user will be notified of a private conversation.
 
-![Start a private conversation through the channel member list](../.gitbook/assets/team-start-private%20%281%29.png)
+![Start a private conversation through the channel member list](<../.gitbook/assets/Team - start private (1).png>)
 
 ### Find a user with the search function
 
@@ -27,7 +27,7 @@ If you are not on the same team channel with the user you want to chat with, you
 3. Click the name.
 4. Private conversation starts.
 
-![Find a user with the search function](../.gitbook/assets/search.png)
+![Find a user with the search function](../.gitbook/assets/Search.png)
 
 ## Conversations
 
@@ -38,4 +38,3 @@ You can send pictures and files to each other if your user account has the requi
 ## Leave a private conversation
 
 You can leave a private conversation by clicking the person's name at the top of conversation section or the arrow icon next to the person's name in the conversation list, and selecting "Hide conversation".
-

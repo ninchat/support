@@ -16,15 +16,17 @@ If the pre-audience questionnaire includes entering a username and/or a message,
 
 ## Entering a message
 
-Type your message in the command line \("Enter your message"\). Send it by clicking \[ENTER\] key or the  ![](../.gitbook/assets/icon-submit.PNG)Send-icon.
+Type your message in the command line ("Enter your message"). Send it by clicking \[ENTER] key or the  ![](../.gitbook/assets/icon-submit.PNG)Send-icon.
 
-If you need to add line breaks the your messages, you can do by clicking simultaneously \[SHIFT\]+\[ENTER\]  keys. The command line will automatically adjust to longer messages.
+If you need to add line breaks the your messages, you can do by clicking simultaneously \[SHIFT]+\[ENTER]  keys. The command line will automatically adjust to longer messages.
 
 ## Video calls
 
 Video call can be used in customer conversations when text messages and attachments are not enough. Read more in _Video calls_ section
 
-{% page-ref page="video-calls.md" %}
+{% content-ref url="video-calls.md" %}
+[video-calls.md](video-calls.md)
+{% endcontent-ref %}
 
 ## Pictures and files
 
@@ -32,49 +34,49 @@ The agent can send pictures and files to the customer, and vice versa if allowed
 
 There is no limit to the size or format of files to upload.
 
-![Inserting an attachment and showing them in conversation](../.gitbook/assets/customer-chat-attachment.png)
+![Inserting an attachment and showing them in conversation](<../.gitbook/assets/customer-chat-attachment (1).png>)
 
-## Customer metadata 
+## Customer metadata&#x20;
 
 Various metadata can be passed from the customer to expedite and facilitate the work of the agent. The data which may be communicated are:
 
-* Encrypted from contract partner server \(secure metadata\);
+* Encrypted from contract partner server (secure metadata);
 * From the web page at the beginning of the chat and in real time during the chat;
 * Ninchat pre and post questionnaire responses;
 * Collected metadata such as the contents of the shopping cart.
 
 At the beginning of the conversation, you can look into the basic information about the customer, which is useful e.g. for problem solving. It is possible to see the customer's browser information and screen size, chat landing page and referral page, as well as IP address and location information.
 
-![Customer&apos;s information](../.gitbook/assets/metadata-customer.png)
+![Customer's information](<../.gitbook/assets/metadata customer.png>)
 
 {% hint style="info" %}
 Ask Ninchat staff for more information about uploading metadata.
 {% endhint %}
 
-### Strongly encrypted metadata \(secure metadata\)
+### Strongly encrypted metadata (secure metadata)
 
 Secure metadata can used to pass e.g. customer's identification information.
 
 It is possible for the customer service provider to encrypt the information of the user logged on to the contractor's site from the contractor's server. Later, the conversation with the information can be transmitted back to the contract partner's CRM system and linked to the right user based on the information.
 
-Contact us for more information, or read from our API documents: 
+Contact us for more information, or read from our API documents:&#x20;
 
-* [API - https://ninchat.com/api ](https://ninchat.com/api%20)
+* [API - https://ninchat.com/api ](https://ninchat.com/api)
 * [Master keys & secure metadata - https://github.com/ninchat/ninchat-api/blob/v2/master.md](https://github.com/ninchat/ninchat-api/blob/v2/master.md)
 
 ### Live metadata
 
 It is possible to provide real-time information of customer's activities on the site, to a customer service agent for easier guidance. For example, when a customer completes a form, the information can be reported directly to the customer service agent, or when the customer changes pages during the conversation.
 
-![Live customer metadata](../.gitbook/assets/metadata-live.png)
+![Live customer metadata](<../.gitbook/assets/metadata live (2).png>)
 
 ### Folded metadata
 
-Live metadata can also be provided to a customer service agent aggregated. 
+Live metadata can also be provided to a customer service agent aggregated.&#x20;
 
-For example, the contents of the shopping cart and shipping information can be shown \(also encrypted\) all at once, so that they are displayed folded in the conversation sidebar.
+For example, the contents of the shopping cart and shipping information can be shown (also encrypted) all at once, so that they are displayed folded in the conversation sidebar.
 
-![Collected customer metadata](../.gitbook/assets/metadata-live-folded.png)
+![Collected customer metadata](<../.gitbook/assets/metadata live folded.png>)
 
 ## Questionnaire answers
 
@@ -86,7 +88,7 @@ If the pre-audience questionnaire includes entering a username and/or a message,
 
 The answers to the post questionnaire after the discussion will also appear in the metadata section after the customer has closed the chat.
 
-![Pre-audience questionnaire answers in audience](../.gitbook/assets/customer-chat-questionnaire-data%20%281%29.png)
+![Pre-audience questionnaire answers in audience](<../.gitbook/assets/customer-chat-questionnaire-data (1).png>)
 
 ## Canned messages
 
@@ -98,7 +100,9 @@ In addition, if the questions require correct or specific answers, such as legal
 
 Canned messages are personal, and can be created and edited in your own user settings. See detailed instructions in the link:
 
-{% page-ref page="../user-account/user-settings-and-profile.md" %}
+{% content-ref url="../user-account/user-settings-and-profile.md" %}
+[user-settings-and-profile.md](../user-account/user-settings-and-profile.md)
+{% endcontent-ref %}
 
 ### Use a canned message
 
@@ -110,15 +114,15 @@ Canned messages appear as a list in the chat features on the right of the conver
 
 Canned messages can also be accessed by using your keyboard to type in the text field. Canned messages also work from the keyboard in team channels and private conversations.
 
-By typing the slash \[/\] and the keyword of a canned message you want to use and pressing the \[Spacebar\] key, the canned message will appear in the text field.
+By typing the slash \[/] and the keyword of a canned message you want to use and pressing the \[Spacebar] key, the canned message will appear in the text field.
 
-Example: You have set up a canned message: open \(keyword\): We are open on weekdays from 9 am to 5 pm \(canned message\).
+Example: You have set up a canned message: open (keyword): We are open on weekdays from 9 am to 5 pm (canned message).
 
-| Keyword | Canned message  |
-| :--- | :--- |
-| open | We are open on weekdays from 9 am to 5 pm. |
+| Keyword | Canned message                             |
+| ------- | ------------------------------------------ |
+| open    | We are open on weekdays from 9 am to 5 pm. |
 
-```text
+```
 /open[Spacebar] --> We are open on weekdays from 9 am to 5 pm.
 ```
 
@@ -134,21 +138,22 @@ Used tags are defined by your organization operator.
 
 An agent can add a tag by choosing from the list of tags in the chat features. Added tags appear and are stored in the metadata in the beginning of the conversation.
 
-![Add tags view and added tags above conversation](../.gitbook/assets/tags-agent-en.png)
+![Add tags view and added tags above conversation](<../.gitbook/assets/tags-agent-en (1).png>)
 
 ### Create and edit tags
 
 Tags are organization specific and can be created and edited by your organization operators. To create and edit tags, see page _Customize tags_:
 
-{% page-ref page="../organization/customize-tags.md" %}
+{% content-ref url="../organization/customize-tags.md" %}
+[customize-tags.md](../organization/customize-tags.md)
+{% endcontent-ref %}
 
 ## Notes
 
-Notes is an advanced option that allows you to create notes and entries about a customer conversation. Notes made by a customer service representative are stored in the conversation history. Notes can also be used to export data to the customer's own information system. 
+Notes is an advanced option that allows you to create notes and entries about a customer conversation. Notes made by a customer service representative are stored in the conversation history. Notes can also be used to export data to the customer's own information system.&#x20;
 
-Notes can added via customer conversation sidebar \(if notes are enabled\). Saved notes are added into metadata in the beginning of conversation.
+Notes can added via customer conversation sidebar (if notes are enabled). Saved notes are added into metadata in the beginning of conversation.
 
 ![Notes addition on the right. Saved notes in conversation backlog](../.gitbook/assets/notes-agent-saved-en.PNG)
 
-## 
-
+##

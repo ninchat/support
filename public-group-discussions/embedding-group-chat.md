@@ -10,7 +10,7 @@ You can place a public group chat on a website, mobile site and application, blo
 
 For embedding, we provide you with a so called embed code when the chat is ready. We will customize and prepare the chat as you wish, all you have to do is to place the embed code on your desired website.
 
-A public group discussion is usually placed as a part of contents of a web page, including div element. For embedding, you will need: 1\) a container element with the right identifier ID; 2\) an embed script tag. The embed code is a one-line Javascript tag \(we will provide you with your own code\).
+A public group discussion is usually placed as a part of contents of a web page, including div element. For embedding, you will need: 1) a container element with the right identifier ID; 2) an embed script tag. The embed code is a one-line Javascript tag (we will provide you with your own code).
 
 You or your site developer should place these snippets on your site.
 
@@ -42,11 +42,10 @@ The container element is placed at the desired position and styled as you wish. 
 If a web page operates both a private customer service chat and a public group chat, they should be triggered with the same embed script tag. There should not be multiple embed codes on the same page, otherwise, the chat activities will be confused.
 {% endhint %}
 
-## What you should know <a id="mita-asiakkaan-tulee-selvittaa"></a>
+## What you should know <a href="mita-asiakkaan-tulee-selvittaa" id="mita-asiakkaan-tulee-selvittaa"></a>
 
-* Which page\(s\) does the group chat come from and does the same page has private chat?
+* Which page(s) does the group chat come from and does the same page has private chat?
 * Is the group discussion placed in the content of the page or as a floating window?
 * What happens when the group channel is closed: hide chat history or leave it visible, show a closed status only, or hide the entire window?
 
-### 
-
+###

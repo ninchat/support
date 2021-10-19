@@ -13,7 +13,7 @@ If an employee is retired or transferred to another position, he/she is likely t
 Managing agents of an organization requires organization operator level.
 
 1. Click the name of the organization in the upper left corner and select "Organization settings" from the drop-down menu.
-2. Find the agent name that you want to remove \(or use filter to search for it\), then click the name row.
+2. Find the agent name that you want to remove (or use filter to search for it), then click the name row.
 3. In the edit view, click the "Remove membership" button.
 
 The agent should now be removed from the organization and queues.
@@ -26,11 +26,11 @@ Removing an agent from a channel requires moderator rights of that channel. An a
 2. Click the name of the agent to be removed and select "Remove from channel" in the drop-down menu. The user will be removed from that channel.
 3. Repeat for other channels as needed.
 
-## Remove a user account from Ninchat <a id="kayttajatilin-poistaminen-ninchatista"></a>
+## Remove a user account from Ninchat <a href="kayttajatilin-poistaminen-ninchatista" id="kayttajatilin-poistaminen-ninchatista"></a>
 
 A user account can be completely deleted only if the user does it by him/herself. See detailed instructions from the link below.
 
-{% page-ref page="../user-account/remove-user-account.md" %}
-
-
+{% content-ref url="../user-account/remove-user-account.md" %}
+[remove-user-account.md](../user-account/remove-user-account.md)
+{% endcontent-ref %}
 

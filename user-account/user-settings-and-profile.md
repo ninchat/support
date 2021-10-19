@@ -20,19 +20,19 @@ After editing the settings, make sure you click the "Save" button to save any ch
 
 ## Profile
 
-In your profile settings \("Profile" tab\), tell more about yourself so your colleagues can easily identify you.
+In your profile settings ("Profile" tab), tell more about yourself so your colleagues can easily identify you.
 
 1. Enter the name you want it to be shown to everyone in the "Screen name" field.
 2. Enter your real name in the "Real name" field.
    * This is not shown e.g. to customers in customer service discussions.
-   * Real name information is helpful in support situations, so we can identify you more easily. 
-3. Add your profile image \(JPG or PNG file format\).
+   * Real name information is helpful in support situations, so we can identify you more easily.&#x20;
+3. Add your profile image (JPG or PNG file format).
    * The image helps to identify yourself among team members.
 4. Save.
 
-![User&apos;s profile and information](../.gitbook/assets/user-settings.png)
+![User's profile and information](../.gitbook/assets/user-settings.png)
 
-## Authentication <a id="kirjautumisvalinnat"></a>
+## Authentication <a href="kirjautumisvalinnat" id="kirjautumisvalinnat"></a>
 
 In the "Authentication" tab, there are some authentication methods where you can add more email addresses, set the visibility of your emails, and change your password.
 
@@ -42,9 +42,9 @@ Your user account can have multiple email addresses for signing in. Your email a
 
 Click the "Add new email" button, type a new email address and create a password for it. Add new sign-in email before you remove the previous.
 
-### Choose visibility of your emails to others <a id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
+### Choose visibility of your emails to others <a href="tilin-ja-sahkopostin-nakyvyys-muille" id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
 
-Under "Visibility", you can choose who can see each of your emails: only yourself \(Visible only to you\), members of your organizations \(Visible to your organizations\), or all Ninchat users \(Visible to all users\).
+Under "Visibility", you can choose who can see each of your emails: only yourself (Visible only to you), members of your organizations (Visible to your organizations), or all Ninchat users (Visible to all users).
 
 ![Authentication methods](../.gitbook/assets/user-auth.png)
 
@@ -56,7 +56,7 @@ If you forgot your password, you can order a password reset link to your email f
 
 ### Remove a sign-in option
 
-You can remove a sign-in option \(email address\) by clicking the trash can icon on the right of that identity row.
+You can remove a sign-in option (email address) by clicking the trash can icon on the right of that identity row.
 
 Note! If you delete all of your sign-in options, you will no longer have access to your account and it will be removed. So please always keep at least one email.
 
@@ -76,11 +76,11 @@ Notifications help you respond faster. In the "Notifications" tab, you can set a
 
 Even when the browser window is minimized, desktop notifications can still tell you what happened. A desktop notification will appear in a corner of the window as a popup box which you can click to view the new activity on Ninchat. Read more below.
 
-![Recommended notification options. Remember to allow desktop notifications.](../.gitbook/assets/user_settings_notifications%20%282%29.png)
+![Recommended notification options. Remember to allow desktop notifications.](<../.gitbook/assets/user\_settings\_notifications (2).png>)
 
 ### Notification settings
 
-**It is recommended to enable Audio and Desktop notifications for at least the following types of activities \(see the image above\):**
+**It is recommended to enable Audio and Desktop notifications for at least the following types of activities (see the image above):**
 
 * **Private messages**
 * **Channel highlights**
@@ -111,20 +111,20 @@ Desktop notifications are displayed on the screen one by one. The rest can be fo
 
 ### Confirm desktop notifications
 
-If you want desktop notifications to remain on screen until you confirm by clicking or closing it, under Advanced settings, check the box _"Close desktop notification only after interacting eg. mouse click"_. By doing this, the notifications will not be missed by you. 
+If you want desktop notifications to remain on screen until you confirm by clicking or closing it, under Advanced settings, check the box _"Close desktop notification only after interacting eg. mouse click"_. By doing this, the notifications will not be missed by you.&#x20;
 
 {% hint style="info" %}
-Desktop notifications work on Google Chrome, Firefox, Safari, and Microsoft Edge browsers.   
-Desktop notifications are not supported by Internet Explorer \(IE\).
+Desktop notifications work on Google Chrome, Firefox, Safari, and Microsoft Edge browsers. \
+Desktop notifications are not supported by Internet Explorer (IE).
 {% endhint %}
 
 #### Display a desktop notification
 
-![Desktop notification example \(Windows\): customer in queue](../.gitbook/assets/desktop-notification.png)
+![Desktop notification example (Windows): customer in queue](../.gitbook/assets/desktop-notification.png)
 
 ### Allow notifications on browsers
 
-Once you have enabled notifications in your personal settings, you can check if desktop notifications \(as well as sound, camera, and microphone\) are allowed on your browser by clicking the lock icon in the address bar while you are on ninchat.com. Below are instructions for different browsers.
+Once you have enabled notifications in your personal settings, you can check if desktop notifications (as well as sound, camera, and microphone) are allowed on your browser by clicking the lock icon in the address bar while you are on ninchat.com. Below are instructions for different browsers.
 
 **Google Chrome**
 
@@ -132,7 +132,7 @@ Once you have enabled notifications in your personal settings, you can check if 
 
 Click the lock icon in the address bar to check permissions for the current site.
 
-You can also adjust all notification permissions for Ninchat in Chrome browser settings by typing this in the address bar:   
+You can also adjust all notification permissions for Ninchat in Chrome browser settings by typing this in the address bar: \
 chrome://settings/content/siteDetails?site=https://ninchat.com
 
 **Mozilla Firefox**
@@ -141,8 +141,8 @@ chrome://settings/content/siteDetails?site=https://ninchat.com
 
 Click the lock icon in the address bar to check permissions for the current site.
 
-You can also adjust all notification permissions for Ninchat in Firefox browser settings by typing this in the address bar:  
-about:preferences\#privacy
+You can also adjust all notification permissions for Ninchat in Firefox browser settings by typing this in the address bar:\
+about:preferences#privacy
 
 **Microsoft Edge**
 
@@ -152,15 +152,15 @@ Click the lock icon in the address bar to check permissions for the current site
 
 You can also adjust all notification permissions in Edge browser settings, in which you can access through the browser menu.
 
-### Trouble shooting 
+### Trouble shooting&#x20;
 
 If you cannot see the Windows desktop notifications, make sure that the Focus assist is turned off. You can check this in the Windows Action center. It opens in the down right corner of your screen.
 
-Make sure that there are no big amount of unchecked notifications in the Action center. You can delete all messages because they may prevent you from seeing new messages. 
+Make sure that there are no big amount of unchecked notifications in the Action center. You can delete all messages because they may prevent you from seeing new messages.&#x20;
 
 Also, make sure that the ”Display notifications also when not idle” box is checked.
 
-![Windows Action center: Focus assist and notifications](../.gitbook/assets/action-center-focus-assist.png)
+![Windows Action center: Focus assist and notifications](<../.gitbook/assets/Action center-Focus assist.png>)
 
 
 
@@ -170,8 +170,8 @@ In the "Highlights" tab, check the box "Highlight your name" so that you will be
 
 #### **How to set highlighting words?**
 
-1. Write the words that you want them to be hightlighted, separate each word with a comma \(,\).
-2. You can extend the variations of a word that starts with the same letters by adding an asterisk \(\*\) after the word e.g. Fin\*. This means the word Fin is still highlighted even when someone mentions Finland, Finnish, Finn, or Finns.
+1. Write the words that you want them to be hightlighted, separate each word with a comma (,).
+2. You can extend the variations of a word that starts with the same letters by adding an asterisk (\*) after the word e.g. Fin\*. This means the word Fin is still highlighted even when someone mentions Finland, Finnish, Finn, or Finns.
 3. In the "Notifications" tab, you can also enable email notifications for Channel highlights.
 4. Save.
 
@@ -181,9 +181,9 @@ In the "Highlights" tab, check the box "Highlight your name" so that you will be
 
 In the image below, you can see examples of highlighting words in a conversation. A highlighting word appears with a blue background, and you will be notified whenever it is mentioned.
 
-![](../.gitbook/assets/highlights%20%281%29.png)
+![](<../.gitbook/assets/highlights (1).png>)
 
-## View <a id="nakymavalinnat"></a>
+## View <a href="nakymavalinnat" id="nakymavalinnat"></a>
 
 In the "View" tab, you can change Ninchat view in some certain areas.
 
@@ -201,11 +201,11 @@ Check this box if you do not want to see messages telling that someone has chang
 
 #### Show hidden messages on channel
 
-\(For public group discussions.\) Channel moderator rights allow you to hide messages. If you want to see the hidden messages yourself, check this box.
+(For public group discussions.) Channel moderator rights allow you to hide messages. If you want to see the hidden messages yourself, check this box.
 
 #### Disable moderation action confirmations
 
-Actions taken by channel moderation tools, such as hiding a message or silencing a user, normally require confirmations. Check this box if you want to disable the confirmations. \(Especially for public group discussions.\)
+Actions taken by channel moderation tools, such as hiding a message or silencing a user, normally require confirmations. Check this box if you want to disable the confirmations. (Especially for public group discussions.)
 
 Be sure to save your changes.
 
@@ -215,25 +215,25 @@ Be sure to save your changes.
 
 Canned messages are handy to streamline your writing with the most frequently used words or phrases. In customer chat, you can select your canned messages with a single click from the chat features, or access them with a shortcut from the message entering field.
 
-![User&apos;s canned messages](../.gitbook/assets/user-canned.png)
+![User's canned messages](../.gitbook/assets/user-canned.png)
 
 ### Create a new canned message
 
-A canned message consists of the message itself, and keyword which individualizes it.   
-E.g. "hello1" \(keyword\), "Hi there! How can I assist you?" \(message\).
+A canned message consists of the message itself, and keyword which individualizes it. \
+E.g. "hello1" (keyword), "Hi there! How can I assist you?" (message).
 
-1. In the "Canned messages" tab, click the "Create new message" button.
+1\. In the "Canned messages" tab, click the "Create new message" button.
 
 ![](../.gitbook/assets/add-tag-en1.PNG)
 
-2. A new set of keyword and message will appear.  
-3. Click the Edit icon \(pencil icon\), and message editor will open.
+2\. A new set of keyword and message will appear.\
+3\. Click the Edit icon (pencil icon), and message editor will open.
 
-4. Enter a keyword in the Keyword field, only lowercase letters \(a-z\) and numbers are allowed, and a desired phrase in the Message field. \(Replace "key" and "message" placeholder texts.\)
+4\. Enter a keyword in the Keyword field, only lowercase letters (a-z) and numbers are allowed, and a desired phrase in the Message field. (Replace "key" and "message" placeholder texts.)
 
 ![](../.gitbook/assets/add-tag-en3.PNG)
 
-5. Save.
+5\. Save.
 
 {% hint style="info" %}
 **Note!** You can create one canned message row at a time. Create new row after you have edited the keyword and message on the new canned message row.
@@ -243,5 +243,6 @@ E.g. "hello1" \(keyword\), "Hi there! How can I assist you?" \(message\).
 
 Instructions for using canned messages in conversations can be found in this article:
 
-{% page-ref page="../customer-service-queues-and-conversations/" %}
-
+{% content-ref url="../customer-service-queues-and-conversations/" %}
+[customer-service-queues-and-conversations](../customer-service-queues-and-conversations/)
+{% endcontent-ref %}

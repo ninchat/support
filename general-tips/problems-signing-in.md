@@ -10,11 +10,13 @@ description: >-
 
 ### Where can I access the service?
 
-> If your shortcut to Ninchat disappears or the address is forgotten, you can always access Ninchat by going to [**https://ninchat.com/app**](https://ninchat.com/app) in your web browser.
+> If your shortcut to Ninchat disappears or the address is forgotten, you can always access Ninchat by going to [**https://ninchat.com/app**](https://ninchat.com/app) in your web browser.&#x20;
 
 ### Forgot your password?
 
-{% page-ref page="forgotten-password.md" %}
+{% content-ref url="forgotten-password.md" %}
+[forgotten-password.md](forgotten-password.md)
+{% endcontent-ref %}
 
 ### Invalid email
 
@@ -26,7 +28,7 @@ description: >-
 
 ### Identity verification code is expired
 
-> If you see this error when you're trying to sign in, it means you are trying to you the account verification link twice. It can be used only once, and after that you can sign-in normally by going to [**https://ninchat.com/app**](https://ninchat.com/app). Bookmark this address \(See section _Bookmarks & shortcuts_\).
+> If you see this error when you're trying to sign in, it means you are trying to you the account verification link twice. It can be used only once, and after that you can sign-in normally by going to [**https://ninchat.com/app**](https://ninchat.com/app). Bookmark this address (See section _Bookmarks & shortcuts_).
 
 ### Invitation link not working?
 
@@ -36,11 +38,13 @@ description: >-
 
 Login email address may change e.g. due to name change. Do not create a new account but add the new email to your existing account. [See article about adding a new sign-in email](https://support.ninchat.com/ninchat-support/v/english/user-account/user-settings-and-profile#add-a-new-sign-in-email)
 
-## Problems after sign-in <a id="kayttoliittyma-rikki"></a>
+## Problems after sign-in <a href="kayttoliittyma-rikki" id="kayttoliittyma-rikki"></a>
 
 ### Something wrong with the user interface?
 
-{% page-ref page="interface-problems.md" %}
+{% content-ref url="interface-problems.md" %}
+[interface-problems.md](interface-problems.md)
+{% endcontent-ref %}
 
 ### Team channels not visible?
 
@@ -58,15 +62,14 @@ Go back to your desired organization by clicking the arrow icon next to the curr
 
 Do you see the following screen instead of your team channel after signing in?
 
-![](../.gitbook/assets/welcome-screen%20%283%29.png)
+![](<../.gitbook/assets/welcome screen (3).png>)
 
 You have probably come to Ninchat without an invitation link and you are in a situation that you do not belong to any organization or team channel.
 
-Find Ninchat invitation email in your inbox and click the invitation link \(see instructions in the section "How to accept invitation?"\), or ask a colleague or Ninchat staff for a new invitation link to the team channel.
+Find Ninchat invitation email in your inbox and click the invitation link (see instructions in the section "How to accept invitation?"), or ask a colleague or Ninchat staff for a new invitation link to the team channel.
 
-## Ask for help in chat <a id="pyyda-apua-chatissa"></a>
+## Ask for help in chat <a href="pyyda-apua-chatissa" id="pyyda-apua-chatissa"></a>
 
 If none of the above tips worked, you can ask for help from us in our customer service chat.
 
 [Open chat](https://ninchat.com/contact?help)
-

@@ -2,21 +2,35 @@
 
 
 
-{% page-ref page="terminology.md" %}
+{% content-ref url="terminology.md" %}
+[terminology.md](terminology.md)
+{% endcontent-ref %}
 
-{% page-ref page="user-interface.md" %}
+{% content-ref url="user-interface.md" %}
+[user-interface.md](user-interface.md)
+{% endcontent-ref %}
 
-{% page-ref page="forgotten-password.md" %}
+{% content-ref url="forgotten-password.md" %}
+[forgotten-password.md](forgotten-password.md)
+{% endcontent-ref %}
 
-{% page-ref page="problems-signing-in.md" %}
+{% content-ref url="problems-signing-in.md" %}
+[problems-signing-in.md](problems-signing-in.md)
+{% endcontent-ref %}
 
-{% page-ref page="interface-problems.md" %}
+{% content-ref url="interface-problems.md" %}
+[interface-problems.md](interface-problems.md)
+{% endcontent-ref %}
 
-{% page-ref page="shortcuts-to-ninchat.md" %}
+{% content-ref url="shortcuts-to-ninchat.md" %}
+[shortcuts-to-ninchat.md](shortcuts-to-ninchat.md)
+{% endcontent-ref %}
 
-{% page-ref page="ninchat-language.md" %}
+{% content-ref url="ninchat-language.md" %}
+[ninchat-language.md](ninchat-language.md)
+{% endcontent-ref %}
 
-{% page-ref page="../user-account/remove-user-account.md" %}
-
-
+{% content-ref url="../user-account/remove-user-account.md" %}
+[remove-user-account.md](../user-account/remove-user-account.md)
+{% endcontent-ref %}
 

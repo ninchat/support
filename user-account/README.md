@@ -1,14 +1,24 @@
 # User account
 
-{% page-ref page="ninchat-invitation.md" %}
+{% content-ref url="ninchat-invitation.md" %}
+[ninchat-invitation.md](ninchat-invitation.md)
+{% endcontent-ref %}
 
-{% page-ref page="create-account.md" %}
+{% content-ref url="create-account.md" %}
+[create-account.md](create-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="user-settings-and-profile.md" %}
+{% content-ref url="user-settings-and-profile.md" %}
+[user-settings-and-profile.md](user-settings-and-profile.md)
+{% endcontent-ref %}
 
-{% page-ref page="../general-tips/problems-signing-in.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-
+{% content-ref url="../general-tips/problems-signing-in.md" %}
+[problems-signing-in.md](../general-tips/problems-signing-in.md)
+{% endcontent-ref %}
 
 
 

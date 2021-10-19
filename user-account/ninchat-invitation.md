@@ -14,13 +14,13 @@ We recommend using Google Chrome or Mozilla Firefox web browser.
 
 Get started with an invitation link you receive from your Ninchat organization admin user. After accepting the invitation you can create your account.
 
-1. **You will receive an invitation link in your email.** 
+1. **You will receive an invitation link in your email. **
 2. **Click the "Accept invitation" button to open the link.**
 3. **On the opened website, choose "Accept invite" in the pop-up window.**
 
-![](../.gitbook/assets/invite-gmail.png)
+![](<../.gitbook/assets/Invite gmail.png>)
 
-![](../.gitbook/assets/invite-accept.png)
+![](<../.gitbook/assets/Invite accept (1).png>)
 
 ### Signing up without an invitation
 
@@ -34,9 +34,10 @@ If you haven't received and invitation, please request it from your Ninchat orga
 
 The link will expire after 14 days. If the invitation link does not work or you have not received the invitation, please request a new link from your Ninchat organization admin user.
 
-## **Create an account** <a id="kayttajatunnuksen-luonti"></a>
+## **Create an account** <a href="kayttajatunnuksen-luonti" id="kayttajatunnuksen-luonti"></a>
 
 After accepting the invitation you can create your account. Continue to the followin page for instructions.
 
-{% page-ref page="create-account.md" %}
-
+{% content-ref url="create-account.md" %}
+[create-account.md](create-account.md)
+{% endcontent-ref %}

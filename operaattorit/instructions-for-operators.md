@@ -4,21 +4,38 @@ description: Here is a collection of common topics for operators in your organiz
 
 # Instructions for operators
 
-{% page-ref page="../organization/add-new-agent.md" %}
+{% content-ref url="../organization/add-new-agent.md" %}
+[add-new-agent.md](../organization/add-new-agent.md)
+{% endcontent-ref %}
 
-{% page-ref page="../team-channels/invite-people-to-channel.md" %}
+{% content-ref url="../team-channels/invite-people-to-channel.md" %}
+[invite-people-to-channel.md](../team-channels/invite-people-to-channel.md)
+{% endcontent-ref %}
 
-{% page-ref page="../team-channels/" %}
+{% content-ref url="../team-channels/" %}
+[team-channels](../team-channels/)
+{% endcontent-ref %}
 
-{% page-ref page="../user-account/create-account.md" %}
+{% content-ref url="../user-account/create-account.md" %}
+[create-account.md](../user-account/create-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="../organization/" %}
+{% content-ref url="../organization/" %}
+[organization](../organization/)
+{% endcontent-ref %}
 
-{% page-ref page="../organization/manage-queues-and-queue-agents.md" %}
+{% content-ref url="../organization/manage-queues-and-queue-agents.md" %}
+[manage-queues-and-queue-agents.md](../organization/manage-queues-and-queue-agents.md)
+{% endcontent-ref %}
 
-{% page-ref page="../customer-service-queues-and-conversations/" %}
+{% content-ref url="../customer-service-queues-and-conversations/" %}
+[customer-service-queues-and-conversations](../customer-service-queues-and-conversations/)
+{% endcontent-ref %}
 
-{% page-ref page="../organization/remove-agent-from-organization.md" %}
+{% content-ref url="../organization/remove-agent-from-organization.md" %}
+[remove-agent-from-organization.md](../organization/remove-agent-from-organization.md)
+{% endcontent-ref %}
 
-{% page-ref page="../team-channels/remove-channel-member.md" %}
-
+{% content-ref url="../team-channels/remove-channel-member.md" %}
+[remove-channel-member.md](../team-channels/remove-channel-member.md)
+{% endcontent-ref %}

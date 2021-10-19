@@ -8,21 +8,34 @@ Welcome to Ninchat Support site! You can browse through the articles on the left
 
 ## Getting started guide for new agents:
 
-{% page-ref page="asiakasneuvojat/getting-started-agents.md" %}
+{% content-ref url="asiakasneuvojat/getting-started-agents.md" %}
+[getting-started-agents.md](asiakasneuvojat/getting-started-agents.md)
+{% endcontent-ref %}
 
 ## Common topics:
 
-{% page-ref page="organization/add-new-agent.md" %}
+{% content-ref url="organization/add-new-agent.md" %}
+[add-new-agent.md](organization/add-new-agent.md)
+{% endcontent-ref %}
 
-{% page-ref page="user-account/create-account.md" %}
+{% content-ref url="user-account/create-account.md" %}
+[create-account.md](user-account/create-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="user-account/user-settings-and-profile.md" %}
+{% content-ref url="user-account/user-settings-and-profile.md" %}
+[user-settings-and-profile.md](user-account/user-settings-and-profile.md)
+{% endcontent-ref %}
 
-{% page-ref page="customer-service-queues-and-conversations/queue-settings.md" %}
+{% content-ref url="customer-service-queues-and-conversations/queue-settings.md" %}
+[queue-settings.md](customer-service-queues-and-conversations/queue-settings.md)
+{% endcontent-ref %}
 
-{% page-ref page="public-group-discussions/organize-group-discussion.md" %}
+{% content-ref url="public-group-discussions/organize-group-discussion.md" %}
+[organize-group-discussion.md](public-group-discussions/organize-group-discussion.md)
+{% endcontent-ref %}
 
-##  Keep track of Ninchat updates and improvements:
+## &#x20;Keep track of Ninchat updates and improvements:
 
-{% page-ref page="whats-new.md" %}
-
+{% content-ref url="whats-new.md" %}
+[whats-new.md](whats-new.md)
+{% endcontent-ref %}

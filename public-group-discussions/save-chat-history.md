@@ -16,4 +16,3 @@ The CVS file displays nicknames of the chat participants. If the subjects are se
 * Click the cloud icon on blue background to save the chat history to your computer.
 
 ![Download channel message history](../.gitbook/assets/download-channel-history.png)
-

@@ -9,9 +9,11 @@ The agent can end audiences either from top menubar or from the Sidebar.
 Click username in the navbar. Choose how you end the audience:
 
 * _End and hide conversation_
-  * Audience ends and is also hidden from you. You can no longer add tags or notes to the conversation. 
+  * Audience ends and is also hidden from you. You can no longer add tags or notes to the conversation.\
+
 * _End conversation_
-  * Audience ends and new messages can't be sent. Audience still stays open and visible in the Sidebar. You can add tags and notes to the conversation until you close it \(End and hide\), within six hours. You can close the conversation later from the sidebar. It will later dispay as "Deleted user".
+  * Audience ends and new messages can't be sent. Audience still stays open and visible in the Sidebar. You can add tags and notes to the conversation until you close it (End and hide), within six hours.\
+    You can close the conversation later from the sidebar. It will later dispay as "Deleted user".
 
 Even when customer ends the conversation, agent is better to close the conversation in the end.
 
@@ -23,11 +25,10 @@ Close the conversation by clicking cret icon next to audience name in the Sideba
 
 ![](../.gitbook/assets/customer-chat-end2.png)
 
-### Ended audience <a id="paattynyt-asiakaskeskustelu"></a>
+### Ended audience <a href="paattynyt-asiakaskeskustelu" id="paattynyt-asiakaskeskustelu"></a>
 
-If you haven't hidden ended audience and later open it from the sidebar, you may see a "Channel is suspended" notification on top of the conversation. This is just to tell the audience in question has ended. 
+If you haven't hidden ended audience and later open it from the sidebar, you may see a "Channel is suspended" notification on top of the conversation. This is just to tell the audience in question has ended.&#x20;
 
 "Channel is suspended" notification does not mean the customer queue is closed.
 
-![Channel suspended notification](../.gitbook/assets/channel-suspended.png)
-
+![Channel suspended notification](../.gitbook/assets/channel-suspended.PNG)
