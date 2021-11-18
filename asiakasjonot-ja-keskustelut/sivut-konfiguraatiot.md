@@ -70,9 +70,15 @@ Esimerkki: Kappale jossa tekstiä, rivinvaihto ja linkki
 <p>Täältä löydät ohjeet:<br><a href="https://osoite.com" target="_blank" title="Linkki ohjeisiin">Ohjeisivusto</a></p>
 ```
 
+#### &#x20;Tallentaminen
+
 {% hint style="info" %}
-Muista tallentaa muutokset.&#x20;
+Editoituasi tekstejä muista tallentaa muutokset.&#x20;
 {% endhint %}
+
+Tallentamisen yhteydessä editori tarkistaa, onko konfiguraation rakenne oikeellinen. Mikäli olet vahingossa tehnyt virheitä, muutoksia ei anneta tallentaa.
+
+Tallennettuasi voi poistua organisaatiosetuksista.
 
 ## Chatin ottaminen pois käytöstä <a href="chatin-ottaminen-pois-kaeytosta" id="chatin-ottaminen-pois-kaeytosta"></a>
 
