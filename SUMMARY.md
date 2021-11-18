@@ -37,7 +37,7 @@
   * [Videopuhelut](asiakasjonot-ja-keskustelut/videopuhelut.md)
   * [Asiakkaan chat-näkymä](asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md)
   * [Jonon asetukset](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
-  * [Sivut-konfiguraatiot](asiakasjonot-ja-keskustelut/sivut-konfiguraatiot.md)
+  * [Sivu-konfiguraatiot](asiakasjonot-ja-keskustelut/sivut-konfiguraatiot.md)
   * [Jonon ajastaminen](asiakasjonot-ja-keskustelut/jonon-ajastaminen.md)
   * [Jonon tilastot](asiakasjonot-ja-keskustelut/jonon-tilastot.md)
   * [Asiakaspalvelu-chatin upottaminen web-sivustolle](asiakasjonot-ja-keskustelut/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
