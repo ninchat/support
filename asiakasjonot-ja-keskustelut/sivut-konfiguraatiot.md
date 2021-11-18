@@ -70,7 +70,7 @@ Esimerkki: Kappale jossa tekstiä, rivinvaihto ja linkki
 <p>Täältä löydät ohjeet:<br><a href="https://osoite.com" target="_blank" title="Linkki ohjeisiin">Ohjeisivusto</a></p>
 ```
 
-#### &#x20;Tallentaminen
+### &#x20;Tallentaminen
 
 {% hint style="info" %}
 Editoituasi tekstejä muista tallentaa muutokset.&#x20;
