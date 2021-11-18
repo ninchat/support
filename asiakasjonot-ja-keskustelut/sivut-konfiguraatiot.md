@@ -13,36 +13,56 @@ Pääset konfiguraatioihin menemällä organisaatioasetuksiin ja valitsemalla Si
 Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuus. Pyydä Ninchatin henkilöstöä tekemään muutokset, tai kysy apua, mikäli koet sen hankalaksi.
 {% endhint %}
 
-![](../.gitbook/assets/organization-sites.png)
+![Sivu-konfiguraatio-editori](../.gitbook/assets/siteconfig6.png)
 
 ## Chatin tekstien muokkaaminen
 
-Avaa konfiguraatio klikkaamalla ![](../.gitbook/assets/pen-edit-icon.png)kynä-ikonia oikeassa laidassa.
+### Sivu-konfiguraatioiden avaaminen
 
-Konfiguraatioeditorissa näet chatin asetukset, tekstit ja käännökset. Niitä voi muuttaa siitä haluamakseen. Tekstien seassa saattaa näkyä HTML-elementtejä. Monikielisessä toteutuksessa eri kielille on omat tekstielementtinsä.
+#### Siirry organisaatioasetuksiin
 
-#### Yleisimpiä muutettavia tekstejä
+![Siirry organisaatioasetuksiin](../.gitbook/assets/siteconfig1.png)
 
-| Elementti                 | Kuvaus                                                                                                         |
+#### Avaa Sivut/Sites-välilehti
+
+Avaa konfiguraatio editoitavaksi klikkaamalla ![](../.gitbook/assets/pen-edit-icon.png)kynä-ikonia oikeassa laidassa.
+
+![Sivu-editorin avaaminen](../.gitbook/assets/siteconfig2.png)
+
+### Sivu-editori
+
+Konfiguraatioeditorissa näet tekstit ja käännökset (sekä chatin muita asetuksia). Vihreänä näkyviä selkokielisiä tekstejä voi muokata haluamakseen. Tekstin seassa saattaa näkyä HTML-elementtejä. Älä muokkaa sinisenä näkyviä avainsana-tekstejä vasemmalla.
+
+Monikielisissä toteutuksissa eri kielille on omat osionsa ja käännöstekstinsä.
+
+![Sivu-editori](../.gitbook/assets/siteconfig3.png)
+
+### Yleisimpiä muutettavia tekstejä <a href="yleisimpia-muutettavia-teksteja" id="yleisimpia-muutettavia-teksteja"></a>
+
+Useimmin muutettuja kohtia ovat alkunäkymän tekstit: **"welcome" (online)** sekä **"noQueuesText" (offline)**. Alla on lueteltu muita muutettavia tekstejä.
+
+![Muokkaa vihreitä selkokielisiä tekstejä. Älä muokkaa sinisiä avaintermejä.](../.gitbook/assets/siteconfig4.png)
+
+| **Elementti**             | **Kuvaus**                                                                                                     |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | welcome                   | Chatin alkunäkymän yläosan sisältö                                                                             |
 | motd                      | Chatin alkunäkymän alaosan sisältö                                                                             |
 | noQueuesText              | <p>Näytettävä sisältö chatin ollessa suljettuna.</p><p>(Mikäli käytössä ei ole yhteydenottolomaketta, tms)</p> |
 | inQueueText               | Jonotusnäkymän opasteteksti                                                                                    |
 | userName                  | Asiakkaan vakionimi keskutelussa                                                                               |
-| translations              | Yleiset tekstimääritykset eli käännökset käytetylle kielelle                                                   |
+| translations              | Sisältää yleiset tekstimääritykset eli käännökset käytetylle kielelle                                          |
 | preAudienceQuestionnaire  | Chatin alkukysely (tai offline-yhteydenottolomake)                                                             |
 | postAudienceQuestionnaire | Chatin loppukysely                                                                                             |
 | window - titlebar - title | Chat-ikkunan otsikko                                                                                           |
 
 #### Yleisiä käytettyjä HTML-elementtejä <a href="yleisia-kaytettyja-html-elementteja" id="yleisia-kaytettyja-html-elementteja"></a>
 
-| HTML-tagi                                                                       | kuvaus                     |
-| ------------------------------------------------------------------------------- | -------------------------- |
-| \<br>                                                                           | Rivinvaihto                |
-| \<p>tekstiä\</p>                                                                | Kappale                    |
-| \<h2>Otsikko\</h2>                                                              | Otsikko ( h1, h2, h3, h4 ) |
-|  \<a href="https://osoite.fi" target="\_blank" title="kuvaus">Linkkiteksti\</a> | Linkki                     |
+| **HTML-tagi**                                                                   | **Kuvaus**                                                                                         |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| \<br>                                                                           | Rivinvaihto                                                                                        |
+| \<p>tekstiä\</p>                                                                | Kappale                                                                                            |
+| \<h2>Otsikko\</h2>                                                              | Otsikko ( h1, h2, h3, h4 )                                                                         |
+|  \<a href="https://osoite.fi" target="\_blank" title="kuvaus">Linkkiteksti\</a> | Hyperlinkki. Linkille annetaan osoite, kohde (target), title-kuvausteksti sekä näkyvä linkkiteksti |
 
 Esimerkki: Kappale jossa tekstiä, rivinvaihto ja linkki
 
@@ -51,10 +71,8 @@ Esimerkki: Kappale jossa tekstiä, rivinvaihto ja linkki
 ```
 
 {% hint style="info" %}
-Muista tallentaa muutokset. 
+Muista tallentaa muutokset.&#x20;
 {% endhint %}
-
-![](../.gitbook/assets/organization-sites-1.png)
 
 ## Chatin ottaminen pois käytöstä <a href="chatin-ottaminen-pois-kaeytosta" id="chatin-ottaminen-pois-kaeytosta"></a>
 
