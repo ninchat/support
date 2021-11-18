@@ -43,6 +43,6 @@ Tunnisteet--välilehdellä voit muokata asiakaspalvelu-keskusteluihin liitettäv
 
 Organisaatioasetusten Sivut/Sites-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.
 
-{% content-ref url="../asiakasjonot-ja-keskustelut/sivut-konfiguraatiot.md" %}
-[sivut-konfiguraatiot.md](../asiakasjonot-ja-keskustelut/sivut-konfiguraatiot.md)
+{% content-ref url="../asiakasjonot-ja-keskustelut/sivu-konfiguraatiot.md" %}
+[sivu-konfiguraatiot.md](../asiakasjonot-ja-keskustelut/sivu-konfiguraatiot.md)
 {% endcontent-ref %}
