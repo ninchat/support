@@ -6,8 +6,18 @@ description: Asiakasjonon statistiikat (Organisaation operaattori)
 
 ## Tilasto-näkymä <a href="tilasto-nakyma" id="tilasto-nakyma"></a>
 
-Siirry asiakasjonon tilastoihin klikkaamalla jonon nimeä vasemmassa sivupalkissa ja valitse _Jonon tilastot / Queue statistics_. (Vaatii organisaation operaattori -oikeudet.)\
-Organisaation jonojen tilastoihin pääsee käsiksi myös organisaatioasetuksista, _Jonot_-välilehdeltä.
+### Tilastot-sivun avaaminen
+
+Tilastojen katselu vaatii organisaation operaattori-oikeudet. Siirry asiakasjonon tilastoihin:
+
+A) klikkaamalla jonon nimeä vasemmassa sivupalkissa ja valitse _Jonon tilastot / Queue statistics_. (jonot joihin sinut on lisätty käsittelijäksi)\
+B) Kaikkien organisaation jonojen tilastoihin pääset organisaatioasetuksista, _Jonot_-välilehdeltä.
+
+![Tilastot-sivun avaaminen sivupalkista tai organisaation asetuksista](../.gitbook/assets/statistics-open.png)
+
+### Ominaisuudet
+
+![Tilastokuvaajat](<../.gitbook/assets/stats3 (3).png>)
 
 Voit tarkastella keskusteluhistoriaa, tunnisteita (tägit), käyttäjätyytyväisyyttä, kyselyvastauksia ja metatietoja. Tilastot toimivat miltei reaaliajassa, ne päivittyvät viimeistään tunnin sisällä. Asiakaspalvelijoiden on mahdollista lisätä tunnisteita kuuden tunnin ajan keskustelun päättymisestä, joten ne päivittyvät tämän ajan sisällä.
 
@@ -23,17 +33,15 @@ Tilastosivu koostuu osioista:
 * Asiakaspalvelijakohtaiset tilastot
 * Päiväkohtaiset tilastot ja keskustelujen tarkastelu
 
-### Valinnat
+## Valinnat
 
 ![](../.gitbook/assets/stats-bar.png)
 
-| Ajankohta                                                                                      | Vienti                                                                                            | Tarkastelu                                                                |
+| **Ajankohta**                                                                                  | **Vienti**                                                                                        | **Tarkastelu**                                                            |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | <p>Valitse aikaväli, jolta haluat <br>katsoa tilastoja</p><p>Valitse haluamasi aikavyöhyke</p> | <p>Lataa tilastot CSV-tiedostona</p><p>Katso keskusteluhistoriat</p><p>Katso kyselyvastaukset</p> | <p>Valitse tarkastelujakson tarkkuus:</p><p>kk / päivä / tunti</p><p></p> |
 
 ## Graafiset kuvaajat
-
-![Tilastokuvaajat](<../.gitbook/assets/stats3 (3).png>)
 
 Graafeista saat nopeasti yleissilmäyksen tapahtumiin. Voit tarkastella:
 
@@ -45,7 +53,7 @@ Graafeista saat nopeasti yleissilmäyksen tapahtumiin. Voit tarkastella:
 
 Asiakkaan saapumista jonoon kutsutaan pyynnöksi:
 
-* Hyväksytty pyyntö: Asiakapalvelija poimii asiakkaan jonosta.
+* Hyväksytty pyyntö: Asiakaspalvelija poimii asiakkaan jonosta.
 * Pudonnut pyyntö: Asiakasta ei poimita jonosta
 
 ## Merkintäkohtaiset tilastot <a href="merkintakohtaiset-tilastot" id="merkintakohtaiset-tilastot"></a>
@@ -73,7 +81,7 @@ Klikkaa päiväriviä avataksesi näkymään kyseisen päivän keskustelut. Kesk
 ![](../.gitbook/assets/rating--1.png) Negatiivinen palaute ei aina tunnu mukavalta mutta on monesti kaikkein arvokkain. Lukemalla negatiivisen palautteen aiheuttaneen keskustelun pääset helposti ongelman jäljille.
 {% endhint %}
 
-##  Keskusteluhistoria
+## &#x20;Keskusteluhistoria
 
 ![](../.gitbook/assets/queue-stats-2-1.png)
 
@@ -92,9 +100,9 @@ Voit tallentaa keskustelun koneellesi painamalla "Lataa CSV"-nappia. Ladatun tie
 
 Keskusteluhistorian tarkasteluun voidaan asettaa syyn ilmoittaminen seurantaa varten. Näin keskusteluhistorian voi avata ainoastaan lisäämällä tallennettava viesti.
 
-Ominaisuus voidaan ottaa käyttöön organisaatioasetuksissa. 
+Ominaisuus voidaan ottaa käyttöön organisaatioasetuksissa.&#x20;
 
-1. Valitse ensin “Organisaation asetukset” (Organization settings), ja sen jälkeen välilehti “Edistyneet” (Advanced). 
+1. Valitse ensin “Organisaation asetukset” (Organization settings), ja sen jälkeen välilehti “Edistyneet” (Advanced).&#x20;
 2. Klikkaa ruutua “vaadi syytä keskusteluhistorian katseluun” (Require reason for viewing transcript).
 3. Tallenna.
 
@@ -113,9 +121,9 @@ Vastaukset ladataan lajiteltuna alku- ja loppukyselyvastauksiin. Voit myös suod
 Haluatko selvittää tilastot kootusti kuukausittain? Tee näin:
 
 1. Valitse ajanjaksoksi yksi tai useampi kuukausi
-2. Valitse tarkastelujakson tarkkuudeksi _kuukausi_ 
+2. Valitse tarkastelujakson tarkkuudeksi _kuukausi_&#x20;
 
-Näet nyt kuvaajat kuukausittain ryhmiteltynä ja kuukauden tarkkuudella. Näet, paljonko tunnisteita kuukauden aikana on lisätty ja paljonko keskusteluja agentit ovat käyneet kuukaudessa. 
+Näet nyt kuvaajat kuukausittain ryhmiteltynä ja kuukauden tarkkuudella. Näet, paljonko tunnisteita kuukauden aikana on lisätty ja paljonko keskusteluja agentit ovat käyneet kuukaudessa.&#x20;
 
 Lisäksi näet kootusti kaikkien asiakaskeskustelujen määrät, pituudet ja arviot kuukauden ajalta. Laajentamalla kuukauden keskustelut näkyviin (klikkaa kuukausiriviä), saat listan kaikista kuukauden ajalta käydyistä keskusteluista ja voit esim. nopeasti tarkistaa kaikki negatiivisen arvosanan saaneet keskustelut.\
 Tällä tavoin löydät helposti ongelmatapaukset ja voit puuttua niihin tarvittaessa, ja näin parantaa palveluasi.
