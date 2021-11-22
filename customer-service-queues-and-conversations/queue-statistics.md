@@ -8,8 +8,18 @@ description: >-
 
 ## Statics view
 
-Go to queue statistics by clicking the arrow icon next to the queue name in the Sidebar and selecting _Queue statistics_. (Requires organization operator rights.)\
-You can access statistics also from Organization settings, on _Queues _tab.
+![Example charts that represent statistics](<../.gitbook/assets/stats3 (3).png>)
+
+### Opening statistics view
+
+Viewing statistics tequires organization operator rights. Go to queue statistics view:
+
+A) Click arrow icon next to the queue name in the Sidebar and select _Queue statistics_. (Queus where you are an agent)\
+B) Access statistics of every queues from Organization settings, on _Queues _tab.
+
+![Go to statistics view from sidebar or from organization settings](../.gitbook/assets/statistics-open-en.png)
+
+### Features
 
 In statistics you can view chat histories, tags, user satisfaction, questionnaire responses, and metadata. Statistics run almost in real time, updated within an hour or so. Customer agents are able to add tags for six hours after conversation has ended, and statistics will update during this time period.
 
@@ -25,17 +35,15 @@ The statistics page consists of:
 * Agent statistics
 * Daily statistics and chat history
 
-### Selections
+## Selections
 
 ![](../.gitbook/assets/stats-bar.png)
 
-| Time period                                                                          | Examine and Export                                                                      | Review interval                                                                       |
+| **Time period**                                                                      | **Examine and Export**                                                                  | **Review interval**                                                                   |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Select wanted examination period for the statistics. (Select the desired time zone.) | Download the statistics as a CSV file. View chat history. View questionnaire responses. | Choose how statistics are sort to review the statistics in: Hourly / Daily / Monthly. |
 
 ## Charts
-
-![Example charts that represent statistics](<../.gitbook/assets/stats3 (3).png>)
 
 The charts give you a quick overview of events. You can view:
 
@@ -52,13 +60,13 @@ A customer's arrival in the queue is called a request:
 
 ## Tag specific statistics <a href="merkintakohtaiset-tilastot" id="merkintakohtaiset-tilastot"></a>
 
-![](<../.gitbook/assets/stats-tags (1).png>)
+![Tags usage](<../.gitbook/assets/stats-tags (1).png>)
 
 You can view statistics by annotation (tags). This will help you review what kind of things or services are popular and take time from customer service, as well as what kind of topics the ratings are given by customers.
 
 ## Customer service specific statistics
 
-![](../.gitbook/assets/stats4.png)
+![Customer agent statistics](../.gitbook/assets/stats4.png)
 
 You will see a personal overview of each customer service agent, in the selected time period. The average rating ranges from 0.0 to 1.0.
 
