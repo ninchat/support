@@ -42,13 +42,13 @@ Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi
 
 ![](<../.gitbook/assets/invite (1).png>)
 
-## Yksityiskeskustelut tiimiläisten kesken <a href="yksityiskeskustelut-tiimilaisten-kesken" id="yksityiskeskustelut-tiimilaisten-kesken"></a>
+## Yksityiskeskustelut tiimiläisten kesken <a href="#yksityiskeskustelut-tiimilaisten-kesken" id="yksityiskeskustelut-tiimilaisten-kesken"></a>
 
 {% content-ref url="yksityiskeskustelut.md" %}
 [yksityiskeskustelut.md](yksityiskeskustelut.md)
 {% endcontent-ref %}
 
-## Viestien ja tiedostojen lähettäminen <a href="viestien-ja-tiedostojen-lahettaminen" id="viestien-ja-tiedostojen-lahettaminen"></a>
+## Viestien ja tiedostojen lähettäminen <a href="#viestien-ja-tiedostojen-lahettaminen" id="viestien-ja-tiedostojen-lahettaminen"></a>
 
 Kirjoita viestit tekstikenttään keskustelun alla. Tekstikenttä kasvaa pidempää viestiä kirjoitettaessa. Lähetä viesti klikkaamalla nuoli-kuvaketta tai näppäimistön \[Enter]-painiketta. Mikäli haluat tehdä viestiin rivinvaihdon, klikkaa näppäimistöltä \[Shift] + \[Enter].
 
@@ -99,8 +99,4 @@ Kanava on olemassa niin kauan kuin sillä on jäseniä. Mikäli viimeinen / aino
 
 {% content-ref url="../yleisia-vinkkeja/kayttoliittyman-esittely.md" %}
 [kayttoliittyman-esittely.md](../yleisia-vinkkeja/kayttoliittyman-esittely.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
