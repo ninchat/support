@@ -22,15 +22,15 @@ Asiakasjonot näkyvät vasemman laidan sivupalkissa. Klikkaamalla jonon nimeä s
 
 ## Asiakasjonon tilat
 
-Asiakasjono näkyy sivupalkissa joko: 
+Asiakasjono näkyy sivupalkissa joko:&#x20;
 
 * Punainen pallo - jono on suljettu
-* Vihreä pallo - jono on avattu 
+* Vihreä pallo - jono on avattu&#x20;
 * Sininen huomioväri - jonossa on asiakas odottamassa
 
 Sivupalkissa, jono nimen vieressä näet kellon, joka kertoo miten kauan (ensimmäinen) jonottaja on odottanut jonossa. Mikäli odotusaika on venynyt yli yhden tunnin, aika muuttuu ∞ ääretön-kuvakkeeksi.
 
-Jos tietokoneen kello jää siirtämättä oikein kesä/talviaikaan siirryttäessä, jonotusaika voi näkyä väärin (∞). 
+Jos tietokoneen kello jää siirtämättä oikein kesä/talviaikaan siirryttäessä, jonotusaika voi näkyä väärin (∞).&#x20;
 
 ![Asiakasjono sivupalkissa: Suljettu (punainen), avattu (vihreä), asiakas jonossa (sininen)](../.gitbook/assets/queue-status-activity-fi.png)
 
@@ -58,7 +58,7 @@ Sivupalkissa, jonon nimen vieressä olevaa nuoli-ikonia klikkaamalla voit avata 
 [jonon-ajastaminen.md](jonon-ajastaminen.md)
 {% endcontent-ref %}
 
-## Asiakaskeskustelu-näkymä <a href="asiakaskeskustelu-nakyma" id="asiakaskeskustelu-nakyma"></a>
+## Asiakaskeskustelu-näkymä <a href="#asiakaskeskustelu-nakyma" id="asiakaskeskustelu-nakyma"></a>
 
 ![Asiakaskeskustelu-näkymä](../.gitbook/assets/customerchat-start.png)
 
@@ -76,7 +76,13 @@ Osa kerrotuista toiminnoista näkyy vain jos ne otettu käyttöön.
 [asiakaskeskustelun-lopettaminen.md](asiakaskeskustelun-lopettaminen.md)
 {% endcontent-ref %}
 
-## Jonon käsittelijöiden hallinta <a href="jonon-kasittelijoiden-hallinta" id="jonon-kasittelijoiden-hallinta"></a>
+#### Onko chatin toimintopalsta hukassa?
+
+{% content-ref url="../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md" %}
+[ongelmat-kayttoliittymassa.md](../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md)
+{% endcontent-ref %}
+
+## Jonon käsittelijöiden hallinta <a href="#jonon-kasittelijoiden-hallinta" id="jonon-kasittelijoiden-hallinta"></a>
 
 Jonon käsittelijöiden lisäämisestä ja hallinnoinnista kerrotaan Organisaatio-osiossa.
 

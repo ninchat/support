@@ -4,7 +4,7 @@ description: Ninchat.com-näkymän esittely
 
 # Käyttöliittymän esittely
 
-## Yleisnäkymä ja tiimikanava <a href="yleisnakyma-ja-tiimikanava" id="yleisnakyma-ja-tiimikanava"></a>
+## Yleisnäkymä ja tiimikanava <a href="#yleisnakyma-ja-tiimikanava" id="yleisnakyma-ja-tiimikanava"></a>
 
 Ninchatin käyttöliittymä näkyy joko suomeksi tai englanniksi sen mukaan, mikä kieli web-selaimessasi on käytössä.
 
@@ -95,16 +95,16 @@ Klikkaamalla nuolta nimesi vieressä saat avattua käyttäjävalikon, jonka kaut
 * Näyttää/piilottaa Suodatuskentän
 * Kirjautua ulos palavelusta
 
-### Suodatus/hakukenttä <a href="suodatus-haku-kentta" id="suodatus-haku-kentta"></a>
+### Suodatus/hakukenttä <a href="#suodatus-haku-kentta" id="suodatus-haku-kentta"></a>
 
 ![Suodatus/hakukenttä](<../.gitbook/assets/sidebar-menus-5 (1).png>)
 
-Mikäli sinulla on iso määrä kanavia ja keskusteluita Sidebarissa, voit suodattaa niitä nimen perusteella, ja löytää haluamasi keskustelut nopeammin. 
+Mikäli sinulla on iso määrä kanavia ja keskusteluita Sidebarissa, voit suodattaa niitä nimen perusteella, ja löytää haluamasi keskustelut nopeammin.&#x20;
 
 Kirjoita hakemasi keskustelun tai käyttäjän nimi tai osa siitä, ja keskustelulistan sisältö rajataan näihin.\
 Näytä kaikki keskustelut jälleen poistamalla hakuteksti kirjoituskentästä.
 
-## Kirjoituskenttä ja keskustelun sivupalkki <a href="kirjoituskentta-ja-keskustelun-sivupalkki" id="kirjoituskentta-ja-keskustelun-sivupalkki"></a>
+## Kirjoituskenttä ja keskustelun sivupalkki <a href="#kirjoituskentta-ja-keskustelun-sivupalkki" id="kirjoituskentta-ja-keskustelun-sivupalkki"></a>
 
 ![](../.gitbook/assets/textarea.png)
 
@@ -118,6 +118,12 @@ Kanavan operaattorit voivat listan kautta kutsua uusia jäseniä, sekä antaa k�
 ![](../.gitbook/assets/customer-menu.png)
 
 Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksista. Sivupalkissa voidaan näyttää metatietoja, muistiinpanokenttä, valmisviestit ja tägit.
+
+#### Onko kanavan jäsenlista tai toimintopalsta hukassa?
+
+{% content-ref url="ongelmat-kayttoliittymassa.md" %}
+[ongelmat-kayttoliittymassa.md](ongelmat-kayttoliittymassa.md)
+{% endcontent-ref %}
 
 ## Asiakasjononäkymä
 
