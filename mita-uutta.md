@@ -12,7 +12,7 @@ Ninchat on kytkettävissä suomi.fi-tunnistautumiseen, jonka avulla organisaatio
 
 #### Ennen asiointia tehtävä tunnistautuminen
 
-Ennen chatin tai vastaanoton ailla verloittamista asiakasta pyydetään tunnistautumaan suomi.fi-palvelussa. Asiakas kirjautuu palveluun omkkopankkitunnuksillaan tai mobiilivarmenteella. Onnistuneen tunnistautumisen jälkeen asiakas ohjataan chattiin tai vastaanotolle.
+Ennen chatin tai vastaanoton aloittamista asiakasta pyydetään tunnistautumaan suomi.fi-palvelussa. Asiakas kirjautuu palveluun verkkopankkitunnuksillaan tai mobiilivarmenteella. Onnistuneen tunnistautumisen jälkeen asiakas ohjataan chattiin tai vastaanotolle.
 
 ![](.gitbook/assets/tunnistautuminen-ennen-asiointia-final.jpg)
 
@@ -34,9 +34,9 @@ Tapahtumaloki-sivulla voit jättää kommentin yhteydenottoviestiin kertoaksesi,
 
 Kommenttia voidaan päivittää. Viimeisin kommentti jää aina näkyviin lokisivulle.
 
-![Kommentin kirjoittaminen ja tallentaminen](.gitbook/assets/yhtotto_kommentointi1.png)
+![Kommentin kirjoittaminen ja tallentaminen](.gitbook/assets/yhtotto\_kommentointi1.png)
 
-![Lisätty kommentti](.gitbook/assets/yhtotto_kommentointi2.png)
+![Lisätty kommentti](.gitbook/assets/yhtotto\_kommentointi2.png)
 
 ### Keskusteluhistorian avaamisen syyn kysely
 
@@ -80,7 +80,7 @@ Lue lisää videopuheluista ja ruudunjaosta:
 
 ## 15.4.2020
 
-### Asiakkaan jonotusajan näyttäminen 
+### Asiakkaan jonotusajan näyttäminen&#x20;
 
 * Jonotusaika näytetään sivupalkissa kunkin jonon osalta. Mikäli jonotusaika on yli tunnin, ajan sijaan näytetään ∞ (ääretön) -symboli.
 
@@ -94,11 +94,11 @@ Lue lisää videopuheluista ja ruudunjaosta:
 
 ## 29.10.2019
 
-### Alkukyselyn kenttien automaattinen täyttäminen 
+### Alkukyselyn kenttien automaattinen täyttäminen&#x20;
 
-* Chatin alkukyselyn kenttiä on mahdollista täyttää valmiiksi asiakasjärjestelmän tietojen pohjalta. Valmiiksi täytetyt kentät voivat myös olla loppuaiakkaalta piilotettuja.
+* Chatin alkukyselyn kenttiä on mahdollista täyttää valmiiksi asiakasjärjestelmän tietojen pohjalta. Valmiiksi täytetyt kentät voivat myös olla loppuasiakkaalta piilotettuja.
 
-### Keskustelun automaattinen tägäys (merkitseminen) esitietojen pohjalta 
+### Keskustelun automaattinen tägäys (merkitseminen) esitietojen pohjalta&#x20;
 
 * Keskustelu voidaan tägätä automaattisesti loppuasiakkaan alkukyselyvalintojen ja -vastausten perusteella, tai valmiiksi täytettyjen kenttien perusteella.
 
