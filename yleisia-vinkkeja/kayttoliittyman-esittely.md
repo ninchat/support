@@ -35,15 +35,15 @@ Huomaa, että sinun ei tule poistua tiimikanavilta esim. kirjautuessasi ulos.
 
 ![Sidebarin osiot](../.gitbook/assets/sidebar.png)
 
-| Osio                    | Toiminta                                                                 |
-| ----------------------- | ------------------------------------------------------------------------ |
-| 1) Organisaatiot        | Organisaatiosetukset, sekä organisaation vaihto mikäli kuulut useampaan. |
-| 2) Tapahtumat           | Kootusti kaikki sinua koskevat uudet tapahtumat Ninchatissa              |
-| 3) Suodatus             | Suodatus/haku-palkissa voi rajata keskusteluja nimen perusteella         |
-| 4) Jonot                | Asiakasjonot, joista asiakkaat poimitaan                                 |
-| 5) Kanavat              | Sisäiset tiimikanavat (ja julkiset ryhmäkeskustelut)                     |
-| 6) Asiakas-keskustelut  | Asiakaskeskustelut, jotka on poimittu jonoista                           |
-| 7) Yksityis-keskustelut | Sisäiset, kahdenväliset yksityiskeskustelut tiimiläisten kanssa          |
+| Osio                   | Toiminta                                                                 |
+| ---------------------- | ------------------------------------------------------------------------ |
+| 1) Organisaatiot       | Organisaatiosetukset, sekä organisaation vaihto mikäli kuulut useampaan. |
+| 2) Tapahtumat          | Kootusti kaikki sinua koskevat uudet tapahtumat Ninchatissa              |
+| 3) Suodatus            | Suodatus/haku-palkissa voi rajata keskusteluja nimen perusteella         |
+| 4) Jonot               | Asiakasjonot, joista asiakkaat poimitaan                                 |
+| 5) Kanavat             | Sisäiset tiimikanavat (ja julkiset ryhmäkeskustelut)                     |
+| 6) Asiakaskeskustelut  | Asiakaskeskustelut, jotka on poimittu jonoista                           |
+| 7) Yksityiskeskustelut | Sisäiset, kahdenväliset yksityiskeskustelut tiimiläisten kanssa          |
 
 {% hint style="info" %}
 Organisaatiovalikosta löytyy omien organisaatioittesi lisäksi ns. vapaa alue (Public). Tänne voivat kaikki Ninchatin käyttäjät luoda kanavia. Älä luo organisaatiosi kanavia Public-alueelle!
