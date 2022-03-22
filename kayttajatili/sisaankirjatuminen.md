@@ -30,6 +30,8 @@ Ninchat-tunnuksena toimii sähköpostiosoitteesi, jolla olet rekisteröitynyt. K
 
 Seuraavaksi kirjoita salasanasi. Salasana piilotetaan ja näkyy pisteinä. Voit katsoa ja tarkistaa salasanan oikeinkirjoituksen klikkaamalla kentässä näkyvää silmä-kuvaketta.
 
+Kirjoitettuasi salasanan, klikkaa _Kirjaudu_ päästäksesi sisään.
+
 ### Kirjautumisen muistaminen
 
 Mikäli käytät Ninchatia omalla koneellasi (etkä julkisella tai jaetulla koneella), ruksaa kohta _"Muista minut tällä laitteella"._ Näin sinun ei tarvitse jokaisella kerralla kirjoittaa tunnusta ja salasanaa vaan sinut kirjataan automaattisesti sisään.
@@ -44,4 +46,12 @@ Mikäli et muista salasanaasi, voit tilata resetointilinkin tunnus-sähköpostio
 
 {% content-ref url="../yleisia-vinkkeja/unohtunut-salasana.md" %}
 [unohtunut-salasana.md](../yleisia-vinkkeja/unohtunut-salasana.md)
+{% endcontent-ref %}
+
+## Virhetilanteet kirjautumisessa
+
+Mikäli kirjautumisessa on ongelmia, löydät ohjeita yleisiin virhetilanteisiin täältä:
+
+{% content-ref url="../yleisia-vinkkeja/ongelmat-kirjautumisessa.md" %}
+[ongelmat-kirjautumisessa.md](../yleisia-vinkkeja/ongelmat-kirjautumisessa.md)
 {% endcontent-ref %}
