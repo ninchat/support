@@ -10,7 +10,7 @@ Customer audiences may include answers from pre-audience questionnaire, and meta
 
 Agents can utilize canned messages and they can and tags and notes to the conversation.
 
-## Queue bar and Queue event log <a href="asiakasjonopalkki-ja-nakyma" id="asiakasjonopalkki-ja-nakyma"></a>
+## Queue bar and Queue event log <a href="#asiakasjonopalkki-ja-nakyma" id="asiakasjonopalkki-ja-nakyma"></a>
 
 Customer care queues appear in the left Sidebar. Clicking a queue bar  will open the queue view, which can be used to pick incoming customers from the queue and view activity log. The queue activity log shows different events of the queue i.e. when the queue was opened and closed, and who picked customers (accepted audience).
 
@@ -20,7 +20,7 @@ Customer care queues appear in the left Sidebar. Clicking a queue bar  will open
 [picking-customer-from-queue.md](picking-customer-from-queue.md)
 {% endcontent-ref %}
 
-## Customer queue states <a href="asiakasjonon-tilat" id="asiakasjonon-tilat"></a>
+## Customer queue states <a href="#asiakasjonon-tilat" id="asiakasjonon-tilat"></a>
 
 Customer queue is shown in Sidebar with
 
@@ -38,8 +38,8 @@ Clicking the arrow icon next to a queue name in the Sidebar will open a drop-dow
 
 * Open Queue activity log _(click queue name)_
 * Pick person from queue
-* Queue settings_ (requires organization operator rights)_
-* Queue statistics_ (requires organization operator rights)_
+* Queue settings _(requires organization operator rights)_
+* Queue statistics _(requires organization operator rights)_
 * Open/Close queue
 
 ### **Opening and closing queue**

@@ -18,11 +18,11 @@ Click the agent row in the user list to open a new view where you can.&#x20;
 * Give/revoke operator status of the agent.
 * Remove membership - Remove the user from all the queues and the organization. The agent must be removed from each team channel separately through the channel member list.
 
-See the article _"How to add agent to queue?" _for more information.
+See the article _"How to add agent to queue?"_ for more information.
 
 ![Organization member list](<../.gitbook/assets/organization-organization (1).png>)
 
-### Search for organization agents <a href="organisaation-jasenten-haku" id="organisaation-jasenten-haku"></a>
+### Search for organization agents <a href="#organisaation-jasenten-haku" id="organisaation-jasenten-haku"></a>
 
 If your organization has a large number of agents, the user list is divided into several pages.
 

@@ -60,9 +60,9 @@ Use the verification link only once.
 
 Sign in to Ninchat in [http://ninchat.com/app](http://ninchat.com/app)
 
-## User settings <a href="kayttajaasetukset" id="kayttajaasetukset"></a>
+## User settings <a href="#kayttajaasetukset" id="kayttajaasetukset"></a>
 
-### 1. User profile <a href="1-kayttajaprofiili" id="1-kayttajaprofiili"></a>
+### 1. User profile <a href="#1-kayttajaprofiili" id="1-kayttajaprofiili"></a>
 
 Click on the arrow next to your name in bottom left corner. From the opening menu choose _Asetukset ja profiili/Settings and profile_.
 
@@ -128,7 +128,7 @@ If you have received _operator rights in your organization_ you can open and clo
 
 ![Pick the customer from queue. You can see the queue time and you can pick the customer from the menu. ](<../.gitbook/assets/sidebar-queue-bar-customer-fi (3).png>)
 
-### Customer chat view <a href="asiakaskeskustelunakyma" id="asiakaskeskustelunakyma"></a>
+### Customer chat view <a href="#asiakaskeskustelunakyma" id="asiakaskeskustelunakyma"></a>
 
 ![](<../.gitbook/assets/Customer Chat Agent View (1).png>)
 
@@ -187,11 +187,11 @@ Read more:
 [moderating-channel.md](../public-group-discussions/moderating-channel.md)
 {% endcontent-ref %}
 
-## Tips <a href="vinkkeja" id="vinkkeja"></a>
+## Tips <a href="#vinkkeja" id="vinkkeja"></a>
 
 ### Canned messages
 
-From the user settings you can add canned messages that speed up and ease your work when answering to customers. Read more on page _User settings _section _Canned messages_.
+From the user settings you can add canned messages that speed up and ease your work when answering to customers. Read more on page _User settings_ section _Canned messages_.
 
 {% content-ref url="../user-account/user-settings-and-profile.md" %}
 [user-settings-and-profile.md](../user-account/user-settings-and-profile.md)

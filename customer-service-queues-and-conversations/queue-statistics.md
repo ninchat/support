@@ -15,7 +15,7 @@ description: >-
 Viewing statistics tequires organization operator rights. Go to queue statistics view:
 
 A) Click arrow icon next to the queue name in the Sidebar and select _Queue statistics_. (Queus where you are an agent)\
-B) Access statistics of every queues from Organization settings, on _Queues _tab.
+B) Access statistics of every queues from Organization settings, on _Queues_ tab.
 
 ![Go to statistics view from sidebar or from organization settings](../.gitbook/assets/statistics-open-en.png)
 
@@ -58,7 +58,7 @@ A customer's arrival in the queue is called a request:
 * Accepted request: Customer is picked from queue by an agent.
 * Dropped request: Customer is not picked from queue.
 
-## Tag specific statistics <a href="merkintakohtaiset-tilastot" id="merkintakohtaiset-tilastot"></a>
+## Tag specific statistics <a href="#merkintakohtaiset-tilastot" id="merkintakohtaiset-tilastot"></a>
 
 ![Tags usage](<../.gitbook/assets/stats-tags (1).png>)
 

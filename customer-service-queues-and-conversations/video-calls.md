@@ -4,7 +4,7 @@ description: Video calls in sustomer chats
 
 # Video calls
 
-## General <a href="general" id="general"></a>
+## General <a href="#general" id="general"></a>
 
 Video call can be used in customer conversations when text messages and attachments are not enough.&#x20;
 
@@ -12,7 +12,7 @@ The feature must be enabled for your customer queue by Ninchat admin. Ask us mor
 
 Before you start taking video calls, test your equipment (camera & audio devices, web browser, connection) compatibility and functionality with Ninchat Video Call Test Tool. [Open Video Call Test tool](https://ninchat.com/videotest)
 
-## Video call view <a href="videocallview" id="videocallview"></a>
+## Video call view <a href="#videocallview" id="videocallview"></a>
 
 Once started, video call appears above the conversation. Both the agent and the customer can later expand the video call to full screen, with the conversation displayed on the right side instead. (Allow your browser to view Ninchat video call in full screen.)
 
@@ -86,7 +86,7 @@ Depending on your browser, you can either share your entire screen, or a single 
 
 ![Start screen sharing](<../.gitbook/assets/video-call-settings-screenshare-settings (1).jpg>)
 
-### Video call support in different browsers <a href="video-call-support" id="video-call-support"></a>
+### Video call support in different browsers <a href="#video-call-support" id="video-call-support"></a>
 
 | Platform/Operating system            | Supported browsers                                                                      |
 | ------------------------------------ | --------------------------------------------------------------------------------------- |
@@ -140,7 +140,7 @@ Internet Explorer does not support video calls. Please use Chrome or Firefox bro
 
 > Some USB devices like Jabra may require changing USB port.
 
-#### **"Camera or microphone use prevented: You may have denied usage of webcam or microphone from the web browser, or y**our device has prevented using the camera or microphone overall**." **
+#### **"Camera or microphone use prevented: You may have denied usage of webcam or microphone from the web browser, or y**our device has prevented using the camera or microphone overall**."**&#x20;
 
 > One must allow webcam and microphone in your web browser for every site. During first video call browser automatically asks for permission. If you have denied the permission, you can later allow it by clicking lock icon in the browser address bar.
 
@@ -160,6 +160,6 @@ Internet Explorer does not support video calls. Please use Chrome or Firefox bro
 >
 > Restarting web browser may also help.
 
-#### Error message: "Video chat declined, they are busy" when trying to start a video call. <a href="aani-kiertaa-tai-kaikuu" id="aani-kiertaa-tai-kaikuu"></a>
+#### Error message: "Video chat declined, they are busy" when trying to start a video call. <a href="#aani-kiertaa-tai-kaikuu" id="aani-kiertaa-tai-kaikuu"></a>
 
 > This error message is displayed if the recipient is already in a video call, or they have an earlier video call invite open and un-accepted. Ask recipient to close video call view, and invite them again to a video call.

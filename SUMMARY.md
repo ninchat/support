@@ -15,6 +15,7 @@
   * [Ninchat invitation](user-account/ninchat-invitation.md)
   * [Create new account](user-account/create-account.md)
   * [User settings and profile](user-account/user-settings-and-profile.md)
+  * [Sign-in](user-account/sign-in.md)
   * [Remove user account](user-account/remove-user-account.md)
 * [Organization](organization/README.md)
   * [Manage organization members](organization/managing-organization-members.md)
@@ -50,15 +51,14 @@
   * [Moderating a channel](public-group-discussions/moderating-channel.md)
   * [Save chat history](public-group-discussions/save-chat-history.md)
 
-## Operator <a id="operaattorit"></a>
+## Operator <a href="#operaattorit" id="operaattorit"></a>
 
 * [Instructions for operators](operaattorit/instructions-for-operators.md)
 
-## Customer advisor <a id="asiakasneuvojat"></a>
+## Customer advisor <a href="#asiakasneuvojat" id="asiakasneuvojat"></a>
 
 * [Getting started - Agents](asiakasneuvojat/getting-started-agents.md)
 
 ## Developers
 
 * [For Developers](developers/for-developers.md)
-

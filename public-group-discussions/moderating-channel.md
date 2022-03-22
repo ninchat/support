@@ -15,7 +15,7 @@ Once you have been granted moderator rights, please refresh the page for the cha
 {% endhint %}
 
 {% hint style="warning" %}
-### Do not use moderator rights unnecessarily <a href="ala-pida-moderaattorioikeuksia-turhaan-kaytossa" id="ala-pida-moderaattorioikeuksia-turhaan-kaytossa"></a>
+### Do not use moderator rights unnecessarily <a href="#ala-pida-moderaattorioikeuksia-turhaan-kaytossa" id="ala-pida-moderaattorioikeuksia-turhaan-kaytossa"></a>
 
 Moderator rights should not be held to no purpose, especially on private team channels. So that e.g. moderator will not accidentally hide messages or delete users from the channel.
 {% endhint %}
@@ -54,11 +54,11 @@ The tools for moderating comments during conversations appear when you hover ove
 
 | Tool                                                                         | Function                                                                                                                      |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/mod1.png)** Hide message**                            | Hide this message from other users.                                                                                           |
+| ![](../.gitbook/assets/mod1.png) **Hide message**                            | Hide this message from other users.                                                                                           |
 | ![](../.gitbook/assets/unhide-message.png) **Show message**                  | Show the hidden message.                                                                                                      |
-| ![](../.gitbook/assets/mod2.png)** Silence user**                            | This user is muted for now.                                                                                                   |
-| ![](../.gitbook/assets/mod3.png)** Silence this user for time being**        | This user is muted for the selected period of time (after that he/she can write again).                                       |
-| ![](../.gitbook/assets/mod4.png)** Hide all messages from this user**        | All messages from this user will be hidden from other users.                                                                  |
+| ![](../.gitbook/assets/mod2.png) **Silence user**                            | This user is muted for now.                                                                                                   |
+| ![](../.gitbook/assets/mod3.png) **Silence this user for time being**        | This user is muted for the selected period of time (after that he/she can write again).                                       |
+| ![](../.gitbook/assets/mod4.png) **Hide all messages from this user**        | All messages from this user will be hidden from other users.                                                                  |
 | ![](../.gitbook/assets/mod5.png) **Toggle hide new messages from this user** | New messages from this user will be hidden/ shown as standard (moderators can manually hide/ show each message individually). |
 
 ### User menu

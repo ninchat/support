@@ -4,7 +4,7 @@ description: Customer chat configurations
 
 # Site configurations
 
-## Overview <a href="yleista" id="yleista"></a>
+## Overview <a href="#yleista" id="yleista"></a>
 
 The Organization settings, _Sites_ tab, is where the settings, texts, translations, and styles, for the customer service chats and public group chats, are defined. To access the configuration, go to your organization settings and select the _Sites_ tab.
 
@@ -30,7 +30,7 @@ Click the pencil icon on the right to open the configuration.
 
 ### Site editor
 
-In the edit view, you will see editable texts and translations (along with otherchat settings). You can edit green plain language texts as you like. HTML elements such as _\<p>\</p> _(paragraph) and _\<br>_ (line break) may appear in the texts. Do not edit blue keyword phrases on the left!
+In the edit view, you will see editable texts and translations (along with otherchat settings). You can edit green plain language texts as you like. HTML elements such as _\<p>\</p>_ (paragraph) and _\<br>_ (line break) may appear in the texts. Do not edit blue keyword phrases on the left!
 
 In multilingual implementation, different languages have their own text elements.
 
@@ -76,7 +76,7 @@ When you click to save settings, the editor checks that the configuration struct
 
 After saving you can close organization settings.
 
-## Disabling chat <a href="chatin-ottaminen-pois-kaeytosta" id="chatin-ottaminen-pois-kaeytosta"></a>
+## Disabling chat <a href="#chatin-ottaminen-pois-kaeytosta" id="chatin-ottaminen-pois-kaeytosta"></a>
 
 You can disable the customer service chat completely by disabling the site configuration. In the edit view, click the "Disable" button. The configuration will then appear in the list with the status - Disabled. You can enable the chat again by clicking the "Enable" button in the edit view.
 

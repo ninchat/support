@@ -40,7 +40,7 @@ Channel moderator rights are set for experts and visitors as well as those who m
 
 Click the name of the person you want to grant the rights in the member list and select "Give moderator rights" from the menu.
 
-### Moderator user settings <a href="moderaattorin-kayttajaasetukset" id="moderaattorin-kayttajaasetukset"></a>
+### Moderator user settings <a href="#moderaattorin-kayttajaasetukset" id="moderaattorin-kayttajaasetukset"></a>
 
 **Important!** It is useful to make the messages hidden by a moderator visible to that moderator, so that it can still be edited if necessary. Follow these steps:
 
@@ -59,12 +59,12 @@ Click the name of the person you want to grant the rights in the member list and
 * Click "Save" at the bottom of the page.
 * Close the menu from the same place where you opened it (click the channel name settings and select "Close").
 
-## Schedule a group chat channel <a href="ryhmachat-kanavan-ajastaminen" id="ryhmachat-kanavan-ajastaminen"></a>
+## Schedule a group chat channel <a href="#ryhmachat-kanavan-ajastaminen" id="ryhmachat-kanavan-ajastaminen"></a>
 
 The public group chat channel can be scheduled to open and close automatically.\
 See more in [Team channels > How to edit channel settings? > Channel schedule](https://ninchat.gitbook.io/ninchat-support/tiimikanavat/kanavan-asetukset#kanavan-aikataulu).
 
-## How visitors show up on the channel <a href="keskustelijoiden-nakyminen-kanavalla" id="keskustelijoiden-nakyminen-kanavalla"></a>
+## How visitors show up on the channel <a href="#keskustelijoiden-nakyminen-kanavalla" id="keskustelijoiden-nakyminen-kanavalla"></a>
 
 Visitors don't show up in the channel's member list until they have participated in the conversation and written a comment and simultaneously given themselves a name/nickname. This applies when _Who can read messages_ setting is _Everybody may follow anonymously, history available since \[date & time]_.
 
@@ -75,7 +75,7 @@ If you want silent participants to show up on the channel right away after they 
 | Everybody may follow anonymously, history available since \[date & time] | Visitors don't show up in the member list until they have participated in the conversation and written a comment |
 | Channel members, history available since \[date & time]                  | Visitors show up on the member list after join nameless, and with name after their first comment                 |
 
-## Close a group chat <a href="ryhmachatin-sulkeminen" id="ryhmachatin-sulkeminen"></a>
+## Close a group chat <a href="#ryhmachatin-sulkeminen" id="ryhmachatin-sulkeminen"></a>
 
 You can close a group chat by selecting "Close channel" in the channel menu. After that, writing new messages will be blocked and the text filed will show a Channel closed text. You can change the Channel closed text if you want. See: How to edit channel settings? > Channel closed text.
 
@@ -83,9 +83,9 @@ You can close a group chat by selecting "Close channel" in the channel menu. Aft
 [channel-settings.md](../team-channels/channel-settings.md)
 {% endcontent-ref %}
 
-#### Channel closed message showing <a href="kanava-suljettu-viestin-nakyminen" id="kanava-suljettu-viestin-nakyminen"></a>
+#### Channel closed message showing <a href="#kanava-suljettu-viestin-nakyminen" id="kanava-suljettu-viestin-nakyminen"></a>
 
-For the Channel closed message to show for everybody, channel setting _Who can read messages _must be set to: _"Everybody may follow anonymously..."_.\
+For the Channel closed message to show for everybody, channel setting _Who can read messages_ must be set to: _"Everybody may follow anonymously..."_.\
 Keep in mind the showing and hiding the message history, see following section.
 
 ## Hide message history
