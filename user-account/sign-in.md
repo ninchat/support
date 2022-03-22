@@ -47,3 +47,11 @@ If you forgot your password, you can order a password reset link into your email
 {% content-ref url="../general-tips/forgotten-password.md" %}
 [forgotten-password.md](../general-tips/forgotten-password.md)
 {% endcontent-ref %}
+
+## Problems with sign-in
+
+If you encounter problems while signing in, you can find answers to common questions here:
+
+{% content-ref url="../general-tips/problems-signing-in.md" %}
+[problems-signing-in.md](../general-tips/problems-signing-in.md)
+{% endcontent-ref %}
