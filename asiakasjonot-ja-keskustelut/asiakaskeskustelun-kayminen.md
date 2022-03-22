@@ -1,8 +1,8 @@
 # Asiakaskeskustelun käyminen
 
-## Keskustelun alku <a href="asiakaskeskustelun-kayminen" id="asiakaskeskustelun-kayminen"></a>
+## Keskustelun alku <a href="#asiakaskeskustelun-kayminen" id="asiakaskeskustelun-kayminen"></a>
 
-Poimittuasi asiakkaan jonosta keskustelu alkaa. 
+Poimittuasi asiakkaan jonosta keskustelu alkaa.&#x20;
 
 Asiakkaalle näytetään "Keskustelu aloitettu" -viesti. Tämä viesti ei näy agentin keskustelunäkymässä. On hyvä joka tapauksessa lähettää asiakkaalle heti tervehdys tai muu vastaava kommentti.
 
@@ -38,7 +38,7 @@ Lähetettävien tiedostojen kokoa tai formaattia ei ole rajattu.
 
 ## Asiakas-metatiedot
 
-Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää: 
+Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää:&#x20;
 
 * Salatusti sopimuskumppanin palvelimelta (secure metadata)
 * Webbisivulta keskustelun alussa ja reaaliaikaisesti keskustelun aikana
@@ -59,20 +59,20 @@ Vahvasti salattua metatietoa käytetään mm. asiakkaan tunnistautumistietojen v
 
 Asiakaspalvelijalle on mahdollista välittää sopimuskumppanin sivustolle kirjautuneen käyttäjän tiedot salatusti sopimuskumppanin palvelimelta. Myöhemmin chat-keskustelu tietoineen voidaan välittää takaisin esim. sopimuskumppanin CRM-järjestelmään ja yhdistää oikeaan käyttäjään tietojen perusteella.
 
-Kysy meiltä lisää, tai tutustu API-dokumentaatioon: 
+Kysy meiltä lisää, tai tutustu API-dokumentaatioon:&#x20;
 
 * [API - https://ninchat.com/api ](https://ninchat.com/api)
 * [Master keys & secure metadata - https://github.com/ninchat/ninchat-api/blob/v2/master.md](https://github.com/ninchat/ninchat-api/blob/v2/master.md)
 
 ### Live-metatiedot
 
-Asiakkaan toimista sivustolla on mahdollista välittää reaaliaikaista tietoa asiakaspalvelijalle  neuvomisen helpottamiseksi. Esimerkiksi asiakkaan täyttäessä lomaketta, tiedot voidaan kertoa suoraan asiakaspalvelijalle, kuten mm. jos asiakas vaihtaa sivua keskustelun aikana. 
+Asiakkaan toimista sivustolla on mahdollista välittää reaaliaikaista tietoa asiakaspalvelijalle  neuvomisen helpottamiseksi. Esimerkiksi asiakkaan täyttäessä lomaketta, tiedot voidaan kertoa suoraan asiakaspalvelijalle, kuten mm. jos asiakas vaihtaa sivua keskustelun aikana.&#x20;
 
 ![Live-asiakas-metatieto](../.gitbook/assets/metadata-live.png)
 
 ### Koottu metatieto
 
-Live-metadataa voidaan välittää asiakaspalvelijalle myös kootusti. 
+Live-metadataa voidaan välittää asiakaspalvelijalle myös kootusti.&#x20;
 
 Esim. ostoskorin sisältö ja asiakkaan toimitustiedot voidaan välittää kaikki kerralla (myös salatusti), jolloin ne näytetään kootusti keskustelun sivupalkissa.
 
@@ -84,7 +84,7 @@ Keskustelua edeltävän alkukyselyn tiedot välitetään asiakaspalvelijan kesku
 
 Myös keskustelun jälkeen esitettävän loppukyselyn vastaukset ilmestyvät metatietoihin asiakkaan suljettua chatin.
 
-Alkukyselyssä voidaan kysyä asiakkaan nimi (userName) ja viesti (message), jotka tulevat mukaan myös itse keskusteluun sivupalkin vastausnäkymän lisäksi. 
+Alkukyselyssä voidaan kysyä asiakkaan nimi (userName) ja viesti (message), jotka tulevat mukaan myös itse keskusteluun sivupalkin vastausnäkymän lisäksi.&#x20;
 
 ![Alkukyselytiedot keskustelussa](<../.gitbook/assets/customer-chat-questionnaire-data (1).png>)
 
@@ -104,9 +104,9 @@ Valmisviestit näkyvät asiakaskeskustelun sivupalkissa. Voit valita viestin kli
 
 Valmisviestejä voi käyttää myös näppäimistöltä hyväksikäyttäen niiden avainsanoja. Valmisviestit toimivat näppäimistöltä myös tiimikanavilla ja yksityiskeskusteluissa.
 
-Kirjoittamalla tekstikenttään vinoviivan \[ / ] ja valmisviestin avainsanan ja klikkaamalla \[Välilyönti]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään. 
+Kirjoittamalla tekstikenttään vinoviivan \[ / ] ja valmisviestin avainsanan ja klikkaamalla \[Välilyönti]-näppäintä, kyseinen valmisviesti ilmestyy tekstikentään.&#x20;
 
-Esimerkki: Olet asettanut valmisviestin: _avoinna _(avain): _Palvelemme arkipäivisin klo 9 - 17._ (viesti). 
+Esimerkki: Olet asettanut valmisviestin: _avoinna_ (avain): _Palvelemme arkipäivisin klo 9 - 17._ (viesti).&#x20;
 
 | Avainsana | Valmisviesti                        |
 | --------- | ----------------------------------- |
@@ -124,13 +124,13 @@ Valmisviestit ovat henkilökohtaisia ja ne luodaan omissa käyttäjäasetuksissa
 [kayttajaasetukset.md](../kayttajatili/kayttajaasetukset.md)
 {% endcontent-ref %}
 
-## Tunnisteet (tägit) <a href="tunnisteet-tagit" id="tunnisteet-tagit"></a>
+## Tunnisteet (tägit) <a href="#tunnisteet-tagit" id="tunnisteet-tagit"></a>
 
 Asiakaskeskustelut on mahdollista merkitä tunnisteilla eli ns. tägeillä keskustelun aiheen tai luonteen mukaan, esim. "myynti", "asiakkuudet", "tekninen ongelma", ... Tägäys helpottaa myöhemmin keskustelujen tilastointia sekä tarkastelua.
 
 Keskusteluja on voidaan myös merkitä automaattisesti esim. alkukyselyvastausten perusteella, joten on mahdollista, että heti keskustelun alettua siinä on jo lisättyjä tunnisteita.
 
-Käytettävät tunnisteet määritellään organisaation operaattorien toimesta. 
+Käytettävät tunnisteet määritellään organisaation operaattorien toimesta.&#x20;
 
 ### Keskustelun merkitseminen
 
@@ -149,7 +149,7 @@ Tunnisteiden luonnista ja muokkauksesta kerrotaan kohdassa _Tunnisteet_.
 
 ## Muistiinpanot (merkinnät)
 
-Merkinnät (Notes) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Merkintöjä voidaan hyödyntää myös tietojen viennissä asiakkaan omaan tietojärjestelmään. 
+Merkinnät (Notes) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Merkintöjä voidaan hyödyntää myös tietojen viennissä asiakkaan omaan tietojärjestelmään.&#x20;
 
 Merkintöjen lisäysnäkymä löytyy asiakaskeskustelun sivupalkista (mikäli merkinnät on otettu käyttöön). Tallennetut muistiinpanot näkyvät metatietojen lomassa keskustelun alussa.
 

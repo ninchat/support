@@ -15,6 +15,7 @@
   * [Ninchat-kutsun hyväksyminen](kayttajatili/ninchat-kutsun-hyvaksyminen.md)
   * [Käyttäjätilin luonti](kayttajatili/kayttajatilin-luonti.md)
   * [Käyttäjäasetukset](kayttajatili/kayttajaasetukset.md)
+  * [Sisäänkirjautuminen](kayttajatili/sisaankirjatuminen.md)
   * [Tunnuksen poistaminen](kayttajatili/tunnuksen-poistaminen.md)
 * [Organisaatio](organisaatio/README.md)
   * [Organisaation jäsenten hallinta](organisaatio/organisaation-jasenten-hallinta.md)
@@ -59,6 +60,6 @@
 
 * [Ohjeet operaattoreille](operaattorit/ohjeita-operaattoreille.md)
 
-## Kehittäjät <a href="kehittajat" id="kehittajat"></a>
+## Kehittäjät <a href="#kehittajat" id="kehittajat"></a>
 
 * [Ohjeet kehittäjille](kehittajat/ohjeet-kehittajille.md)

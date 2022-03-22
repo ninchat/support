@@ -13,9 +13,9 @@ Suosittelemme Ninchatin käyttöön [Google Chrome](https://www.google.com/chrom
 Luo uusi Ninchat tunnus kirjautumisnäkymässä [https://ninchat.com/app/](https://ninchat.com/app/)\
 Anna tiedot tunnustasi varten:
 
-* **Name: **Oma nimi tai niminerkki
-* **Email: **Käyttämäsi työpaikan/organisaation sähköpostiosoite, esim. matti.mainio@yritys.com
-* **Password: **Keksi tunnukselle vahva salasana
+* **Name:** Oma nimi tai niminerkki
+* **Email:** Käyttämäsi työpaikan/organisaation sähköpostiosoite, esim. matti.mainio@yritys.com
+* **Password:** Keksi tunnukselle vahva salasana
 
 {% hint style="info" %}
 Ole tarkka kirjoittaessasi sähköpostiosoitteesi. Sinun tulee jatkossa kirjautuessasi kirjoittaa se täsmälleen samoin, isot ja pienet kirjaimet huomioiden.
@@ -25,11 +25,11 @@ Ole tarkka kirjoittaessasi sähköpostiosoitteesi. Sinun tulee jatkossa kirjautu
 Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan löydy sanakirjasta. Käytä aina eri salanaa jokaisessa palvelussa.
 {% endhint %}
 
-Jatka klikkaamalla** **_Create account_ -nappia.
+Jatka klikkaamalla **** _Create account_ -nappia.
 
 ![](../.gitbook/assets/invite-accept-signup.png)
 
-###  <a href="verifying-account" id="verifying-account"></a>
+### &#x20;<a href="#verifying-account" id="verifying-account"></a>
 
 ## Tunnuksen vahvistaminen
 
@@ -41,9 +41,9 @@ Luotuasi tunnuksen, saat sähköpostiisi vahvistusviestin Ninchat-tunnuksen luom
 
 ![](../.gitbook/assets/verify.png)
 
-Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi ja voit kirjautua sisään! 
+Hienoa, olet nyt luonut ja vahvistanut Ninchat-tunnuksesi ja voit kirjautua sisään!&#x20;
 
-### Vahvistussähköpostia ei löydy <a href="vahvistussahkopostia-ei-loydy" id="vahvistussahkopostia-ei-loydy"></a>
+### Vahvistussähköpostia ei löydy <a href="#vahvistussahkopostia-ei-loydy" id="vahvistussahkopostia-ei-loydy"></a>
 
 Vahvistusmailin lähettämisessä voi toisinaan kulua pikku tovi. Odota siis hetki ja päivitä postilaatikkonäkymä. \
 Ellei vahvistusmaili löydy postilaatikostasi, tarkista onko se mennyt roskapostiin. Ellei maili löydy sieltäkään, voit tilata uuden Ninchatin käyttäjäasetuksistasi.

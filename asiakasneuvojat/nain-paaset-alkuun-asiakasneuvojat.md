@@ -32,13 +32,13 @@ Lisätietoa sivulla _Ninchat-kutsun hyväksyminen_:
 
 Kun olet hyväksynyt kutsun, luo itsellesi Ninchat-tunnus. (Jos sinulla on jo tunnus, kirjaudu sisään.)
 
-Anna tunnusta varten tiedot: 
+Anna tunnusta varten tiedot:&#x20;
 
 * Name: nimesi
 * Email: sähköpostiosoitteesi (huomio isot ja pienet kirjaimet)
 * Password: keksi turvallinen salasana tunnuksellesi
 
-Klikkaa _Kirjaudu _päästäksesi eteenpäin.
+Klikkaa _Kirjaudu_ päästäksesi eteenpäin.
 
 ![](<../.gitbook/assets/invite-accept-signup (2).png>)
 
@@ -64,9 +64,9 @@ Käytä vahvistuslinkkiä vain kerran.
 
 Kirjaudu Ninchatiin osoitteessa [http://ninchat.com/app](http://ninchat.com/app)
 
-## Käyttäjäasetukset <a href="kayttajaasetukset" id="kayttajaasetukset"></a>
+## Käyttäjäasetukset <a href="#kayttajaasetukset" id="kayttajaasetukset"></a>
 
-### 1. Käyttäjäprofiili <a href="1-kayttajaprofiili" id="1-kayttajaprofiili"></a>
+### 1. Käyttäjäprofiili <a href="#1-kayttajaprofiili" id="1-kayttajaprofiili"></a>
 
 Klikkaa vasemmassa alanurkassa nimesi vieressä olevaa väkäs-kuvaketta. Valitse avautuvasta valikosta _Asetukset ja profiili / Settings and profile_.
 
@@ -82,13 +82,13 @@ Tallenna tekemäsi muutokset klikkaamalla _Tallenna / Save_.
 
 ### 2. Ilmoitusasetukset
 
-Siirry asetuksissa _Ilmoitukset/Notifications_ -välilehdelle. 
+Siirry asetuksissa _Ilmoitukset/Notifications_ -välilehdelle.&#x20;
 
 Ninchat voi ilmoittaa tapahtumista ja viesteistä kolmella tavalla: äänelle, työpöytäilmoituksella ja sähköpostiviestillä. Tämän lisäksi ilmoitukset näkyvät aina Tapahtumat-laatikossa Ninchatin sivupalkissa.
 
 Mikäli et ole antanut lupaa selainilmoituksille ((työpöytäilmoitukset), salli ilmoitukset klikkaamalla _Salli/Enable_ -nappia.
 
-![](<../.gitbook/assets/user_settings_notifications (2).png>)
+![](<../.gitbook/assets/user\_settings\_notifications (2).png>)
 
 Ilmoitusasetuksissa on vakiona otettu käyttöönhyödyllisimmät ilmoitukset. Lisää tai poista halutut ilmoitukset esim. sähköpostiisi.
 
@@ -126,13 +126,13 @@ Tiimikanavan jäsenlistan kautta voit myös aloittaa kahdenvälisiä yksityiskes
 
 Kun sinut on lisätty asiakasjonojen käsittelijäksi, omat jonosi näkyvät vasemmalla sivupalkissa, josta voit poimia asiakkaita.
 
-Mikäli olet saanut _organisaation operaattori_ -oikeudet, voit myös avata ja sulkea jonon, sekä muuttaa sen asetuksia ja katsoa tilastoja. Se miten oikeuksia jaetaan ja määritellään, riippuu omasta yhteisöstäsi. 
+Mikäli olet saanut _organisaation operaattori_ -oikeudet, voit myös avata ja sulkea jonon, sekä muuttaa sen asetuksia ja katsoa tilastoja. Se miten oikeuksia jaetaan ja määritellään, riippuu omasta yhteisöstäsi.&#x20;
 
 ![Asiakasjono sivupalkissa: Suljettu (punainen), avattu (vihreä), asiakas jonossa (sininen)](../.gitbook/assets/queue-status-activity-fi.png)
 
 ![Nappaa asiakas jonossa. Näet jonotusajan ja voit valikosta napata asiakkaan ](<../.gitbook/assets/sidebar-queue-bar-customer-fi (1).png>)
 
-### Asiakaskeskustelunäkymä <a href="asiakaskeskustelunakyma" id="asiakaskeskustelunakyma"></a>
+### Asiakaskeskustelunäkymä <a href="#asiakaskeskustelunakyma" id="asiakaskeskustelunakyma"></a>
 
 ![](<../.gitbook/assets/customer-chat-agent-view (1).png>)
 
@@ -164,7 +164,7 @@ Lue lisää asiakaskeskusteluita:
 
 ### Videopuhelut
 
-Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. 
+Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä.&#x20;
 
 ![Videopuhelunäkymä ja asetukset-ikon](../.gitbook/assets/video-call-settings-button.jpg)
 
@@ -177,7 +177,7 @@ Lue lisää videopuheluista:
 
 ## Asiakas-ryhmäkeskustelut
 
-Mikäli järjestätte avoimia ryhmäkeskusteluja, jotka ovat upotettu omalle sivustollenne, tarvitsee kyseinen kanava keskustelulle moderaattorin. Ryhmäkanavan operaattorikäyttäjät voivat jakaa moderointioikeuksia agenteille. 
+Mikäli järjestätte avoimia ryhmäkeskusteluja, jotka ovat upotettu omalle sivustollenne, tarvitsee kyseinen kanava keskustelulle moderaattorin. Ryhmäkanavan operaattorikäyttäjät voivat jakaa moderointioikeuksia agenteille.&#x20;
 
 ![Moderointityökalut](<../.gitbook/assets/channel-embed-moderation (1).png>)
 
@@ -191,7 +191,7 @@ Lue lisää:
 [kanavan-moderointi.md](../julkiset-ryhmakeskustelut/kanavan-moderointi.md)
 {% endcontent-ref %}
 
-## Vinkkejä <a href="vinkkeja" id="vinkkeja"></a>
+## Vinkkejä <a href="#vinkkeja" id="vinkkeja"></a>
 
 ### Valmisviestit
 

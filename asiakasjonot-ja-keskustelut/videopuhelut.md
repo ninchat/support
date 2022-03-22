@@ -8,7 +8,7 @@ description: Asiakaskeskustelujen videopuhelut
 Videopuhelutoiminto on päivitetty uuteen versioon 15.9.2020. Päivitys näkyy mm. ulkoasun muutoksena. Katso muutokset alta.
 {% endhint %}
 
-## Yleistä <a href="yleista" id="yleista"></a>
+## Yleistä <a href="#yleista" id="yleista"></a>
 
 Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua tilanteissa, joissa tekstin ja kuvaliitteiden lähettäminen ei riitä. Videopuhelun aloittaminen voidaan sallia joko agentille, asiakkaalle, tai molemmille.
 
@@ -16,7 +16,7 @@ Ennen kuin alat järjestää videopuheluita, testaa toimivuus ja yhteensopivuus 
 \
 [Avaa Videotestityökalu](https://ninchat.com/videotest)
 
-## Videopuhelunäkymä <a href="videpuhelunakyma" id="videpuhelunakyma"></a>
+## Videopuhelunäkymä <a href="#videpuhelunakyma" id="videpuhelunakyma"></a>
 
 Videopuhelu näkyy tekstikeskustelun yläpuolella. Sekä agentti että asiakas voi halutessaan laajentaa videon koko ruudun kokoiseksi, jolloin tekstikeskustelu näkyy videon oikealla puolella. (Anna selaimelle lupa näyttää Ninchatin video koko ruudussa.)
 
@@ -45,12 +45,12 @@ Jos selain pyytää lupaa käyttää kameraa ja/tai mikrofonia, hyväksy pyyntö
 
 ### Videopuhelun asetukset ja laitevalinta
 
-Videopuhelun aluksi näytetään aina agentin oma videokuva ja äänitaso. Agentti voi myös ruudun valinnoilla piilottaa oman videokuvansa tai mykistää mikrofonin. Tarkista että sekä videokuva että ääni toimii ja klikkaa _Tallenna_. 
+Videopuhelun aluksi näytetään aina agentin oma videokuva ja äänitaso. Agentti voi myös ruudun valinnoilla piilottaa oman videokuvansa tai mykistää mikrofonin. Tarkista että sekä videokuva että ääni toimii ja klikkaa _Tallenna_.&#x20;
 
 ![Videopuhelu-asetukset](../.gitbook/assets/videocall-setup.jpg)
 
 {% hint style="info" %}
-Aloittaaksesi videopuhelu, klikkaa asetusruudussa _Tallenna_. Kutsu videopuheluun lähtee tällöin vastapuolelle. 
+Aloittaaksesi videopuhelu, klikkaa asetusruudussa _Tallenna_. Kutsu videopuheluun lähtee tällöin vastapuolelle.&#x20;
 {% endhint %}
 
 Mikäli haluat vaihtaa käytettäviä laitteita, klikkaa linkkiä: "Laitteet"
@@ -99,7 +99,7 @@ Pienennä videopuhelunäkymä klikkaamalla ![](../.gitbook/assets/video-btn-togg
 
 ### Videopuhelun lopettaminen
 
-Lopeta videokeskustelu klikkaamalla ![](<../.gitbook/assets/video-btn-end-inv2 (1).png>) punaista puhelin-kuvaketta. Tämä ei päätä chat-istuntoa, vaan ainoastaan videopuhelun. 
+Lopeta videokeskustelu klikkaamalla ![](<../.gitbook/assets/video-btn-end-inv2 (1).png>) punaista puhelin-kuvaketta. Tämä ei päätä chat-istuntoa, vaan ainoastaan videopuhelun.&#x20;
 
 ### Videoasetusten muuttaminen puhelun aikana
 
@@ -113,7 +113,7 @@ Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolel
 
 ### Ruudunjaon valinta
 
-Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun. 
+Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun.&#x20;
 
 1. Klikkaa ruudunjako-kuvaketta ![](../.gitbook/assets/video-btn-screenshare-inv.png)
 2. Valitse haluamasi välilehti: Koko näyttö / Ohjelma-ikkuna / Selain-välilehti (Koko näyttö on helpoin vaihtoehto, jos olet epävarma)
@@ -126,7 +126,7 @@ Riippuu selaimesta, voitko jakaa koko ruudun, yksittäisen sovelluksen, kuten we
 
 ![Ruudunjaon valintanäkymä](../.gitbook/assets/videocall-screensharing-setup.jpg)
 
-## Asiakkaan videopuhelunäkymät <a href="asiakkaan-videopuhelunakymat" id="asiakkaan-videopuhelunakymat"></a>
+## Asiakkaan videopuhelunäkymät <a href="#asiakkaan-videopuhelunakymat" id="asiakkaan-videopuhelunakymat"></a>
 
 Oheisesta kuvasta näet, miltä videopuhelu näyttää asiakkaan näkymässä.
 
@@ -164,12 +164,12 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 >
 > Lisäksi on varmistettava, että asiakasjonossasi on asetettu videopuhelut käyttöön.
 
-#### **"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia. ** **Chat-viestit asiakas kutienkin edelleen näkee. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
+#### **"Videoyhteys käynnistyy, katkeaa heti perään, eikä käynnisty uudestaan. Yhteys katkesi ilman virheilmoituksia.** **Chat-viestit asiakas kutienkin edelleen näkee. Olen tehnyt aiemmin onnistuneita videovastaanottoja."**
 
 > Videoyhteys muodostuu suoraan agentin ja asiakkaan välille, eli jos yhteys katkeaa voi ongelma olla jomman kumman pään verkon kuormittuneisuudessa. \
 > Tilannetta voi parantaa seuraavasti kotona: a) yhdistä kannettava tietokone verkkopiuhalla wifi-reitittimeen tai b) jos yhteys muodostuu kännykän hotspotin kautta niin aseta kännykkä ikkunan lähelle tai c) ole samassa huoneessa wifi-reitittimen kanssa.
 
->  Lisäksi mobiilisovellus voi mennä "nukkumaan" jolloin yhteys katkeaa.
+> &#x20;Lisäksi mobiilisovellus voi mennä "nukkumaan" jolloin yhteys katkeaa.
 
 > Jostain syystä asiakkaan video ei pääse "läpi". Yleensä tällaista ongelmaa ei ole mobiiliverkossa, ellei asiakkaan laitteessa ole jotain tietoturvasovelluksia tai muita jotka estävät yhteyden. Mikäli asiakas käyttää esim. työpaikan langatonta nettiä, jossa on jokin tiukka palomuuri, voi tällainen ongelma syntyä.
 >
@@ -177,7 +177,7 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 >
 > Jossain tilanteissa myös palomuuri tai viruksentorjunta-ohjelma voi estää kameran käytön.
 
-####  "**Camera or microphone use prevented: Although permission for device is granted, an error occured at the system, browser or web page which prevented access to the device."**
+#### &#x20;"**Camera or microphone use prevented: Although permission for device is granted, an error occured at the system, browser or web page which prevented access to the device."**
 
 > Virheilmoitus johtuu yleensä siitä, että jokin toinen ohjelma (kuten Skype) varaa kameran tai mikrofonin. Voit kokeilla sulkea muut ohjelmat ja käynnistää sen jälkeen selaimen uudelleen.\
 > Myös jokin tietoturvaohjelma saattaa estää kameran tai mikrofonin käytön.
@@ -186,25 +186,25 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 >
 > Jotkin USB-laitteet kuten Jabra saattavat vaatia USB-portin vaihdon.
 
-#### **"Lupaa kameran tai mikrofonin käyttöön ei saatu: Olet mahdollisesti estänyt selaimelta kameran tai mikrofonin käytön, tai laitteessasi on estetty kameran tai mikrofonin käyttö yleisesti." **
+#### **"Lupaa kameran tai mikrofonin käyttöön ei saatu: Olet mahdollisesti estänyt selaimelta kameran tai mikrofonin käytön, tai laitteessasi on estetty kameran tai mikrofonin käyttö yleisesti."**&#x20;
 
 > Selaimelle tulee antaa lupa kameran ja mikrofonin käyttöön. Ensimmäisellä kerralla selain kysyy automaattisesti luvan sallimisesta. Myöhemmin luvan voi antaa osoiterivin lukko-kuvaketta klikkaamalla.
 
 #### **"Yritän käynnistää videoyhteyden mutta kumpikaan osapuoli ei näe videokuvaa eikä tule ääniyhteyttäkään. Webkamerani toimii koska näyttää oman kuvani. Pääsemme kohtaan 'Kutsutaan videokeskusteluun. Videokeskustelu hyväksytty' mutta sitten ei vain tule yhteyttä."**
 
-> Tämän kaltaiseen ongelmaan tavallinen syy on, että jommassa kummassa (tai kummassakin) päässä palomuuri tai jokin muu tietoturvaohjelma estää videoyhteyden. Jos olet aiemmin saanut onnistuneesti videoyhteyden samalla koneella, on ongelma todennäköisemmin asiakkaan yhteydessä. 
+> Tämän kaltaiseen ongelmaan tavallinen syy on, että jommassa kummassa (tai kummassakin) päässä palomuuri tai jokin muu tietoturvaohjelma estää videoyhteyden. Jos olet aiemmin saanut onnistuneesti videoyhteyden samalla koneella, on ongelma todennäköisemmin asiakkaan yhteydessä.&#x20;
 
 **Virheilmoitus: Videokeskustelu hylätty. Puutteellinen selaintuki.**
 
-Tarkoittaa yleensä että asiakas on iOS-laitteella (iPhone/iPad) ja käyttää Chrome- tai Firefox-selainta. Applen rajoituksesta johtuen videopuhelut ei toimi iOSilla muilla selaimilla kuin Safari (sekä natiiveissa aplikaatioissa). Tietokoneella, myös Mac, video toimii muillakin selaimilla. 
+Tarkoittaa yleensä että asiakas on iOS-laitteella (iPhone/iPad) ja käyttää Chrome- tai Firefox-selainta. Applen rajoituksesta johtuen videopuhelut ei toimi iOSilla muilla selaimilla kuin Safari (sekä natiiveissa aplikaatioissa). Tietokoneella, myös Mac, video toimii muillakin selaimilla.&#x20;
 
-Tai mahdollisesti asiakas Windows-laittella Internet Explorer (IE) -selain. 
+Tai mahdollisesti asiakas Windows-laittella Internet Explorer (IE) -selain.&#x20;
 
 Ks. kohta _Videopuhelutuki eri selaimilla ja alustoilla._
 
-#### **Ääni kiertää tai kaikuu.** <a href="aani-kiertaa-tai-kaikuu" id="aani-kiertaa-tai-kaikuu"></a>
+#### **Ääni kiertää tai kaikuu.** <a href="#aani-kiertaa-tai-kaikuu" id="aani-kiertaa-tai-kaikuu"></a>
 
-> Chrome-selaimessa on paras kaiunpoisto, joten käytä mieluusti sitä. 
+> Chrome-selaimessa on paras kaiunpoisto, joten käytä mieluusti sitä.&#x20;
 >
 > Käytä mieluusti kuulokemikrofonia. Ääni voi kiertää, jos kummallakaan osapuolella ei ole kuulokkeita käytössä.
 
@@ -214,11 +214,11 @@ Ks. kohta _Videopuhelutuki eri selaimilla ja alustoilla._
 >
 > Joskus selaimen uudelleenkäynnistys voi auttaa.
 
-#### Virheilmoitus: "Videokeskustelu hylätty. Vastaanottaja on varattu" videopuhelun aloituksessa. <a href="aani-kiertaa-tai-kaikuu" id="aani-kiertaa-tai-kaikuu"></a>
+#### Virheilmoitus: "Videokeskustelu hylätty. Vastaanottaja on varattu" videopuhelun aloituksessa. <a href="#aani-kiertaa-tai-kaikuu" id="aani-kiertaa-tai-kaikuu"></a>
 
 > Virheilmoitus näytetään jos asiakkaalla on jo videokeskustelu päällä, tai tällä on aikaisempi videopuhelukutsu auki, jota ei ole hyväksytty. Pyydä asiakas sulkemaan videopuhelunäkymä, jotta voit kutsua hänet uudestaan.
 
-#### **Videopuhelu katkeaa ja sulkeutuu **
+#### **Videopuhelu katkeaa ja sulkeutuu**&#x20;
 
 > Videopuhelu voi katketa, mikäli verkkoyhteyden laatu on huono tai yhteys katkeaa. Videopuhelun voi tällöin käynnistää uudelleen klikkaamalla uudelleen kamera-kuvaketta. Voit ohjeistaa asiakasta tilanteesta ja pyytää hyväksymään uusi videopuhelukutsu.
 >

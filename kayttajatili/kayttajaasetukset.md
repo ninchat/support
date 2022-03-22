@@ -4,7 +4,7 @@ description: Profiili ja asetukset
 
 # Käyttäjäasetukset
 
-## Käyttäjäasetusten avaaminen <a href="kayttajaasetusten-avaaminen" id="kayttajaasetusten-avaaminen"></a>
+## Käyttäjäasetusten avaaminen <a href="#kayttajaasetusten-avaaminen" id="kayttajaasetusten-avaaminen"></a>
 
 Kun olet kirjautunut Ninchatiin, pääset omiin käyttäjäasetuksiin seuraavasti:
 
@@ -34,9 +34,9 @@ Kerro itsestäsi perustiedot Profiili-välilehdellä, jotta mm. kollegat voivat 
 
 ![Käyttäjäprofiili ja -tiedot](../.gitbook/assets/user-settings.png)
 
-## Kirjautumisvalinnat <a href="kirjautumisvalinnat" id="kirjautumisvalinnat"></a>
+## Kirjautumisvalinnat <a href="#kirjautumisvalinnat" id="kirjautumisvalinnat"></a>
 
-Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen kirjautumissähköpostiosoitteen. 
+Kirjautuminen-välilehdellä voit muuttaa tilisi salasanan ja tarvittaessa lisätä toisen kirjautumissähköpostiosoitteen.&#x20;
 
 ### Salasanan vaihtaminen
 
@@ -48,7 +48,7 @@ Jos olet unohtanut salasanasi, voit sisäänkirjautumisnäkymässä tilata salas
 [unohtunut-salasana.md](../yleisia-vinkkeja/unohtunut-salasana.md)
 {% endcontent-ref %}
 
-### Uuden kirjautumissähköpostin lisääminen <a href="uuden-kirjautumissahkopostin-lisaaminen" id="uuden-kirjautumissahkopostin-lisaaminen"></a>
+### Uuden kirjautumissähköpostin lisääminen <a href="#uuden-kirjautumissahkopostin-lisaaminen" id="uuden-kirjautumissahkopostin-lisaaminen"></a>
 
 Käyttäjätililläsi voi olla useita sähköpostiosoitteita, joilla pääset kirjautumaan. Käyttämäsi sähköpostiosoite voi myös muuttua, jolloin haluat asettaa uuden myös kirjautumiseen.
 
@@ -60,15 +60,15 @@ Voit poistaa kirjautumistavan (sähköposti, mobiililaite) klikkaamalla roskakor
 
 **Huom!** Jos poistat kaikki kirjautumistyypit, et voi enää käyttää tiliäsi ja tilisi poistetaan. Säilytä siis aina yksi kirjautumissähköposti asetuksissa.
 
-### Tilin ja sähköpostin näkyvyys muille <a href="tilin-ja-sahkopostin-nakyvyys-muille" id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
+### Tilin ja sähköpostin näkyvyys muille <a href="#tilin-ja-sahkopostin-nakyvyys-muille" id="tilin-ja-sahkopostin-nakyvyys-muille"></a>
 
-Kirjautumissähköpostiosoiterivillä voit kohdassa "Näkyvyys" valita, kenelle kyseinen sähköposti on näkyvissä: ainoastaan itsellesi, organisaatiosi jäsenille, kaikille Ninchatin käyttäjille. 
+Kirjautumissähköpostiosoiterivillä voit kohdassa "Näkyvyys" valita, kenelle kyseinen sähköposti on näkyvissä: ainoastaan itsellesi, organisaatiosi jäsenille, kaikille Ninchatin käyttäjille.&#x20;
 
 ![Kirjautumisvalinnat](../.gitbook/assets/user-auth.png)
 
-### Käyttäjätilin tai identiteetin todentaminen <a href="kayttajatilin-tai-identiteetin-todentaminen" id="kayttajatilin-tai-identiteetin-todentaminen"></a>
+### Käyttäjätilin tai identiteetin todentaminen <a href="#kayttajatilin-tai-identiteetin-todentaminen" id="kayttajatilin-tai-identiteetin-todentaminen"></a>
 
-Kun luot uuden tunnuksen, saat sähköpostiisi vahvistuslinkin. Ennen kuin klikkaat tuota linkkiä, tilisi/kirjautumis-identiteettisi näkyy todentamattomana. Liian pitkään todentamaton tunnus poistetaan lopulta. 
+Kun luot uuden tunnuksen, saat sähköpostiisi vahvistuslinkin. Ennen kuin klikkaat tuota linkkiä, tilisi/kirjautumis-identiteettisi näkyy todentamattomana. Liian pitkään todentamaton tunnus poistetaan lopulta.&#x20;
 
 Mikäli olet kadottanut vahvistuslinkin, voit tilata uuden käyttäjäasetuksissa. Klikkaa "Lähetä vahvistus uudelleen"-linkkiä identiteetin (sähköpostiosoite) yhteydessä. Tämän jälkeen mene sähköpostiisi ja klikkaa vahvistuslinkkiä. Jos sähköpöstia ei näy, tarkista roskapostikansiosi.
 
@@ -82,11 +82,11 @@ Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni
 
 Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä. Työpöytäilmoitus ilmestyy ikkunan nurkkaan popup-laatikkona, jota klikkaamalla näet tapahtuman Ninchatissa. Lue lisää alempana.
 
-![Suositellut ilmoitusvalinnat. Muista sallia työpöytäilmoitukset.](<../.gitbook/assets/user_settings_notifications (2).png>)
+![Suositellut ilmoitusvalinnat. Muista sallia työpöytäilmoitukset.](<../.gitbook/assets/user\_settings\_notifications (2).png>)
 
 ### Aseta ilmoitustyypit
 
-**Salli Ääni- ja työpöytäilmoitukset ainakin seuraavista ilmoitustyypeistä (ks. kuva yllä): **
+**Salli Ääni- ja työpöytäilmoitukset ainakin seuraavista ilmoitustyypeistä (ks. kuva yllä):**&#x20;
 
 * **Yksityisviestit**
 * **Kanavan korostukset**
@@ -99,13 +99,13 @@ Tallenna muutokset.
 Huomioi, että "Uusi henkilö asiakaspalvelujonossa" ja "Henkilö poimittu jonosta" -vaihtoehdot näkyvät ainoastaan agenteille, jotka on lisätty asiakasjonojen käsittelijöiksi
 {% endhint %}
 
-### Näytä ilmoitukset aina <a href="nayta-ilmoitukset-aina" id="nayta-ilmoitukset-aina"></a>
+### Näytä ilmoitukset aina <a href="#nayta-ilmoitukset-aina" id="nayta-ilmoitukset-aina"></a>
 
 Mikäli haluat ääni- ja työpöytäilmoitukset myös silloin kun Ninchat on aktiivisena ruudulla, ruksaa _"Näytä ilmoitukset vaikka olisit paikalla"_ -valinta ja tallenna. Tämä helpottaa tapahtumien havainnointia.
 
-### Työpöytäilmoitukset <a href="tyopoytailmoitukset" id="tyopoytailmoitukset"></a>
+### Työpöytäilmoitukset <a href="#tyopoytailmoitukset" id="tyopoytailmoitukset"></a>
 
-Työpöytäilmoitukset tarvitsevat luvan web-selaimelta, jotta ne näkyvät sinulle. 
+Työpöytäilmoitukset tarvitsevat luvan web-selaimelta, jotta ne näkyvät sinulle.&#x20;
 
 Anna selaimelle lupa lähettää työpöytäilmoituksia klikkaamalla "Enable / Salli" -nappia. Ilmoituslupa on selain- ja laitekohtainen, joten muista sallia luvat kaikissa laitteissa ja selaimissa joita käytät.
 
@@ -115,7 +115,7 @@ Työpöytäilmoituksia näytetään ruudussa yksi kerrallaan. Loput löytyvät T
 
 ###
 
-### Työpöytäilmoitusten kuittaaminen <a href="tyopoytailmoitusten-kuittaaminen" id="tyopoytailmoitusten-kuittaaminen"></a>
+### Työpöytäilmoitusten kuittaaminen <a href="#tyopoytailmoitusten-kuittaaminen" id="tyopoytailmoitusten-kuittaaminen"></a>
 
 Työpöytäilmoitukset saa näkymään ruudulla pysyvästi, kunnes klikkaat sitä, tai suljet sen. Tällöin ilmoitus ei mene sinulta ohi. \
 Ilmoitusasetusten kohdassa _"Lisäasetukset"_, ruksaa _"Sulje työpöytäilmoitus vasta käyttäjän vuorovaikutuksesta, kuten hiiren klikkauksesta"_.
@@ -156,7 +156,7 @@ Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuks
 Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.\
 Ilmoitusluvat voit säätää myös Edge-selaimen asetuksissa, joihin pääset selaimen menu-valikon kautta.
 
-### Ongelmatilanteet <a href="ilmoitukset-ongelmatilanteet" id="ilmoitukset-ongelmatilanteet"></a>
+### Ongelmatilanteet <a href="#ilmoitukset-ongelmatilanteet" id="ilmoitukset-ongelmatilanteet"></a>
 
 Jos Windowsin työpöytäilmoitukset eivät näy, tarkista, ettei sinulla ole Keskittymisavustaja (Focus assist) käytössä. Tarkista asia Windowsin Toimintokeskuksesta (Action center), jonka voit avata näytön oikeasta alanurkasta.‌
 
@@ -168,7 +168,7 @@ Lisäksi tarkista, että käyttäjäasetuksissa on ruksattu kohta "Näytä ilmoi
 
 ## Korostukset
 
-Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut keskustelussa. Voit tämän ohella asettaa haluamiasi korostussanoja, jolloin saat ilmoituksen, kun ne mainitaan keskusteluissa. 
+Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut keskustelussa. Voit tämän ohella asettaa haluamiasi korostussanoja, jolloin saat ilmoituksen, kun ne mainitaan keskusteluissa.&#x20;
 
 #### **Korostussanan luominen**
 
@@ -185,7 +185,7 @@ Korostetut sanat näkyvät sinisellä taustavärillä ja saat ilmoituksen aina t
 
 ![](<../.gitbook/assets/highlights (1).png>)
 
-## Näkymävalinnat <a href="nakymavalinnat" id="nakymavalinnat"></a>
+## Näkymävalinnat <a href="#nakymavalinnat" id="nakymavalinnat"></a>
 
 Voit muuttaa Ninchatin näkymää tietyiltä osin.
 
@@ -233,7 +233,7 @@ Valmisviesti koostuu itse viestistä ja avainsanasta jolla viesti yksilöidään
 5\.  Tallenna
 
 {% hint style="info" %}
-**Huom! **Voit luoda yhden valmisviestirivin kerrallaan. Luo uusi rivi kun olet muokannut lisäämäsi rivin avainsana-kentän.
+**Huom!** Voit luoda yhden valmisviestirivin kerrallaan. Luo uusi rivi kun olet muokannut lisäämäsi rivin avainsana-kentän.
 {% endhint %}
 
 ### Valmisviestin käyttäminen
