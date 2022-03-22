@@ -18,7 +18,7 @@ Voit luoda web-selaimeen kirjanmerkin helpottaaksesi Ninchatin avaamista, ohje t
 
 ### Käyttäjätunnus <a href="#kayttajatunnus" id="kayttajatunnus"></a>
 
-![Kirjautumisnäkymä](../.gitbook/assets/sign-in-01.png)
+![](../.gitbook/assets/sign-in-01.png)
 
 Huomioi, että sinulla on valittuna _Kirjaudu/Sign-in_ -välilehti.
 
@@ -26,7 +26,7 @@ Ninchat-tunnuksena toimii sähköpostiosoitteesi, jolla olet rekisteröitynyt. K
 
 ### Salasana
 
-![Salasanan kirjoittaminen](../.gitbook/assets/sign-in-02.png)
+![](../.gitbook/assets/sign-in-02.png)
 
 Seuraavaksi kirjoita salasanasi. Salasana piilotetaan ja näkyy pisteinä. Voit katsoa ja tarkistaa salasanan oikeinkirjoituksen klikkaamalla kentässä näkyvää silmä-kuvaketta.
 
