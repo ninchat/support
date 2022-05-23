@@ -24,11 +24,11 @@ Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläri
 
 ![Kirjanmerkin ja sovelluspikakuvakkeen lisääminen Chromessa](../.gitbook/assets/chrome-app.png)
 
-#### Kirjanmerkki <a href="kirjanmerkki" id="kirjanmerkki"></a>
+#### Kirjanmerkki <a href="#kirjanmerkki" id="kirjanmerkki"></a>
 
-Lisää Ninchat kirjanmerkkeihin klikkaamalla [https://ninchat.com/app](https://ninchat.com/app/#) -sivulla tähti-ikonia selaimen osoiterivillä. Voit tallentaa kirjanmerkin kirjanmerkkipalkkiin tai kirjanmerkkivalikkoon.
+Lisää Ninchat kirjanmerkkeihin klikkaamalla [https://ninchat.com/app](https://ninchat.com/app/) -sivulla tähti-ikonia selaimen osoiterivillä. Voit tallentaa kirjanmerkin kirjanmerkkipalkkiin tai kirjanmerkkivalikkoon.
 
-#### Sovelluspikakuvake <a href="sovelluspikakuvake" id="sovelluspikakuvake"></a>
+#### Sovelluspikakuvake <a href="#sovelluspikakuvake" id="sovelluspikakuvake"></a>
 
 Voit myös ajaa Ninchatin normaalista selaimesta erillisenä sovelluksena, jonka voi myös kiinnittää tehtäväpalkkiin tai Käynnistä-valikkoon. Notifikaatiot ja muu toiminta ovat samanlaisia kuin normaalissa selainikkunassa.
 
@@ -43,11 +43,11 @@ Voit myös ajaa Ninchatin normaalista selaimesta erillisenä sovelluksena, jonka
 
 ### Mozilla Firefox
 
-#### Kirjanmerkin lisääminen  <a href="kirjanmerkin-lisaeaeminen" id="kirjanmerkin-lisaeaeminen"></a>
+#### Kirjanmerkin lisääminen  <a href="#kirjanmerkin-lisaeaeminen" id="kirjanmerkin-lisaeaeminen"></a>
 
 Firefox ei tue erillisiä työpöytä-pikakuvakkeita, mutta voit lisätä Ninchatin selaimen kirjanmerkkeihin klikkaamalla tähti-ikonia osoiterivillä. Kirjanmerkin voi lisätä kirjanmerkkipalkkiin tai -valikkoon.
 
-#### Välilehden kiinnittäminen  <a href="vaelilehden-kiinnittaeminen" id="vaelilehden-kiinnittaeminen"></a>
+#### Välilehden kiinnittäminen  <a href="#vaelilehden-kiinnittaeminen" id="vaelilehden-kiinnittaeminen"></a>
 
 Voit kiinnittää Ninchat-välilehden (tabin) yläriville, jolloin se pysyy aina avoinna.
 
@@ -65,11 +65,11 @@ Uusi Microsoft Edge Chromium toimii samoin kuin Google Chrome. Katso ohjeet Chro
 
 Edge (vanha versio) sallii sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin ja Käynnistä-valikkoon.
 
-#### Kirjanmerkin lisääminen <a href="kirjanmerkin-lisaeaeminen-1" id="kirjanmerkin-lisaeaeminen-1"></a>
+#### Kirjanmerkin lisääminen <a href="#kirjanmerkin-lisaeaeminen-1" id="kirjanmerkin-lisaeaeminen-1"></a>
 
 Lisätäksesi kirjanmerkin, klikkaa tähti-ikonia osoiterivillä. Kirjanmerkin voi lisätä kirjanmerkkipalkkiin tai -valikkoon.
 
-#### Ninchatin kiinnittäminen tehtäväpalkkiin tai Käynnistä-valikkoon <a href="ninchatin-kiinnittaeminen-tehtaevaepalkkiin-tai-kaeynnistae-valikkoon" id="ninchatin-kiinnittaeminen-tehtaevaepalkkiin-tai-kaeynnistae-valikkoon"></a>
+#### Ninchatin kiinnittäminen tehtäväpalkkiin tai Käynnistä-valikkoon <a href="#ninchatin-kiinnittaeminen-tehtaevaepalkkiin-tai-kaeynnistae-valikkoon" id="ninchatin-kiinnittaeminen-tehtaevaepalkkiin-tai-kaeynnistae-valikkoon"></a>
 
 Ollessasi osoitteessa https://ninchat.com/app tai tiimikanavalla, klikkaa selaimen valikko-nappia (kolme pistettä) ja valitse vaihtoehdoista:
 
@@ -78,7 +78,7 @@ Ollessasi osoitteessa https://ninchat.com/app tai tiimikanavalla, klikkaa selaim
 
 ![Sivun kiinnittäminen Windowsin tehtäväpalkkiin tai Käynnistys-valikkoon](../.gitbook/assets/edge2.png)
 
-#### Välilehden kiinnittäminen <a href="vaelilehden-kiinnittaeminen-1" id="vaelilehden-kiinnittaeminen-1"></a>
+#### Välilehden kiinnittäminen <a href="#vaelilehden-kiinnittaeminen-1" id="vaelilehden-kiinnittaeminen-1"></a>
 
 Voit kiinnittää Ninchat-välilehden (tabin) yläriville, jolloin se pysyy aina avoinna.
 
@@ -91,17 +91,17 @@ Voit kiinnittää Ninchat-välilehden (tabin) yläriville, jolloin se pysyy aina
 ### Internet Explorer (IE)
 
 {% hint style="warning" %}
-Suosittelemme käyttämään uudempaa selainta, kuten: Chrome, Firefox or Edge. \
+Suosittelemme käyttämään uudempaa selainta, kuten: Chrome, Firefox tai Edge. \
 IE on vanhentunut selain jonka tietoturva on puutteellinen, eikä se tue kaikki ominaisuuksia, kuten videopuhelut.
 {% endhint %}
 
- IE mahdollistaa sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin.
+&#x20;IE mahdollistaa sivuston lisäämisen kirjanmerkkeihin, sekä Windowsin tehtäväpalkkiin.
 
-#### Kirjanmerkin lisääminen <a href="kirjanmerkin-lisaeaeminen-2" id="kirjanmerkin-lisaeaeminen-2"></a>
+#### Kirjanmerkin lisääminen <a href="#kirjanmerkin-lisaeaeminen-2" id="kirjanmerkin-lisaeaeminen-2"></a>
 
 Lisätäksesi kirjanmerkin klikkaa tähti-ikonia osoiterivillä. Kirjanmerkin voi lisätä kirjanmerkkipalkkiin tai -valikkoon.
 
-#### Ninchatin kiinnittäminen Windowsin tehtäväpalkkiin <a href="ninchatin-kiinnittaeminen-windowsin-tehtaevaepalkkiin" id="ninchatin-kiinnittaeminen-windowsin-tehtaevaepalkkiin"></a>
+#### Ninchatin kiinnittäminen Windowsin tehtäväpalkkiin <a href="#ninchatin-kiinnittaeminen-windowsin-tehtaevaepalkkiin" id="ninchatin-kiinnittaeminen-windowsin-tehtaevaepalkkiin"></a>
 
 Internet Explorer sallii sivuston lisäämisen Windowsin tehtäväpalkkiin, josta sen voi suoraan käynnistää. Ollessasi osoitteessa https://ninchat.com/app tai tiimikanavalla, klikkaa selaimen valikko-nappia (ratas-kuvake).
 
