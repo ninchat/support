@@ -36,8 +36,12 @@ Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta
 [ryhmakeskustelun-jarjestaminen.md](julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md)
 {% endcontent-ref %}
 
-## Seuraa Ninchatiin tulleita muutoksia ja parannuksia
+### Päivitykset ja uudistukset
 
 {% content-ref url="mita-uutta.md" %}
 [mita-uutta.md](mita-uutta.md)
 {% endcontent-ref %}
+
+### Chattaa ja ota yhteyttä <a href="#chattaa-ja-ota-yhteytta" id="chattaa-ja-ota-yhteytta"></a>
+
+{% embed url="https://ninchat.com/contact" %}
