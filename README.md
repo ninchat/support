@@ -1,8 +1,8 @@
 ---
-description: Ninchat Support site
+description: Learn to use NInchat
 ---
 
-# Welcome to learn Ninchat!
+# Ninchat support site
 
 Welcome to Ninchat Support site! You can browse through the articles on the left by topic. You can find answers to frequently asked questions below. If you still cannot find what you are looking for, [chat with us here](https://ninchat.com/contact).
 
