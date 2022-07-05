@@ -28,8 +28,6 @@ Read more about video calls and screen sharing:
 
 * When invitation people to channel, you can also add grant membership to your organization along with it. This way you don't need to separately add the to the organization after joining.&#x20;
 
-{% embed url="https://ninchat.com/customer/andritz/mobile.html" %}
-
 ![](.gitbook/assets/invite-people-en.png)
 
 ### Offline contacts improvements
