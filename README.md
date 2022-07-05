@@ -6,8 +6,6 @@ description: Ohjeita Ninchatin käyttöön
 
 Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta, tai valitse alta usein kysyttyjä aiheita. Voit myös kysyä apua [chatissa](https://ninchat.com/contact). &#x20;
 
-### [<img src=".gitbook/assets/en.png" alt="" data-size="line"> English support](https://support.ninchat.com/ninchat-support/v/english/)
-
 ## Ohjeistus uuden agentin alkuunpääsyyn:
 
 {% content-ref url="asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md" %}
