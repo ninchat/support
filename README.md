@@ -1,8 +1,8 @@
 ---
-description: Ninchat-tukisivusto
+description: Ohjeita Ninchatin käyttöön
 ---
 
-# Tervetuloa käyttämään Ninchatia!
+# Ninchat-tukisivusto
 
 Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta, tai valitse alta usein kysyttyjä aiheita. Voit myös kysyä apua [chatissa](https://ninchat.com/contact). &#x20;
 

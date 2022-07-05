@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Tervetuloa käyttämään Ninchatia!](README.md)
+* [Ninchat-tukisivusto](README.md)
 * [Mitä uutta](mita-uutta.md)
 * [Yleisiä vinkkejä](yleisia-vinkkeja/README.md)
   * [Sanasto](yleisia-vinkkeja/sanasto.md)
