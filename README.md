@@ -4,27 +4,40 @@ description: Ninchat-tukisivusto
 
 # Tervetuloa käyttämään Ninchatia!
 
-Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta, tai valitse alta usein kysyttyjä aiheita. Voit myös kysyä apua [chatissa](https://ninchat.com/contact).  
+Tervetuloa Nincatin tukisivustolle! Voit selata aiheita vasemman laidan listalta, tai valitse alta usein kysyttyjä aiheita. Voit myös kysyä apua [chatissa](https://ninchat.com/contact). &#x20;
 
-### [![](.gitbook/assets/en.png) See Support site in English](https://support.ninchat.com/ninchat-support/v/english/)
+### [<img src=".gitbook/assets/en.png" alt="" data-size="line"> English support](https://support.ninchat.com/ninchat-support/v/english/)
 
 ## Ohjeistus uuden agentin alkuunpääsyyn:
 
-{% page-ref page="asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md" %}
+{% content-ref url="asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md" %}
+[nain-paaset-alkuun-asiakasneuvojat.md](asiakasneuvojat/nain-paaset-alkuun-asiakasneuvojat.md)
+{% endcontent-ref %}
 
 ## Usein kysyttyä:
 
-{% page-ref page="organisaatio/uuden-agentin-lisaaminen.md" %}
+{% content-ref url="organisaatio/uuden-agentin-lisaaminen.md" %}
+[uuden-agentin-lisaaminen.md](organisaatio/uuden-agentin-lisaaminen.md)
+{% endcontent-ref %}
 
-{% page-ref page="kayttajatili/kayttajatilin-luonti.md" %}
+{% content-ref url="kayttajatili/kayttajatilin-luonti.md" %}
+[kayttajatilin-luonti.md](kayttajatili/kayttajatilin-luonti.md)
+{% endcontent-ref %}
 
-{% page-ref page="kayttajatili/kayttajaasetukset.md" %}
+{% content-ref url="kayttajatili/kayttajaasetukset.md" %}
+[kayttajaasetukset.md](kayttajatili/kayttajaasetukset.md)
+{% endcontent-ref %}
 
-{% page-ref page="asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
+{% content-ref url="asiakasjonot-ja-keskustelut/jonon-asetukset.md" %}
+[jonon-asetukset.md](asiakasjonot-ja-keskustelut/jonon-asetukset.md)
+{% endcontent-ref %}
 
-{% page-ref page="julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md" %}
+{% content-ref url="julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md" %}
+[ryhmakeskustelun-jarjestaminen.md](julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md)
+{% endcontent-ref %}
 
 ## Seuraa Ninchatiin tulleita muutoksia ja parannuksia
 
-{% page-ref page="mita-uutta.md" %}
-
+{% content-ref url="mita-uutta.md" %}
+[mita-uutta.md](mita-uutta.md)
+{% endcontent-ref %}
