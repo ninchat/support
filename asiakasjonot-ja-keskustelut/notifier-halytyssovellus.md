@@ -22,7 +22,7 @@ iOS-laitteeseen, kuten iPhoneen, Notifier asennetaan App Storesta. Avaa App Stor
 
 Lataa Ninchat Notifier oheisesta linkistä ja hyväksy mahdolliset varoitukset.
 
-[https://ninchat.s3.amazonaws.com/b/ninchat/notifier/ninchat-notifier-v1.0.1.apk](https://ninchat.s3.amazonaws.com/b/ninchat/notifier/ninchat-notifier-v1.0.1.apk). 
+[https://ninchat.s3.amazonaws.com/b/ninchat/notifier/ninchat-notifier-v1.0.1.apk](https://ninchat.s3.amazonaws.com/b/ninchat/notifier/ninchat-notifier-v1.0.1.apk).&#x20;
 
 {% hint style="info" %}
 Huom! puhelimessa tulee olla sallittuna aplikaatioiden asentaminen ulkoisista lähteistä!
@@ -46,7 +46,7 @@ Sovellukseen kirjaudutaan käyttäen samaa sähköpostiosoitetta ja salasanaa ku
 
 #### 2. Sovelluksen käyttöluvat
 
-Jotta Ninchat Notifier voi toimia varmasti, sillä tulee olla lupa toimia taustalla sovelluksen ollessa epäaktiivinen sekä näyttää ilmoituksia silloinkin kun aktiivisena on toinen sovellus. 
+Jotta Ninchat Notifier voi toimia varmasti, sillä tulee olla lupa toimia taustalla sovelluksen ollessa epäaktiivinen sekä näyttää ilmoituksia silloinkin kun aktiivisena on toinen sovellus.&#x20;
 
 Poista akun optimointi käytöstä painamalla "Disable battery optimization" -painiketta, ja seuraavassa ikkunassa valitsemalla "allow".
 
@@ -60,7 +60,7 @@ Siirry takaisin Notifier-sovellukseen painamalla paluu-nuolta tai -kuvaketta.
 
 #### 3. Akun käytön lisäasetukset
 
-Jotta Notifier pysyy varmasti käynnissä ja välittää hälytykset, akun optimointi tulee poistaa käytöstä sovelluksen kohdalla. 
+Jotta Notifier pysyy varmasti käynnissä ja välittää hälytykset, akun optimointi tulee poistaa käytöstä sovelluksen kohdalla.&#x20;
 
 Etsi Ninchat Notifier -kuvake puhelimesi näytöltä ja paina sitä pitkään niin, että valinnat tulevat näkyviin. Klikkaa "App info".  Sovellustietoruutudssa valitse "Lisäasetukset" / "Advanced" ja tämän jälkeen "Akku" / "Battery". Kytke päälle valinta "Älä optimoi" / "Don't optimize". Tämän jälkeen poistu asetuksista.
 
@@ -72,7 +72,7 @@ Avaa Notifier-sovellus. Kirjauduttuasi ensi kerralla näet suoraan hälytysten a
 
 Hälytys on päällä, kun painike on vihreä; “ON”. Saat ilmoitukset kaikista Ninchatin asiakasjonoista, joissa olet käsittelijänä.
 
-Voit poistaa hälytykset käytöstä klikkaamalla liukuvalintaa. Tällöin liuykuvalinta on punainen; “OFF”. Off-asennossa Notifier ei näytä hälytysilmoituksia.
+Voit poistaa hälytykset käytöstä klikkaamalla liukuvalintaa. Tällöin liukuvalinta on punainen; “OFF”. Off-asennossa Notifier ei näytä hälytysilmoituksia.
 
 Notifier on toiminnassa mikäli sovellus on päällä, myös taustalla. Mikäli suljet sovelluksen, hälytykset eivät toimi.
 
