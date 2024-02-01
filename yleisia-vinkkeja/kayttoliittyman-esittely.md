@@ -10,7 +10,7 @@ Ninchatin käyttöliittymä näkyy joko suomeksi tai englanniksi sen mukaan, mik
 
 Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskustelun toiminnot.
 
-![](../.gitbook/assets/team-channel.png)
+![](<../.gitbook/assets/team channel.png>)
 
 | Sidebar                                            | Keskustelunäkymä                            | Jäsenlista                                                      |
 | -------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------- |
@@ -18,14 +18,14 @@ Ninchatin perusnäkymä koostuu kolmesta osiosta; sidebar, keskustelu ja keskust
 
 ### Tiimikanavan tunnisteet
 
-| Jäsenlistan merkintä                                     | Merkitys                                                                                                                       |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![](../.gitbook/assets/operator.png) Tähti, umpinainen   | <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p><p>voi hallita kanavan asetuksia ja kutsua jäseniä</p> |
-| ![](../.gitbook/assets/moderator.png) Tähti, reunustettu | <p>Kanavan moderaattorikäyttäjä:</p><p>voi moderoida viestejä ja poistaa jäseniä</p>                                           |
-| ![](../.gitbook/assets/online.png) Vihreä pallo          | Käyttäjä on kirjautunut ja aktiivinen                                                                                          |
-| ![](../.gitbook/assets/idle.png) Oranssi pallo           | Käyttäjä on kirjautunut mutta ei aktiivinen                                                                                    |
-| ![](../.gitbook/assets/avatar-male.svg) Ei palloa        | Käyttäjä ei ole paikalla; hän näkee hänelle osoitetut viestit myöhemmin                                                        |
-| ![](../.gitbook/assets/invite-icon.png) Kutsu väkeä      | Kutsu uusia henkilöitä kanavalle (Kanavan operaattori)                                                                         |
+| Jäsenlistan merkintä                                                                    | Merkitys                                                                                                                       |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/operator.png" alt="" data-size="line"> Tähti, umpinainen   | <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p><p>voi hallita kanavan asetuksia ja kutsua jäseniä</p> |
+| <img src="../.gitbook/assets/moderator.png" alt="" data-size="line"> Tähti, reunustettu | <p>Kanavan moderaattorikäyttäjä:</p><p>voi moderoida viestejä ja poistaa jäseniä</p>                                           |
+| <img src="../.gitbook/assets/online (1).png" alt="" data-size="line"> Vihreä pallo      | Käyttäjä on kirjautunut ja aktiivinen                                                                                          |
+| <img src="../.gitbook/assets/idle.png" alt="" data-size="line"> Oranssi pallo           | Käyttäjä on kirjautunut mutta ei aktiivinen                                                                                    |
+| <img src="../.gitbook/assets/avatar-male.svg" alt="" data-size="line"> Ei palloa        | Käyttäjä ei ole paikalla; hän näkee hänelle osoitetut viestit myöhemmin                                                        |
+| <img src="../.gitbook/assets/invite-icon.png" alt="" data-size="line"> Kutsu väkeä      | Kutsu uusia henkilöitä kanavalle (Kanavan operaattori)                                                                         |
 
 ## Sidebar (keskustelulista)
 
@@ -33,7 +33,7 @@ Sivupalkin kautta siirryt keskustelujen välillä ja näet myös helposti ilmoit
 
 Huomaa, että sinun ei tule poistua tiimikanavilta esim. kirjautuessasi ulos.
 
-![Sidebarin osiot](../.gitbook/assets/sidebar.png)
+![Sidebarin osiot](<../.gitbook/assets/Sidebar (1).png>)
 
 | Osio                   | Toiminta                                                                 |
 | ---------------------- | ------------------------------------------------------------------------ |
@@ -53,13 +53,13 @@ Organisaatiovalikosta löytyy omien organisaatioittesi lisäksi ns. vapaa alue (
 
 ### Sidebar-menu
 
-![](../.gitbook/assets/menu-ikoni.png) -valikkoikonista voit laajentaa ja pienentää Sidebar-listan. Pienennetyssä näkymässä näet ilmoitukset ja viemällä hiiren kursorin Sidebarin päälle, näkymä laajenee automaattisesti. Pienennetty näkymä on oivallinen mm. mikäli näyttö on pienikokoinen.
+<img src="../.gitbook/assets/menu-ikoni (1).png" alt="" data-size="line"> -valikkoikonista voit laajentaa ja pienentää Sidebar-listan. Pienennetyssä näkymässä näet ilmoitukset ja viemällä hiiren kursorin Sidebarin päälle, näkymä laajenee automaattisesti. Pienennetty näkymä on oivallinen mm. mikäli näyttö on pienikokoinen.
 
-![](<../.gitbook/assets/sidebar-toggle (1).png>)
+![](<../.gitbook/assets/Sidebar toggle.png>)
 
 ### Organisaatiovalikko
 
-![](<../.gitbook/assets/sidebar-menus-1 (2).png>)
+![](<../.gitbook/assets/Sidebar – menus - 1 (1).png>)
 
 * Organisaation asetukset
 * Uuden kanavan luonti
@@ -67,14 +67,14 @@ Organisaatiovalikosta löytyy omien organisaatioittesi lisäksi ns. vapaa alue (
 
 ### Tapahtumat-valikko
 
-![](../.gitbook/assets/sidebar-menus-3.png)
+![](<../.gitbook/assets/Sidebar – menus - 3.png>)
 
 Tapahtumat näyttää kootusti kaikki sinua koskevat uudet tapahtumat Ninchatissa, kuten asiakkaat jonossa, yksityisviestit, maininnat kanavilla - myös muista kuin aktiivisesta organisaatioista, mikäli kuulut useampaan.\
 Klikkaamalla tapahtumariviä pääset suoraan esim. kanavalle, jossa sinua koskeva viesti on.
 
 ### Asiakasjonovalikko
 
-![](../.gitbook/assets/sidebar-menus-4.png)
+![](<../.gitbook/assets/Sidebar – menus - 4.png>)
 
 Asiakasjonorivi näyttää jonot ja niiden aukiolon (vihreä pallo - jono on avoinna asiakkaille, punainen pallo - jono on suljettu), sekä jonossa olevien asiakkaiden määrän. Klikkaamalla jonon nimeä pääset Asiakasjononäkymään, ks. alempana. Nimen vieressä olevasta nuoli-ikonista taas saat avattua valikon, josta voit:
 
@@ -85,19 +85,19 @@ Asiakasjonorivi näyttää jonot ja niiden aukiolon (vihreä pallo - jono on avo
 
 ### Käyttäjävalikko
 
-![](../.gitbook/assets/sidebar-menus-2.png)
+![](<../.gitbook/assets/Sidebar – menus - 2.png>)
 
 Klikkaamalla nuolta nimesi vieressä saat avattua käyttäjävalikon, jonka kautta voit:
 
 * Avata käyttäjäasetukset
 * Piilottaa/näyttää kanavan jäsenlistan oikeasta laidasta
-* Vaihtaa pienen ja ison Sidebar-näkymän välillä (onnistuu myös ylhäältä ![](<../.gitbook/assets/menu-ikoni (1).png>) -valikkokuvakkeesta)
+* Vaihtaa pienen ja ison Sidebar-näkymän välillä (onnistuu myös ylhäältä <img src="../.gitbook/assets/menu-ikoni.png" alt="" data-size="line"> -valikkokuvakkeesta)
 * Näyttää/piilottaa Suodatuskentän
 * Kirjautua ulos palavelusta
 
 ### Suodatus/hakukenttä <a href="#suodatus-haku-kentta" id="suodatus-haku-kentta"></a>
 
-![Suodatus/hakukenttä](<../.gitbook/assets/sidebar-menus-5 (1).png>)
+![Suodatus/hakukenttä](<../.gitbook/assets/Sidebar – menus - 5 (1).png>)
 
 Mikäli sinulla on iso määrä kanavia ja keskusteluita Sidebarissa, voit suodattaa niitä nimen perusteella, ja löytää haluamasi keskustelut nopeammin.&#x20;
 
@@ -108,14 +108,14 @@ Näytä kaikki keskustelut jälleen poistamalla hakuteksti kirjoituskentästä.
 
 ![](../.gitbook/assets/textarea.png)
 
-Kirjoituskentästä voit viestin kirjoituksen lisäksi lisätä ![](../.gitbook/assets/textarea-1.png)hymiöitä, ![](../.gitbook/assets/textarea-2.png) kuvia ja tiedostoja, ![](../.gitbook/assets/textarea-3.png) aloittaa videokeskustelun (asiakaskeskustelut), ![](../.gitbook/assets/textarea-4.png) piilottaa/näyttää asiakaskeskustelun sivupalkin. Lähetä viesti ![](../.gitbook/assets/textarea-5.png) -painikkeella tai \[Enter]-näppäimellä. Rivinvaihdon voit tehdä \[Vaihto]+\[Enter] -näppäimillä.
+Kirjoituskentästä voit viestin kirjoituksen lisäksi lisätä <img src="../.gitbook/assets/textarea-1.png" alt="" data-size="line">hymiöitä, <img src="../.gitbook/assets/textarea-2.png" alt="" data-size="line"> kuvia ja tiedostoja, <img src="../.gitbook/assets/textarea-3.png" alt="" data-size="line"> aloittaa videokeskustelun (asiakaskeskustelut), <img src="../.gitbook/assets/textarea-4.png" alt="" data-size="line"> piilottaa/näyttää asiakaskeskustelun sivupalkin. Lähetä viesti <img src="../.gitbook/assets/textarea-5.png" alt="" data-size="line"> -painikkeella tai \[Enter]-näppäimellä. Rivinvaihdon voit tehdä \[Vaihto]+\[Enter] -näppäimillä.
 
-![](<../.gitbook/assets/channel-members-menu (1).png>)
+![](<../.gitbook/assets/channel members menu (1).png>)
 
 Kanavan sivupalkissa näet kanavan jäsenet. Listalta voi aloittaa yksityiskeskusteluita. \
 Kanavan operaattorit voivat listan kautta kutsua uusia jäseniä, sekä antaa käyttäjille oikeuksia.
 
-![](../.gitbook/assets/customer-menu.png)
+![](<../.gitbook/assets/customer menu.png>)
 
 Asiakaskeskustelun sivupalkin sisältö riippuu jonon ja käyttäjän asetuksista. Sivupalkissa voidaan näyttää metatietoja, muistiinpanokenttä, valmisviestit ja tägit.
 
@@ -137,7 +137,7 @@ Asiakasjononäkymään pääset klikkaamalla jonon nimeä. Näkymästä voit poi
 
 ## Yksityiskeskustelut
 
-![Yksityiskeskustelun aloittaminen](<../.gitbook/assets/team-start-private (1).png>)
+![Yksityiskeskustelun aloittaminen](<../.gitbook/assets/Team - start private (1).png>)
 
 {% content-ref url="../tiimikanavat/yksityiskeskustelut.md" %}
 [yksityiskeskustelut.md](../tiimikanavat/yksityiskeskustelut.md)

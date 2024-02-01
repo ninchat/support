@@ -4,7 +4,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 # Ongelmatilanteet sisäänkirjautumisessa
 
-## Sisäänkirjautumisongelmat <a href="sisaankirjautumisongelmat" id="sisaankirjautumisongelmat"></a>
+## Sisäänkirjautumisongelmat <a href="#sisaankirjautumisongelmat" id="sisaankirjautumisongelmat"></a>
 
 ### Mistä pääsen kirjautumaan palveluun?
 
@@ -16,7 +16,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 [unohtunut-salasana.md](unohtunut-salasana.md)
 {% endcontent-ref %}
 
-### Virheellinen sähköposti <a href="virheellinen-sahkoposti" id="virheellinen-sahkoposti"></a>
+### Virheellinen sähköposti <a href="#virheellinen-sahkoposti" id="virheellinen-sahkoposti"></a>
 
 > Jos sisäänkirjautumisessa saat virheilmoituksen: "Virheellinen sähköposti / Invalid email", kirjoitit sähköpostitunnuksesi väärin, tai kyseisellä sähköpostilla ei ole olemassa Ninchat-tunnusta. Tarkista, että kirjoitit kirjautumissähköpostin oikein.
 >
@@ -24,7 +24,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 >
 > Kirjautumisen virheilmoitus "Identity name is not a valid email address" tarkoittaa, että kirjoitettu tunnus ei ole oikeamuotoinen sähköpostiosoite. Ninchat-tunnuksesi on siis sähköpostiosoite, jolla olet alunperin rekisteröitynyt palveluun.
 
-### Kirjautumissähköpostin muutos <a href="kirjautumissahkopostin-muutos" id="kirjautumissahkopostin-muutos"></a>
+### Kirjautumissähköpostin muutos <a href="#kirjautumissahkopostin-muutos" id="kirjautumissahkopostin-muutos"></a>
 
 Sähköpostiosoite voi muuttua esim. nimenvaihdoksen jälkeen. Älä luo uutta tunnusta; voit liittää uuden sähköpostiosoitteen vanhaan tunnukseesi. [Katso ohje uuden sähköpostiosoitteen lisäämisestä](https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset#uuden-kirjautumissahkopostin-lisaaminen)
 
@@ -60,13 +60,13 @@ Siirry takaisin omaan organisaatioon klikkaamalla nuolta organisaation nimen vie
 
 Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 
-![](<../.gitbook/assets/welcome-screen (3).png>)
+![](<../.gitbook/assets/welcome screen (3).png>)
 
 Olet todennäköisesti tullut Ninchatiin ilman kutsulinkkiä ja olet tilanteessa, jossa et kuulu mihinkään organisaatioon tai tiimikanavalle.
 
 Etsi sähköpostistasi Ninchat Invite -viesti ja klikkaa sieltä kutsulinkkiä (ks. ohje ylempänä), tai pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
 
-## Pyydä apua chatissa <a href="pyyda-apua-chatissa" id="pyyda-apua-chatissa"></a>
+## Pyydä apua chatissa <a href="#pyyda-apua-chatissa" id="pyyda-apua-chatissa"></a>
 
 Mikäli mikään näistä neuvoista ei auttanut, voit kysyä meiltä apua asiakaspalveluchatissa.
 

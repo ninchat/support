@@ -82,7 +82,7 @@ Ilmoitukset auttavat sinua reagoimaan tapahtumiin nopeammin. Voit asettaa ääni
 
 Työpöytäilmoitukset kertovat tapahtumista, vaikka selainikkuna olisi pienennetty pois näkyvistä. Työpöytäilmoitus ilmestyy ikkunan nurkkaan popup-laatikkona, jota klikkaamalla näet tapahtuman Ninchatissa. Lue lisää alempana.
 
-![Suositellut ilmoitusvalinnat. Muista sallia työpöytäilmoitukset.](<../.gitbook/assets/user\_settings\_notifications (2).png>)
+![Suositellut ilmoitusvalinnat. Muista sallia työpöytäilmoitukset.](<../.gitbook/assets/user\_settings\_notifications (1).png>)
 
 ### Aseta ilmoitustyypit
 
@@ -183,7 +183,7 @@ Ruksaa kohta "Korosta nimesi" saadaksesi ilmoituksen, kun joku mainitsee sinut k
 
 Korostetut sanat näkyvät sinisellä taustavärillä ja saat ilmoituksen aina tällaisen tullessa.
 
-![](<../.gitbook/assets/highlights (1).png>)
+![](../.gitbook/assets/highlights.png)
 
 ## Näkymävalinnat <a href="#nakymavalinnat" id="nakymavalinnat"></a>
 

@@ -20,13 +20,13 @@ Tiimikanavia voidaan luoda eri aiheiden ja ryhmien tarpeisiin, esim:
 
 ## Tiimikanavan oikeudet
 
-| Jäsenlistan merkintä                                     | Merkitys                                                                                                                       |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![](../.gitbook/assets/operator.png) Tähti, umpinainen   | <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p><p>voi hallita kanavan asetuksia ja kutsua jäseniä</p> |
-| ![](../.gitbook/assets/moderator.png) Tähti, reunustettu | <p>Kanavan moderaattorikäyttäjä:</p><p>voi moderoida viestejä ja poistaa jäseniä</p>                                           |
-| ![](<../.gitbook/assets/online (1).png>) Vihreä pallo    | Käyttäjä on kirjautunut ja aktiivinen                                                                                          |
-| ![](../.gitbook/assets/idle.png) Oranssi pallo           | Käyttäjä on kirjautunut mutta ei aktiivinen                                                                                    |
-| ![](../.gitbook/assets/offline-avatar.png) Ei palloa     | Käyttäjä ei ole paikalla; näkee hänelle tulleet viestit myöhemmin                                                              |
+| Jäsenlistan merkintä                                                                    | Merkitys                                                                                                                       |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/operator.png" alt="" data-size="line"> Tähti, umpinainen   | <p>Kanavan operaattorikäyttäjä (eri kuin organisaation operaattori):</p><p>voi hallita kanavan asetuksia ja kutsua jäseniä</p> |
+| <img src="../.gitbook/assets/moderator.png" alt="" data-size="line"> Tähti, reunustettu | <p>Kanavan moderaattorikäyttäjä:</p><p>voi moderoida viestejä ja poistaa jäseniä</p>                                           |
+| <img src="../.gitbook/assets/online.png" alt="" data-size="line"> Vihreä pallo          | Käyttäjä on kirjautunut ja aktiivinen                                                                                          |
+| <img src="../.gitbook/assets/idle.png" alt="" data-size="line"> Oranssi pallo           | Käyttäjä on kirjautunut mutta ei aktiivinen                                                                                    |
+| <img src="../.gitbook/assets/offline-avatar.png" alt="" data-size="line"> Ei palloa     | Käyttäjä ei ole paikalla; näkee hänelle tulleet viestit myöhemmin                                                              |
 
 ## Käyttäjän lisääminen kanavalle
 
@@ -40,7 +40,7 @@ Kanavan operaattoriagentti voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi
 [kayttajan-poistaminen-kanavalta.md](kayttajan-poistaminen-kanavalta.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/invite (1).png>)
+![](../.gitbook/assets/Invite.png)
 
 ## Yksityiskeskustelut tiimiläisten kesken <a href="#yksityiskeskustelut-tiimilaisten-kesken" id="yksityiskeskustelut-tiimilaisten-kesken"></a>
 

@@ -25,9 +25,9 @@ Ole tarkka kirjoittaessasi sähköpostiosoitteesi. Sinun tulee jatkossa kirjautu
 Vahva salasana on vähintään 13 merkin mittainen merkkijono, jota ei suoraan löydy sanakirjasta. Käytä aina eri salanaa jokaisessa palvelussa.
 {% endhint %}
 
-Jatka klikkaamalla **** _Create account_ -nappia.
+Jatka klikkaamalla _Create account_ -nappia.
 
-![](../.gitbook/assets/invite-accept-signup.png)
+![](<../.gitbook/assets/Invite accept signup (1).png>)
 
 ### &#x20;<a href="#verifying-account" id="verifying-account"></a>
 

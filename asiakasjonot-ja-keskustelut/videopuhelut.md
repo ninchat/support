@@ -41,7 +41,7 @@ Videopuhelun voi käynnistää kun tekstimuotoinen asiakas-keskustelu on aloitet
 
 Jos selain pyytää lupaa käyttää kameraa ja/tai mikrofonia, hyväksy pyyntö.
 
-![Anna sivustolle lupa käyttää kameraa ja mikrofonia](<../.gitbook/assets/videocall-permission (1).jpg>)
+![Anna sivustolle lupa käyttää kameraa ja mikrofonia](../.gitbook/assets/videocall-permission.jpg)
 
 ### Videopuhelun asetukset ja laitevalinta
 
@@ -79,31 +79,31 @@ Tekstikeskustelu näkyy videopuhelun lomassa. Voit myös siirtyä koko näytön 
 
 ### Videotoiminnot
 
-| Valinta                                                | Toiminta                                                                                     |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/video-btn-fullscreen-inv.png)   | Näytä videokeskustelu koko ruudun kokoisena / pienennä kuva normaaliin ikkunaan.             |
-| ![](../.gitbook/assets/video-btn-sound-inv.png)        | Äänet päälle / pois - mykistää keskustelukumppanin äänet                                     |
-| ![](../.gitbook/assets/video-btn-microphone-inv.png)   | Mikrofoni päälle / pois - mykistää oman mikrofonisi, jolloin vastapuoli ei kuule sinua.      |
-| ![](../.gitbook/assets/video-btn-camera-inv2.png)      | Video päälle / pois - Piilottaa oman videokuvasi, jolloin vastapuoli ei näe sinua.           |
-| ![](../.gitbook/assets/video-btn-screenshare-inv.png)  | Ruudunjako päälle / pois - Kameran sijaan jaa näytön, ohjelmaikkunan tai -välilehden sisältö |
-| ![](../.gitbook/assets/video-btn-settings-inv.png)     | Avaa video- ja äänilaiteasetukset                                                            |
-| ![](<../.gitbook/assets/video-btn-end-inv2 (1).png>)   | Lopeta videopuhelu. (Ei lopeta chat-keskustelua)                                             |
+| Valinta                                                                               | Toiminta                                                                                     |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/video-btn-fullscreen-inv.png" alt="" data-size="line">   | Näytä videokeskustelu koko ruudun kokoisena / pienennä kuva normaaliin ikkunaan.             |
+| <img src="../.gitbook/assets/video-btn-sound-inv.png" alt="" data-size="line">        | Äänet päälle / pois - mykistää keskustelukumppanin äänet                                     |
+| <img src="../.gitbook/assets/video-btn-microphone-inv.png" alt="" data-size="line">   | Mikrofoni päälle / pois - mykistää oman mikrofonisi, jolloin vastapuoli ei kuule sinua.      |
+| <img src="../.gitbook/assets/video-btn-camera-inv2.png" alt="" data-size="line">      | Video päälle / pois - Piilottaa oman videokuvasi, jolloin vastapuoli ei näe sinua.           |
+| <img src="../.gitbook/assets/video-btn-screenshare-inv.png" alt="" data-size="line">  | Ruudunjako päälle / pois - Kameran sijaan jaa näytön, ohjelmaikkunan tai -välilehden sisältö |
+| <img src="../.gitbook/assets/video-btn-settings-inv.png" alt="" data-size="line">     | Avaa video- ja äänilaiteasetukset                                                            |
+| <img src="../.gitbook/assets/video-btn-end-inv2.png" alt="" data-size="line">         | Lopeta videopuhelu. (Ei lopeta chat-keskustelua)                                             |
 
 ### Koko ruudun video
 
-Videopuhelu näkyy vakiona vasemmassa laidassa teksti-chatin vieressa. Voit laajentaa video koko näytön kokoiseksi klikkaamalla ![](../.gitbook/assets/video-btn-fullscreen-inv.png) -laajennuskuvaketta.
+Videopuhelu näkyy vakiona vasemmassa laidassa teksti-chatin vieressa. Voit laajentaa video koko näytön kokoiseksi klikkaamalla <img src="../.gitbook/assets/video-btn-fullscreen-inv.png" alt="" data-size="line"> -laajennuskuvaketta.
 
 ![Koko näytön videopuhelu](../.gitbook/assets/videocall-fullscreen.jpg)
 
-Pienennä videopuhelunäkymä klikkaamalla ![](../.gitbook/assets/video-btn-toggle-normalsize.png) -pienennyskuvaketta.
+Pienennä videopuhelunäkymä klikkaamalla <img src="../.gitbook/assets/video-btn-toggle-normalsize.png" alt="" data-size="line"> -pienennyskuvaketta.
 
 ### Videopuhelun lopettaminen
 
-Lopeta videokeskustelu klikkaamalla ![](<../.gitbook/assets/video-btn-end-inv2 (1).png>) punaista puhelin-kuvaketta. Tämä ei päätä chat-istuntoa, vaan ainoastaan videopuhelun.&#x20;
+Lopeta videokeskustelu klikkaamalla <img src="../.gitbook/assets/video-btn-end-inv2.png" alt="" data-size="line"> punaista puhelin-kuvaketta. Tämä ei päätä chat-istuntoa, vaan ainoastaan videopuhelun.&#x20;
 
 ### Videoasetusten muuttaminen puhelun aikana
 
-Videopuhelun asetuksia voi jälkikäteen muuttaa asetuksista. Pääset asetuksiin klikkaamalla ![](../.gitbook/assets/video-btn-settings-inv.png)ratas-kuvaketta.
+Videopuhelun asetuksia voi jälkikäteen muuttaa asetuksista. Pääset asetuksiin klikkaamalla <img src="../.gitbook/assets/video-btn-settings-inv.png" alt="" data-size="line">ratas-kuvaketta.
 
 ## Ruudunjako
 
@@ -115,12 +115,12 @@ Kamerakuvan lisäksi on mahdollista jakaa myös oman ruudun näkymä vastapuolel
 
 Ruudunjako voidaan valita sen jälkeen kun olette aloittaneet videopuhelun.&#x20;
 
-1. Klikkaa ruudunjako-kuvaketta ![](../.gitbook/assets/video-btn-screenshare-inv.png)
+1. Klikkaa ruudunjako-kuvaketta <img src="../.gitbook/assets/video-btn-screenshare-inv.png" alt="" data-size="line">
 2. Valitse haluamasi välilehti: Koko näyttö / Ohjelma-ikkuna / Selain-välilehti (Koko näyttö on helpoin vaihtoehto, jos olet epävarma)
 3. Klikkaa välilehden alta näkymä jonka haluat jakaa.
 4. Tämän jälkeen "Jaa/Share" -nappi aktivoituu, klikkaa sitä
 5. Ruudunjako alkaa
-6. Lopeta ruuudunjako ja palaa videokameran kuvaan klikkaamalla![](../.gitbook/assets/video-btn-screenshare-inv.png)ruudunjako-kuvaketta uudestaan.
+6. Lopeta ruuudunjako ja palaa videokameran kuvaan klikkaamalla<img src="../.gitbook/assets/video-btn-screenshare-inv.png" alt="" data-size="line">ruudunjako-kuvaketta uudestaan.
 
 Riippuu selaimesta, voitko jakaa koko ruudun, yksittäisen sovelluksen, kuten web-selaimen tai tietyn selaimen välilehden.
 
@@ -147,7 +147,7 @@ Oheisesta kuvasta näet, miltä videopuhelu näyttää asiakkaan näkymässä.
 
 Ennen kuin aloitat videopuheluiden pitämisen, kokeile videotestityökalullamme, onko laitteistosi ja verkkoyhteytesi sopiva videopuhelujen käymiseen. Testi kertoo, mikäli jokin osa-alue ei ole kunnossa.
 
-#### [**Ninchat videopuhelu-testityökalu**](https://ninchat.com/videotest)****
+#### [**Ninchat videopuhelu-testityökalu**](https://ninchat.com/videotest)
 
 ### **Ohjeita ongelmatilanteisiin**
 
@@ -182,7 +182,7 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 > Virheilmoitus johtuu yleensä siitä, että jokin toinen ohjelma (kuten Skype) varaa kameran tai mikrofonin. Voit kokeilla sulkea muut ohjelmat ja käynnistää sen jälkeen selaimen uudelleen.\
 > Myös jokin tietoturvaohjelma saattaa estää kameran tai mikrofonin käytön.
 >
-> Lisäksi kannattaa kokeilla mennä videopuhelun aikana videoasetuksiin![](../.gitbook/assets/video-settings.png)ja tarkistaa mitä kameraa tai mikrofonia yritetään käyttää.
+> Lisäksi kannattaa kokeilla mennä videopuhelun aikana videoasetuksiin<img src="../.gitbook/assets/video-settings.png" alt="" data-size="line">ja tarkistaa mitä kameraa tai mikrofonia yritetään käyttää.
 >
 > Jotkin USB-laitteet kuten Jabra saattavat vaatia USB-portin vaihdon.
 

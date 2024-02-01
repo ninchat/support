@@ -23,10 +23,10 @@ Voit lopettaa keskustelun myös sivupalkin kautta, klikkaamalla nuoli-kuvaketta 
 
 ![](../.gitbook/assets/customer-chat-end2.png)
 
-### Päättynyt asiakaskeskustelu <a href="paattynyt-asiakaskeskustelu" id="paattynyt-asiakaskeskustelu"></a>
+### Päättynyt asiakaskeskustelu <a href="#paattynyt-asiakaskeskustelu" id="paattynyt-asiakaskeskustelu"></a>
 
-Jos olet jättänyt käydyn asiakaskeskustelun piilottamatta, ja avaat sen myöhemmin vasemmasta sivupalkista, näkymän päällä saattaa olla ilmoitus: "Kanava suljettu". Tämä on vain loppuneen asiakaskeskustelun merkkinä. 
+Jos olet jättänyt käydyn asiakaskeskustelun piilottamatta, ja avaat sen myöhemmin vasemmasta sivupalkista, näkymän päällä saattaa olla ilmoitus: "Kanava suljettu". Tämä on vain loppuneen asiakaskeskustelun merkkinä.&#x20;
 
 "Kanava suljettu" -ilmoitus ei tarkoita, että asiakasjono olisi suljettu.
 
-![Kanava suljettu -ilmoitus](../.gitbook/assets/channel-suspended.png)
+![Kanava suljettu -ilmoitus](../.gitbook/assets/channel-suspended.PNG)

@@ -8,7 +8,7 @@ Tässä dokumentissa esitellään asiakaspalvelu-chatin toimintaa ja näkymiä a
 
 Kysy lisää ja pyydä demo-toteutusta: [http://ninchat.com/demo](http://ninchat.com/demo)
 
-## Chatin aloitusnäkymät <a href="chatin-aloitusnakymat" id="chatin-aloitusnakymat"></a>
+## Chatin aloitusnäkymät <a href="#chatin-aloitusnakymat" id="chatin-aloitusnakymat"></a>
 
 ![](../.gitbook/assets/embed-welcome.png)
 
@@ -30,7 +30,7 @@ Chat-ikkuna voidaan otsikkopalkin valinnaisista napeista pienentää, sulkea ja 
 
 ![](../.gitbook/assets/embed-queued-questionnaire.png)
 
-### Jonotusnäkymä <a href="jonotusnakyma" id="jonotusnakyma"></a>
+### Jonotusnäkymä <a href="#jonotusnakyma" id="jonotusnakyma"></a>
 
 Valittuaan chatin aloituksen vieras siirtyy jonotusnäkymään. Jonotusnäkymä kertoo asiakkaan jonotusnumeron, eli onko hänen edellään muita asiakkaita. Agentin poimiessa asiakkaan jonosta, avautuu ikkunaan keskustelunäkymä.
 
@@ -60,7 +60,7 @@ Hymiöiden ohella voidaan käyttää loppukyselyä, jolla asiakkaalta saadaan ke
 
 ### Chat suljettu
 
-![](../.gitbook/assets/embed-offline-form.png)
+![](<../.gitbook/assets/embed-offline-form (2).png>)
 
 Kun asiakaspalvelu-chattia on suljettu, voidaan chat piilottaa tai näyttää heille suljettu-näkymä. Näkymään voidaan sijoittaa yhteydenottolomake, kertoa palvelusta ja aukioloajoista ja linkata muualle.
 

@@ -4,7 +4,7 @@ description: Asiakasjonon statistiikat (Organisaation operaattori)
 
 # Jonon tilastot
 
-## Tilasto-näkymä <a href="tilasto-nakyma" id="tilasto-nakyma"></a>
+## Tilasto-näkymä <a href="#tilasto-nakyma" id="tilasto-nakyma"></a>
 
 ### Tilastot-sivun avaaminen
 
@@ -17,7 +17,7 @@ B) Kaikkien organisaation jonojen tilastoihin pääset organisaatioasetuksista, 
 
 ### Ominaisuudet
 
-![Tilastokuvaajat](<../.gitbook/assets/stats3 (3).png>)
+![Tilastokuvaajat](../.gitbook/assets/stats3.png)
 
 Voit tarkastella keskusteluhistoriaa, tunnisteita (tägit), käyttäjätyytyväisyyttä, kyselyvastauksia ja metatietoja. Tilastot toimivat miltei reaaliajassa, ne päivittyvät viimeistään tunnin sisällä. Asiakaspalvelijoiden on mahdollista lisätä tunnisteita kuuden tunnin ajan keskustelun päättymisestä, joten ne päivittyvät tämän ajan sisällä.
 
@@ -56,7 +56,7 @@ Asiakkaan saapumista jonoon kutsutaan pyynnöksi:
 * Hyväksytty pyyntö: Asiakaspalvelija poimii asiakkaan jonosta.
 * Pudonnut pyyntö: Asiakasta ei poimita jonosta
 
-## Merkintäkohtaiset tilastot <a href="merkintakohtaiset-tilastot" id="merkintakohtaiset-tilastot"></a>
+## Merkintäkohtaiset tilastot <a href="#merkintakohtaiset-tilastot" id="merkintakohtaiset-tilastot"></a>
 
 ![](<../.gitbook/assets/stats-tags (1).png>)
 
@@ -71,19 +71,19 @@ Keskimääräinen arvosana liikkuu välillä 0,0 - 1,0.
 
 ## Päiväkohtaiset tilastot
 
-![Päiväkohtaiset tilastot](../.gitbook/assets/stats-daily.png)
+![Päiväkohtaiset tilastot](<../.gitbook/assets/stats daily.png>)
 
 Päiväkohtaisista tilastoista näet käydyt keskustelut ja voit katsoa keskustelulogeja.
 
 Klikkaa päiväriviä avataksesi näkymään kyseisen päivän keskustelut. Keskusteluhistoria-linkkiä klikkaamalla pääset lukemaan kyseisen keskustelun.
 
 {% hint style="info" %}
-![](../.gitbook/assets/rating--1.png) Negatiivinen palaute ei aina tunnu mukavalta mutta on monesti kaikkein arvokkain. Lukemalla negatiivisen palautteen aiheuttaneen keskustelun pääset helposti ongelman jäljille.
+<img src="../.gitbook/assets/rating--1.png" alt="" data-size="line"> Negatiivinen palaute ei aina tunnu mukavalta mutta on monesti kaikkein arvokkain. Lukemalla negatiivisen palautteen aiheuttaneen keskustelun pääset helposti ongelman jäljille.
 {% endhint %}
 
 ## &#x20;Keskusteluhistoria
 
-![](../.gitbook/assets/queue-stats-2-1.png)
+![](<../.gitbook/assets/queue stats 2 – 1.png>)
 
 Keskusteluhistorian tarkastelu
 
@@ -106,7 +106,7 @@ Ominaisuus voidaan ottaa käyttöön organisaatioasetuksissa.&#x20;
 2. Klikkaa ruutua “vaadi syytä keskusteluhistorian katseluun” (Require reason for viewing transcript).
 3. Tallenna.
 
-![](<../.gitbook/assets/syy-transkriptien-avaamiseen-fin-final (2).jpg>)
+![](<../.gitbook/assets/Syy transkriptien avaamiseen FIN Final (2).jpg>)
 
 ## Kyselyvastaukset
 
@@ -114,7 +114,7 @@ Kyselyvastauksia (chatin alku- ja loppukyselyt, sekä Ninchat-kevytbottikyselyt)
 
 Vastaukset ladataan lajiteltuna alku- ja loppukyselyvastauksiin. Voit myös suodattaa vastauksista ainoastaan rekisteröidyt kyselyvastaukset (Alkukyselyvastaukset, jotka eivät johda keskusteluun, kuten offline-ajan yhteydenottopyynnöt ja kevytbottivastaukset ja -kyselypolut).
 
-## Näin tarkastelet tilastoja <a href="nain-tarkastelet-tilastoja" id="nain-tarkastelet-tilastoja"></a>
+## Näin tarkastelet tilastoja <a href="#nain-tarkastelet-tilastoja" id="nain-tarkastelet-tilastoja"></a>
 
 ### Kuukausikohtaiset tilastot
 

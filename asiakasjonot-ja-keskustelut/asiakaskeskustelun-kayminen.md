@@ -16,7 +16,7 @@ Mahdollinen esikyselyn aloitusviesti (message) näkyy suoraan myös keskusteluss
 
 ## Viestin kirjoittaminen
 
-Kirjoita viestisi viestikenttään. Lähettäminen tapahtuu joko painamalla \[ENTER]-näppäintä tai klikkaamalla ![](../.gitbook/assets/icon-submit.PNG)lähetä-kuvaketta.
+Kirjoita viestisi viestikenttään. Lähettäminen tapahtuu joko painamalla \[ENTER]-näppäintä tai klikkaamalla <img src="../.gitbook/assets/icon-submit.PNG" alt="" data-size="line">lähetä-kuvaketta.
 
 Jos haluat tehdä rivinvaihdon viestiisi, se onnistuu painamalla yhtä aikaa \[SHIFT]+\[ENTER] -näppäimiä. Viestinkirjoituslaatikko venyy automaattisesti isommaksi kirjoittaessasi pidempiä viestejä.
 
@@ -47,7 +47,7 @@ Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaa
 
 Keskustelun alkuun voidaan välittää asiakkaasta perustiedot, jotka ovat hyödyllisiä mm. ongelmatilanteita selvitettäessä. Alkutietoihin voi lisätä esim. selaintiedon, ruudun koon, chatin aloitussivun ja sinne linkanneen sivun, sekä IP-osoitteen ja sijaintitiedot.
 
-![Tekniset tiedot asiakkaasta](../.gitbook/assets/metadata-customer.png)
+![Tekniset tiedot asiakkaasta](<../.gitbook/assets/metadata customer.png>)
 
 {% hint style="info" %}
 Kysy metatietojen lähettämisestä lisää Ninchatin henkilöstöltä.
@@ -68,7 +68,7 @@ Kysy meiltä lisää, tai tutustu API-dokumentaatioon:&#x20;
 
 Asiakkaan toimista sivustolla on mahdollista välittää reaaliaikaista tietoa asiakaspalvelijalle  neuvomisen helpottamiseksi. Esimerkiksi asiakkaan täyttäessä lomaketta, tiedot voidaan kertoa suoraan asiakaspalvelijalle, kuten mm. jos asiakas vaihtaa sivua keskustelun aikana.&#x20;
 
-![Live-asiakas-metatieto](../.gitbook/assets/metadata-live.png)
+![Live-asiakas-metatieto](<../.gitbook/assets/metadata live (1).png>)
 
 ### Koottu metatieto
 
@@ -76,7 +76,7 @@ Live-metadataa voidaan välittää asiakaspalvelijalle myös kootusti.&#x20;
 
 Esim. ostoskorin sisältö ja asiakkaan toimitustiedot voidaan välittää kaikki kerralla (myös salatusti), jolloin ne näytetään kootusti keskustelun sivupalkissa.
 
-![Yhteen koottu asiakas-metatieto](../.gitbook/assets/metadata-live-folded.png)
+![Yhteen koottu asiakas-metatieto](<../.gitbook/assets/metadata live folded.png>)
 
 ## Kyselytiedot
 
@@ -86,7 +86,7 @@ Myös keskustelun jälkeen esitettävän loppukyselyn vastaukset ilmestyvät met
 
 Alkukyselyssä voidaan kysyä asiakkaan nimi (userName) ja viesti (message), jotka tulevat mukaan myös itse keskusteluun sivupalkin vastausnäkymän lisäksi.&#x20;
 
-![Alkukyselytiedot keskustelussa](<../.gitbook/assets/customer-chat-questionnaire-data (1).png>)
+![Alkukyselytiedot keskustelussa](../.gitbook/assets/customer-chat-questionnaire-data.png)
 
 ## Valmisviestit
 

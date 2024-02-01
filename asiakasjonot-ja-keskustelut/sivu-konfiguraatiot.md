@@ -2,9 +2,9 @@
 description: Chattien asetustiedostot
 ---
 
-# Sivut-konfiguraatiot
+# Sivu-konfiguraatiot
 
-## Yleistä <a href="yleista" id="yleista"></a>
+## Yleistä <a href="#yleista" id="yleista"></a>
 
 Organisaatioasetusten _Sivut/Sites_-välilehdellä määritellään asiakaspalvelu-chattien ja julkisten ryhmäkeskustelujen asetukset, tekstit ja käännökset sekä tyylit.\
 Pääset konfiguraatioihin menemällä organisaatioasetuksiin ja valitsemalla Sivut-välilehden.
@@ -25,7 +25,7 @@ Sites-konfiguraatiot ovat edistyneen käyttäjän ominaisuus. Pyydä Ninchatin h
 
 #### Avaa Sivut/Sites-välilehti
 
-Avaa konfiguraatio editoitavaksi klikkaamalla ![](../.gitbook/assets/pen-edit-icon.png)kynä-ikonia oikeassa laidassa.
+Avaa konfiguraatio editoitavaksi klikkaamalla <img src="../.gitbook/assets/pen-edit-icon.png" alt="" data-size="line">kynä-ikonia oikeassa laidassa.
 
 ![Sivu-editorin avaaminen](../.gitbook/assets/siteconfig2.png)
 
@@ -37,7 +37,7 @@ Monikielisissä toteutuksissa eri kielille on omat osionsa ja käännöstekstins
 
 ![Sivu-editori](../.gitbook/assets/siteconfig3.png)
 
-### Yleisimpiä muutettavia tekstejä <a href="yleisimpia-muutettavia-teksteja" id="yleisimpia-muutettavia-teksteja"></a>
+### Yleisimpiä muutettavia tekstejä <a href="#yleisimpia-muutettavia-teksteja" id="yleisimpia-muutettavia-teksteja"></a>
 
 Useimmin muutettuja kohtia ovat alkunäkymän tekstit: **"welcome" (online)** sekä **"noQueuesText" (offline)**. Alla on lueteltu muita muutettavia tekstejä.
 
@@ -55,7 +55,7 @@ Useimmin muutettuja kohtia ovat alkunäkymän tekstit: **"welcome" (online)** se
 | postAudienceQuestionnaire | Chatin loppukysely                                                                                             |
 | window - titlebar - title | Chat-ikkunan otsikko                                                                                           |
 
-#### Yleisiä käytettyjä HTML-elementtejä <a href="yleisia-kaytettyja-html-elementteja" id="yleisia-kaytettyja-html-elementteja"></a>
+#### Yleisiä käytettyjä HTML-elementtejä <a href="#yleisia-kaytettyja-html-elementteja" id="yleisia-kaytettyja-html-elementteja"></a>
 
 | **HTML-tagi**                                                                   | **Kuvaus**                                                                                         |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ Tallentamisen yhteydessä editori tarkistaa, onko konfiguraation rakenne oikeell
 
 Tallennettuasi voi poistua organisaatiosetuksista.
 
-## Chatin ottaminen pois käytöstä <a href="chatin-ottaminen-pois-kaeytosta" id="chatin-ottaminen-pois-kaeytosta"></a>
+## Chatin ottaminen pois käytöstä <a href="#chatin-ottaminen-pois-kaeytosta" id="chatin-ottaminen-pois-kaeytosta"></a>
 
 Asiakaspalvelu-chatin voi nopeasti poistaa kokonaan käytöstä disabloimalla site-konfiguraatio. Klikkaa editorinäkymässä _Poista käytöstä/Disable_-nappia. Konfiguraatio näkyy tämän jälkeen listalla disabloituna.\
 Voit palauttaa chatin taas käyttöön klikkaamalla editorissa "Enable"-nappia.

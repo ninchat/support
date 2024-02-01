@@ -14,7 +14,7 @@ Keskusteluissa voidaan hyödyntää valmisvastauksia ja keskusteluihin voi lisä
 
 Asiakasjonot näkyvät vasemman laidan sivupalkissa. Klikkaamalla jonon nimeä saat auki asiakasjononäkymän, josta voidaan napata jonoon tulevat asiakkaat, sekä tarkastella jonon tapahtumia: milloin jono on avattu ja suljettu, sekä kuka on poiminut asiakkaita.
 
-![Asiakasjono sivupalkissa sekä jononäkymä](../.gitbook/assets/customerchat-queue-and-queue-log.png)
+![Asiakasjono sivupalkissa sekä jononäkymä](<../.gitbook/assets/customerchat-queue-and-queue-log (1).png>)
 
 {% content-ref url="asiakkaan-nappaaminen-jonosta.md" %}
 [asiakkaan-nappaaminen-jonosta.md](asiakkaan-nappaaminen-jonosta.md)

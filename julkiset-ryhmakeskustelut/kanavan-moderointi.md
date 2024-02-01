@@ -8,7 +8,7 @@ description: Ryhmäkanavien moderointityökalut
 
 Kanavaa voidaan ohjata ja moderoida seuraavista paikoista: Keskustelutyökalut, Kanavavalikko, Jäsenlistan käyttäjävalikko, Kanavan asetukset.
 
-Moderointityökalut näkyvät kun agentille on kyseisellä kanavalla annettu moderointioikeudet ![](../.gitbook/assets/moderator.png). Kanavan operaattoriagentti voi jakaa muille agenteille moderointioikeuksia. Oikeudet ovat kanavakohtaisia.
+Moderointityökalut näkyvät kun agentille on kyseisellä kanavalla annettu moderointioikeudet <img src="../.gitbook/assets/moderator.png" alt="" data-size="line">. Kanavan operaattoriagentti voi jakaa muille agenteille moderointioikeuksia. Oikeudet ovat kanavakohtaisia.
 
 {% hint style="info" %}
 Kun sinulle on annettu moderointioikeudet, päivitä sivu, jotta muutos astuu voimaan.
@@ -22,7 +22,7 @@ Moderaattorioikeuksia ei kannata pitää turhaan päällä, varsinkaan yksityisi
 
 ## Moderointityökalut
 
-![Moderaattorin työkalut ja valinnat](../.gitbook/assets/channel-embed-moderation.png)
+![Moderaattorin työkalut ja valinnat](<../.gitbook/assets/Channel embed moderation (1).png>)
 
 ### Piilotetut viestit
 
@@ -50,16 +50,16 @@ Lisää kanavan määrittelyjä alempana kohdassa "Kanavavalikko".
 
 Moderointityökalut tulevat esille kun hiiren osoittimen vie kommentin päälle.
 
-![Moderaattorin kommenttityökalut](<../.gitbook/assets/moderator-comment-tools (1).png>)
+![Moderaattorin kommenttityökalut](../.gitbook/assets/moderator-comment-tools.png)
 
-| Kommenttityökalu                                                                                                                                                            | Toiminta                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/mod1.png) **Piilota viesti / Hide message**                                                                                                          | Piilota kyseinen viesti muilta käyttäjiltä                                                                                         |
-| ![](../.gitbook/assets/unhide-message.png)**Näytä viesti / Show message**                                                                                                   | Näytä piilotettu viesti                                                                                                            |
-| ![](../.gitbook/assets/mod2.png) **Vaienna käyttäjä / Silence user**                                                                                                        | Käyttäjä hiljennetään toistaiseksi                                                                                                 |
-| <p><img src="../.gitbook/assets/mod3.png" alt=""> <strong>Vaienna käyttäjä x ajaksi /</strong> <br><strong>Silence this user for time being</strong></p>                    | <p>Käyttäjä hiljennetään valituksi ajaksi <br>(tämän jälkeen hän saa taas kirjoittaa)</p>                                          |
-| <p><img src="../.gitbook/assets/mod4.png" alt=""> <strong>Piilota kaikki käyttäjän viestit /</strong> <br><strong>Hide all messages from this user</strong></p>             | Kaikki käyttäjän viestit piilotetaan muilta vierailta                                                                              |
-| <p><img src="../.gitbook/assets/mod5.png" alt=""> <strong>Näytä/piilota käyttäjän uudet viestit /</strong> <br><strong>Toggle hide new messages from this user</strong></p> | <p>Käyttäjän uudet viestit piilotetaan/näytetään vakiona</p><p>(moderaattori voi käsin piilottaa/näyttää yksittäisiä viestejä)</p> |
+| Kommenttityökalu                                                                                                                                                                             | Toiminta                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/mod1.png" alt="" data-size="line"> **Piilota viesti / Hide message**                                                                                            | Piilota kyseinen viesti muilta käyttäjiltä                                                                                         |
+| <img src="../.gitbook/assets/unhide-message.png" alt="" data-size="line">**Näytä viesti / Show message**                                                                                     | Näytä piilotettu viesti                                                                                                            |
+| <img src="../.gitbook/assets/mod2.png" alt="" data-size="line"> **Vaienna käyttäjä / Silence user**                                                                                          | Käyttäjä hiljennetään toistaiseksi                                                                                                 |
+| <p><img src="../.gitbook/assets/mod3.png" alt="" data-size="line"> <strong>Vaienna käyttäjä x ajaksi /</strong> <br><strong>Silence this user for time being</strong></p>                    | <p>Käyttäjä hiljennetään valituksi ajaksi <br>(tämän jälkeen hän saa taas kirjoittaa)</p>                                          |
+| <p><img src="../.gitbook/assets/mod4.png" alt="" data-size="line"> <strong>Piilota kaikki käyttäjän viestit /</strong> <br><strong>Hide all messages from this user</strong></p>             | Kaikki käyttäjän viestit piilotetaan muilta vierailta                                                                              |
+| <p><img src="../.gitbook/assets/mod5.png" alt="" data-size="line"> <strong>Näytä/piilota käyttäjän uudet viestit /</strong> <br><strong>Toggle hide new messages from this user</strong></p> | <p>Käyttäjän uudet viestit piilotetaan/näytetään vakiona</p><p>(moderaattori voi käsin piilottaa/näyttää yksittäisiä viestejä)</p> |
 
 ### Käyttäjävalikko
 

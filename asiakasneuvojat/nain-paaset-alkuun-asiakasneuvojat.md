@@ -16,11 +16,11 @@ Olet saanut kutsulinkin sähköpostitse. Käytä Chrome- tai Firefox-selainta.
 
 Avaa kutsulinkki klikkaamalla sähköpostissa _Accept invitation_ -nappia.
 
-![Kutsuviesti sähköpostissa](../.gitbook/assets/invite-gmail.png)
+![Kutsuviesti sähköpostissa](<../.gitbook/assets/Invite gmail.png>)
 
 Linkin avaamalla sivulla, klikkaa näkymässä Accept invite.
 
-![](<../.gitbook/assets/invite-accept (1).png>)
+![](<../.gitbook/assets/Invite accept (1).png>)
 
 Lisätietoa sivulla _Ninchat-kutsun hyväksyminen_:
 
@@ -40,7 +40,7 @@ Anna tunnusta varten tiedot:&#x20;
 
 Klikkaa _Kirjaudu_ päästäksesi eteenpäin.
 
-![](<../.gitbook/assets/invite-accept-signup (2).png>)
+![](<../.gitbook/assets/Invite accept signup (2).png>)
 
 Lisätietoa sivulla _Käyttäjätilin luonti_:
 
@@ -66,7 +66,7 @@ Kirjaudu Ninchatiin osoitteessa [http://ninchat.com/app](http://ninchat.com/app)
 
 ## Käyttäjäasetukset <a href="#kayttajaasetukset" id="kayttajaasetukset"></a>
 
-### 1. Käyttäjäprofiili <a href="#1-kayttajaprofiili" id="1-kayttajaprofiili"></a>
+### 1. Käyttäjäprofiili <a href="#id-1-kayttajaprofiili" id="id-1-kayttajaprofiili"></a>
 
 Klikkaa vasemmassa alanurkassa nimesi vieressä olevaa väkäs-kuvaketta. Valitse avautuvasta valikosta _Asetukset ja profiili / Settings and profile_.
 
@@ -88,7 +88,7 @@ Ninchat voi ilmoittaa tapahtumista ja viesteistä kolmella tavalla: äänelle, t
 
 Mikäli et ole antanut lupaa selainilmoituksille ((työpöytäilmoitukset), salli ilmoitukset klikkaamalla _Salli/Enable_ -nappia.
 
-![](<../.gitbook/assets/user\_settings\_notifications (2).png>)
+![](<../.gitbook/assets/user\_settings\_notifications (1).png>)
 
 Ilmoitusasetuksissa on vakiona otettu käyttöönhyödyllisimmät ilmoitukset. Lisää tai poista halutut ilmoitukset esim. sähköpostiisi.
 
@@ -134,7 +134,7 @@ Mikäli olet saanut _organisaation operaattori_ -oikeudet, voit myös avata ja s
 
 ### Asiakaskeskustelunäkymä <a href="#asiakaskeskustelunakyma" id="asiakaskeskustelunakyma"></a>
 
-![](<../.gitbook/assets/customer-chat-agent-view (1).png>)
+![](<../.gitbook/assets/Customer Chat Agent View (1).png>)
 
 | 1) Sidebar                                                                                                                                                   | 2) Keskustelunäkymä                                                                                                                                              | 3) Chat-sivupalkki                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -179,7 +179,7 @@ Lue lisää videopuheluista:
 
 Mikäli järjestätte avoimia ryhmäkeskusteluja, jotka ovat upotettu omalle sivustollenne, tarvitsee kyseinen kanava keskustelulle moderaattorin. Ryhmäkanavan operaattorikäyttäjät voivat jakaa moderointioikeuksia agenteille.&#x20;
 
-![Moderointityökalut](<../.gitbook/assets/channel-embed-moderation (1).png>)
+![Moderointityökalut](<../.gitbook/assets/Channel embed moderation (2).png>)
 
 Lue lisää:
 

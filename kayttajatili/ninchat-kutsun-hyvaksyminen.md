@@ -8,9 +8,9 @@ Saat alkuun organisaatiosi ylläpitäjältä tai Ninchatin henkilöstöltä kuts
 2. **Avaa linkki klikkaamalla "Accept invitation" -nappia (Hyväksy kutsu)**
 3. **Web-sivulla avautuvassa ponnahdusikkunassa valitse "Accept invite".**
 
-![Klikkaa Ninchat-kutsulinkkiä sähköpostissa](../.gitbook/assets/invite-gmail.png)
+![Klikkaa Ninchat-kutsulinkkiä sähköpostissa](<../.gitbook/assets/Invite gmail.png>)
 
-![Hyväksy kutsu ja jatka tunnuksen luontiin](../.gitbook/assets/invite-accept.png)
+![Hyväksy kutsu ja jatka tunnuksen luontiin](<../.gitbook/assets/Invite accept.png>)
 
 ### Tunnuksen luominen ilman kutsua
 

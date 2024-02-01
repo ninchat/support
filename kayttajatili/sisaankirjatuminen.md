@@ -6,7 +6,7 @@ description: Ninchatiin kirjautuminen
 
 ## Kirjautumis-osoite
 
-**Kirjaudu Ninchatiin osoitteessa** [**https://ninchat.com/app**](https://ninchat.com/app)****
+**Kirjaudu Ninchatiin osoitteessa** [**https://ninchat.com/app**](https://ninchat.com/app)
 
 Voit luoda web-selaimeen kirjanmerkin helpottaaksesi Ninchatin avaamista, ohje täällä:
 

@@ -22,7 +22,7 @@ Ohjeet toimivat myös Microsoft Edge -selaimen uudella versiolla.
 
 Voit helpottaa Ninchatin käynnistämistä ja avaamista luomalla selaimen yläriville kirjanmerkin, tai tekemällä Ninchatille oman käynnistyspikakuvakkeen Windowsin työpöydälle.
 
-![Kirjanmerkin ja sovelluspikakuvakkeen lisääminen Chromessa](../.gitbook/assets/chrome-app.png)
+![Kirjanmerkin ja sovelluspikakuvakkeen lisääminen Chromessa](../.gitbook/assets/Chrome-app.png)
 
 #### Kirjanmerkki <a href="#kirjanmerkki" id="kirjanmerkki"></a>
 
@@ -55,7 +55,7 @@ Voit kiinnittää Ninchat-välilehden (tabin) yläriville, jolloin se pysyy aina
 2. Valitse Kiinnitä välilehti / Pin tab.
 3. Välilehti näkyy nyt pienempänä mutta pysyy aina auki valmiina.
 
-![](../.gitbook/assets/firefox.png)
+![](../.gitbook/assets/Firefox.png)
 
 ### Microsoft Edge (vanha versio)
 
@@ -76,7 +76,7 @@ Ollessasi osoitteessa https://ninchat.com/app tai tiimikanavalla, klikkaa selaim
 1. Kiinnitä sivu tehtäväpalkkiin / Pin this page to the taskbar. Voit tämän jälkeen käynnistää Ninchatin suoraan tehtäväpalkin kuvakkeesta.
 2. Kiinnitä sivu Aloitukseen / Pin this page to Start. Löydät tämän jälkeen Ninchatin ikonin Käynnistä-valikon ruudukosta, josta voit sen suoraan käynnistää.
 
-![Sivun kiinnittäminen Windowsin tehtäväpalkkiin tai Käynnistys-valikkoon](../.gitbook/assets/edge2.png)
+![Sivun kiinnittäminen Windowsin tehtäväpalkkiin tai Käynnistys-valikkoon](../.gitbook/assets/Edge2.png)
 
 #### Välilehden kiinnittäminen <a href="#vaelilehden-kiinnittaeminen-1" id="vaelilehden-kiinnittaeminen-1"></a>
 
@@ -86,7 +86,7 @@ Voit kiinnittää Ninchat-välilehden (tabin) yläriville, jolloin se pysyy aina
 2. Valitse Kiinnitä välilehti / Pin tab.
 3. Välilehti näkyy nyt pienempänä mutta pysyy aina auki valmiina.
 
-![Ninchat-välilehden kiinnittäminen Edgessä](<../.gitbook/assets/edge (1).png>)
+![Ninchat-välilehden kiinnittäminen Edgessä](../.gitbook/assets/Edge.png)
 
 ### Internet Explorer (IE)
 

@@ -8,7 +8,7 @@ description: Avoimen ryhmächatin ohjeistus
 
 ### Asiantuntijoiden ja vastaajien kutsuminen chattiin
 
-* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa. 
+* Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa.&#x20;
 * Klikkaa nimilistan viimeisenä olevaa linkkiä "Invite people / Kutsu väkeä" ja kopioi aukeavasta ikkunasta kutsu-linkki esim. sähköpostiin.
 * Jos et näe tekstiä "Invite people", sinulta puuttuu kanavan operaattorioikeudet.
 
@@ -24,10 +24,10 @@ Kanavan operaattorit ja moderaattorit ylläpitävät keskustelukanavaa. Lisäksi
 
 Kanavan operaattorioikeudet voit pitää päällä itselläsi/työntekijöillä - niiden avulla saa kutsuttua uusia ihmisiä ja annettua moderaattori- ja operaattorioikeuksia.
 
-| Jäsenlistan merkintä                                     | Merkitys                                                                                                                                    |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/operator.png) Tähti, umpinainen   | <p>Kanavan operaattorikäyttäjä:</p><p>voi hallita kanavan asetuksia ja kutsua jäseniä</p><p>(eri oikeus kuin organisaation operaattori)</p> |
-| ![](../.gitbook/assets/moderator.png) Tähti, reunustettu | <p>Kanavan moderaattorikäyttäjä:</p><p>voi moderoida viestejä ja poistaa jäseniä</p>                                                        |
+| Jäsenlistan merkintä                                                                    | Merkitys                                                                                                                                    |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/operator.png" alt="" data-size="line"> Tähti, umpinainen   | <p>Kanavan operaattorikäyttäjä:</p><p>voi hallita kanavan asetuksia ja kutsua jäseniä</p><p>(eri oikeus kuin organisaation operaattori)</p> |
+| <img src="../.gitbook/assets/moderator.png" alt="" data-size="line"> Tähti, reunustettu | <p>Kanavan moderaattorikäyttäjä:</p><p>voi moderoida viestejä ja poistaa jäseniä</p>                                                        |
 
 #### Kanavan operaattorioikeudet päälle
 
@@ -38,7 +38,7 @@ Kanavan moderointioikeudet laitetaan päälle asiantuntijoille ym vierailijoille
 
 Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta _"Give moderator rights / Anna moderaattorioikeudet"_.
 
-### Moderaattorin käyttäjäasetukset <a href="moderaattorin-kayttajaasetukset" id="moderaattorin-kayttajaasetukset"></a>
+### Moderaattorin käyttäjäasetukset <a href="#moderaattorin-kayttajaasetukset" id="moderaattorin-kayttajaasetukset"></a>
 
 **Tärkeää!** Moderaattorien piilottamat viestit on hyödyllistä laittaa näkymään moderaattorille itselleen, jolloin sitä voi tarpeen vaatiessa yhä muokata. Tee näin:
 
@@ -50,14 +50,14 @@ Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta _"G
 ## Ryhmächatin avaaminen
 
 * Varmista, että olet haluamallasi ryhmächat-kanavalla Ninchatissa
-* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Kanavan asetukset (Channel settings)" 
-* Tee kaksi muutosta: 
+* Avaa valikko vasemmasta yläkulmasta kanavan nimen kohdalta ja valitse "Kanavan asetukset (Channel settings)"&#x20;
+* Tee kaksi muutosta:&#x20;
   * "Kenelle viestit näkyvät (Who can read messages)" - kohdasta valitse "Kaikki voivat seurata keskustelua anonyymisti, tästä hetkestä alkaen (Everybody may follow anonymously, history available since this moment)"
-  * "Kuka voi kirjoittaa kanavalle (Who can write messages)" -kohdasta valitse "Kanavan jäsenet (Channel members)" 
-* Klikkaa sivun alareunasta "Save" 
+  * "Kuka voi kirjoittaa kanavalle (Who can write messages)" -kohdasta valitse "Kanavan jäsenet (Channel members)"&#x20;
+* Klikkaa sivun alareunasta "Save"&#x20;
 * Sulje valikko samaa reittiä kun avasitkin sen (vasemmasta yläkulmasta kanavan nimen kohdalta "Close")
 
-## Keskustelijoiden näkyminen kanavalla <a href="keskustelijoiden-nakyminen-kanavalla" id="keskustelijoiden-nakyminen-kanavalla"></a>
+## Keskustelijoiden näkyminen kanavalla <a href="#keskustelijoiden-nakyminen-kanavalla" id="keskustelijoiden-nakyminen-kanavalla"></a>
 
 Vieraat eivät näy kanavan jäsenlistassa ennen kuin he osallistuvat keskusteluun, eli kirjoittavat ensimmäisen viestin ja antavat itselleen samalla nimen/nimimerkin.\
 Näin tapahtuu mikäli kanavan _Kenelle viestit näkyvät_ -asetus on _Kaikki voivat seurata keskustelua anonyymisti_.
@@ -69,12 +69,12 @@ Mikäli haluatte, että hiljaiset seuraajatkin näkyvät jäsenlistassa heti kes
 | Kaikki voivat seurata keskustelua anonyymisti \[pvm ja aika] alkaen | Vieraat näkyvät jäsenlistalla vasta kun ovat kirjoittaneet ensimmäisen kommentin                       |
 | Kanavan jäsenille, historia näytetään \[pvm ja aika]                | Vieraat näkyvät jäsenlistalla heti tultuaan nimettöminä, ja nimen kanssa ensimmäisen kommentin jälkeen |
 
-## Ryhmächat-kanavan ajastaminen <a href="ryhmachat-kanavan-ajastaminen" id="ryhmachat-kanavan-ajastaminen"></a>
+## Ryhmächat-kanavan ajastaminen <a href="#ryhmachat-kanavan-ajastaminen" id="ryhmachat-kanavan-ajastaminen"></a>
 
 Julkisen ryhmäkeskusteluanavan voi asettaa avautumaan ja sulkeutumaan automaattisesti.\
 Katso lisää kohdassa [Tiimikanavat > Kanava asetukset > Kanavan aikataulu](https://ninchat.gitbook.io/ninchat-support/tiimikanavat/kanavan-asetukset#kanavan-aikataulu).
 
-## Ryhmächatin sulkeminen <a href="ryhmachatin-sulkeminen" id="ryhmachatin-sulkeminen"></a>
+## Ryhmächatin sulkeminen <a href="#ryhmachatin-sulkeminen" id="ryhmachatin-sulkeminen"></a>
 
 Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel". Tämän jälkeen uusien viestien kirjoittaminen on estetty ja kirjoituskentässä näkyy asetettu Kanava suljettu -viesti. Muuta viestiä halutessasi kanavan asetuksissa.
 
@@ -82,7 +82,7 @@ Voit sulkea keskustelun klikkaamalla kanavalikosta "Sulje kanava / Close channel
 [kanavan-asetukset.md](../tiimikanavat/kanavan-asetukset.md)
 {% endcontent-ref %}
 
-#### Kanava suljettu-viestin näkyminen <a href="kanava-suljettu-viestin-nakyminen" id="kanava-suljettu-viestin-nakyminen"></a>
+#### Kanava suljettu-viestin näkyminen <a href="#kanava-suljettu-viestin-nakyminen" id="kanava-suljettu-viestin-nakyminen"></a>
 
 Offline-viestin näkymiseksi kaikille, kanavan _Kenelle viestit näkyvät_ -asetus tulee olla: _"Kaikki voivat seurata keskustelua anonyymisti, \[pvm/klo] alkaen"_.\
 Huomioi viestihistorian näkyminen ja piilottaminen, ks. seuraava kohta.

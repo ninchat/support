@@ -72,14 +72,14 @@ Ilmoitus, joka näytetään kanavalla sen ollessa suljettuna. Esim. "Kanava on s
 
 Voit tarvittaessa piilottaa mahdollisuuden aloittaa yksityiskeskusteluja jäsenlistan kautta.
 
-![](../.gitbook/assets/channel-settings-1.png)
+![](<../.gitbook/assets/Channel settings 1.png>)
 
-![](../.gitbook/assets/channel-settings-2.png)
+![](<../.gitbook/assets/Channel settings 2.png>)
 
 ## Kanavan aikataulu
 
 Julkinen upotettava ryhmäkeskustelukanava voidaan ajastaa asiakasjonon tavoin.
 
-![](../.gitbook/assets/channel-settings-3.png)
+![](<../.gitbook/assets/Channel settings 3.png>)
 
 ###

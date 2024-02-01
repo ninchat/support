@@ -37,7 +37,7 @@ Kullekin päivälle voi luoda useita avaamis- ja sulkemishetkiä:
 
 ![Päiväkohtaisten ajastusten muokkaus](../.gitbook/assets/schedule-weekly-set.png)
 
-### Luo vuosittaisia poikkeusaikatauluja (Annual exceptions) <a href="luo-vuosittaisia-poikkeusaikatauluja" id="luo-vuosittaisia-poikkeusaikatauluja"></a>
+### Luo vuosittaisia poikkeusaikatauluja (Annual exceptions) <a href="#luo-vuosittaisia-poikkeusaikatauluja" id="luo-vuosittaisia-poikkeusaikatauluja"></a>
 
 Voit luoda chat-jonolle vuosittain (annual) samoilla päivämäärillä tapahtuvia poikkeuksia esim. juhlapyhille ja muille vapaapäiville.
 
@@ -48,18 +48,18 @@ Ao. kuvassa on joka vuosi toistuva poikkeusaikataulu ystävänpäivälle 14.2.  
 
 ![](../.gitbook/assets/schedule-annual.png)
 
-### Luo yksittäisiä, kerran tapahtuvia poikkeuksia (Exceptions) <a href="luo-yksittaisia-kerran-tapahtuvia-poikkeuksia" id="luo-yksittaisia-kerran-tapahtuvia-poikkeuksia"></a>
+### Luo yksittäisiä, kerran tapahtuvia poikkeuksia (Exceptions) <a href="#luo-yksittaisia-kerran-tapahtuvia-poikkeuksia" id="luo-yksittaisia-kerran-tapahtuvia-poikkeuksia"></a>
 
 Voit luoda yksittäisen, kerran tapahtuvan poikkeuksen (exception) chat-jonolle.
 
-1. Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä, eikä toistu tulevina vuosina. 
+1. Yksittäisen poikkeuspäivän luominen ohittaa asetetut aikataulut ja vuosittaiset poikkeukset. Poikkeus tapahtuu ainoastaan kerran, yhtenä tiettynä päivänä, eikä toistu tulevina vuosina.&#x20;
 2. Jos haluat, ettei chat avaudu tiettynä päivänä lainkaan, lisää poikkeuspäivä ilman avaamis- tai sulkemistietoja, eli tyhjä päivä.
 
 Ao. kuvan esimerkissä on 19.9.2019 tapahtuva poikkeusajastus, joka ohittaa normaalin viikkoajastuksen.
 
 ![](../.gitbook/assets/schedule-exception.png)
 
-### Lomatauko - Ajastukset päälle/pois <a href="ajastukset-paalle-pois" id="ajastukset-paalle-pois"></a>
+### Lomatauko - Ajastukset päälle/pois <a href="#ajastukset-paalle-pois" id="ajastukset-paalle-pois"></a>
 
 "Ota aikataulu käyttöön" -kohdasta voit nopeasti asettaa ajastukset käyttöön tai pois.
 
@@ -67,7 +67,7 @@ Mikäli pidätte chatin suljettuna esim. kesäloman tai joulun pyhien ajan, on h
 
 Muistakaa tarvittaessa asettaa haluamanne suljettu-viesti lomien ajaksi ja mielellään jo etukäteen.
 
-![Ajastukset käytössä/pois käytöstä](../.gitbook/assets/ajastus-ota-aikataulu-kaeyttoeoen.png)
+![Ajastukset käytössä/pois käytöstä](../.gitbook/assets/ajastus-ota-aikataulu-käyttöön.png)
 
 ## Ongelmatilanteita
 
