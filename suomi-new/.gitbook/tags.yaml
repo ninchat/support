@@ -1,0 +1,8 @@
+- tag: jonon-asetukset
+  label: Jonon asetukset
+  icon: wave-sine
+  color: orange
+- tag: tilastot
+  label: Tilastot
+  icon: chart-line
+  color: blue
