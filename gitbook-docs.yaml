@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Ninchat Support
+  structure:
+    - type: space
+      key: space-1
+      title: English
+      path: english
+      content:
+        directory: ./english
+    - type: space
+      key: space-2
+      title: "Suomi "
+      path: master
+      default: true
+      content:
+        directory: ./master
