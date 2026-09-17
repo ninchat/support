@@ -15,3 +15,10 @@ site:
       default: true
       content:
         directory: ./master
+    - type: space
+      key: space-3
+      title: Suomi NEW
+      path: suomi-new
+      content:
+        directory: ./suomi-new
+        language: fi
