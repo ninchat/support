@@ -22,3 +22,10 @@ site:
       content:
         directory: ./suomi-new
         language: fi
+    - type: space
+      key: space-4
+      title: English NEW
+      path: english-new
+      content:
+        directory: ./english-new
+        language: en
