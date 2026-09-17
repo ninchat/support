@@ -34,8 +34,8 @@ After opening the link click on the _Accept invite_ -button.
 
 For more information, see the page _Ninchat invitation:_
 
-{% content-ref url="kayttajatili/accept-ninchat-invitation.md" %}
-[accept-ninchat-invitation.md](kayttajatili/accept-ninchat-invitation.md)
+{% content-ref url="user-account/accept-ninchat-invitation.md" %}
+[accept-ninchat-invitation.md](user-account/accept-ninchat-invitation.md)
 {% endcontent-ref %}
 {% endstep %}
 
@@ -60,8 +60,8 @@ Click on _Create account_ to proceed.
 
 More info on page _Create new account_:
 
-{% content-ref url="kayttajatili/create-account.md" %}
-[create-account.md](kayttajatili/create-account.md)
+{% content-ref url="user-account/create-account.md" %}
+[create-account.md](user-account/create-account.md)
 {% endcontent-ref %}
 {% endstep %}
 
@@ -124,8 +124,8 @@ For more information, see the _User Settings_ page:
 
 
 
-{% content-ref url="kayttajatili/user-settings.md" %}
-[user-settings.md](kayttajatili/user-settings.md)
+{% content-ref url="user-account/user-settings.md" %}
+[user-settings.md](user-account/user-settings.md)
 {% endcontent-ref %}
 
 ## Channel
@@ -134,16 +134,16 @@ Through the invitation, you will gain access to your internal team channel, wher
 
 Through the channel’s member list, you can also start one-to-one private conversations with your teammates. Read more on the following pages:
 
-{% content-ref url="../user-interface/tiimikanavat/" %}
-[tiimikanavat](../user-interface/tiimikanavat/)
+{% content-ref url="../user-interface/team-channels/" %}
+[team-channels](../user-interface/team-channels/)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/tiimikanavat/private-conversations.md" %}
-[private-conversations.md](../user-interface/tiimikanavat/private-conversations.md)
+{% content-ref url="../user-interface/team-channels/private-conversations.md" %}
+[private-conversations.md](../user-interface/team-channels/private-conversations.md)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/kayttoliittyman-esittely/" %}
-[kayttoliittyman-esittely](../user-interface/kayttoliittyman-esittely/)
+{% content-ref url="../user-interface/user-interface-overview/" %}
+[user-interface-overview](../user-interface/user-interface-overview/)
 {% endcontent-ref %}
 
 ## Customer queues and chats
@@ -172,8 +172,8 @@ Before you start using video chats test the functionality and compatibility with
 
 Read more about video calls:
 
-{% content-ref url="../user-interface/asiakasjonot-ja-keskustelut/video-meetings.md" %}
-[video-meetings.md](../user-interface/asiakasjonot-ja-keskustelut/video-meetings.md)
+{% content-ref url="../user-interface/customer-service-queues-and-conversations/video-meetings.md" %}
+[video-meetings.md](../user-interface/customer-service-queues-and-conversations/video-meetings.md)
 {% endcontent-ref %}
 
 Read more:
@@ -184,8 +184,8 @@ Read more:
 
 From the user settings you can add canned messages that speed up and ease your work when answering to customers. Read more on page _User settings_ section _Canned messages_.
 
-{% content-ref url="kayttajatili/user-settings.md" %}
-[user-settings.md](kayttajatili/user-settings.md)
+{% content-ref url="user-account/user-settings.md" %}
+[user-settings.md](user-account/user-settings.md)
 {% endcontent-ref %}
 
 
@@ -194,16 +194,16 @@ From the user settings you can add canned messages that speed up and ease your w
 
 Every time someone mentions your name in chat you get a notification. You may add more words and terms to highlighted words so you'll receive a notification whenever one of these are mentioned i.e. "sale", "lunch", "problem". Read more on page _User settings_ section _Highlights_.
 
-{% content-ref url="kayttajatili/user-settings.md" %}
-[user-settings.md](kayttajatili/user-settings.md)
+{% content-ref url="user-account/user-settings.md" %}
+[user-settings.md](user-account/user-settings.md)
 {% endcontent-ref %}
 
 ### Useful links:
 
-{% content-ref url="../user-interface/yleisia-vinkkeja/forgotten-password.md" %}
-[forgotten-password.md](../user-interface/yleisia-vinkkeja/forgotten-password.md)
+{% content-ref url="../user-interface/general-tips/forgotten-password.md" %}
+[forgotten-password.md](../user-interface/general-tips/forgotten-password.md)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/yleisia-vinkkeja/sign-in-problems.md" %}
-[sign-in-problems.md](../user-interface/yleisia-vinkkeja/sign-in-problems.md)
+{% content-ref url="../user-interface/general-tips/sign-in-problems.md" %}
+[sign-in-problems.md](../user-interface/general-tips/sign-in-problems.md)
 {% endcontent-ref %}

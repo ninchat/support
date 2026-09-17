@@ -9,34 +9,34 @@ metaLinks:
 
 # Instructions for operators
 
-{% content-ref url="../user-interface/organisaatio/organisaation-jasenten-hallinta/add-new-member.md" %}
-[add-new-member.md](../user-interface/organisaatio/organisaation-jasenten-hallinta/add-new-member.md)
+{% content-ref url="../user-interface/organization/organization-member-management/add-new-member.md" %}
+[add-new-member.md](../user-interface/organization/organization-member-management/add-new-member.md)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/tiimikanavat/invite-to-channel.md" %}
-[invite-to-channel.md](../user-interface/tiimikanavat/invite-to-channel.md)
+{% content-ref url="../user-interface/team-channels/invite-to-channel.md" %}
+[invite-to-channel.md](../user-interface/team-channels/invite-to-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/organisaatio/" %}
-[Organization](../user-interface/organisaatio/)
+{% content-ref url="../user-interface/organization/" %}
+[Organization](../user-interface/organization/)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/tiimikanavat/" %}
-[tiimikanavat](../user-interface/tiimikanavat/)
+{% content-ref url="../user-interface/team-channels/" %}
+[team-channels](../user-interface/team-channels/)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/asiakasjonojen-hallinta/" %}
-[Customer service queues](../user-interface/asiakasjonojen-hallinta/)
+{% content-ref url="../user-interface/queue-management/" %}
+[Customer service queues](../user-interface/queue-management/)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/asiakasjonot-ja-keskustelut/" %}
-[asiakasjonot-ja-keskustelut](../user-interface/asiakasjonot-ja-keskustelut/)
+{% content-ref url="../user-interface/customer-service-queues-and-conversations/" %}
+[customer-service-queues-and-conversations](../user-interface/customer-service-queues-and-conversations/)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/organisaatio/organisaation-jasenten-hallinta/remove-member.md" %}
-[remove-member.md](../user-interface/organisaatio/organisaation-jasenten-hallinta/remove-member.md)
+{% content-ref url="../user-interface/organization/organization-member-management/remove-member.md" %}
+[remove-member.md](../user-interface/organization/organization-member-management/remove-member.md)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/tiimikanavat/remove-channel-member.md" %}
-[remove-channel-member.md](../user-interface/tiimikanavat/remove-channel-member.md)
+{% content-ref url="../user-interface/team-channels/remove-channel-member.md" %}
+[remove-channel-member.md](../user-interface/team-channels/remove-channel-member.md)
 {% endcontent-ref %}
