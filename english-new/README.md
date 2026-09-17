@@ -51,4 +51,8 @@ Sing in to the new interface from [https://ninchat.com/new](https://ninchat.com/
 [queue-settings.md](user-interface/queue-management/queue-settings.md)
 {% endcontent-ref %}
 
+{% content-ref url="public-group-discussions/organizing-group-discussion.md" %}
+[organizing-group-discussion.md](public-group-discussions/organizing-group-discussion.md)
+{% endcontent-ref %}
+
 ***
