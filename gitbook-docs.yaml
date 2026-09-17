@@ -3,22 +3,16 @@ site:
   title: Ninchat Support
   structure:
     - type: space
-      key: space-2
-      title: "Suomi "
-      path: master
-      default: true
-      content:
-        directory: ./master
-    - type: space
       key: space-3
-      title: Suomi NEW
+      title: Suomi
       path: suomi-new
+      default: true
       content:
         directory: ./suomi-new
         language: fi
     - type: space
       key: space-4
-      title: English NEW
+      title: English
       path: english-new
       content:
         directory: ./english-new
