@@ -1,5 +1,5 @@
 ---
-description: Ryhmäkeskustelut ja moderointi
+description: Group discussions and moderation
 hidden: true
 icon: screen-users
 metaLinks:
@@ -7,20 +7,20 @@ metaLinks:
     - https://app.gitbook.com/s/2uaSodGerm08OIAGW4lA/julkiset-ryhmakeskustelut
 ---
 
-# Julkiset ryhmäkeskustelut
+# Public group discussions
 
-## Yleistä
+## General information
 
-Julkiset ryhmäkeskustelut ovat asiakkaan web-sivustolle upotettavia kanavia. Upotetuissa ryhmäkeskusteluissa ei ole yksityiskeskusteluja, mutta ne voivat toimia yhtä aikaa samalla sivulla yksityisen asiakaspalvelu-chatin (asiakaspalvelujono) rinnalla.
+Public group discussions are channels embedded on a customer's website. Embedded group discussions do not include private conversations, but they can run on the same page alongside a private customer service chat (customer service queue).
 
-{% content-ref url="ryhmakeskustelun-upottaminen-web-sivustolle.md" %}
-[ryhmakeskustelun-upottaminen-web-sivustolle.md](ryhmakeskustelun-upottaminen-web-sivustolle.md)
+{% content-ref url="embedding-group-discussion.md" %}
+[embedding-group-discussion.md](embedding-group-discussion.md)
 {% endcontent-ref %}
 
-{% content-ref url="kanavan-moderointi.md" %}
-[kanavan-moderointi.md](kanavan-moderointi.md)
+{% content-ref url="channel-moderation.md" %}
+[channel-moderation.md](channel-moderation.md)
 {% endcontent-ref %}
 
-{% content-ref url="../user-interface/tiimikanavat/kanavan-asetukset.md" %}
-[kanavan-asetukset.md](../user-interface/tiimikanavat/kanavan-asetukset.md)
+{% content-ref url="../user-interface/tiimikanavat/channel-settings.md" %}
+[channel-settings.md](../user-interface/tiimikanavat/channel-settings.md)
 {% endcontent-ref %}

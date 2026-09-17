@@ -5,7 +5,7 @@ description: >-
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/2uaSodGerm08OIAGW4lA/kayttoliittyma/organisaatio/jononippu
+      https://app.gitbook.com/s/2uaSodGerm08OIAGW4lA/kayttoliittyma/organisaatio/queue-groups
 ---
 
 # Queue groups

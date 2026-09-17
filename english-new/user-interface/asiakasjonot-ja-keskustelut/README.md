@@ -21,8 +21,8 @@ Customer care queues appear in the left Sidebar. Clicking a queue bar will open 
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p>Queue activity view.</p></figcaption></figure></div>
 
-{% content-ref url="asiakkaan-nappaaminen-jonosta.md" %}
-[asiakkaan-nappaaminen-jonosta.md](asiakkaan-nappaaminen-jonosta.md)
+{% content-ref url="picking-customer-from-queue.md" %}
+[picking-customer-from-queue.md](picking-customer-from-queue.md)
 {% endcontent-ref %}
 
 ### Customer queue states <a href="#asiakasjonon-tilat" id="asiakasjonon-tilat"></a>
@@ -53,12 +53,12 @@ Clicking the arrow icon next to a queue name in the Sidebar will open a drop-dow
 
 ### **Opening and closing queue**
 
-{% content-ref url="jonon-avaaminen-ja-sulkeminen.md" %}
-[jonon-avaaminen-ja-sulkeminen.md](jonon-avaaminen-ja-sulkeminen.md)
+{% content-ref url="opening-and-closing-queue.md" %}
+[opening-and-closing-queue.md](opening-and-closing-queue.md)
 {% endcontent-ref %}
 
-{% content-ref url="../asiakasjonojen-hallinta/jonon-ajastaminen.md" %}
-[jonon-ajastaminen.md](../asiakasjonojen-hallinta/jonon-ajastaminen.md)
+{% content-ref url="../asiakasjonojen-hallinta/queue-schedule.md" %}
+[queue-schedule.md](../asiakasjonojen-hallinta/queue-schedule.md)
 {% endcontent-ref %}
 
 ## Customer conversation view <a href="#asiakaskeskustelu-nakyma" id="asiakaskeskustelu-nakyma"></a>
@@ -69,16 +69,16 @@ Clicking the arrow icon next to a queue name in the Sidebar will open a drop-dow
 
 Some actions are shown only if they are enabled.
 
-{% content-ref url="asiakaskeskustelun-kayminen.md" %}
-[asiakaskeskustelun-kayminen.md](asiakaskeskustelun-kayminen.md)
+{% content-ref url="having-customer-conversation.md" %}
+[having-customer-conversation.md](having-customer-conversation.md)
 {% endcontent-ref %}
 
-{% content-ref url="asiakaskeskustelun-lopettaminen.md" %}
-[asiakaskeskustelun-lopettaminen.md](asiakaskeskustelun-lopettaminen.md)
+{% content-ref url="ending-customer-conversation.md" %}
+[ending-customer-conversation.md](ending-customer-conversation.md)
 {% endcontent-ref %}
 
-{% content-ref url="../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md" %}
-[ongelmat-kayttoliittymassa.md](../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md)
+{% content-ref url="../yleisia-vinkkeja/interface-problems.md" %}
+[interface-problems.md](../yleisia-vinkkeja/interface-problems.md)
 {% endcontent-ref %}
 
 ### Managing customer queue agents <a href="#managing-customer-queue-agents" id="managing-customer-queue-agents"></a>
@@ -86,5 +86,5 @@ Some actions are shown only if they are enabled.
 Instructions on how to add and manage queue members are described in the _Organization_ section:
 
 {% content-ref url="../organisaatio/" %}
-[organisaatio](../organisaatio/)
+[Organization](../organisaatio/)
 {% endcontent-ref %}

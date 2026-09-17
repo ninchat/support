@@ -11,19 +11,19 @@ metaLinks:
 
 With operator rights, you can view all of your organization's queues in the 'Queues' section of the Organization Settings, access the settings and statistics for each queue, and manage queue members.
 
-{% content-ref url="jonon-asetukset.md" %}
-[jonon-asetukset.md](jonon-asetukset.md)
+{% content-ref url="queue-settings.md" %}
+[queue-settings.md](queue-settings.md)
 {% endcontent-ref %}
 
-{% content-ref url="jonon-tilastot.md" %}
-[jonon-tilastot.md](jonon-tilastot.md)
+{% content-ref url="queue-statistics.md" %}
+[queue-statistics.md](queue-statistics.md)
 {% endcontent-ref %}
 
 {% content-ref url="../organisaatio/queue-groups.md" %}
-[queue-groups.md](../organisaatio/queue-groups.md)
+[Queue groups](../organisaatio/queue-groups.md)
 {% endcontent-ref %}
 
-### Manage queue members <a href="#jonon-jasenten-hallinta" id="jonon-jasenten-hallinta"></a>
+### Manage queue members <a href="#manage-queue-members" id="manage-queue-members"></a>
 
 You can manage the members belonging to a specific queue, add and remove them in the 'Queues' section of the Organization dashboard. You can manage an individual user's queues by clicking on the user row in the 'Organization' section.
 

@@ -5,7 +5,7 @@ description: >-
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/2uaSodGerm08OIAGW4lA/kayttoliittyma/asiakasjonot-ja-keskustelut/yhteydenoton-tiketointi
+      https://app.gitbook.com/s/2uaSodGerm08OIAGW4lA/kayttoliittyma/asiakasjonot-ja-keskustelut/audience-ticketing
 ---
 
 # Audience ticketing

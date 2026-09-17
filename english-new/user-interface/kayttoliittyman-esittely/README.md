@@ -120,8 +120,8 @@ During a customer conversation, you can also:
 
 In the top bar of the channel, you can see the channel members. The full member list can be opened from the three‑dot menu or the channel details icon. From the list, you can start private conversations with channel members (Dialogues). Channel operators can invite new members and assign user permissions.
 
-{% content-ref url="../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md" %}
-[ongelmat-kayttoliittymassa.md](../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md)
+{% content-ref url="../yleisia-vinkkeja/interface-problems.md" %}
+[interface-problems.md](../yleisia-vinkkeja/interface-problems.md)
 {% endcontent-ref %}
 
 ### **Video meeting**
@@ -130,8 +130,8 @@ You can start a video conversation by clicking the Video icon in the upper‑rig
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption><p>When you click the Join video meeting button, you will start the video call.</p></figcaption></figure></div>
 
-{% content-ref url="../asiakasjonot-ja-keskustelut/videopuhelut.md" %}
-[videopuhelut.md](../asiakasjonot-ja-keskustelut/videopuhelut.md)
+{% content-ref url="../asiakasjonot-ja-keskustelut/video-meetings.md" %}
+[video-meetings.md](../asiakasjonot-ja-keskustelut/video-meetings.md)
 {% endcontent-ref %}
 
 ### **Queue activity view**
@@ -152,26 +152,24 @@ As operator, you can view ongoing customer conversation metadata and questionnai
 
 ### **Private conversations (Dialogues)**
 
-Yksityiskeskustelu aloitetaan klikkaamalla kyseisen henkilön kuvaketta. Avattuasi henkilön kortin, voit tästä valita "Aloita yksityiskeskustelu". Yksityiskeskustelut kertyvät Yksityiskeskustelut -otsikon alle.
-
 A private conversation is started by clicking a person’s avatar. After opening the person’s card, select Start private conversation. Private conversations are listed under Dialogue&#x73;**.**
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>Starting a private conversation.</p></figcaption></figure></div>
 
-{% content-ref url="../tiimikanavat/yksityiskeskustelut.md" %}
-[yksityiskeskustelut.md](../tiimikanavat/yksityiskeskustelut.md)
+{% content-ref url="../tiimikanavat/private-conversations.md" %}
+[private-conversations.md](../tiimikanavat/private-conversations.md)
 {% endcontent-ref %}
 
 ***
 
-{% content-ref url="../../organization-member/kayttajatili/kayttajaasetukset.md" %}
-[kayttajaasetukset.md](../../organization-member/kayttajatili/kayttajaasetukset.md)
+{% content-ref url="../../organization-member/kayttajatili/user-settings.md" %}
+[user-settings.md](../../organization-member/kayttajatili/user-settings.md)
 {% endcontent-ref %}
 
 {% content-ref url="../organisaatio/" %}
-[organisaatio](../organisaatio/)
+[Organization](../organisaatio/)
 {% endcontent-ref %}
 
-{% content-ref url="../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md" %}
-[ongelmat-kayttoliittymassa.md](../yleisia-vinkkeja/ongelmat-kayttoliittymassa.md)
+{% content-ref url="../yleisia-vinkkeja/interface-problems.md" %}
+[interface-problems.md](../yleisia-vinkkeja/interface-problems.md)
 {% endcontent-ref %}

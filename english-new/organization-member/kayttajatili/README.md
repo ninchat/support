@@ -8,30 +8,30 @@ metaLinks:
 
 # User account
 
-{% content-ref url="../nain-paaset-alkuun-asiakasneuvojat.md" %}
-[nain-paaset-alkuun-asiakasneuvojat.md](../nain-paaset-alkuun-asiakasneuvojat.md)
+{% content-ref url="../getting-started.md" %}
+[getting-started.md](../getting-started.md)
 {% endcontent-ref %}
 
-{% content-ref url="ninchat-kutsun-hyvaksyminen.md" %}
-[ninchat-kutsun-hyvaksyminen.md](ninchat-kutsun-hyvaksyminen.md)
+{% content-ref url="accept-ninchat-invitation.md" %}
+[accept-ninchat-invitation.md](accept-ninchat-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="kayttajatilin-luonti.md" %}
-[kayttajatilin-luonti.md](kayttajatilin-luonti.md)
+{% content-ref url="create-account.md" %}
+[create-account.md](create-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="kayttajaasetukset.md" %}
-[kayttajaasetukset.md](kayttajaasetukset.md)
+{% content-ref url="user-settings.md" %}
+[user-settings.md](user-settings.md)
 {% endcontent-ref %}
 
 ### Signing in
 
-{% content-ref url="../../user-interface/yleisia-vinkkeja/unohtunut-salasana.md" %}
-[unohtunut-salasana.md](../../user-interface/yleisia-vinkkeja/unohtunut-salasana.md)
+{% content-ref url="../../user-interface/yleisia-vinkkeja/forgotten-password.md" %}
+[forgotten-password.md](../../user-interface/yleisia-vinkkeja/forgotten-password.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../user-interface/yleisia-vinkkeja/ongelmat-kirjautumisessa.md" %}
-[ongelmat-kirjautumisessa.md](../../user-interface/yleisia-vinkkeja/ongelmat-kirjautumisessa.md)
+{% content-ref url="../../user-interface/yleisia-vinkkeja/sign-in-problems.md" %}
+[sign-in-problems.md](../../user-interface/yleisia-vinkkeja/sign-in-problems.md)
 {% endcontent-ref %}
 
 ### Usage
@@ -40,6 +40,6 @@ metaLinks:
 [kayttoliittyman-esittely](../../user-interface/kayttoliittyman-esittely/)
 {% endcontent-ref %}
 
-{% content-ref url="../../user-interface/yleisia-vinkkeja/ninchatin-kayttaminen-suomen-kielella.md" %}
-[ninchatin-kayttaminen-suomen-kielella.md](../../user-interface/yleisia-vinkkeja/ninchatin-kayttaminen-suomen-kielella.md)
+{% content-ref url="../../user-interface/yleisia-vinkkeja/interface-language.md" %}
+[interface-language.md](../../user-interface/yleisia-vinkkeja/interface-language.md)
 {% endcontent-ref %}

@@ -11,29 +11,29 @@ metaLinks:
 
 ### **Start from here**
 
-{% content-ref url="../../organization-member/nain-paaset-alkuun-asiakasneuvojat.md" %}
-[nain-paaset-alkuun-asiakasneuvojat.md](../../organization-member/nain-paaset-alkuun-asiakasneuvojat.md)
+{% content-ref url="../../organization-member/getting-started.md" %}
+[getting-started.md](../../organization-member/getting-started.md)
 {% endcontent-ref %}
 
 ### **General tips** <a href="#yleisia-vinkkeja" id="yleisia-vinkkeja"></a>
 
-{% content-ref url="sanasto.md" %}
-[sanasto.md](sanasto.md)
+{% content-ref url="terminology.md" %}
+[terminology.md](terminology.md)
 {% endcontent-ref %}
 
 {% content-ref url="../kayttoliittyman-esittely/" %}
 [kayttoliittyman-esittely](../kayttoliittyman-esittely/)
 {% endcontent-ref %}
 
-{% content-ref url="unohtunut-salasana.md" %}
-[unohtunut-salasana.md](unohtunut-salasana.md)
+{% content-ref url="forgotten-password.md" %}
+[forgotten-password.md](forgotten-password.md)
 {% endcontent-ref %}
 
-{% content-ref url="ongelmat-kirjautumisessa.md" %}
-[ongelmat-kirjautumisessa.md](ongelmat-kirjautumisessa.md)
+{% content-ref url="sign-in-problems.md" %}
+[sign-in-problems.md](sign-in-problems.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../organization-member/kayttajatili/tunnuksen-poistaminen.md" %}
-[tunnuksen-poistaminen.md](../../organization-member/kayttajatili/tunnuksen-poistaminen.md)
+{% content-ref url="../../organization-member/kayttajatili/delete-account.md" %}
+[delete-account.md](../../organization-member/kayttajatili/delete-account.md)
 {% endcontent-ref %}
 

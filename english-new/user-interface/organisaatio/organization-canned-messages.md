@@ -18,8 +18,6 @@ Canned messages added to the organization are available in all of the organizati
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure></div>
 
-Siirry valitun jonon asetuksiin ja valitse pystyvalikosta Valmisvastaukset. Voit rajata pois kaikki valmisvastaukset Rajaa jaettuja valmisvastauksia -kytkinpainikkeesta, tai Poista kaikki käytöstä -painikkeesta. Valitse kyseisen jonoon halutut valmisvastaukset ja tallenna muutokset.
-
 Go to the settings of the selected queue and select **Canned messages** from the vertical menu. You can exclude all shared canned messages using the **Filter shared canned messages** toggle or disable all canned messages by clicking **Disable all**. Select the canned messages you want to make available in the queue and save your changes.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure></div>

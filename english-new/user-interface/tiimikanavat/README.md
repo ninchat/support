@@ -22,7 +22,7 @@ Team channels can be created to meet the needs of different topics and groups, s
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (140).png" alt="" width="298"><figcaption><p>Channels in the left bar.</p></figcaption></figure></div>
 
-## Tiimikanavan oikeudet
+## Team channel rights
 
 | Symbol                                                                                                | Meaning                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -32,9 +32,9 @@ Team channels can be created to meet the needs of different topics and groups, s
 | <img src="../../.gitbook/assets/Tila-idikaattori_03.png" alt="" data-size="line"> Orange notification | User is logged in but not active.                                                                                           |
 | <img src="../../.gitbook/assets/Tila-idikaattori_01.png" alt="" data-size="line"> No notification     | User is offline. The user will see messages addressed to him/her later.                                                     |
 
-## Käyttäjän lisääminen kanavalle
+## Adding a user to a channel
 
-Kanavan operaattori voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsulinkki kanavalle klikkaamalla "Kutsu väkeä / Invite people" -kohdasta yläpalkin valikosta. Katso tarkemmat ohjeet kohdassa käyttäjän lisääminen kanavalle:
+Channel operators can invite new members to a channel. Send or copy an invitation link by selecting "Invite people" from the header menu. See the detailed instructions below:
 
 ## Add a user to a channel <a href="#add-a-user-to-a-channel" id="add-a-user-to-a-channel"></a>
 
@@ -42,18 +42,18 @@ Kanavan operaattori voi kutsua uusia jäseniä kanavalle. Lähetä/kopioi kutsul
 
 Channel operators can invite new members to the channel. Click "Invite people to channel" from the menue in the header. See "How to invite people to channel?" below for detailed instructions:
 
-{% content-ref url="kayttajan-lisaaminen-kanavalle.md" %}
-[kayttajan-lisaaminen-kanavalle.md](kayttajan-lisaaminen-kanavalle.md)
+{% content-ref url="invite-to-channel.md" %}
+[invite-to-channel.md](invite-to-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="kayttajan-poistaminen-kanavalta.md" %}
-[kayttajan-poistaminen-kanavalta.md](kayttajan-poistaminen-kanavalta.md)
+{% content-ref url="remove-channel-member.md" %}
+[remove-channel-member.md](remove-channel-member.md)
 {% endcontent-ref %}
 
-## Private conversations with team members <a href="#yksityiskeskustelut-tiimilaisten-kesken" id="yksityiskeskustelut-tiimilaisten-kesken"></a>
+## Private conversations with team members <a href="#private-conversations-tiimilaisten-kesken" id="private-conversations-tiimilaisten-kesken"></a>
 
-{% content-ref url="yksityiskeskustelut.md" %}
-[yksityiskeskustelut.md](yksityiskeskustelut.md)
+{% content-ref url="private-conversations.md" %}
+[private-conversations.md](private-conversations.md)
 {% endcontent-ref %}
 
 ## Send messages and files <a href="#viestien-ja-tiedostojen-lahettaminen" id="viestien-ja-tiedostojen-lahettaminen"></a>
@@ -79,13 +79,13 @@ Canned messages can also be used on channels, even though they do not appear as 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption><p>You can use canned messages also on the channel by typing slash [/] and the preferred keyword.</p></figcaption></figure></div>
 
 {% hint style="info" %}
-[Katso täältä lisää tietoa valmisvastauksista.](../../organization-member/kayttajatili/kayttajaasetukset.md#valmisvastaukset)
+[See the user settings page for more information about canned messages.](../../organization-member/kayttajatili/user-settings.md#canned-messages)
 {% endhint %}
 
 ## Moderating channel
 
-{% content-ref url="../../julkiset-ryhmakeskustelut/kanavan-moderointi.md" %}
-[kanavan-moderointi.md](../../julkiset-ryhmakeskustelut/kanavan-moderointi.md)
+{% content-ref url="../../julkiset-ryhmakeskustelut/channel-moderation.md" %}
+[channel-moderation.md](../../julkiset-ryhmakeskustelut/channel-moderation.md)
 {% endcontent-ref %}
 
 ## Leave a channel
@@ -107,8 +107,8 @@ A channel exists as long as it has members. If the last/only member agent leaves
 
 ## Additional information
 
-{% content-ref url="kanavan-asetukset.md" %}
-[kanavan-asetukset.md](kanavan-asetukset.md)
+{% content-ref url="channel-settings.md" %}
+[channel-settings.md](channel-settings.md)
 {% endcontent-ref %}
 
 {% content-ref url="../kayttoliittyman-esittely/" %}

@@ -23,7 +23,7 @@ Channels in organizations are mainly private, invite-only so only users who are 
 
 More about adding and managing agents below.
 
-## Käyttäjäoikeustasot
+## User permission levels
 
 | Level                                                                                                                                       | Rights                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,16 +41,15 @@ One can create freely one new channel to Ninchat's public realm. Creating a priv
 ###
 
 {% content-ref url="organisaation-jasenten-hallinta/" %}
-[organisaation-jasenten-hallinta](organisaation-jasenten-hallinta/)
+[Organization member management](organisaation-jasenten-hallinta/)
 {% endcontent-ref %}
 
-{% content-ref url="organisaation-jasenten-hallinta/uuden-agentin-lisaaminen.md" %}
-[uuden-agentin-lisaaminen.md](organisaation-jasenten-hallinta/uuden-agentin-lisaaminen.md)
+{% content-ref url="organisaation-jasenten-hallinta/add-new-member.md" %}
+[add-new-member.md](organisaation-jasenten-hallinta/add-new-member.md)
 {% endcontent-ref %}
 
 
 
 {% content-ref url="../asiakasjonojen-hallinta/" %}
-[asiakasjonojen-hallinta](../asiakasjonojen-hallinta/)
+[Customer service queues](../asiakasjonojen-hallinta/)
 {% endcontent-ref %}
-
