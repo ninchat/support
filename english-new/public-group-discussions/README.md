@@ -21,6 +21,10 @@ Public group discussions are channels embedded on a customer's website. Embedded
 [channel-moderation.md](channel-moderation.md)
 {% endcontent-ref %}
 
+{% content-ref url="organizing-group-discussion.md" %}
+[organizing-group-discussion.md](organizing-group-discussion.md)
+{% endcontent-ref %}
+
 {% content-ref url="../user-interface/team-channels/channel-settings.md" %}
 [channel-settings.md](../user-interface/team-channels/channel-settings.md)
 {% endcontent-ref %}
