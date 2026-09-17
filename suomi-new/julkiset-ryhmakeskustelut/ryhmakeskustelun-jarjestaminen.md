@@ -3,14 +3,14 @@ description: Avoimen ryhmächatin ohjeistus
 hidden: true
 ---
 
-# TARKISTA Ryhmäkeskustelun järjestäminen
+# Ryhmäkeskustelun järjestäminen
 
 ## Ennen chatin alkamista
 
 ### Asiantuntijoiden ja vastaajien kutsuminen chattiin
 
 * **Varmista**, että olet haluamallasi ryhmächat-kanavalla Ninchatissa.&#x20;
-* **Klikkaa** kanavan oikeassa yläreunassa olevaa pistevalikkoa. Löydät sen kanavan jäsenten vierestä. **Valitse** "Kutsu väkeä kanalle / Invite people to channel". Näkymään avautuu ikkuna, josta pääset kutsumaan henkilön joko valitsemalla hänen nimensä listalta tai kirjoittamalla hänen sähköpostiosoitteensa "Lisää kutsuttavat / Add invitees" -kohtaan ja **paina** "Lähetä kutsu / Send invitation" -nappia. **Muista** antaa henkilölle tarvittaessa myös organisaatio-oikeudetruksaamalla kohta "Oikeudet / Privileges". Voit myös **kutsua** henkilön linkillä kopioimalla sen "Kopioi linkki / Copy link" -painikkeesta, ja lähettämällä sen vastaanottajalle haluamassasi kanavassa.
+* **Klikkaa** kanavan oikeassa yläreunassa olevaa pistevalikkoa. Löydät sen kanavan jäsenten vierestä. **Valitse** "Kutsu väkeä kanalle / Invite people to channel". Näkymään avautuu ikkuna, josta pääset kutsumaan henkilön joko valitsemalla hänen nimensä listalta tai kirjoittamalla hänen sähköpostiosoitteensa "Lisää kutsuttavat / Add invitees" -kohtaan ja **paina** "Lähetä kutsu / Send invitation" -nappia. Voit tarvittaessa antaa kutsutulle myös organisaatio-oikeudet valitsemalla kohdan "Oikeudet / Privileges". Voit myös **kutsua** henkilön linkillä kopioimalla sen "Kopioi linkki / Copy link" -painikkeesta ja lähettämällä sen vastaanottajalle haluamassasi kanavassa.
 * Jos et näe tekstiä "Kutsu väkeä kanalle", sinulta puuttuu kanavan operaattorioikeudet.
 
 <figure><img src="../.gitbook/assets/Käyttäjän kutsuminen.png" alt=""><figcaption><p>Näin lähetät kutsun kanavalle.</p></figcaption></figure>
@@ -58,7 +58,7 @@ Klikkaa haluamasi henkilön nimeä kanavan nimilistassa ja valitse valikosta _"G
 * Avaa valikko kanavan nimen perässä olevasta väkäskuvakkeesta ja valitse "Kanavan asetukset / Channel settings". Valitse vielä kohta "Yksityisyys / Privacy".
 * Tee kaksi muutosta:&#x20;
   * "Kuka voi liittyä kanavalle / Who can join channel" -kohdasta valitse "Julkinen / Public". Tämä tarkoittaa, että kuka tahansa voi liittyä kanavalle. Sen alla valitse vielä "Kanavaa voi seurata liittymättä / Channel is followable".
-  * "Kuka voi kirjoittaa viestejä / Who can write messages" -kohdasta valitse "Kuka tahansa / Channel members"&#x20;
+  * "Kuka voi kirjoittaa viestejä / Who can write messages" -kohdasta valitse "Kuka tahansa / Everybody". Tarvittaessa voit valita myös vaihtoehdon, joka piilottaa vierailijoiden viestit oletusarvoisesti, tai vaihtoehdon, joka hiljentää uudet jäsenet.
 * Klikkaa sivun alareunasta "Tallenna muutokset / Save changes"&#x20;
 
 <figure><img src="../.gitbook/assets/Yksityisyysasetukset_muutokset.png" alt=""><figcaption><p>Tee nämä muutokset, kun avaat ryhmächatin.</p></figcaption></figure>
@@ -101,7 +101,3 @@ Voit sulkea keskustelun klikkaamalla asetuksissa "Kanava on suljettu / Channel i
 Kanavan keskusteluhistoriaa ei näytetä vieraille, jotka tulevat sivulle tämän jälkeen.
 
 <figure><img src="../.gitbook/assets/Kanavan keskusteluhistoria.png" alt=""><figcaption></figcaption></figure>
-
-## Kanavaikkunan piilottaminen web-sivulta
-
-On mahdollista piilottaa upotettu kanava web-sivulta kanavan ollessa suljettu. Kysy lisää Ninchatin henkilöstöltä.
