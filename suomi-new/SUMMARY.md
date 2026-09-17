@@ -55,7 +55,7 @@
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
   * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
   * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelut/ryhmakeskustelun-asiakasnakyma.md)
-  * [TARKISTA Ryhmäkeskustelun järjestäminen](julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md)
+  * [Ryhmäkeskustelun järjestäminen](julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md)
   * [Kanavan moderointi](julkiset-ryhmakeskustelut/kanavan-moderointi.md)
   * [TULOSSA Keskusteluhistorian tallentaminen](julkiset-ryhmakeskustelut/keskusteluhistorian-tallentaminen.md)
 

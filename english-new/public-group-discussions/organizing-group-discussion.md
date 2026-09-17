@@ -62,7 +62,7 @@ Click the desired person's name in the channel member list and select _"Give mod
 * Open the menu using the arrow next to the channel name and select "Channel settings", then select "Privacy".
 * Make two changes:&#x20;
   * Under "Who can join channel", select "Public". This allows anyone to join the channel. Then select "Channel is followable".
-  * Under "Who can write messages", select "Channel members".&#x20;
+  * Under "Who can write messages", select "Everybody". If needed, you can also select the option that hides visitors' messages by default or the option that silences new members.&#x20;
 * Click "Save changes" at the bottom of the page.&#x20;
 
 <figure><img src="../.gitbook/assets/Yksityisyysasetukset_muutokset.png" alt=""><figcaption><p>Tee nämä muutokset, kun avaat ryhmächatin.</p></figcaption></figure>
@@ -70,14 +70,14 @@ Click the desired person's name in the channel member list and select _"Give mod
 ## Showing participants in the channel <a href="#showing-participants-in-the-channel" id="showing-participants-in-the-channel"></a>
 
 Visitors do not appear in the channel member list until they participate in the discussion by writing their first message and entering a name or nickname.\
-This happens when the channel's <mark style="color:green;">Who can join channel</mark> setting is <mark style="color:green;">Public</mark>.
+This happens when the channel's **Who can join channel** setting is **Public**.
 
-<mark style="color:orange;">If you want silent followers to appear in the member list as soon as they enter the discussion, set Who can read messages to Channel members, history shown from \[date and time]. Visitors will then appear immediately as anonymous members and receive a name after writing their first comment.</mark>
+If you want silent followers to appear in the member list as soon as they enter the discussion, set *Who can read messages* to *Channel members, history shown from \[date and time]*. Visitors will then appear immediately as anonymous members and receive a name after writing their first comment.
 
 | Who can read messages setting                                                                            |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| <mark style="color:orange;">Everybody may follow anonymously from \[date and time]</mark>              | Visitors appear in the member list only after writing their first comment                           |
-| <mark style="color:orange;">Channel members, history shown from \[date and time]</mark>               | Visitors appear immediately as anonymous members and receive a name after their first comment       |
+| *Everybody may follow anonymously from \[date and time]*              | Visitors appear in the member list only after writing their first comment                           |
+| *Channel members, history shown from \[date and time]*               | Visitors appear immediately as anonymous members and receive a name after their first comment       |
 
 ## Closing the group discussion <a href="#closing-the-group-discussion" id="closing-the-group-discussion"></a>
 
@@ -89,18 +89,18 @@ You can close the discussion by selecting "Channel is closed" in the settings. N
 
 #### Showing the channel-closed message <a href="#showing-the-channel-closed-message" id="showing-the-channel-closed-message"></a>
 
-<mark style="color:orange;">For the offline message to be visible to everyone, set the channel's</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Who can read messages</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">setting to:</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">"Everybody may follow anonymously, from \[date/time]"</mark>_<mark style="color:orange;">.</mark>\ <mark style="color:orange;">See the next section for information about showing and hiding message history.</mark>
+For the offline message to be visible to everyone, set the channel's *Who can read messages* setting to *"Everybody may follow anonymously, from \[date/time]"*. See the next section for information about showing and hiding message history.
 
-## <mark style="color:orange;">COMING SOON Hiding message history</mark>
+## COMING SOON Hiding message history
 
-<mark style="color:orange;">If you want to hide a completed discussion from new visitors after the group discussion, follow these steps (follow the instructions carefully</mark> :wink:<mark style="color:orange;">):</mark>
+If you want to hide a completed discussion from new visitors after the group discussion, follow these steps (follow the instructions carefully :wink:):
 
-1. <mark style="color:orange;">Make sure you are in the desired group discussion channel in Ninchat and open Channel settings by clicking the channel name and selecting "Channel settings".</mark>
-2. <mark style="color:orange;">Under "Who can read messages", select "Channel members, history available since join only".</mark>
-3. <mark style="color:orange;">Save your changes.</mark>
-4. <mark style="color:orange;">Under "Who can read messages" again, change the selection to "Everybody may follow anonymously".</mark>
-5. <mark style="color:orange;">Save your changes.</mark>
-6. <mark style="color:orange;">Close the settings.</mark>
+1. Make sure you are in the desired group discussion channel in Ninchat and open Channel settings by clicking the channel name and selecting "Channel settings".
+2. Under "Who can read messages", select "Channel members, history available since join only".
+3. Save your changes.
+4. Under "Who can read messages" again, change the selection to "Everybody may follow anonymously".
+5. Save your changes.
+6. Close the settings.
 
 The channel conversation history will not be shown to visitors who enter the page after this.
 
