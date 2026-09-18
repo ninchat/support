@@ -12,10 +12,8 @@
   * [Salasana unohtunut](kayttoliittyma/yleisia-vinkkeja/unohtunut-salasana.md)
   * [Ongelmatilanteet sisäänkirjautumisessa](kayttoliittyma/yleisia-vinkkeja/ongelmat-kirjautumisessa.md)
   * [Ninchat-käyttöliittymän kieli](kayttoliittyma/yleisia-vinkkeja/ninchatin-kayttaminen-suomen-kielella.md)
-  * [Asiakaspalvelu-chatin upottaminen web-sivustolle](kayttoliittyma/yleisia-vinkkeja/asiakaspalvelu-chatin-upottaminen-web-sivustolle.md)
   * [Sanasto](kayttoliittyma/yleisia-vinkkeja/sanasto.md)
   * [Ongelmatilanteet käyttöliittymässä](kayttoliittyma/yleisia-vinkkeja/ongelmat-kayttoliittymassa.md)
-  * [POIS Mobiililaitteet](kayttoliittyma/yleisia-vinkkeja/mobiililaitteet.md)
   * [Ajastetut tapaamiset](kayttoliittyma/yleisia-vinkkeja/ajastetut-tapaamiset.md)
 * [Asiakasjonot ja -keskustelut](kayttoliittyma/asiakasjonot-ja-keskustelut/README.md)
   * [Jonon avaaminen ja sulkeminen](kayttoliittyma/asiakasjonot-ja-keskustelut/jonon-avaaminen-ja-sulkeminen.md)
@@ -28,7 +26,7 @@
   * [Asiakkaan chat-näkymä](kayttoliittyma/asiakasjonot-ja-keskustelut/asiakkaan-chat-nakyma.md)
   * [Keskusteluhistorian liitteet](kayttoliittyma/asiakasjonot-ja-keskustelut/keskusteluhistorian-liitteet.md)
   * [Tallennetut yhteydenotot](kayttoliittyma/asiakasjonot-ja-keskustelut/offline-yhteydenotot.md)
-  * [Yhteydenoton tiketöinti](kayttoliittyma/asiakasjonot-ja-keskustelut/yhteydenoton-tiketointi.md)
+  * [Keskustelun tiketöinti](kayttoliittyma/asiakasjonot-ja-keskustelut/yhteydenoton-tiketointi.md)
   * [Hyödyllisiä vinkkejä](kayttoliittyma/asiakasjonot-ja-keskustelut/hyodyllisia-vinkkeja.md)
 * [Jonojen hallinta](kayttoliittyma/asiakasjonojen-hallinta/README.md)
   * [Jonon asetukset](kayttoliittyma/asiakasjonojen-hallinta/jonon-asetukset.md)
@@ -53,11 +51,10 @@
 ***
 
 * [Julkiset ryhmäkeskustelut](julkiset-ryhmakeskustelut/README.md)
-  * [Ryhmäkeskustelun upottaminen web-sivustolle](julkiset-ryhmakeskustelut/ryhmakeskustelun-upottaminen-web-sivustolle.md)
   * [Ryhmäkeskustelun asiakasnäkymä](julkiset-ryhmakeskustelut/ryhmakeskustelun-asiakasnakyma.md)
   * [Ryhmäkeskustelun järjestäminen](julkiset-ryhmakeskustelut/ryhmakeskustelun-jarjestaminen.md)
   * [Kanavan moderointi](julkiset-ryhmakeskustelut/kanavan-moderointi.md)
-  * [TULOSSA Keskusteluhistorian tallentaminen](julkiset-ryhmakeskustelut/keskusteluhistorian-tallentaminen.md)
+  * [Keskusteluhistorian tallentaminen](julkiset-ryhmakeskustelut/keskusteluhistorian-tallentaminen.md)
 
 ## Organisaation jäsen <a href="#asiakasneuvojat" id="asiakasneuvojat"></a>
 

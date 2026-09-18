@@ -4,7 +4,7 @@ description: Millä kielellä Ninchat näytetään
 
 # Ninchat-käyttöliittymän kieli
 
-Ninchat käyttää oletuksena kielenään web-selaimeen valittua kieltä (suomi/englanti). Kielen voit vaihtaa Astukset ja profiili / Settings and profile -kohdasta valitsemalla Kieli ja alue / Language and region.
+Ninchat käyttää oletuksena kielenään selaimeen valittua kieltä (suomi/englanti). Kielen voit vaihtaa Asetukset ja profiili / Settings and profile -kohdasta valitsemalla Kieli ja alue / Language and region.
 
 <figure><img src="../../.gitbook/assets/Ninchatin kieliasetukset.png" alt=""><figcaption><p>Ninchatin kieliasetukset.</p></figcaption></figure>
 
@@ -20,4 +20,4 @@ Edge Chromium\
 [edge://settings/languages](edge://settings/languages)
 
 Opera\
-[opera://settings/?search=kieli](opera://settings/?search=kieli)
+[opera://settings/languages](opera://settings/languages)

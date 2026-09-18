@@ -96,7 +96,7 @@ Poistu kanavalta klikkaamalla kanavan nimeä ylävalikosta ja valitse "Poistu ka
 
 Uudelleen liittyminen tiimikanavalle edellyttää yleensä kanavakutsun pyytämistä kanavan operaattorikäyttäjiltä.
 
-Voit poistaa itsesi (ja operaattorioikeuksilla kenet tahansa käyttäjän) kanavaltaseuraavasti:
+Voit poistaa itsesi (ja operaattorioikeuksilla kenet tahansa käyttäjän) kanavalta seuraavasti:
 
 1. Valitse kanava, jolta haluat poistua ja etsi kanavalta jäsenlista (oikeassa yläreunassa tai kanavan tiedot- -kohdassa).
 2. Klikkaa omaa kuvaasi ja avautuvasta listasta valitse "Poista käyttäjä tältä kanavalta".

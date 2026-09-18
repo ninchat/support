@@ -11,7 +11,7 @@ metaLinks:
 
 In the ‘User interface section’ in ‘Settings and profile’, you can now choose between a light or dark color scheme.
 
-<div><figure><img src="../../.gitbook/assets/Vaalea.png" alt=""><figcaption><p>Light color sheme.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Tumma_01.png" alt=""><figcaption><p>Dark color sheme.</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Vaalea.png" alt=""><figcaption><p>Light color scheme.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Tumma_01.png" alt=""><figcaption><p>Dark color scheme.</p></figcaption></figure></div>
 
 ### Chat Density
 
@@ -19,9 +19,17 @@ In the chat field, professional messages appear on the right and customer messag
 
 ### Sidebar Grouping
 
-You can choose to display customer conversations in the sidebar in the traditional classicway, or group them under each queue.
+You can choose to display customer conversations in the sidebar in the traditional classic way, or group them under each queue.
 
-<div><figure><img src="../../.gitbook/assets/Perinteinen-ryhmittely.png" alt=""><figcaption><p>Traditional audience grouping.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Uusi-ryhmittely.png" alt=""><figcaption><p>Grouping beneth each queue.</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Perinteinen-ryhmittely.png" alt=""><figcaption><p>Traditional conversation grouping.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Uusi-ryhmittely.png" alt=""><figcaption><p>Grouping beneath each queue.</p></figcaption></figure></div>
+
+### Hide channel join and leave messages
+
+In the user interface settings, you can choose whether channel join and leave messages are shown.
+
+### Show hidden messages
+
+You can enable or disable this feature by clicking the toggle.
 
 ### Language and region
 
@@ -85,11 +93,11 @@ Quick replies can now also be created at the organization level and defined per 
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Manage the organization's shared canned messages from the organization settings.</p></figcaption></figure></div>
 
-During the chat, by using Ninchat’s search function you can searche canned messages using both keywords and partial words directly from the text. By typing a forward slash (/) followed by a word or part of a word in the message field during a chat, the search function will find all quick replies containing that word.
+During the chat, Ninchat’s search function lets you search canned messages using both keywords and partial words directly from the text. By typing a forward slash (/) followed by a word or part of a word in the message field during a chat, the search function will find all quick replies containing that word.
 
 If you enable **Classic list view** in your settings, you can open the **Audience info** view on the right side during a conversation. With this setting enabled, **your personal canned messages** are shown as a traditional list.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>From your profiles settings in the Canned messages section.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>From your profile settings in the Canned messages section.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Organization‑level quick replies can be found via the message input icon or through quick search (/).

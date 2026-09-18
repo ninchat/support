@@ -168,7 +168,7 @@ In customer conversations it is possible to use video calls when sending text an
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption><p>You can access audio and video settings before joining the videomeeting.</p></figcaption></figure></div>
 
-Before you start using video chats test the functionality and compatibility with Ninchat's Video test tool which will tell you if your equipment, browser and internet connection work in order to have video calls. [Open Video test tool](https://ninchat.com/videotest)&#x20;
+Before you start using video chats, test the functionality and compatibility with Ninchat's Video test tool, which will tell you whether your equipment, browser, and internet connection work for video calls. [Open Video test tool](https://ninchat.com/videotest)
 
 Read more about video calls:
 
@@ -176,7 +176,19 @@ Read more about video calls:
 [video-meetings.md](../user-interface/customer-service-queues-and-conversations/video-meetings.md)
 {% endcontent-ref %}
 
-Read more:
+## Public group discussions
+
+Public group discussions embedded on your organization’s website require a moderator. Channel operators can grant moderation rights to other members.
+
+Read more about public group discussions and moderation:
+
+{% content-ref url="../public-group-discussions/" %}
+[public-group-discussions](../public-group-discussions/)
+{% endcontent-ref %}
+
+{% content-ref url="../public-group-discussions/channel-moderation.md" %}
+[channel-moderation.md](../public-group-discussions/channel-moderation.md)
+{% endcontent-ref %}
 
 ## Hints for members <a href="#vinkkeja" id="vinkkeja"></a>
 

@@ -7,7 +7,7 @@ metaLinks:
       https://app.gitbook.com/s/2uaSodGerm08OIAGW4lA/public-group-discussions/saving-conversation-history
 ---
 
-# COMING SOON Saving conversation history
+# Saving conversation history
 
 You can save a group discussion to your computer in CSV format, which can be opened, for example, in Excel.
 

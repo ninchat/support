@@ -16,7 +16,7 @@ To access channel settings, click the arrow icon next to the channel name and se
 
 In the Channel settings, "General settings" tab, you can edit the channel name and description, and change the permission settings.
 
-#### Channe name
+#### Channel name
 
 The channel name that appears in the conversation list or Sidebar. It is a good idea to describe the purpose of the channel.
 

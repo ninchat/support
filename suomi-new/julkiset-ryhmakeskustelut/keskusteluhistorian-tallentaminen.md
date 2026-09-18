@@ -3,7 +3,7 @@ description: Ryhmäkeskustelun tallantaminen
 hidden: true
 ---
 
-# TULOSSA Keskusteluhistorian tallentaminen
+# Keskusteluhistorian tallentaminen
 
 Voit tallentaa ryhmächatin keskustelun omalle koneellesi CVS-formaatissa, jonka voi avata esim. Excelissä.
 

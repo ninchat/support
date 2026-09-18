@@ -50,7 +50,7 @@ Jonotusnäkymästä siirrytään keskusteluun, jossa voidaan hyödyntää teksti
 
 Tekstipohjaisen keskustelun ja kuvien ohella voit jutella asiakkaan kanssa videon välityksellä. Kameran lisäksi voitte jakaa myös kuvaruutunne. Video ja ruudunjako eivät vaadi lisäohjelmistoja vaan toimivat uudemmilla selaimilla.
 
-### Asiakasarviointi ja loppykysely
+### Asiakasarviointi ja loppukysely
 
 ![](<../../.gitbook/assets/embed-rating-survey (1).png>)
 

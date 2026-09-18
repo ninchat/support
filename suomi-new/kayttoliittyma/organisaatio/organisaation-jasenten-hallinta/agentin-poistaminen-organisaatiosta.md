@@ -4,7 +4,7 @@ description: Näin poistat jäsenen organisaatiostasi.
 
 # Jäsenen poistaminen organisaatiosta
 
-Mikäli työntekijä poistuu palveluksesta tai siirtyy muihin tehtäviin, hänet todennäköisesti halutaan poistaa Ninchat-orgnisaatiosta ja asiakasjonoista, sekä tiimikanavilta.
+Mikäli työntekijä poistuu palveluksesta tai siirtyy muihin tehtäviin, hänet todennäköisesti halutaan poistaa Ninchat-organisaatiosta, asiakasjonoista ja tiimikanavilta.
 
 ## Jäsenen poistaminen organisaatiosta
 

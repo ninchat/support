@@ -4,7 +4,7 @@ description: >-
   tiketit näytetään korostettuna.
 ---
 
-# Yhteydenoton tiketöinti
+# Keskustelun tiketöinti
 
 Ottaaksesi käyttöön keskustelun tiektöinti siirry jonon asetuksiin kohtaan Edistyneet asetukset. Muista tallentaa asetus.
 

@@ -5,17 +5,17 @@ icon: sparkle
 
 # Mitä uutta ja tulossa?
 
-Tervetuloa Nincatin uudistetun käyttöliittymän tukisivustolle. Asiakkaiden ja ammattilaisten kanssa yhteistyössä kehitetyt ominaisuudet parantavat käyttäjäkokemusta ja sujuvoittavat ammattilaisten työtä. Käyttäjillä on nyt enemmän mahdollisuuksia hallita asetuksia mieltymystensä mukaan. Käyttöliittymän visuaalista ilmettä on muutettu ja käytettävyyttä kehitetty.
+Tervetuloa Ninchatin uudistetun käyttöliittymän tukisivustolle. Asiakkaiden ja ammattilaisten kanssa yhteistyössä kehitetyt ominaisuudet parantavat käyttäjäkokemusta ja sujuvoittavat ammattilaisten työtä. Käyttäjillä on nyt enemmän mahdollisuuksia hallita asetuksia mieltymystensä mukaan. Käyttöliittymän visuaalista ilmettä on muutettu ja käytettävyyttä kehitetty.
 
-Voit selata aiheita vasemman laidan listalta. Voit myös kysyä apua chatissä.
+Voit selata aiheita vasemman laidan listalta. Voit myös kysyä apua chatissa.
 
 <a href="https://ninchat.com/" class="button secondary">Siirry chattiin</a>
 
 Pääset kirjautumaan uuteen käyttöliittymän osoitteesta [https://ninchat.com/new](https://ninchat.com/new).
 
-### **Uudet ominaisuudet**
+### **Poimintoja ominaisuuksista**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Jononippu</strong> mahdollistaa useiden jonojen yhdistämisen, jolloin ammattilaisten ei tarvitse erikseen valita, mistä jonosta he nappaavat asiakkaan.<br><a href="kayttoliittyma/organisaatio/jononippu.md">Lue lisää></a></td><td><a href=".gitbook/assets/FP_Card_01.png">FP_Card_01.png</a></td></tr><tr><td><strong>Organisaatiolaajuiset valmisvastaukset</strong> ovat käytettävissä organisaation kaikissa jonoissa ja voidaan määritellä jonokohtaisesti jonon asetuksista.<br><a href="kayttoliittyma/organisaatio/organisaation-valmisvastaukset.md">Lue lisää></a></td><td><a href=".gitbook/assets/FP_Card_02.png">FP_Card_02.png</a></td></tr><tr><td><strong>Tilastojen uudet näkymät</strong> sujuvoittavat tilastojen tarkastelua, ja voit halutessasi ladata alku- ja loppukyselyt erikseen CSV-tiedostona.<br><a href="kayttoliittyma/asiakasjonojen-hallinta/jonon-tilastot.md">Lue lisää></a></td><td><a href=".gitbook/assets/FP_Card_03.png">FP_Card_03.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Jononippu</strong> mahdollistaa useiden jonojen yhdistämisen, jolloin ammattilaisten ei tarvitse erikseen valita, mistä jonosta he nappaavat asiakkaan.<br><a href="kayttoliittyma/organisaatio/jononippu.md">Lue lisää</a></td><td><a href=".gitbook/assets/FP_Card_01.png">FP_Card_01.png</a></td></tr><tr><td><strong>Organisaatiolaajuiset valmisvastaukset</strong> ovat käytettävissä organisaation kaikissa jonoissa ja voidaan määritellä jonokohtaisesti jonon asetuksista.<br><a href="kayttoliittyma/organisaatio/organisaation-valmisvastaukset.md">Lue lisää</a></td><td><a href=".gitbook/assets/FP_Card_02.png">FP_Card_02.png</a></td></tr><tr><td><strong>Tilastojen uudet näkymät</strong> sujuvoittavat tilastojen tarkastelua, ja voit halutessasi ladata alku- ja loppukyselyt erikseen CSV-tiedostona.<br><a href="kayttoliittyma/asiakasjonojen-hallinta/jonon-tilastot.md">Lue lisää</a></td><td><a href=".gitbook/assets/FP_Card_03.png">FP_Card_03.png</a></td></tr></tbody></table>
 
 ### **Tutustu myös:**
 

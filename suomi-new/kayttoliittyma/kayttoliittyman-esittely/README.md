@@ -61,10 +61,10 @@ Klikkaamalla nuolta nimesi vieressä saat avattua käyttäjävalikon, jonka kaut
 
 * Avata kotinäkymän (Home)
 * Avata käyttäjäasetukset (Settings and Profile)
-* Kirjautua ulos palavelusta (Logout)
+* Kirjautua ulos palvelusta (Logout)
 
 {% hint style="info" %}
-Käyttäjävalikkossa näet myös ilmoitukset.
+Käyttäjävalikossa näet myös ilmoitukset.
 {% endhint %}
 
 <div><figure><img src="../../.gitbook/assets/Asiakasjono-käyttäjävalikko_02.png" alt=""><figcaption><p>Perusnäkymä.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Asiakasjono-käyttäjävalikko_01.png" alt=""><figcaption><p>Ilmoitus näkyy nimesi päällä sinisessä palkissa. Lisäksi ilmoitusta koskeva jonon nimi näkyy sinisenä,</p></figcaption></figure></div>
@@ -75,7 +75,7 @@ Käyttäjävalikkossa näet myös ilmoitukset.
 
 Tapahtumat, kuten uusi asiakas jonossa, yksityisviesti tai maininta kanavilla, näkyvät käyttäjävalikossa ilmoituksina. Ilmoitukset näkyvät uudistetussa käyttöliittymässä nyt ylimpänä.
 
-Voit valita haluamasi ilmoituasetukset omista asetuksista kohdasta [Ilmoitukset](./#ilmoitukset).
+Voit valita haluamasi ilmoitusasetukset omista asetuksista kohdasta [Ilmoitukset](./#ilmoitukset).
 
 ### **Organisaatiovalikko**
 
@@ -88,7 +88,7 @@ Voit valita haluamasi ilmoituasetukset omista asetuksista kohdasta [Ilmoitukset]
 
 <figure><img src="../../.gitbook/assets/Asiakasjonovalikon toiminnot.png" alt=""><figcaption><p>Asiakasjonovalikon toiminnot.</p></figcaption></figure>
 
-Asiakasjonorivi näyttää jonot ja niiden aukiolon (vihreä pallo - jono on avoinna asiakkaille, punainen pallo - jono on suljettu), sekä jonossa olevien asiakkaiden määrän. Klikkaamalla jonon nimeä pääset Asiakasjononäkymään, ks. alempana. Jonon nimen vieressä olevasta nuoli-ikonista saat avattua valikon, josta voit:
+Asiakasjonon rivi näyttää jonot ja niiden aukiolon (vihreä pallo – jono on avoinna asiakkaille, punainen pallo – jono on suljettu) sekä jonossa olevien asiakkaiden määrän. Klikkaamalla jonon nimeä pääset asiakasjonanäkymään, ks. alempana. Jonon nimen vieressä olevasta nuoli-ikonista saat avattua valikon, josta voit:
 
 * Poimia asiakkaan jonosta
 * Sulkea / avata jonon manuaalisesti
@@ -126,7 +126,7 @@ Kanavan yläosassa näet kanavan jäsenet. Koko jäsenlistan voi avata piste-val
 
 ### **Videokeskustelu**
 
-Voit aloittaa videokeskustelun painamalla chat-kanavan oikeassa yläreunassa näkyvää video -painiketta. Tämään jälkeen pääset liittymään videotapaamiseen.
+Voit aloittaa videokeskustelun painamalla chat-kanavan oikeassa yläreunassa näkyvää videopainiketta. Tämän jälkeen pääset liittymään videotapaamiseen.
 
 <figure><img src="../../.gitbook/assets/Videokeskustelun_avaaminen.jpg" alt=""><figcaption><p>Kun olet klikannut Aloita video tapaaminen -painiketta, pääset liittymään videokeskusteluun.</p></figcaption></figure>
 

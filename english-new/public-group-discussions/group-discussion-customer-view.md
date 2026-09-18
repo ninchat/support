@@ -9,11 +9,11 @@ metaLinks:
 
 Example view of a group discussion:
 
-![Julkinen ryhmäkeskustelunäkymä](<../.gitbook/assets/Julkinen ryhmäkeskustelunäkymä.png>)
+![Public group discussion view](<../.gitbook/assets/Julkinen ryhmäkeskustelunäkymä.png>)
 
 Example of a group discussion embedded on a customer's website:
 
-![Ryhmäkeskustelu osana sivua](<../.gitbook/assets/Ryhmäkeskustelu osana sivua.png>)
+![Group discussion embedded on a website](<../.gitbook/assets/Ryhmäkeskustelu osana sivua.png>)
 
 Participant name selection view:
 

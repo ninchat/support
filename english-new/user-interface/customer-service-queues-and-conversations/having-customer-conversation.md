@@ -45,7 +45,6 @@ There is no limit to the size or format of files to upload.
 
 Various metadata can be passed from the customer to expedite and facilitate the work of the agent. The data which may be communicated are:
 
-* Encrypted from contract partner server (secure metadata)
 * From the web page at the beginning of the chat and in real time during the chat
 * Ninchat pre and post questionnaire responses
 * Collected metadata such as the contents of the shopping cart
@@ -57,17 +56,6 @@ Various metadata can be passed from the customer to expedite and facilitate the 
 {% hint style="info" %}
 Ask Ninchat staff for more information about uploading metadata.
 {% endhint %}
-
-#### Strongly encrypted metadata (secure metadata) <a href="#strongly-encrypted-metadata-secure-metadata" id="strongly-encrypted-metadata-secure-metadata"></a>
-
-Secure metadata can used to pass e.g. customer's identification information.
-
-It is possible for the customer service provider to encrypt the information of the user logged on to the contractor's site from the contractor's server. Later, the conversation with the information can be transmitted back to the contract partner's CRM system and linked to the right user based on the information.
-
-Contact us for more information, or read from our API documents:
-
-* [API - https://ninchat.com/api ](https://ninchat.com/api)
-* [Master keys & secure metadata - https://github.com/ninchat/ninchat-api/blob/v2/master.md](https://github.com/ninchat/ninchat-api/blob/v2/master.md)
 
 ### Questionnaire answers <a href="#questionnaire-answers" id="questionnaire-answers"></a>
 

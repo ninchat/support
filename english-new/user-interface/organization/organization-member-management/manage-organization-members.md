@@ -12,7 +12,7 @@ metaLinks:
 
 You can access organization settings by clicking the name of the organization in the upper left corner and selecting "Organization dashboard". (This requires organization operator rights)
 
-Chosing Members, you will see the list of all members added to your organization. In the Role column you can see the level of rights assigned (Note: An organization operator is different from a channel operator.)&#x20;
+By choosing Members, you will see the list of all members added to your organization. In the Role column, you can see the level of rights assigned. Note: an organization operator is different from a channel operator.
 
 ## Edit member rights
 
@@ -24,11 +24,10 @@ Click the three-dot menu on the right-hand side of the member’s row to open th
 
 For more information, see Adding a member as a queue agent.
 
-## Search for organization members <a href="#organizationn-jasenten-haku" id="organizationn-jasenten-haku"></a>
+## Search for organization members <a href="#search-for-organization-members" id="search-for-organization-members"></a>
 
 If your organization has a large number of members, the user list is divided into several pages.
 
 Instead of browsing through all the pages, you can filter or search for a specific agent by typing the name or part of the name in the filter field.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption><p>Searching a member from the Members view</p></figcaption></figure></div>
-

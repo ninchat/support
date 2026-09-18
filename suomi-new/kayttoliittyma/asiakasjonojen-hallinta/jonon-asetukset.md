@@ -18,7 +18,7 @@ Videokeskustelu -kohdassa voit päättää, kuka aloittaa keskustelun ja millä 
 
 ### Kuka voi ladata tiedostoja keskusteluun
 
-Tässä kohtaa voit valita, haluatko rajoittaa tiedostojen jakamisen esimerkiksi vain ammattilaiselle, vai voiko myös asiakas jakaa tiedostoja keskusteluun. Voit myös poistaa tiedostojen jakamis kokonaan käytöstä, jolloin kukaan ei voi jakaa tiedostoja.
+Tässä kohtaa voit valita, haluatko rajoittaa tiedostojen jakamisen esimerkiksi vain ammattilaiselle vai voiko myös asiakas jakaa tiedostoja keskusteluun. Voit myös poistaa tiedostojen jakamisen kokonaan käytöstä, jolloin kukaan ei voi jakaa tiedostoja.
 
 ### Metatiedot
 
@@ -83,4 +83,3 @@ Pyydä lisätietoa Ninchatin henkilöstöltä.
 {% content-ref url="./" %}
 [.](./)
 {% endcontent-ref %}
-

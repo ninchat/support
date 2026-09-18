@@ -168,7 +168,7 @@ Asiakaskeskusteluissa on mahdollista hyödyntää videopuhelua.&#x20;
 
 ![Videopuhelunäkymä ja asetukset-ikon](<../.gitbook/assets/Videopuhelunäkymä ja asetukset ikoni.jpg>)
 
-Ennen kuin alat järjestää videotapaamisen, testaa toimivuus ja yhteensopivuus Ninchatin Videotestityökalulla, joka kertoo, onko laitteisto, selain ja verkkoyhteys kuunnossa videopuheluita varten. [Avaa Videotestityökalu](https://ninchat.com/videotest)\
+Ennen kuin alat järjestää videotapaamisen, testaa toimivuus ja yhteensopivuus Ninchatin videotestityökalulla, joka kertoo, onko laitteisto, selain ja verkkoyhteys kunnossa videopuheluita varten. [Avaa videotestityökalu](https://ninchat.com/videotest)\
 Lue lisää videopuheluista:
 
 {% content-ref url="../kayttoliittyma/asiakasjonot-ja-keskustelut/videopuhelut.md" %}
@@ -195,7 +195,7 @@ Lue lisää:
 
 ### Valmisviestit
 
-Voit lisätä käyttäjäasetuksissa valmisviestejä, joilla nopeutat ja helpotat omaa työtäsi vastatessasi asiakkaille. Lue lisää _Käyttäjäsetukset_-sivun _Valmisviestit_-osiossa.
+Voit lisätä käyttäjäasetuksissa valmisviestejä, joilla nopeutat ja helpotat omaa työtäsi vastatessasi asiakkaille. Lue lisää _Käyttäjäasetukset_-sivun _Valmisviestit_-osiossa.
 
 {% content-ref url="kayttajatili/kayttajaasetukset.md" %}
 [kayttajaasetukset.md](kayttajatili/kayttajaasetukset.md)

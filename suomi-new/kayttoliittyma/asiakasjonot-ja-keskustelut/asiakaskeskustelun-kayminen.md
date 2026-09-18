@@ -36,7 +36,6 @@ Painamalla liitteen kuvaketta (<img src="../../.gitbook/assets/image (22).png" a
 
 Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaan asiakasneuvojan työtä. Tietoa voidaan välittää:&#x20;
 
-* Salatusti sopimuskumppanin palvelimelta (secure metadata)
 * Web-sivulta keskustelun alussa ja reaaliaikaisesti keskustelun aikana
 * Ninchatin alku- ja loppukyselyvastausten avulla
 * Koottu metatieto esimerkiksi ostoskorin sisällöstä
@@ -46,19 +45,6 @@ Asiakkaasta voidaan välittää erilaista metatietoa jouduttamaan ja helpottamaa
 {% hint style="info" %}
 Kysy metatietojen lähettämisestä lisää Ninchatin henkilöstöltä.
 {% endhint %}
-
-### Vahvasti salattu metatieto (secure metadata)
-
-Vahvasti salattua metatietoa käytetään muun muassa asiakkaan tunnistautumistietojen välittämiseen.
-
-Asiakaspalvelijalle on mahdollista välittää sopimuskumppanin sivustolle kirjautuneen käyttäjän tiedot salatusti sopimuskumppanin palvelimelta. Myöhemmin chat-keskustelu tietoineen voidaan välittää takaisin esimerkiksi sopimuskumppanin CRM-järjestelmään ja yhdistää oikeaan käyttäjään tietojen perusteella.
-
-Kysy meiltä lisää, tai tutustu API-dokumentaatioon:&#x20;
-
-* [API - https://ninchat.com/api ](https://ninchat.com/api)
-* [Master keys & secure metadata - https://github.com/ninchat/ninchat-api/blob/v2/master.md](https://github.com/ninchat/ninchat-api/blob/v2/master.md)
-
-
 
 ## Kyselytiedot
 
@@ -151,4 +137,3 @@ Keskusteluhistoriaa pääset tarkastelemaan jono taphtumat -näkymästä seuraav
 Asiakaskeskustelun aikana voit tarkastella käynnissä olevan keskustelun metatietoja ja asiakaskyselyn vastauksia, sekä näet keskustelun reaaliajassa. Asiakaskeskustelu päivittyy Päivitä -nappia painamalla.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure></div>
-

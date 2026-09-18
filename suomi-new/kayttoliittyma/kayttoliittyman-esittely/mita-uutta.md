@@ -12,7 +12,7 @@ Keskustelukentässä näkyvät nyt ammattilaisen viestit oikealla ja asiakkaan v
 
 ### Sivupalkin ryhmittely
 
-Voit valita näytetäänkö asiakaskeskustelut sivuipalkissa perinteisellä tavalla vai ryhmitteletkö asiakaskeskustelut kunkin jonon alle.
+Voit valita, näytetäänkö asiakaskeskustelut sivupalkissa perinteisellä tavalla vai ryhmitelläänkö asiakaskeskustelut kunkin jonon alle.
 
 <div><figure><img src="../../.gitbook/assets/Perinteinen-ryhmittely.png" alt=""><figcaption><p>Perinteisen ryhmittelyn</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Uusi-ryhmittely.png" alt=""><figcaption><p>Ryhmittely jonon alle</p></figcaption></figure></div>
 
@@ -52,7 +52,7 @@ Ninchatin uudistetussa käyttöliittymässä ei ole tapahtumat -valikkoa. Sen ko
 
 ### Kirjoituskenttä
 
-Viestin lähettämiseen lisäsimme Lähetä -painikkeen. Löydät video -painikkeen nyt chat-näkymän yläpalkin oikeasta reunasta
+Viestin lähettämiseen lisäsimme Lähetä-painikkeen. Löydät videopainikkeen nyt chat-näkymän yläpalkin oikeasta reunasta.
 
 Lisäksi löydät chatin aikana nyt valmisvastaukset (<img src="../../.gitbook/assets/valmisvastaukse.png" alt="" data-size="line">). Voit myös aktivoida perinteisen listauksen omille valmisvastauksillesi oman profiilisi asetuksista Valmisvastaukset-kohdasta. Tämän jälkeen näet nämä oikeasta sivulaidasta, joka avataan <img src="../../.gitbook/assets/Slider-menu.png" alt="" data-size="line"> -ikonista.
 
@@ -68,7 +68,7 @@ Voit tarvittaessa poistaa kirjoittamasi yksityisviestin ja tiimikanaville kirjoi
 
 ### Videopuhelunäkymä
 
-Näkymän käytettävyyttä on selkeytetty ja löydät helposti samat toiminnallisuudet kun tekstichatin aikana.
+Näkymän käytettävyyttä on selkeytetty, ja löydät helposti samat toiminnot kuin tekstichatin aikana.
 
 <figure><img src="../../.gitbook/assets/Videopuhelunakyma.png" alt=""><figcaption></figcaption></figure>
 
@@ -80,11 +80,11 @@ Kun päätät keskustelun itse keskustelun yläpalkin Päätä keskustelu -paini
 
 ### Organisaation valmisvastaukset
 
-Valmisvastauksia voidaan nyt luoda myös organisaatiotasolla ja määritellä jonokohtaisesti jonon asetuksista. Navigoimalla Organisaation päänäkymään ja valitsemalla pystyvalikosta Valmisvastaukset, aukeaa näkymä mistä pääsee hallinnoimaan organisaation yhteisiä valmisvastauksia. Ammattilaisen tulee omista asetuksistaan Valmisvastaus -kohdasta valita haluaako ottaa käyttöön yhteisiä valmisvastauksia.
+Valmisvastauksia voidaan nyt luoda myös organisaatiotasolla ja määritellä jonokohtaisesti jonon asetuksista. Navigoimalla organisaation päänäkymään ja valitsemalla pystyvalikosta Valmisvastaukset avautuu näkymä, jossa voi hallinnoida organisaation yhteisiä valmisvastauksia. Ammattilaisen tulee omista asetuksistaan Valmisvastaukset-kohdasta valita, haluaako ottaa käyttöön yhteisiä valmisvastauksia.
 
 <figure><img src="../../.gitbook/assets/Organisaatio_valmisvastaus.jpg" alt=""><figcaption><p>Hallinoi organisaation yhteisä valmisvastauksia.</p></figcaption></figure>
 
-Ninchatin uusi hakutoiminto hakee valmisvastauksia sekä avainsanoilla että sanan osalla suoraan tekstistä. Syöttämällä chatin aikana viestikenttään kenoviivan (/) ja sanan tai sen osan, etsii hakutoiminto kaikki ne valmisvastaukset, joissa kyseinen sana esiintyy.
+Ninchatin uusi hakutoiminto hakee valmisvastauksia sekä avainsanoilla että sanan osalla suoraan tekstistä. Syöttämällä chatin aikana viestikenttään kenoviivan (/) ja sanan tai sen osan hakutoiminto etsii kaikki ne valmisvastaukset, joissa kyseinen sana esiintyy.
 
 Kun olet omista asetuksistasi Valmisvastaukset -kohdasta valinnut Näytä perinteisen listausken, voit keskustelun aikana avata Asiakaskeskustelun tiedot näkymän oikeaan laitaan. Tämän asetuksen myötä näet omat valmisvastauksesi perinteisenä listauken. Huomiona, organisaation valmisvastaukset löydät kirjoitusekentän ikonin takaa, tai pikahaulla (/).
 
@@ -98,7 +98,7 @@ Kun olet omista asetuksistasi Valmisvastaukset -kohdasta valinnut Näytä perint
 
 ### **Jononippu**
 
-Niputtamalla jonoja ohjautuvat kaikki jononippuun kuuluvat chatit yhden nimen alla olevaan jonoon. Tällä toiminnallisuudella ammattilaisten ei tarvitse valikoida, mistä jonosta napaa asiakkaan.
+Niputtamalla jonoja kaikki jononippuun kuuluvat chatit ohjautuvat yhden nimen alla olevaan jonoon. Tällä toiminnallisuudella ammattilaisten ei tarvitse valikoida, mistä jonosta nappaa asiakkaan.
 
 <figure><img src="../../.gitbook/assets/Jononiput.png" alt=""><figcaption></figcaption></figure>
 

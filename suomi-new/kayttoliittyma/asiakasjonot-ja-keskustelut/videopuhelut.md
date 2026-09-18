@@ -148,14 +148,9 @@ Ennen kuin aloitat videotapaamisen, kokeile videotestityökalullamme, onko laitt
 
 ### **Ohjeita ongelmatilanteisiin**
 
-{% hint style="warning" %}
-Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
-{% endhint %}
-
 #### **En näe videotapaamisen käynnistyskuvaketta (video -kuvake).**
 
-> Yleensä syynä on Internet Explorer -selaimen (IE) käyttö. Varmista, että käytät Google Chrome- tai Mozilla Firefox-selainta. IE ei tue videopuheluita. \
-> Huom! Jos avaat Ninchat-linkin esimesimerkiksi sähköpostista, se voi avautua vakiona IE-selaimeen. Kopioi linkki ja liitä se Chrome-selaimeen.
+> Varmista, että käytät videopuheluita tukevaa selainta. Chromea tai Firefoxia suositellaan.
 
 > Videopuhelu on käynnistettävissä vain kahdenvälisissä keskusteluissa, eli video8 -ikoni ei näy ryhmäkeskusteluissa.&#x20;
 >
@@ -194,8 +189,6 @@ Internet Explorer -selain ei tue videopuheluita. Käytä Chromea tai Firefoxia.
 **Virheilmoitus: Videokeskustelu hylätty. Puutteellinen selaintuki.**
 
 Tarkoittaa yleensä että asiakas on iOS-laitteella (iPhone/iPad) ja käyttää Chrome- tai Firefox-selainta. Applen rajoituksesta johtuen videopuhelut ei toimi iOSilla muilla selaimilla kuin Safari (sekä natiiveissa aplikaatioissa). Tietokoneella, myös Mac, video toimii muillakin selaimilla.&#x20;
-
-Tai mahdollisesti asiakas Windows-laittella Internet Explorer (IE) -selain.&#x20;
 
 Ks. kohta _Videopuhelutuki eri selaimilla ja alustoilla._
 

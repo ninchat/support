@@ -25,4 +25,4 @@ Edge Chromium\
 [edge://settings/languages](edge://settings/languages)
 
 Opera\
-[opera://settings/languages](opera://settings/?search=kieli)
+[opera://settings/languages](opera://settings/languages)

@@ -18,4 +18,4 @@ Osa kanavan jäsenistä näkyvät Ninchatin yläpalkissa. Jos henkilö on läsn�
 
 ## Windowsin työpöytäilmoitukset eivät näy
 
-[Ohje Käyttäjäasetukset-ohjesivulla](https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset#ilmoitukset-ongelmatilanteet)
+[Ohje käyttäjäasetusten sivulla](../../asiakasneuvojat/kayttajatili/kayttajaasetukset.md#ilmoitukset-ongelmatilanteet)

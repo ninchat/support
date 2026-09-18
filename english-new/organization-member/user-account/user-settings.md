@@ -160,7 +160,7 @@ Desktop notifications require permission from your web browser in order to be di
 
 Allow the browser to display desktop notifications by clicking the "Allow" button. Notification permission is browser and device specific, so make sure to allow permissions on all browsers and devices you are using.
 
-### Windows operating system
+### Windows notifications
 
 Desktop notifications are displayed on the screen one by one. The rest can be found in Action center of Windows 10, until you acknowledge them. It's recommendable to clear unseen notification every once in a while from the [Microsoft Action Center](https://support.microsoft.com/en-gb/help/4026791/windows-how-to-open-action-center).
 
@@ -172,32 +172,17 @@ Desktop notifications are displayed on the screen one by one. The rest can be fo
 
 After allowing notifications in the Ninchat user settings, you can check in your browser that desktop notifications—and access to sound, camera, and microphone—have been enabled by clicking the menu in the address bar while on ninchat.com. Instructions for different browsers are provided below.
 
-**Google Chrome and Microsoft Edge**&#x20;
+**Google Chrome and Microsoft Edge**
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (192).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Check the permissions for the open website by clicking the icon in the address bar.
-
-You can adjust all notification permissions for Ninchat in the Chrome browser settings. Enter the following address in the address bar:
-
-`chrome://settings/content/siteDetails?site=https://ninchat.com`
+Check the permissions for the open website by clicking the icon in the address bar. You can adjust Ninchat notification permissions from the browser’s site settings. In Chrome, open `chrome://settings/content/siteDetails?site=https://ninchat.com`; in Edge, open `edge://settings/content/siteDetails?site=https://ninchat.com`.
 
 **Mozilla Firefox**
 
 ![Site settings in Mozilla Firefox.](<../../.gitbook/assets/Sivustoasetukset Mozilla Firefox.png>)
 
-Check the permissions for the open website by clicking the icon in the address bar.\
-You can adjust all notification permissions related to Ninchat in the Firefox browser settings. Enter the following in the address bar:
-
-**`about:preferences#privacy`**
-
-
-
-**Microsoft Edge**&#x20;
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption><p>Site settings in Microsoft Edge.</p></figcaption></figure></div>
-
-Check the permissions for the open website by clicking the lock icon in the address bar. You can also adjust notification permissions in the Edge browser settings, which you can access through the browser’s menu.
+Check the permissions for the open website by clicking the icon in the address bar. You can adjust all Ninchat notification permissions from Firefox’s site settings at `about:preferences#privacy`.
 
 ### Trouble shooting  <a href="#trouble-shooting" id="trouble-shooting"></a>
 
@@ -328,4 +313,3 @@ You can find instructions for using canned messages in conversations here:
 {% content-ref url="../../user-interface/customer-service-queues-and-conversations/" %}
 [customer-service-queues-and-conversations](../../user-interface/customer-service-queues-and-conversations/)
 {% endcontent-ref %}
-

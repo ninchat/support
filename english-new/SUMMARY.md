@@ -12,10 +12,8 @@
   * [Forgotten password](user-interface/general-tips/forgotten-password.md)
   * [Problems with sign-in](user-interface/general-tips/sign-in-problems.md)
   * [Ninchat user interface language](user-interface/general-tips/interface-language.md)
-  * [Embedding chat on website](user-interface/general-tips/embedding-customer-chat.md)
   * [Terminology](user-interface/general-tips/terminology.md)
   * [Interface problems](user-interface/general-tips/interface-problems.md)
-  * [Mobile devices](user-interface/general-tips/mobile-devices.md)
   * [Scheduled appointments](user-interface/general-tips/scheduled-appointments.md)
 * [Customer service queues and audiences](user-interface/customer-service-queues-and-conversations/README.md)
   * [Opening and closing queue](user-interface/customer-service-queues-and-conversations/opening-and-closing-queue.md)
@@ -53,11 +51,10 @@
 ***
 
 * [Public group discussions](public-group-discussions/README.md)
-  * [Embedding a group discussion on a website](public-group-discussions/embedding-group-discussion.md)
   * [Group discussion customer view](public-group-discussions/group-discussion-customer-view.md)
   * [Organizing a group discussion](public-group-discussions/organizing-group-discussion.md)
   * [Channel moderation](public-group-discussions/channel-moderation.md)
-  * [COMING SOON Saving conversation history](public-group-discussions/saving-conversation-history.md)
+  * [Saving conversation history](public-group-discussions/saving-conversation-history.md)
 
 ## Organization member
 

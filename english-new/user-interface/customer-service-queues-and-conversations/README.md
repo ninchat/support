@@ -11,7 +11,7 @@ metaLinks:
 
 Customer audiences are private 1-on-1 conversations between an agent and a customer. Agent picks customer from a queue, and audience is held using text, attachments, emojis, and if needed, via video call.
 
-Customer audiences may include answers from pre-audience questionnaire, and metadata about the customer. Strongly encrypted identification data may also be added via secure metadata.
+Customer audiences may include answers from pre-audience questionnaire and metadata about the customer.
 
 Agents can utilize canned messages and they can and tags and notes to the conversation.
 

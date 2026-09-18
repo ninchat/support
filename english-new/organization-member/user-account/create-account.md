@@ -14,7 +14,7 @@ We recommend using [Google Chrome](https://www.google.com/chrome/) or [Mozilla F
 
 ## **Create an account** <a href="#create-an-account" id="create-an-account"></a>
 
-You can create a new account on [https://ninchat.com/new](https://ninchat.com/app/)&#x20;
+You can create a new account at [https://ninchat.com/new](https://ninchat.com/new).
 
 Choose the tab "Create account" and enter the following information:
 
@@ -83,4 +83,3 @@ Next, set your profile info and account settings.
 {% content-ref url="user-settings.md" %}
 [user-settings.md](user-settings.md)
 {% endcontent-ref %}
-

@@ -166,7 +166,7 @@ Ilmoitusasetusten kohdassa "Lisäasetukset", ruksaa _"_&#x4E;äytä työpöytäi
 
 {% hint style="info" %}
 Työpöytäilmoitukset toimivat Chrome, Firefox, Safari- ja Edge-selaimilla. \
-Internet Eplorer -selain (IE) ei tue työpöytäilmoituksia.
+Chrome ja Firefox ovat suositeltuja selaimia. Safari ei välttämättä tue kaikkia Ninchatin ilmoitus- ja videotoimintoja.
 {% endhint %}
 
 #### Työpöytäilmoituksen näkyminen
@@ -177,13 +177,13 @@ Internet Eplorer -selain (IE) ei tue työpöytäilmoituksia.
 
 Sallittuasi ilmoitukset Ninchat-käyttäjäasetusissa, voit selaimesta tarkistaa, että työpöytäilmoituksille (sekä äänille, kameralle ja mikrofonille) on annettu lupa klikkaamalla valikkoa osoiterivillä, ollessasi ninchat.comissa. Alla ohjeet eri selaimille.
 
-**Goole Chrome ja Microsoft Edge (uusi)**
+**Google Chrome ja Microsoft Edge**
 
 ![Sivustoasetukset Google Chrome -selaimessa](<../../.gitbook/assets/Sivustoasetukset Google Chrome2.png>)
 
-Tarkista avoinna olevan sivuston luvat klikkaamalla kuvaketta osoiterivillä.
+Tarkista avoinna olevan sivuston luvat klikkaamalla kuvaketta osoiterivillä. Chromessa voit avata Ninchatin sivustokohtaiset asetukset myös osoitteella `chrome://settings/content/siteDetails?site=https://ninchat.com`. Edgessä vastaava osoite on `edge://settings/content/siteDetails?site=https://ninchat.com`.
 
-Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Chrome-selaimen asetuksissa, kirjoita osoiteriville:  chrome://settings/content/siteDetails?site=https://ninchat.com
+Kaikki Ninchatia koskevat ilmoitusluvat voit säätää selaimen sivustoasetuksista.
 
 **Mozilla Firefox**
 
@@ -191,14 +191,7 @@ Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Chrome-selaimen asetuksi
 
 Tarkista avoinna olevan sivuston luvat klikkaamalla kuvaketta osoiterivillä.
 
-Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefox-selaimen asetuksissa, kirjoita osoiteriville:  _about:preferences#privacy_
-
-**Microsoft Edge (vanha versio)**
-
-![Sivustoasetukset Microsoft Edge -selaimessa](../../.gitbook/assets/browser-permissions-edge.png)
-
-Tarkista avoinna olevan sivuston luvat klikkaamalla lukkoikonia osoiterivillä.\
-Ilmoitusluvat voit säätää myös Edge-selaimen asetuksissa, joihin pääset selaimen menu-valikon kautta.
+Kaikki Ninchatia koskevat ilmoitusluvat voit säätää Firefoxin asetuksissa. Avaa asetukset osoitteella `about:preferences#privacy`.
 
 ### Ongelmatilanteet <a href="#ilmoitukset-ongelmatilanteet" id="ilmoitukset-ongelmatilanteet"></a>
 
@@ -324,4 +317,3 @@ Ohjeet valmisviestien käyttöön keskusteluissa löydät täältä:
 {% content-ref url="../../kayttoliittyma/asiakasjonot-ja-keskustelut/" %}
 [asiakasjonot-ja-keskustelut](../../kayttoliittyma/asiakasjonot-ja-keskustelut/)
 {% endcontent-ref %}
-

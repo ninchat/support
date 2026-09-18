@@ -65,7 +65,7 @@ Click the desired person's name in the channel member list and select _"Give mod
   * Under "Who can write messages", select "Everybody". If needed, you can also select the option that hides visitors' messages by default or the option that silences new members.&#x20;
 * Click "Save changes" at the bottom of the page.&#x20;
 
-<figure><img src="../.gitbook/assets/Yksityisyysasetukset_muutokset.png" alt=""><figcaption><p>Tee nämä muutokset, kun avaat ryhmächatin.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Yksityisyysasetukset_muutokset.png" alt=""><figcaption><p>Make these changes when opening the group discussion.</p></figcaption></figure>
 
 ## Showing participants in the channel <a href="#showing-participants-in-the-channel" id="showing-participants-in-the-channel"></a>
 
@@ -91,7 +91,7 @@ You can close the discussion by selecting "Channel is closed" in the settings. N
 
 For the offline message to be visible to everyone, set the channel's *Who can read messages* setting to *"Everybody may follow anonymously, from \[date/time]"*. See the next section for information about showing and hiding message history.
 
-## COMING SOON Hiding message history
+## Hiding message history
 
 If you want to hide a completed discussion from new visitors after the group discussion, follow these steps (follow the instructions carefully :wink:):
 

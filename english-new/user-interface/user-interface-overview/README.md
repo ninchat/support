@@ -14,7 +14,7 @@ The Ninchat interface follows the language settings of your web browser. You can
 
 The Ninchat user interface consists of a sidebar, a conversation section, and channel information.<br>
 
-<figure><img src="../../.gitbook/assets/Yleisnakyma-ja-tiimikanava.png" alt=""><figcaption><p>Ninchatin näkymä.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Yleisnakyma-ja-tiimikanava.png" alt=""><figcaption><p>Ninchat interface view.</p></figcaption></figure>
 
 | Sidebar                                                 | Conversation section                     | Channel information       |
 | ------------------------------------------------------- | ---------------------------------------- | ------------------------- |
@@ -106,7 +106,7 @@ In addition to typing messages, the input field allows you to:
 * Add images and files <img src="../../.gitbook/assets/liitä.png" alt="" data-size="line">
 * Start a video conversation (customer conversations) <img src="../../.gitbook/assets/video.png" alt="" data-size="line">
 * Insert canned messages  <img src="../../.gitbook/assets/valmisvastaukse.png" alt="" data-size="line">
-* Send a message using the Send button or the Enter key. Linebreaks can be created usin Shift + Enter key.
+* Send a message using the Send button or the Enter key. Line breaks can be created using Shift + Enter.
 
 During a customer conversation, you can also:
 
@@ -152,7 +152,7 @@ As operator, you can view ongoing customer conversation metadata and questionnai
 
 ### **Private conversations (Dialogues)**
 
-A private conversation is started by clicking a person’s avatar. After opening the person’s card, select Start private conversation. Private conversations are listed under Dialogue&#x73;**.**
+A private conversation is started by clicking a person’s avatar. After opening the person’s card, select Start private conversation. Private conversations are listed under Dialogues.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>Starting a private conversation.</p></figcaption></figure></div>
 

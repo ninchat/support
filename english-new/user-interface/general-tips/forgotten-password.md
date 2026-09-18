@@ -28,11 +28,11 @@ Make sure that you entered your username (email address) correctly when signing 
 
 #### When I click the reset link in the email, the password change field flashes briefly, but I’m logged into the service before I can do anything.
 
-> Log out of Ninchat before clicking the password reset link..
+> Log out of Ninchat before clicking the password reset link.
 
 #### "Change password" form says: "Error changing password"&#x20;
 
-> You have already used the reset link once. If you still don't know your password, order a new reset link to you email.
+> You have already used the reset link once. If you still do not know your password, request a new reset link by email.
 
 #### "Change password" form says: "Just requested"
 
@@ -45,4 +45,3 @@ Make sure that you entered your username (email address) correctly when signing 
 {% content-ref url="sign-in-problems.md" %}
 [sign-in-problems.md](sign-in-problems.md)
 {% endcontent-ref %}
-

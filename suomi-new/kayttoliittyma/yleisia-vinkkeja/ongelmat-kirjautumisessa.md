@@ -26,7 +26,7 @@ description: Eikö sisäänkirjautuminen onnistu?
 
 #### **Kirjautumissähköpostin muutos** <a href="#kirjautumissahkopostin-muutos" id="kirjautumissahkopostin-muutos"></a>
 
-Sähköpostiosoite voi muuttua esimerkiksi nimenvaihdoksen jälkeen. Älä luo uutta tunnusta; voit liittää uuden sähköpostiosoitteen vanhaan tunnukseesi. [Katso ohje uuden sähköpostiosoitteen lisäämisestä](https://support.ninchat.com/ninchat-support/kayttajatili/kayttajaasetukset#uuden-kirjautumissahkopostin-lisaaminen)
+Sähköpostiosoite voi muuttua esimerkiksi nimenvaihdoksen jälkeen. Älä luo uutta tunnusta; voit liittää uuden sähköpostiosoitteen vanhaan tunnukseesi. [Katso ohje uuden sähköpostiosoitteen lisäämisestä](../../asiakasneuvojat/kayttajatili/kayttajaasetukset.md#uuden-kirjautumissahkopostin-lisaaminen)
 
 #### **Identiteetinvarmistuskoodi on vanhentunut**
 
@@ -65,4 +65,3 @@ Näetkö sisään kirjauduttuasi seuraavanlaisen ruudun tiimikanavan sijaan?
 Olet todennäköisesti tullut Ninchatiin ilman kutsulinkkiä ja olet tilanteessa, jossa et kuulu mihinkään organisaatioon tai tiimikanavalle.
 
 Etsi sähköpostistasi Ninchat Invite -viesti ja klikkaa sieltä kutsulinkkiä (ks. ohje ylempänä), tai pyydä kollegalta tai Ninchatin henkilöstöltä uusi kutsulinkki tiimikanavalle.
-

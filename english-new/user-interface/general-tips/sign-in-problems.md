@@ -22,7 +22,7 @@ metaLinks:
 
 #### **Invalid email** <a href="#virheellinen-sahkoposti" id="virheellinen-sahkoposti"></a>
 
-> If you get an error in sign-in saying "Invalid email", the email address you are trying to sign in with is either miss-spelled or there is no Ninchat account with that email. Check that you have written the sign-in email correctly.
+> If you get an error when signing in saying "Invalid email", the email address you are trying to use is either misspelled or there is no Ninchat account with that email. Check that you have written the sign-in email correctly.
 >
 > When you first created your Ninchat account, you received a verification email from us. You can check if you have that mail in your inbox to see the correct form of your sign-in email address.
 >
@@ -30,11 +30,11 @@ metaLinks:
 
 #### Change in sign-in email address
 
-Login email address may change e.g. due to name change. Do not create a new account but add the new email to your existing account. [<mark style="color:red;">See article about adding a new sign-in email</mark>](https://support.ninchat.com/ninchat-support/v/english/user-account/user-settings-and-profile#add-a-new-sign-in-email)
+Your login email address may change, for example, after a name change. Do not create a new account; add the new email address to your existing account. [See the instructions for adding a new sign-in email](../../organization-member/user-account/user-settings.md#adding-a-new-login-email-address).
 
-#### **I**dentity verification code is expired
+#### **Identity verification code is expired**
 
-> If you see this error when you're trying to sign in, it means you are trying to you the account verification link twice. It can be used only once, and after that you can sign-in normally by going to [**https://ninchat.com/new**](https://ninchat.com/new). Bookmark this address.
+> If you see this error when you are trying to sign in, it means you are trying to use the account verification link twice. It can be used only once. After that, sign in normally by going to [**https://ninchat.com/new**](https://ninchat.com/new). Bookmark this address.
 
 #### Invitation link not working?
 
@@ -69,4 +69,3 @@ Do you see the following screen instead of your team channel after signing in?
 You have probably signed in to Ninchat without an invitation link and you are in a situation that you do not belong to any organization or team channel.
 
 Find Ninchat invitation email in your inbox and click the invitation link (see instructions in the section "How to accept invitation?"), or ask a colleague or Ninchat staff for a new invitation link to the team channel.
-
