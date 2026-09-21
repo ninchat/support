@@ -18,6 +18,12 @@ Vasemman sivupalkin ilmoitus sekä tikettikuvake osoittavat uudesta tallennetust
 
 Klikkaamalla yhteydenottoa aukeaa näkymä, jossa voit valita, haluatko tarkastella yhteydenoton sisältöä, ottaa tiketti itsellesi työn alle, merkitä tehdyksi tai poistaa tehtävän listaltasi.
 
+## Tikettien ottaminen järjestyksessä
+
+Jonon asetuksissa voidaan ottaa käyttöön **Vanhin tiketti ensin**. Tällöin tiketit annetaan käsittelijöille automaattisesti vanhimmasta alkaen, eikä yksittäistä tikettiä voi ottaa listalta manuaalisesti.
+
+Kun automaattinen järjestys ei ole käytössä, käsittelijä voi ottaa seuraavan tai vanhimman tiketin työn alle, jos kyseiset toiminnot ovat käytettävissä jonossa. Tikettiin voi lisätä kommentin. Tiketin poistaminen omalta työlistalta voi edellyttää syyn antamista.
+
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Uuden, ei työn alle otetun, avatun tiketin valintanäkymä.</p></figcaption></figure></div>
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Näkymä kun olet ottanut tiketin työn alle.</p></figcaption></figure></div>

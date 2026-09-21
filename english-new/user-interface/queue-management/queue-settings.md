@@ -70,6 +70,16 @@ Save offline contacts or questionnaire answers and selections e.g. for statistic
 
 Registered contacts can be assigned as tickets. Unassigned contacts are displayed as highlighted.
 
+### Ticket order and SLA
+
+With **Assign to oldest ticket**, tickets are assigned automatically from oldest to newest. Individual assignment from the list is not available when this option is enabled.
+
+With **Queueing time SLA**, you can track ticket handling time and configure reminder and warning times. See the [audience ticketing guide](../customer-service-queues-and-conversations/audience-ticketing.md) for more information about tickets.
+
+### Public queueing time
+
+**Public queueing time** exposes the queueing-time estimate publicly for integrations. Enable this setting only when the queueing time is intentionally shared externally.
+
 ### Notes
 
 Notes is an advanced feature which allows adding one or more form fields within a customer care conversation that can be saved as notes. Notes made by customer service representatives are also stored in chat history.

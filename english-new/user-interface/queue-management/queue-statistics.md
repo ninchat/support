@@ -134,6 +134,8 @@ Viewing Conversation History
 
 You can save the conversation to your computer by clicking the "Download CSV" button. The downloaded file can be opened, for example, in Excel. Please ensure data security when exporting information.
 
+You can download an individual conversation transcript as its own CSV file. The main Statistics page also provides CSV exports for the statistics sections. Questionnaire answers can be downloaded separately as pre- or post-questionnaires when the questionnaire feature is enabled.
+
 ### **Require reason for viewing transcripts**
 
 A reason for viewing conversation history can be required for monitoring purposes. This ensures that conversation history can only be accessed by adding a recorded message.

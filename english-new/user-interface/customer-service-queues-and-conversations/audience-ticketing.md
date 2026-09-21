@@ -22,6 +22,12 @@ The notification in the left sidebar and the ticket icon indicate an audience ti
 
 By clicking on a registered contact, a view opens where you can choose whether to review the content, assign the ticket to yourself, or add a comment.
 
+## Assigning tickets in order
+
+The queue settings include **Assign to oldest ticket**. When this option is enabled, tickets are assigned automatically from oldest to newest, and individual assignment from the list is not available.
+
+When automatic ordering is not enabled, the agent can assign the next or oldest ticket when those actions are available in the queue. You can add comments to a ticket. Removing a ticket from your own task list may require a reason.
+
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Selection view of a new, unassigned, opened ticket.</p></figcaption></figure></div>
 
 When you assign the ticket to yourself you have the options to mark it as completed, or remove the task from your list.

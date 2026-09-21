@@ -64,6 +64,16 @@ Voit ottaa käyttöön tallennetut yhteydenotot ja kyselyvastausten tallennuksen
 
 Tallennetuista yhteydenotoista voi tehdä tikettejä. Uudet ja käsittelemättömät tiketit näytetään korostettuna. Saat tiketöinnin päälle edistyneissä astuksissa klikkaamalla "Keskustelun tiketöinti" -kohdan on-asentoon.
 
+### Tikettien järjestys ja SLA
+
+**Vanhin tiketti ensin** -asetuksella tiketit annetaan käsittelijöille automaattisesti vanhimmasta alkaen. Tällöin yksittäisiä tikettejä ei voi ottaa listalta manuaalisesti.
+
+**Tiketin SLA** -asetuksella voit seurata tiketin käsittelyaikaa ja määrittää muistutus- ja varoitusajat. Tikettien käyttö on kuvattu tarkemmin [keskustelun tiketöinnin ohjeessa](../asiakasjonot-ja-keskustelut/yhteydenoton-tiketointi.md).
+
+### Julkinen jonotusaika
+
+**Julkinen jonotusaika** -asetuksella jonotusajan arvo voidaan välittää julkisesti integraatioita varten. Ota asetus käyttöön vain, jos jonotusaika on tarkoitus jakaa ulkoisesti.
+
 ### Merkinnät
 
 Merkinnät (Notes) on lisäasetus, jolla voidaan luoda erilaisia muistiinpanovaihtoehtoja asiakaskeskusteluun. Asiakaspalvelijan tekemät muistiinpanot tallentuvat keskusteluhistorian yhteyteen.

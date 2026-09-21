@@ -104,6 +104,8 @@ Keskusteluhistoriat sisältävät myös asiakasarvion sekä kyselyvastaukset mik
 
 Voit tallentaa keskustelun koneellesi painamalla "Lataa CSV"-nappia. Ladatun tiedoston voit avata esim. Excelissä. Huomioi tietojen viennissä tietoturva.
 
+Yksittäisen keskusteluhistorian voi ladata omana CSV-tiedostonaan. Tilastojen pääsivulla CSV-vientiä voi käyttää myös tilasto-osioiden lataamiseen. Kyselyvastaukset voi ladata erikseen alku- tai loppukyselyinä, jos kyselyominaisuus on käytössä.
+
 ### Keskusteluhistorian tarkastelun syyn kirjaaminen
 
 Keskusteluhistorian tarkasteluun voidaan asettaa syyn ilmoittaminen seurantaa varten. Näin keskusteluhistorian voi avata ainoastaan lisäämällä tallennettava viesti.
